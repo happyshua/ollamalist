@@ -3291,3 +3291,4 @@ http://193.111.80.93:11434/v1,"gemma3:27b, gemma3:4b, mxbai-embed-large:latest, 
 http://151.248.126.185:11434/v1,"lakomoor/vikhr-llama-3.2-1b-instruct:1b, gemma:latest, deepseek-r1:latest"
 http://85.209.85.139:11434/v1,"gemmax2-28-2b-v0.1-q4_k_m:latest, LlaMaestra-3.2-1B-Translation-Q5_0:latest, lauchacarro/qwen2.5-translator:latest, thinkverse/towerinstruct:latest, dorian2b/vera:latest, qwq:latest, qwen2.5:latest, gemma3:latest, qwen2.5-coder:latest, deepseek-r1:latest"
 http://69.62.108.214:11434/v1,llama3.2:1b
+http://154.19.74.141:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
