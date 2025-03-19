@@ -31,7 +31,9 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull --rebase  # 在提交前先拉取并rebase
+          git stash -u  # 暂存所有更改，包括未跟踪的文件
+          git pull --rebase  # 拉取最新更改
+          git stash pop  # 恢复暂存的更改
           git add output_with_models.csv
           git commit -m "Update server list: remove inactive servers" || exit 0
           git push 
