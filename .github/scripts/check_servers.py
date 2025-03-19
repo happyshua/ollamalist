@@ -1,43 +1,43 @@
 import pandas as pd
 import requests
-from urllib.parse import urlparse
+import json
+from urllib.parse import urljoin
 import time
-from concurrent.futures import ThreadPoolExecutor
 
-def check_server(url):
+def get_models(server_url):
     try:
-        # 从完整URL中提取基础URL
-        parsed = urlparse(url)
-        base_url = f"{parsed.scheme}://{parsed.netloc}"
-        
-        response = requests.get(base_url, timeout=10)
-        return "Ollama is running" in response.text
+        response = requests.get(urljoin(server_url, 'api/tags'))
+        if response.status_code == 200:
+            models = response.json()
+            return ', '.join([model['name'] for model in models['models']])
     except:
-        return False
+        pass
+    return ""
 
-# 读取CSV文件
-df = pd.read_csv('output_with_models.csv', header=None)
+# 读取现有的CSV文件
+existing_df = pd.read_csv('output_with_models.csv', header=None)
+existing_servers = set(existing_df[0].tolist())
 
-# 创建一个新的DataFrame来存储活跃的服务器
-active_servers = []
-
-def process_server(row):
-    server_url = row[0]
-    models = row[1] if len(row) > 1 else ""
+# 获取服务器列表
+try:
+    response = requests.get('https://raw.githubusercontent.com/forrany/Awesome-Ollama-Server/refs/heads/main/public/data.json')
+    servers_data = json.loads(response.text)
     
-    print(f"Checking server: {server_url}")
+    # 筛选TPS在20-350之间的服务器
+    new_servers = []
+    for server in servers_data:
+        if 20 <= float(server.get('tps', 0)) <= 350:
+            server_url = server['server']
+            if server_url + '/v1' not in existing_servers:
+                models = server.get('models', [])
+                models_str = ', '.join([str(model) for model in models])
+                new_servers.append([server_url + '/v1', models_str])
     
-    if check_server(server_url):
-        return [server_url, models]
-    return None
+    # 将新服务器添加到现有列表
+    if new_servers:
+        new_df = pd.DataFrame(new_servers)
+        combined_df = pd.concat([existing_df, new_df], ignore_index=True)
+        combined_df.to_csv('output_with_models.csv', header=False, index=False)
 
-# 使用ThreadPoolExecutor进行并行处理
-with ThreadPoolExecutor(max_workers=10) as executor:
-    results = executor.map(process_server, df.iterrows())
-
-# 收集活跃的服务器
-active_servers = [result for result in results if result is not None]
-
-# 将活跃服务器保存到CSV
-active_df = pd.DataFrame(active_servers)
-active_df.to_csv('output_with_models.csv', header=False, index=False) 
+except Exception as e:
+    print(f"Error updating servers: {str(e)}") 
