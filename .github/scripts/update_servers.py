@@ -1,43 +1,34 @@
-import pandas as pd
-import requests
-import json
-from urllib.parse import urljoin
-import time
+name: Update Ollama Servers
 
-def get_models(server_url):
-    try:
-        response = requests.get(urljoin(server_url, 'api/tags'))
-        if response.status_code == 200:
-            models = response.json()
-            return ', '.join([model['name'] for model in models['models']])
-    except:
-        pass
-    return ""
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时运行一次
+  workflow_dispatch:  # 允许手动触发
 
-# 读取现有的CSV文件
-existing_df = pd.read_csv('output_with_models.csv', header=None)
-existing_servers = set(existing_df[0].tolist())
-
-# 获取服务器列表
-try:
-    response = requests.get('https://raw.githubusercontent.com/forrany/Awesome-Ollama-Server/refs/heads/main/public/data.json')
-    servers_data = json.loads(response.text)
+jobs:
+  update-servers:
+    runs-on: ubuntu-latest
     
-    # 筛选TPS在20-350之间的服务器
-    new_servers = []
-    for server in servers_data:
-        if 20 <= float(server.get('tps', 0)) <= 350:
-            server_url = server['server']
-            if server_url + '/v1' not in existing_servers:
-                models = server.get('models', [])
-                models_str = ', '.join([str(model) for model in models])
-                new_servers.append([server_url + '/v1', models_str])
-    
-    # 将新服务器添加到现有列表
-    if new_servers:
-        new_df = pd.DataFrame(new_servers)
-        combined_df = pd.concat([existing_df, new_df], ignore_index=True)
-        combined_df.to_csv('output_with_models.csv', header=False, index=False)
-
-except Exception as e:
-    print(f"Error updating servers: {str(e)}") 
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas
+          
+      - name: Update server list
+        run: python .github/scripts/update_servers.py
+        
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output_with_models.csv
+          git commit -m "Update server list: add new servers" || exit 0
+          git push
