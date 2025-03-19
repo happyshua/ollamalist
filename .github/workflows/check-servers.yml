@@ -5,25 +5,33 @@ on:
     - cron: '0 0 */4 * *'  # 每4天运行一次
   workflow_dispatch:  # 允许手动触发
 
+# 添加并发控制
+concurrency:
+  group: ollama-servers
+  cancel-in-progress: false
+
 jobs:
   check-servers:
     runs-on: ubuntu-latest
     
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史以处理可能的合并冲突
       
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
           
-      - name: Create lock file
-        run: echo "lock" > check.lock
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests pandas
+          
+      - name: Pull latest changes
+        run: |
+          git pull --rebase origin main
           
       - name: Check servers availability
         run: python .github/scripts/check_servers.py
@@ -35,6 +43,3 @@ jobs:
           git add output_with_models.csv
           git commit -m "Update server list: remove inactive servers" || exit 0
           git push 
-
-      - name: Remove lock file
-        run: rm check.lock || true 
