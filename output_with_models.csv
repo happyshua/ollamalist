@@ -3284,3 +3284,7 @@ http://13.56.135.147:11434/v1,"deepseek-r1:14b, deepseek-r1:1.5b"
 http://153.34.100.136:11434/v1,deepseek-r1:7b
 http://101.34.81.69:11434/v1,"minicpm-v:latest, nomic-embed-text:latest, qwen2.5-coder:14b, m/qwen2514bmax:latest, deepseek-r1:32b, llava:13b, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest"
 http://47.97.59.137:11434/v1,"deepseek-r1:8b, hf-mirror.com/mradermacher/QwQ-32B-abliterated-i1-GGUF:IQ1_S, deepseek-r1:14b, deepseek-coder:6.7b"
+http://154.19.74.140:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
+http://154.19.74.155:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
+http://154.19.74.134:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
+http://193.111.80.93:11434/v1,"gemma3:27b, gemma3:4b, mxbai-embed-large:latest, deepseek-coder:1.3b, deepseek-r1:70b-llama-distill-q4_K_M, deepseek-r1:70b, deepseek-r1:32b, deepseek-r1:latest, huggingface.co/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:Q5_K_M"
