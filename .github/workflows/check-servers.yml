@@ -5,14 +5,18 @@ on:
     - cron: '0 0 */4 * *'  # 每4天运行一次
   workflow_dispatch:  # 允许手动触发
 
+# 添加concurrency配置
+concurrency: 
+  group: ollama-server-operations
+  cancel-in-progress: false
+
 jobs:
   check-servers:
     runs-on: ubuntu-latest
+    environment: server-ops  # 添加环境配置
     
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # 获取完整的git历史
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,11 +31,10 @@ jobs:
       - name: Check servers availability
         run: python .github/scripts/check_servers.py
         
-      - name: Commit and push changes
+      - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull origin main --rebase  # 先拉取并rebase远程更改
           git add output_with_models.csv
           git commit -m "Update server list: remove inactive servers" || exit 0
           git push 
