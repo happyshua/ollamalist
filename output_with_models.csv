@@ -3270,3 +3270,8 @@ http://154.19.74.187:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
 http://154.19.73.179:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
 http://121.229.0.92:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
 http://154.19.75.178:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
+http://154.19.72.129:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
+http://61.255.236.112:11434/v1,deepseek-r1:1.5b
+http://1.95.205.178:11434/v1,"gteQwen1.5B:latest, gteQwen7B:latest"
+http://154.19.74.150:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
+http://207.211.173.79:11434/v1,"smollm2:135m, hf.co/bartowski/Chronos-Gold-12B-1.0-GGUF:Q8_0, llama2:latest, llama3.1:latest"
