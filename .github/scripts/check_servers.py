@@ -2,7 +2,6 @@ import pandas as pd
 import requests
 from urllib.parse import urlparse
 import time
-from concurrent.futures import ThreadPoolExecutor
 
 def check_server(url):
     try:
@@ -21,22 +20,18 @@ df = pd.read_csv('output_with_models.csv', header=None)
 # 创建一个新的DataFrame来存储活跃的服务器
 active_servers = []
 
-def process_server(row):
+# 检查每个服务器
+for index, row in df.iterrows():
     server_url = row[0]
     models = row[1] if len(row) > 1 else ""
     
     print(f"Checking server: {server_url}")
     
     if check_server(server_url):
-        return [server_url, models]
-    return None
-
-# 使用ThreadPoolExecutor进行并行处理
-with ThreadPoolExecutor(max_workers=10) as executor:
-    results = executor.map(process_server, df.iterrows())
-
-# 收集活跃的服务器
-active_servers = [result for result in results if result is not None]
+        active_servers.append([server_url, models])
+    
+    # 添加延迟以避免过快请求
+    time.sleep(1)
 
 # 将活跃服务器保存到CSV
 active_df = pd.DataFrame(active_servers)
