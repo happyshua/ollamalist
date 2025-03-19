@@ -5,15 +5,29 @@ on:
     - cron: '0 * * * *'  # 每小时运行一次
   workflow_dispatch:  # 允许手动触发
 
-# 添加concurrency配置
-concurrency: 
-  group: ollama-server-operations
-  cancel-in-progress: true
-
 jobs:
-  update-servers:
+  check-running:
     runs-on: ubuntu-latest
-    environment: server-ops  # 添加环境配置
+    steps:
+      - name: Check if check-servers is running
+        uses: actions/github-script@v6
+        id: check-workflow
+        with:
+          script: |
+            const workflows = await github.rest.actions.listWorkflowRuns({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'check-servers.yml',
+              status: 'in_progress'
+            });
+            if (workflows.data.total_count > 0) {
+              core.setFailed('Check-servers workflow is currently running. Waiting for it to complete.');
+              return;
+            }
+            
+  update-servers:
+    needs: check-running  # 添加依赖，确保检查完成后才运行
+    runs-on: ubuntu-latest
     
     steps:
       - uses: actions/checkout@v4
