@@ -3254,3 +3254,9 @@ http://81.94.156.172:11434/v1,"llama3.2:latest, deepseek-r1:14b"
 http://148.153.121.40:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b, deepseek-r1:32b, deepseek-r1:14b"
 http://174.60.135.76:11434/v1,"llama3.1:8b, starcoder2:3b"
 http://23.247.137.241:11434/v1,"hf.co/bartowski/mlabonne_gemma-3-27b-it-abliterated-GGUF:BF16, hf.co/bartowski/huihui-ai_QwQ-32B-abliterated-GGUF:Q8_0, hf.co/bartowski/google_gemma-3-27b-it-GGUF:BF16, hf.co/k4yt3x/Arynia-LLaMA-70B-GGUF:Q4_K_M, hf.co/bartowski/Athene-V2-Chat-GGUF:Q6_K_L, hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-Crazy:F16"
+http://60.186.142.195:11434/v1,deepseek-r1:14b
+http://101.200.85.50:11434/v1,"deepseek-r1:32b, qwq:latest, deepseek-r1:14b"
+https://api.deepseek.effortlab.io/v1,deepseek-r1:14b
+http://222.106.138.190:11434/v1,"qwq:latest, gemma3:27b, jinbora/deepseek-r1-Bllossom:70b"
+http://154.19.73.158:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
+http://101.126.27.150:11434/v1,deepseek-r1:1.5b-qwen-distill-q8_0
