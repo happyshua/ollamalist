@@ -1,5 +1,10 @@
 name: Update Ollama Servers
 
+# 添加 concurrency 设置
+concurrency: 
+  group: ollama-server-operations
+  cancel-in-progress: false
+
 on:
   schedule:
     - cron: '0 * * * *'  # 每小时运行一次
@@ -12,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 获取完整的git历史
+          fetch-depth: 0  # 获取完整历史记录
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,11 +32,11 @@ jobs:
       - name: Update server list
         run: python .github/scripts/update_servers.py
         
-      - name: Commit and push changes
+      - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull --rebase  # 在提交前先拉取并rebase
+          git pull --rebase  # 添加rebase操作
           git add output_with_models.csv
           git commit -m "Update server list: add new servers" || exit 0
           git push
