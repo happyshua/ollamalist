@@ -5,10 +5,10 @@ on:
     - cron: '0 * * * *'  # 每小时运行一次
   workflow_dispatch:  # 允许手动触发
 
-# 添加并发控制
+# 添加并发控制，确保同一时间只有一个相关工作流运行
 concurrency:
-  group: ollama-servers
-  cancel-in-progress: false
+  group: ollama-server-management
+  cancel-in-progress: false  # 设置为true会取消正在运行的作业，false则会等待
 
 jobs:
   update-servers:
@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 获取完整历史以处理可能的合并冲突
+          fetch-depth: 0  # 获取完整的Git历史记录
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,17 +29,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests pandas
           
-      - name: Pull latest changes
-        run: |
-          git pull --rebase origin main
-          
       - name: Update server list
         run: python .github/scripts/update_servers.py
         
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull --rebase  # 先拉取最新更改并变基
           git add output_with_models.csv
           git commit -m "Update server list: add new servers" || exit 0
           git push
