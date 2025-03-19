@@ -13,8 +13,6 @@ concurrency:
 jobs:
   check-servers:
     runs-on: ubuntu-latest
-    environment: server-ops  # 添加环境配置
-    
     steps:
       - uses: actions/checkout@v4
       
