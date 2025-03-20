@@ -1448,3 +1448,9 @@ http://sdhsdt.com:11434/v1,deepseek-r1:32b
 https://nrl-ws1.tail071c95.ts.net/ollama/v1,"gemma3:27b, llama3.2-vision:11b, llava:7b, deepseek-r1:1.5b, deepseek-r1:70b"
 http://154.19.75.179:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
 http://77.246.158.74:11434/v1,"qwen2.5-coder:latest, qwen2.5-coder:32b, mistral:latest, phi4:latest, qwq:latest, gemma3:27b"
+http://154.19.75.181:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
+http://154.19.74.144:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
+http://175.171.94.231:11434/v1,"gemma3:latest, gemma3:12b, bge-m3:latest, nomic-embed-text:latest, qwq:latest, deepseek-r1:14b"
+http://18.232.75.137:11434/v1,deepseek-r1:1.5b
+http://184.58.217.66:11434/v1,"phi4:latest, deepseek-r1:latest, mistral:latest, smollm2:135m, technobyte/fimbulvetr-11b-v2.1-16k:q8_0, technobyte/fimbulvetr-11b-v2.1-16k:q4_k_m, HammerAI/fimbulvetr-v2.1:latest, HammerAI/midnight-miqu-70b-v1.5:latest, codestral:latest, llama3.1:70b-instruct-q3_K_S, dolphin-mixtral:latest, qwen2.5:32b, qwen2.5:14b, firefunction-v2:70b-q2_K, firefunction-v2:70b-q3_K_S, firefunction-v2:latest, llama3-groq-tool-use:8b-q8_0, llava:34b, llava-llama3:latest, reflection:latest, llama3.1:latest"
+http://67.160.10.131:11434/v1,"filter_summarize:latest, qwen2.5:3b, qwen2.5:1.5b, qwen2.5:7b, gpt5proplusultra:latest, qwen2.5:14b"
