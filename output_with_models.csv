@@ -1454,3 +1454,5 @@ http://18.232.75.137:11434/v1,deepseek-r1:1.5b
 http://184.58.217.66:11434/v1,"phi4:latest, deepseek-r1:latest, mistral:latest, smollm2:135m, technobyte/fimbulvetr-11b-v2.1-16k:q8_0, technobyte/fimbulvetr-11b-v2.1-16k:q4_k_m, HammerAI/fimbulvetr-v2.1:latest, HammerAI/midnight-miqu-70b-v1.5:latest, codestral:latest, llama3.1:70b-instruct-q3_K_S, dolphin-mixtral:latest, qwen2.5:32b, qwen2.5:14b, firefunction-v2:70b-q2_K, firefunction-v2:70b-q3_K_S, firefunction-v2:latest, llama3-groq-tool-use:8b-q8_0, llava:34b, llava-llama3:latest, reflection:latest, llama3.1:latest"
 http://67.160.10.131:11434/v1,"filter_summarize:latest, qwen2.5:3b, qwen2.5:1.5b, qwen2.5:7b, gpt5proplusultra:latest, qwen2.5:14b"
 http://47.109.49.73:12243/v1,"deepseek-r1:7b, deepseek-r1:14b, deepseek-r1:32b"
+http://m.atachmail.ru:11434/v1,"qwq:32b, qwen2.5-coder:32b-instruct-q8_0, org/qwen2.5-1m:14b, huihui_ai/qwen2.5-1m-abliterated:latest, deepseek-r1:14b, qwen2.5-coder:14b"
+http://154.19.74.138:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
