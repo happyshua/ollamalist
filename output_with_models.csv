@@ -1456,3 +1456,5 @@ http://67.160.10.131:11434/v1,"filter_summarize:latest, qwen2.5:3b, qwen2.5:1.5b
 http://47.109.49.73:12243/v1,"deepseek-r1:7b, deepseek-r1:14b, deepseek-r1:32b"
 http://m.atachmail.ru:11434/v1,"qwq:32b, qwen2.5-coder:32b-instruct-q8_0, org/qwen2.5-1m:14b, huihui_ai/qwen2.5-1m-abliterated:latest, deepseek-r1:14b, qwen2.5-coder:14b"
 http://154.19.74.138:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
+http://154.19.73.189:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b"
+http://bm1684ip153_xh_ssh.aibox.zosau.com:11434/v1,"erwan2/DeepSeek-Janus-Pro-7B:latest, erwan2/DeepSeek-Janus-Pro-7B-Vision-Encoder:latest, moondream:latest, 0ssamaak0/xtuner-llava:llama3-8b-v1.1-f16, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b"
