@@ -1406,3 +1406,4 @@ http://34.135.140.160:8081/v1,llama3.2:latest
 http://dev-llama.preupdv.cl/v1,"llama3:latest, mixtral:latest"
 http://ai_api.hequ.tech/v1,"hequ_03031050:latest, hequ_0303:latest"
 http://123.113.243.95:11434/v1,"gemma3:12b, qwen2.5:latest, deepseek-r1:14b, bge-m3:latest, qwen2.5:14b"
+http://45.134.60.20:8081/v1,"gemma2:9b, gemma3:27b-it-q4_K_M, gemma3:12b, gemma3:27b"
