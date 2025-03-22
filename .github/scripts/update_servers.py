@@ -26,7 +26,7 @@ try:
     # 筛选TPS在20-350之间的服务器
     new_servers = []
     for server in servers_data:
-        if 20 <= float(server.get('tps', 0)) <= 350:
+        if 10 <= float(server.get('tps', 0)) <= 600:
             server_url = server['server']
             if server_url + '/v1' not in existing_servers:
                 models = server.get('models', [])
