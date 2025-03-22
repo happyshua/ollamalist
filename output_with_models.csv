@@ -1462,3 +1462,12 @@ http://112.121.179.186:11434/v1,deepseek-r1:1.5b
 http://52.23.201.169:11434/v1,llama3.2:1b
 http://45.145.42.208:11434/v1,"llama2:latest, llama3.1:8b, smollm2:135m, deepseek-coder-v2:16b"
 https://ollama.chasquia.com/v1,llama3.2:latest
+http://112.121.179.188:11434/v1,deepseek-r1:1.5b
+http://112.121.179.190:11434/v1,deepseek-r1:1.5b
+http://38.93.240.71/v1,deepseek-r1:14b
+http://img13.wandiansha.com:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:70b"
+http://1.92.200.197:11434/v1,deepseek-r1:1.5b
+http://121.37.161.7:11434/v1,deepseek-r1:1.5b
+http://123.138.250.17:11434/v1,deepseek-r1:7b
+http://124.129.235.12:11434/v1,"deepseek-r1:8b, deepseek-r1:14b"
+http://cryvwuxtwowall.pelycloud.com:11434/v1,"smollm2:135m, llama2:latest"
