@@ -1478,3 +1478,8 @@ http://blog.xzyxb.com:11434/v1,deepseek-r1:1.5b
 http://113.44.167.149:11434/v1,deepseek-r1:1.5b
 http://106.52.159.211:11434/v1,deepseek-r1:14b
 https://ollama.e-sakura.com/v1,"llama3.2:latest, sqlcoder:latest, llama3.1:latest, gemma2:27b, mxbai-embed-large:335m, nomic-embed-text:v1.5, koesn/merak-7b-v4-alodokter:latest, mxbai-embed-large:latest, nomic-embed-text:latest, all-minilm:latest, llama3:latest"
+http://176.99.133.171:11434/v1,"llama3.1:8b, llama3.2-vision:latest"
+http://1.117.222.166:1025/v1,deepseek-r1:8b
+http://183.162.104.79:10000/v1,"deepseek-r1:14b, gemma3:27b, llama3.2-vision:11b, qwen2.5-coder:14b, deepseek-coder-v2:16b"
+http://183.3.158.90:11434/v1,"qwen:7b, deepseek-r1:7b, deepseek-r1:32b"
+http://www.wzhc.top:11434/v1,qwen2.5:0.5b
