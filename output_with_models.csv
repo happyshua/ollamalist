@@ -1483,3 +1483,5 @@ http://1.117.222.166:1025/v1,deepseek-r1:8b
 http://183.162.104.79:10000/v1,"deepseek-r1:14b, gemma3:27b, llama3.2-vision:11b, qwen2.5-coder:14b, deepseek-coder-v2:16b"
 http://183.3.158.90:11434/v1,"qwen:7b, deepseek-r1:7b, deepseek-r1:32b"
 http://www.wzhc.top:11434/v1,qwen2.5:0.5b
+http://171.213.139.186:11434/v1,deepseek-r1-7b:latest
+http://bibjfmol.ldcydn.top:11434/v1,"gemma3:4b, nomic-embed-text:latest, llama3.1:latest, qwen2.5:latest, deepseek-r1:8b, huihui_ai/deepseek-r1-abliterated:8b"
