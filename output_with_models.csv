@@ -1517,3 +1517,7 @@ https://api.llm.d3coder.ru/v1,"gemma3:12b-it-q4_K_M, bge-m3:latest, t-lite:lates
 http://wap.yanxingx.top:11434/v1,"deepseek-r1:14b, qwen2.5:1.5b, qwen2.5:0.5b, qwen2.5:14b, wangshenzhi/gemma2-9b-chinese-chat:latest, gemma2:latest, llama3.2:latest"
 http://sierracharlie.users.chenyixin.com:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:70b"
 http://ros.yanxingx.top:11434/v1,"deepseek-r1:14b, qwen2.5:1.5b, qwen2.5:0.5b, qwen2.5:14b, wangshenzhi/gemma2-9b-chinese-chat:latest, gemma2:latest, llama3.2:latest"
+http://freegpt.cloud123.uk:11434/v1,"MHKetbi/Mistral-Small3.1-24B-Instruct-2503:q6_K_L, rjmalagon/gte-qwen2-7b-instruct:f16, huihui_ai/deepseek-r1-abliterated:32b, huihui_ai/qwq-abliterated:32b, qwen2.5:14b, phi4:14b-q8_0, gemma3:27b, deepseek-r1:14b-qwen-distill-q8_0, Yinr/causallm:latest, bge-m3:latest, qwq:latest, deepseek-r1:32b, avr/sfr-embedding-mistral:latest"
+http://119.45.167.133:11434/v1,gemma:2b
+http://macongjian.top:11434/v1,qwen:0.5b
+http://58.61.140.165:11434/v1,"huihui_ai/deepseek-r1-abliterated:14b, deepseek-r1:8b, bge-m3:latest, huihui_ai/qwen2.5-1m-abliterated:14b"
