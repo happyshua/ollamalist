@@ -1509,3 +1509,6 @@ http://www.fangcungengji.com:11434/v1,"qwq:latest, deepseek-r1:7b, nomic-embed-t
 http://209.126.0.217:8011/v1,"tiny:latest, dopey:latest, tinyllama:latest, gemma:2b"
 http://webdav.costaly.cn/v1,"broModel:latest, qwen2.5:latest, qwen2.5:7b, deepseek-coder-v2:latest, deepseek-r1:8b, llama3.1:8b, llama3.1:latest, qwen2:latest"
 http://mp0.yunlongn.top:11434/v1,"deepseek-r1:7b, deepseek-r1:1.5b, bge-m3:latest, nomic-embed-text:latest, deepseek-r1:14b"
+http://184.73.14.29:443/v1,"qwen2.5:1.5b, qwen2.5:3b"
+http://mail.patriot-university.com:11434/v1,"smollm2:135m, deepseek-r1:7b"
+http://mail.tarotbykevin.com:11434/v1,"smollm2:135m, deepseek-r1:7b"
