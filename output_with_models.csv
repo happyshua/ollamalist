@@ -1486,3 +1486,5 @@ http://www.wzhc.top:11434/v1,qwen2.5:0.5b
 http://171.213.139.186:11434/v1,deepseek-r1-7b:latest
 http://bibjfmol.ldcydn.top:11434/v1,"gemma3:4b, nomic-embed-text:latest, llama3.1:latest, qwen2.5:latest, deepseek-r1:8b, huihui_ai/deepseek-r1-abliterated:8b"
 http://39.106.149.168:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
+http://54.208.116.87/v1,"llama3.1:latest, deepseek-r1:latest, mistral:latest"
+http://15.204.72.54:11300/v1,"qwen2.5:14b, deepseek-r1:14b, hf.co/CompendiumLabs/bge-large-en-v1.5-gguf:F32, hf.co/unsloth/Phi-4-mini-instruct-GGUF:Q8_0, deepseek-coder-v2:16b, deepseek-r1:32b, phi4:latest"
