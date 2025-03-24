@@ -1528,3 +1528,4 @@ http://100.26.64.154/v1,"mistral:latest, llama3:70b, phi4:latest, llama3.3:lates
 http://sic.wandiansha.com:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:70b"
 http://crm.fangcungengji.com:11434/v1,"qwq:latest, deepseek-r1:7b, nomic-embed-text:latest, deepseek-r1:32b"
 http://beikatextile.com:11434/v1,"llama3.2:latest, deepseek-r1:1.5b, deepseek-r1:8b"
+http://2.57.212.254:8080/v1,"gemma2:2b, gemma2:9b, phi4-mini:latest"
