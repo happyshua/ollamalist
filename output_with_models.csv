@@ -1529,3 +1529,4 @@ http://sic.wandiansha.com:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r
 http://crm.fangcungengji.com:11434/v1,"qwq:latest, deepseek-r1:7b, nomic-embed-text:latest, deepseek-r1:32b"
 http://beikatextile.com:11434/v1,"llama3.2:latest, deepseek-r1:1.5b, deepseek-r1:8b"
 http://2.57.212.254:8080/v1,"gemma2:2b, gemma2:9b, phi4-mini:latest"
+http://34.228.186.175:11434/v1,"llama3.2:latest, nomic-embed-text:latest, all-minilm:latest, codellama:7b, llama3.1:8b, llama3.2-vision:latest, deepseek-coder:latest, llava:latest"
