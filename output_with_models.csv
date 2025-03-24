@@ -1521,3 +1521,6 @@ http://freegpt.cloud123.uk:11434/v1,"MHKetbi/Mistral-Small3.1-24B-Instruct-2503:
 http://119.45.167.133:11434/v1,gemma:2b
 http://macongjian.top:11434/v1,qwen:0.5b
 http://58.61.140.165:11434/v1,"huihui_ai/deepseek-r1-abliterated:14b, deepseek-r1:8b, bge-m3:latest, huihui_ai/qwen2.5-1m-abliterated:14b"
+http://39.100.101.80:11434/v1,"smollm2:135m, deepseek-r1:7b"
+http://localhost.kangshuaifu.cn:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
+http://mlgyflkcjftool.pelycloud.com:11434/v1,"smollm2:135m, llama2:latest"
