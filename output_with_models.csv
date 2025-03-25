@@ -1453,3 +1453,9 @@ http://59.125.155.229:3001/v1,"codellama:7b, phi4-mini:latest, gemma2:latest, de
 http://alm-api.ichunqiu.com/v1,"deepseek-r1:14b, qllama/bge-reranker-large:f16, qllama/bge-reranker-large:latest, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, MFDoom/deepseek-r1-tool-calling:14b"
 http://poweretl.net:11434/v1,"llama3:8b, OCRonos.Q2_K.gguf:latest, yxchia/multilingual-e5-base:latest, llama3.2:latest, llama3:latest, exaone3.5:latest, exaone-deep:latest, huihui_ai/kanana-nano-abliterated:latest, gemma3:4b, gemma3:12b"
 http://155.230.135.222:11434/v1,"deepseek-r1:8b, gemma3:12b, llama3.2-vision:latest, llama3.2:latest, bge-m3:latest, deepseek-r1:1.5b"
+https://ollama.oneclass.com.tw/v1,"llama3.2:latest, gemma2:27b, nomic-embed-text:latest, starcoder2:15b, impactframes/llama3_ifai_sd_prompt_mkr_q4km:latest"
+http://125.122.36.27:11434/v1,deepseek-r1:7b
+http://125.122.36.26:11434/v1,deepseek-r1:7b
+http://125.122.35.238:11434/v1,deepseek-r1:7b
+http://124.16.101.200:8000/v1,"qwq:32b, bge-m3:latest, bge-large:latest, qwen2.5:32b, qwen2.5-coder:32b, llama3.1:latest, deepseek-r1:32b"
+http://124.71.217.95:11434/v1,deepseek-r1:1.5b
