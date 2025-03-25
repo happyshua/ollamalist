@@ -1460,3 +1460,5 @@ http://125.122.35.238:11434/v1,deepseek-r1:7b
 http://124.16.101.200:8000/v1,"qwq:32b, bge-m3:latest, bge-large:latest, qwen2.5:32b, qwen2.5-coder:32b, llama3.1:latest, deepseek-r1:32b"
 http://124.71.217.95:11434/v1,deepseek-r1:1.5b
 http://ollama.lm123.shop/v1,qwen2:0.5b
+http://220.135.2.35:11434/v1,"gemma3:1b, llama3.2:latest, deepseek-r1:latest, bge-m3:latest, gemma3:4b"
+http://49.232.7.96:11434/v1,"deepseek-r1:14b, deepseek-r1:1.5b"
