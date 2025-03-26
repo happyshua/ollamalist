@@ -1478,3 +1478,4 @@ http://27.28.40.99:11434/v1,deepseek-r1:1.5b
 http://153.34.243.68:11434/v1,"deepseek-r1:latest, deepseek-r1:14b"
 http://222.90.82.122:11434/v1,deepseek-r1:1.5b
 http://officeai.zbycorp.com:11434/v1,"smollm2:135m, llama3.2:1b, deepseek-r1:14b"
+http://211.23.22.156:11434/v1,"gemma3:12b, gemma3:latest, gemma3:4b, nomic-embed-text:latest, qwq:32b, openthinker:latest, deepscaler:latest, llama3.2:latest, deepseek-r1:8b, llama3.1:latest"
