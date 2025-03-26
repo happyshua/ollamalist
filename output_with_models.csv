@@ -1487,3 +1487,4 @@ http://60.168.38.250:11434/v1,deepseek-r1:8b
 http://140.119.175.101:11434/v1,"gemma3:27b, Yu-Feng/Llama-3.1-TAIDE-LX-8B-Chat:FP16, llava:34b, llama3.3:latest, deepseek-r1:70b, nomic-embed-text:latest, llama2:latest, cwchang/llama3-taide-lx-8b-chat-alpha1:latest"
 http://47.84.40.15:11434/v1,"llama3.1:8b-instruct-q4_K_M, qwen2.5:0.5b"
 http://220.133.110.49:11434/v1,"llama3.2:latest, llama2:latest, hf.co/NeverSleep/Lumimaid-v0.2-12B-GGUF:q8_0"
+http://110.255.57.148:9090/v1,deepseek-r1:14b
