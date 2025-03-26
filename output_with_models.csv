@@ -1479,3 +1479,6 @@ http://153.34.243.68:11434/v1,"deepseek-r1:latest, deepseek-r1:14b"
 http://222.90.82.122:11434/v1,deepseek-r1:1.5b
 http://officeai.zbycorp.com:11434/v1,"smollm2:135m, llama3.2:1b, deepseek-r1:14b"
 http://211.23.22.156:11434/v1,"gemma3:12b, gemma3:latest, gemma3:4b, nomic-embed-text:latest, qwq:32b, openthinker:latest, deepscaler:latest, llama3.2:latest, deepseek-r1:8b, llama3.1:latest"
+http://39.80.63.178:11434/v1,deepseek-r1:8b
+http://101.81.68.58:11434/v1,"deepseek-coder-v2:latest, qwq:latest, qwen2.5:32b, deepseek-r1:32b, deepseek-r1:7b, deepseek-r1:1.5b, deepseek-r1:14b, llava:latest, nomic-embed-text:latest, phi3:latest, llama3:8b, llama3.1:latest, gemma2:9b, qwen2:latest, llama3:latest"
+http://124.70.136.199:7003/v1,"deepseek-coder-v2:latest, deepseek-r1:14b"
