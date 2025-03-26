@@ -1482,3 +1482,5 @@ http://211.23.22.156:11434/v1,"gemma3:12b, gemma3:latest, gemma3:4b, nomic-embed
 http://39.80.63.178:11434/v1,deepseek-r1:8b
 http://101.81.68.58:11434/v1,"deepseek-coder-v2:latest, qwq:latest, qwen2.5:32b, deepseek-r1:32b, deepseek-r1:7b, deepseek-r1:1.5b, deepseek-r1:14b, llava:latest, nomic-embed-text:latest, phi3:latest, llama3:8b, llama3.1:latest, gemma2:9b, qwen2:latest, llama3:latest"
 http://124.70.136.199:7003/v1,"deepseek-coder-v2:latest, deepseek-r1:14b"
+http://dai.18dice.com:11434/v1,"gemma3:latest, granite3.2-vision:latest, llama3.2-vision:latest, llama3.2:latest, qwq:latest, yi:latest, dolphin-llama3:latest, mistral:latest, phi:latest, snickers8523/llama3-taide-lx-8b-chat-alpha1-q4-0:latest, qwen:latest, codellama:latest, tulu3:latest, gemma:latest, deepseek-r1:latest"
+http://60.168.38.250:11434/v1,deepseek-r1:8b
