@@ -1470,3 +1470,4 @@ http://27.106.116.226:11434/v1,deepseek-r1:14b
 http://40.162.42.130:9016/v1,deepseek-r1:32b-qwen-distill-fp16
 http://www.eosonl.com:11434/v1,deepseek-r1:1.5b
 http://189.1.218.227:11434/v1,deepseek-r1:1.5b
+http://api2.guoning.net/v1,"deepseek-r1:14b, llama3.1:latest, mistral-nemo:latest, nomic-embed-text:latest"
