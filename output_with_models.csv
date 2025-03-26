@@ -1463,3 +1463,4 @@ http://ollama.lm123.shop/v1,qwen2:0.5b
 http://220.135.2.35:11434/v1,"gemma3:1b, llama3.2:latest, deepseek-r1:latest, bge-m3:latest, gemma3:4b"
 http://49.232.7.96:11434/v1,"deepseek-r1:14b, deepseek-r1:1.5b"
 https://open-webui-ollama.apps.k8s.vm-lab.annatech.com/v1,"granite3.2-vision:2b, smollm2:360m, smollm2:135m, smollm2:1.7b, qwen2.5-coder:14b, phi4:14b, phi3:14b, nomic-embed-text:latest, olmo2:13b, mistral:7b, mistral-nemo:12b, llama3.2:3b, llama3.2:latest, llama3.2:1b, llama3.2-vision:11b, llama3.1:70b, llama3.1:8b, llama3:8b, dolphin-llama3:8b, gemma:7b, granite3-dense:8b, deepseek-r1:14b, deepseek-r1:8b, deepseek-coder-v2:latest, codellama:7b, codellama:13b, ZySec-7B.Q8_0.gguf:latest, Llama-3.2-3B-Instruct-f16.gguf:latest, meta-llama-3.1-8b-instruct.f16.gguf:latest, Phi-3.5-mini-instruct_Uncensored-Q8_0.gguf:latest"
+http://59.146.196.75:11434/v1,qwq:latest
