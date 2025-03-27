@@ -1495,3 +1495,4 @@ http://20.243.131.115:11434/v1,"qwq:latest, deepseek-v2.5:latest, gemma3:27b, ge
 http://nanon.kr:11434/v1,gemma3:1b
 http://ai.ldy-studio.com/v1,"gemma3:12b, phi4:14b-q4_K_M, exaone3.5:32b"
 https://ai.ldy-studio.com/v1,"gemma3:12b, phi4:14b-q4_K_M, exaone3.5:32b"
+http://180.213.251.42:11434/v1,"deepseek-r1:1.5b, deepseek-r1:8b"
