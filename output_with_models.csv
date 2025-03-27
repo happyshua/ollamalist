@@ -1513,3 +1513,6 @@ http://171.213.198.194:11434/v1,"gemma3:27b, qwq:latest, bge-m3:latest, deepseek
 http://183.145.168.253:11434/v1,deepseek-r1:1.5b
 http://219.151.188.233:11434/v1,"deepseek-r1:1.5b, deepseek-r1:1-5b"
 http://222.107.194.132:11434/v1,deepseek-r1:8b
+http://114.34.28.79:11434/v1,"gemma3:27b, qwq:latest, deepseek-r1:14b, qwen2.5:32b, qwen2.5m:latest, qwen2.5:latest, bge-m3:latest, nomic-embed-text:latest"
+http://110.40.159.220:7008/v1,"deepseek-r1:8b, qwen2.5:7b, llava:latest, llava:7b"
+http://47.121.116.214:2054/v1,"gemma3:27b, llava:34b, llama3.2-vision:latest, qwq:latest, deepseek-v2:236b, nomic-embed-text:latest, llama3.3:latest"
