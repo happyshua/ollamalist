@@ -1490,3 +1490,8 @@ http://220.133.110.49:11434/v1,"llama3.2:latest, llama2:latest, hf.co/NeverSleep
 http://110.255.57.148:9090/v1,deepseek-r1:14b
 http://119.188.66.65:11434/v1,"deepseek-r1:1.5b, nomic-embed-text:latest, deepseek-r1:7b"
 http://124.70.147.48:11434/v1,qwen2:0.5b
+http://20.243.131.115:11434	/v1,"qwq:latest, deepseek-v2.5:latest, gemma3:27b, gemma3:latest, all-minilm:l6-v2, mxbai-embed-large:latest, llama3.3:latest, granite3.2-vision:latest, vanilj/qwq-32b-iq4_xs:latest, starcoder2:latest, smollm2:135m, smollm:1.7b, smallthinker:latest, qwq:32b, phi4:latest, minicpm-v:latest, llama3.2-vision:11b, huihui_ai/qwq-abliterated:32b, gemma:latest, dolphin3:latest, deepseek-r1:7b, deepseek-r1:latest, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:1.5b, DeepSeek-R1-Distill-Qwen-1.5B:latest"
+http://20.243.131.115:11434/v1,"qwq:latest, deepseek-v2.5:latest, gemma3:27b, gemma3:latest, all-minilm:l6-v2, mxbai-embed-large:latest, llama3.3:latest, granite3.2-vision:latest, vanilj/qwq-32b-iq4_xs:latest, starcoder2:latest, smollm2:135m, smollm:1.7b, smallthinker:latest, qwq:32b, phi4:latest, minicpm-v:latest, llama3.2-vision:11b, huihui_ai/qwq-abliterated:32b, gemma:latest, dolphin3:latest, deepseek-r1:7b, deepseek-r1:latest, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:1.5b, DeepSeek-R1-Distill-Qwen-1.5B:latest"
+http://nanon.kr:11434/v1,gemma3:1b
+http://ai.ldy-studio.com/v1,"gemma3:12b, phi4:14b-q4_K_M, exaone3.5:32b"
+https://ai.ldy-studio.com/v1,"gemma3:12b, phi4:14b-q4_K_M, exaone3.5:32b"
