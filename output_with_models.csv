@@ -1508,3 +1508,6 @@ http://115.200.189.201:11434/v1,deepseek-r1:7b
 http://117.50.192.158:11434/v1,gemma3:4b
 http://118.122.111.199:11434/v1,deepseek-coder-v2:16b
 http://ollama.imotorlinx.com/v1,"gemma3:4b, gemma3:27b"
+http://171.213.198.194:11434/v1,"gemma3:27b, qwq:latest, bge-m3:latest, deepseek-r1:32b, deepseek-r1:14b, qwen2.5-coder:14b, Maoyue/mistral-nemo-instruct-2407:latest, qwen2.5-coder:latest, codellama:latest, mxbai-embed-large:latest, quentinz/bge-large-zh-v1.5:latest, llava-llama3:latest, qwen2.5:7b, llama3:8b"
+http://171.213.198.194:11434/v1,"gemma3:27b, qwq:latest, bge-m3:latest, deepseek-r1:32b, deepseek-r1:14b, qwen2.5-coder:14b, Maoyue/mistral-nemo-instruct-2407:latest, qwen2.5-coder:latest, codellama:latest, mxbai-embed-large:latest, quentinz/bge-large-zh-v1.5:latest, llava-llama3:latest, qwen2.5:7b, llama3:8b"
+http://183.145.168.253:11434/v1,deepseek-r1:1.5b
