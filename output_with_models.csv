@@ -1500,3 +1500,4 @@ http://yuwei-tbox.gstsafety.com:11434/v1,"BahaSlama/llama3.1-finetuned:latest, s
 http://139.159.153.245:11434/v1,deepseek-r1:1.5b
 http://219.144.113.231:11434/v1,deepseek-r1:14b
 http://101.71.199.208:11434/v1,"qwq:latest, smollm2:135m, deepseek-r1:32b, deepseek-r1:7b, gemma2:9b"
+http://118.253.157.150:11434/v1,"deepseek-r1:70b, qwq:latest, qwen2.5:14b, deepseek-r1:32b, deepseek-r1:8b, deepseek-r1:7b, deepseek-r1:14b, deepseek-r1:1.5b"
