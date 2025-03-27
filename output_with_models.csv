@@ -1496,3 +1496,7 @@ http://nanon.kr:11434/v1,gemma3:1b
 http://ai.ldy-studio.com/v1,"gemma3:12b, phi4:14b-q4_K_M, exaone3.5:32b"
 https://ai.ldy-studio.com/v1,"gemma3:12b, phi4:14b-q4_K_M, exaone3.5:32b"
 http://180.213.251.42:11434/v1,"deepseek-r1:1.5b, deepseek-r1:8b"
+http://yuwei-tbox.gstsafety.com:11434/v1,"BahaSlama/llama3.1-finetuned:latest, sqlcoder:15b, deepseek-coder:33b, deepseek-r1:32b, deepseek-r1:latest, llama3.2:latest"
+http://139.159.153.245:11434/v1,deepseek-r1:1.5b
+http://219.144.113.231:11434/v1,deepseek-r1:14b
+http://101.71.199.208:11434/v1,"qwq:latest, smollm2:135m, deepseek-r1:32b, deepseek-r1:7b, gemma2:9b"
