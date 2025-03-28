@@ -1537,3 +1537,5 @@ http://211.72.136.45:11434/v1,"llama3.1:8b, phi4-mini:3.8b, mistral:7b, llama3.2
 http://115.120.203.132:11434/v1,"llama3.2:1b, deepseek-r1:7b"
 http://113.240.110.200:11434/v1,deepseek-r1:32b
 http://59.172.150.51:11434/v1,deepseek-r1:32b
+http://130.107.216.62/v1,llama3.2:3b
+http://47.206.81.216:11434/v1,llama3.3:latest
