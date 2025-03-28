@@ -1527,3 +1527,4 @@ http://15.205.151.104/v1,"gemma3:4b, linux6200/bge-reranker-v2-m3:latest, llama3
 http://111.250.53.153:11434/v1,"deepseek-r1:7B, qwen2.5:7B, bc-instruct-q8:latest, llama3.1:latest"
 http://222.90.82.143:11434/v1,deepseek-r1:1.5b
 http://67.53.132.136:3005/v1,"deepseek-r1:14b-qwen-distill-fp16, qwen2.5-coder:14b-instruct-fp16, qwen2.5-coder:32b"
+https://local.assistant.ollama.hub5.net/v1,"llama3.1:latest, mxbai-embed-large:latest, krith/meta-llama-3.1-70b-instruct-abliterated:IQ2_M, qwen2.5-coder:32b, gemma2:27b"
