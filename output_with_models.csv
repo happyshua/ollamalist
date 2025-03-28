@@ -1524,3 +1524,4 @@ http://14.216.239.244:11434/v1,"qwq:latest, deepseek-r1:32b, deepseek-r1:latest,
 http://cpanel.jcctile.com:11434/v1,"llama3.2:latest, nomic-embed-text:latest"
 http://20.51.215.110:443/v1,"llama3.2:latest, huihui_ai/deepseek-r1-abliterated:32b"
 http://15.205.151.104/v1,"gemma3:4b, linux6200/bge-reranker-v2-m3:latest, llama3.2:3b, bge-m3:latest"
+http://111.250.53.153:11434/v1,"deepseek-r1:7B, qwen2.5:7B, bc-instruct-q8:latest, llama3.1:latest"
