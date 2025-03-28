@@ -1531,3 +1531,4 @@ https://local.assistant.ollama.hub5.net/v1,"llama3.1:latest, mxbai-embed-large:l
 http://171.213.220.139:6006/v1,deepseek-r1:1.5b
 http://121.224.105.134:11434/v1,"qwen2.5:latest, nomic-embed-text:latest, deepseek-r1:8b"
 http://202.181.157.24/v1,hf.co/unsloth/gemma-3-27b-it-GGUF:Q4_K_M
+http://52.68.140.132/v1,"phi4:latest, llama3.2:latest, deepseek-r1:latest, llama3.1:latest"
