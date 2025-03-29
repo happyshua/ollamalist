@@ -1468,3 +1468,6 @@ http://47.102.47.176:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:671
 https://ollamaapi.maguscorp.com.br/v1,"mistral-small:latest, minicpm-v:latest, qwen2.5-coder:7b, nomic-embed-text:latest, qwq:32b-q4_K_M, qwen2.5-coder:14b"
 https://deepseek-api.techlabfze.com/v1,deepseek-r1:1.5b
 http://223.130.138.13:11434/v1,"gemma3:4b, gemma3:12b"
+http://128.110.96.162:11434/v1,llama3.2:1b
+http://220.160.86.25:11434/v1,"qwq:latest, nomic-embed-text:latest, deepseek-r1:14b, deepseek-r1:32b"
+http://14.22.97.204:11434/v1,"gemma3:27b, deepseek-r1:32b, bge-m3:latest"
