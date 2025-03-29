@@ -1467,3 +1467,4 @@ http://59.54.227.117:11434/v1,"ingu627/Qwen2.5-VL-7B-Instruct-Q5_K_M:latest, gem
 http://47.102.47.176:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:671b, qwq:latest"
 https://ollamaapi.maguscorp.com.br/v1,"mistral-small:latest, minicpm-v:latest, qwen2.5-coder:7b, nomic-embed-text:latest, qwq:32b-q4_K_M, qwen2.5-coder:14b"
 https://deepseek-api.techlabfze.com/v1,deepseek-r1:1.5b
+http://223.130.138.13:11434/v1,"gemma3:4b, gemma3:12b"
