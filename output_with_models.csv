@@ -1455,3 +1455,6 @@ http://101.83.175.244:11434/v1,"smollm2:135m, deepseek-r1:14b, deepseek-r1:7b"
 http://72.21.26.57:11434/v1,"gemma:latest, deepseek-r1:latest"
 http://118.160.70.111:11434/v1,"llama3.2-vision:11b, llama3.2-vision:latest, smollm2:135m, llama3:latest, llama3.2:latest, llama3:8b, llama2:latest"
 http://117.50.34.100:11434/v1,deepseek-r1:32b
+http://121.233.191.178:11434/v1,"qwen2.5-coder:14b, gemma3:12b, minicpm-v:latest, qwen:14b, llama3.1:8b, phi4:14b, deepseek-r1:14b"
+http://123.113.147.40:11434/v1,"deepseek-r1:7B, deepseek-r1:14b"
+http://183.145.76.73:11434/v1,deepseek-r1:1.5b
