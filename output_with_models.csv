@@ -1474,3 +1474,5 @@ http://14.22.97.204:11434/v1,"gemma3:27b, deepseek-r1:32b, bge-m3:latest"
 http://117.50.198.203:11434/v1,"deepseek-r1:8b, snowflake-arctic-embed:335m, mxbai-embed-large:latest, chevalblanc/acge_text_embedding:latest"
 http://110.42.99.224:11434/v1,deepseek-r1:1.5b
 http://112.120.30.117:11434/v1,"qwen2.5-coder:14b, deepseek-coder:33b, huihui_ai/qwen2.5-coder-abliterate:32b, maryasov/qwen2.5-coder-cline:32b, codestral:latest, qwen2.5-coder:32b, deepseek-r1:70b, deepseek-r1:8b, llama3.3:latest, hf.co/Qwen/QwQ-32B-GGUF:Q8_0, qwq:32b"
+http://175.196.233.29:11434/v1,"llama3.2:latest, gemma3:12b, bge-m3:latest, huihui_ai/exaone3.5-abliterated:latest"
+http://110.9.80.186:11434/v1,"llava:7b, gemma3:4b, llama3:latest"
