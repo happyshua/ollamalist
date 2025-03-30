@@ -1471,3 +1471,6 @@ http://223.130.138.13:11434/v1,"gemma3:4b, gemma3:12b"
 http://128.110.96.162:11434/v1,llama3.2:1b
 http://220.160.86.25:11434/v1,"qwq:latest, nomic-embed-text:latest, deepseek-r1:14b, deepseek-r1:32b"
 http://14.22.97.204:11434/v1,"gemma3:27b, deepseek-r1:32b, bge-m3:latest"
+http://117.50.198.203:11434/v1,"deepseek-r1:8b, snowflake-arctic-embed:335m, mxbai-embed-large:latest, chevalblanc/acge_text_embedding:latest"
+http://110.42.99.224:11434/v1,deepseek-r1:1.5b
+http://112.120.30.117:11434/v1,"qwen2.5-coder:14b, deepseek-coder:33b, huihui_ai/qwen2.5-coder-abliterate:32b, maryasov/qwen2.5-coder-cline:32b, codestral:latest, qwen2.5-coder:32b, deepseek-r1:70b, deepseek-r1:8b, llama3.3:latest, hf.co/Qwen/QwQ-32B-GGUF:Q8_0, qwq:32b"
