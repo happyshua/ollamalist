@@ -1486,3 +1486,7 @@ http://180.113.90.55:11434/v1,deepseek-r1:8b
 http://34.69.35.219/v1,llama3.2:latest
 http://183.135.224.93:11434/v1,deepseek-r1:1.5b
 http://60.176.65.125:11434/v1,"phi:latest, llama3.2:latest, llama3.2:3b-instruct-fp16, llama3.2:3b, llama3.2:3b-instruct-q8_0, llama3.2-vision:latest, llama3.2:1b"
+http://59.110.214.75:11434/v1,"deepseek-r1:1.5b, modelscope.cn/AI-ModelScope/Llama-3.2-11B-Vision-Instruct-GGUF:latest, llava:latest, shaw/dmeta-embedding-zh:latest, deepseek-r1:latest, qwen2:7b"
+http://14.153.199.143:11434/v1,"lingjingwanxiang:70b, linux6200/bge-reranker-v2-m3:latest, deepseek-coder-v2:236b, llama3.3:70b, bge-m3:latest, deepseek-r1:70b, llama3.1:70b, llama3.1:latest, qwen2:72b"
+http://14.19.166.16:11434/v1,"qwq:32b, deepseek-r1:32b, deepseek-r1:14b, nomic-embed-text:latest, deepseek-r1:70b"
+http://61.171.98.198:11434/v1,deepseek-r1:32b
