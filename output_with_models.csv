@@ -1476,3 +1476,7 @@ http://110.42.99.224:11434/v1,deepseek-r1:1.5b
 http://112.120.30.117:11434/v1,"qwen2.5-coder:14b, deepseek-coder:33b, huihui_ai/qwen2.5-coder-abliterate:32b, maryasov/qwen2.5-coder-cline:32b, codestral:latest, qwen2.5-coder:32b, deepseek-r1:70b, deepseek-r1:8b, llama3.3:latest, hf.co/Qwen/QwQ-32B-GGUF:Q8_0, qwq:32b"
 http://175.196.233.29:11434/v1,"llama3.2:latest, gemma3:12b, bge-m3:latest, huihui_ai/exaone3.5-abliterated:latest"
 http://110.9.80.186:11434/v1,"llava:7b, gemma3:4b, llama3:latest"
+http://117.10.36.75:11434/v1,"qwen2.5:1.5b, nomic-embed-text:latest, llamafamily/llama3-chinese-8b-instruct:latest, deepseek-r1:8b, weiaide:latest"
+http://223.15.40.252:11434/v1,deepseek-r1:8b
+http://14.216.236.61:11434/v1,"qwq:latest, deepseek-r1:32b, deepseek-r1:latest, qwen2.5:latest, vanslp_en:latest, llama3.1:latest, qwen2:72b, qwen2:latest, qwen:7b, qwen:latest, vanslp_code:latest, vanslp_zh:latest, codellama:latest, llamafamily/llama3-chinese-8b-instruct:latest, llama3:70b, llama3:latest"
+http://140.112.247.13:11434/v1,"gemma3:4b, gemma3:12b, deepseek-r1:8b, deepseek-r1:14b, qwq:32b, deepseek-r1:32b, llama3.2:3b, deepseek-r1:8b-llama-distill-q8_0"
