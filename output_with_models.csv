@@ -1491,3 +1491,17 @@ http://14.153.199.143:11434/v1,"lingjingwanxiang:70b, linux6200/bge-reranker-v2-
 http://14.19.166.16:11434/v1,"qwq:32b, deepseek-r1:32b, deepseek-r1:14b, nomic-embed-text:latest, deepseek-r1:70b"
 http://61.171.98.198:11434/v1,deepseek-r1:32b
 http://118.189.227.190:11434/v1,"smollm2:135m, deepseek-r1:70b"
+http://203.69.53.137:30/v1,llama3.2-vision:latest
+http://203.69.53.137:26214/v1,llama3.2-vision:latest
+http://203.69.53.137:6664/v1,llama3.2-vision:latest
+http://203.69.53.137:49151/v1,llama3.2-vision:latest
+http://203.69.53.137:30/v1,llama3.2-vision:latest
+http://203.69.53.137:26214/v1,llama3.2-vision:latest
+http://203.69.53.137:6664/v1,llama3.2-vision:latest
+http://203.69.53.137:14443/v1,llama3.2-vision:latest
+http://203.69.53.137:9050/v1,llama3.2-vision:latest
+http://203.69.53.137:10035/v1,llama3.2-vision:latest
+http://203.69.53.137:3567/v1,llama3.2-vision:latest
+http://203.69.53.137:10911/v1,llama3.2-vision:latest
+http://39.105.62.46:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
+http://121.41.92.19:11434/v1,"qwq:latest, gemma3:27b, llava:latest, llava-llama3:latest, granite3.2-vision:latest, qwen:32b, deepseek-r1:70b, bge-large:latest"
