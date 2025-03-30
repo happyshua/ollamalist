@@ -1490,3 +1490,4 @@ http://59.110.214.75:11434/v1,"deepseek-r1:1.5b, modelscope.cn/AI-ModelScope/Lla
 http://14.153.199.143:11434/v1,"lingjingwanxiang:70b, linux6200/bge-reranker-v2-m3:latest, deepseek-coder-v2:236b, llama3.3:70b, bge-m3:latest, deepseek-r1:70b, llama3.1:70b, llama3.1:latest, qwen2:72b"
 http://14.19.166.16:11434/v1,"qwq:32b, deepseek-r1:32b, deepseek-r1:14b, nomic-embed-text:latest, deepseek-r1:70b"
 http://61.171.98.198:11434/v1,deepseek-r1:32b
+http://118.189.227.190:11434/v1,"smollm2:135m, deepseek-r1:70b"
