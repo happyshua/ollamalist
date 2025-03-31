@@ -1506,3 +1506,12 @@ http://203.69.53.137:10911/v1,llama3.2-vision:latest
 http://39.105.62.46:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
 http://121.41.92.19:11434/v1,"qwq:latest, gemma3:27b, llava:latest, llava-llama3:latest, granite3.2-vision:latest, qwen:32b, deepseek-r1:70b, bge-large:latest"
 http://184.155.198.71:9443/v1,"LoTUs5494/mistral-small-3.1:latest, MHKetbi/Mistral-Small3.1-24B-Instruct-2503:latest, mxbai-embed-large:latest, mistral-small:latest, qwq:latest, gemma3:4b, gemma3:12b, gemma3:27b, deepseek-r1:32b, deepseek-r1:14b, smollm2:135m, openthinker:32b, codestral:latest, mistral-small:24b, mistral:7b, mixtral:latest, qwen2.5:14b, llama3.2:latest, codellama:13b, phi4:latest, llama3.3:latest, llava:13b, gemma2:latest, phi3:14b, codellama:latest, mistral:latest, mistral-nemo:latest, gemma2:27b, llama3.2-vision:latest"
+http://203.69.53.137:8686/v1,llama3.2-vision:latest
+http://203.69.53.137:8060/v1,llama3.2-vision:latest
+http://203.69.53.137:902/v1,llama3.2-vision:latest
+http://203.69.53.137:12132/v1,llama3.2-vision:latest
+http://203.69.53.137:3311/v1,llama3.2-vision:latest
+http://203.69.53.137:6581/v1,llama3.2-vision:latest
+http://203.69.53.137:9418/v1,llama3.2-vision:latest
+http://203.69.53.137:2053/v1,llama3.2-vision:latest
+http://54.144.72.206/v1,"llama3.2-vision:11b, gemma3:12b"
