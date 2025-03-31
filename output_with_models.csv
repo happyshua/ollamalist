@@ -1528,3 +1528,4 @@ http://203.69.53.137:775/v1,llama3.2-vision:latest
 http://203.69.53.137:3059/v1,llama3.2-vision:latest
 http://203.69.53.137:3089/v1,llama3.2-vision:latest
 http://203.69.53.137:9690/v1,llama3.2-vision:latest
+http://52.1.160.97:11434/v1,"gemma2:latest, llama3.2:latest, smollm2:135m, llama3.2-vision:latest, llava:latest, nomic-embed-text:latest, mxbai-embed-large:latest, snowflake-arctic-embed:latest, deepseek-r1:7b, deepseek-r1:8b, deepseek-r1:1.5b"
