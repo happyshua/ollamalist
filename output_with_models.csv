@@ -1515,3 +1515,6 @@ http://203.69.53.137:6581/v1,llama3.2-vision:latest
 http://203.69.53.137:9418/v1,llama3.2-vision:latest
 http://203.69.53.137:2053/v1,llama3.2-vision:latest
 http://54.144.72.206/v1,"llama3.2-vision:11b, gemma3:12b"
+http://112.6.10.77:11434/v1,"deepseek-r1:32b, qwen2.5:32b"
+http://1.14.165.155:11000/v1,deepseek-r1:14b
+http://192.144.254.193:12303/v1,"deepseek-r1:latest, llama3.2:latest, deepseek-v2:16b"
