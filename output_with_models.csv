@@ -1577,3 +1577,4 @@ http://175.158.102.25:11434/v1,"smollm2:135m, llama3.1:8b, hermes3:8b"
 http://175.158.102.4:11434/v1,"smollm2:135m, llama3.1:8b, hermes3:8b"
 http://122.4.30.134:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://180.158.243.170:11434/v1,deepseek-r1:14b
+http://60.255.240.249:11434/v1,"smollm2:135m, mxbai-embed-large:latest, nomic-embed-text:latest, deepseek-r1:32b, deepseek-r1:70b"
