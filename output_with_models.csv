@@ -1584,3 +1584,4 @@ http://47.79.94.53:11434/v1,"smollm2:135m, qllama/bce-reranker-base_v1:latest, l
 http://47.108.159.147:11434/v1,"smollm2:135m, bge-m3:latest, deepseek-r1:1.5b"
 http://175.158.101.10:11434/v1,"smollm2:135m, llama3.1:8b, hermes3:8b"
 http://175.158.102.10:11434/v1,"smollm2:135m, llama3.1:8b, hermes3:8b"
+http://1.95.187.94:11434/v1,"smollm2:135m, bge-m3:latest"
