@@ -1562,3 +1562,7 @@ http://219.156.130.186:11434/v1,"deepseek-r1:8b, nomic-embed-text:latest"
 http://110.178.13.92:11434/v1,deepseek-r1:1.5b
 http://175.158.101.55:11434/v1,"smollm2:135m, llama3.1:8b, hermes3:8b"
 http://175.158.102.55:11434/v1,"smollm2:135m, llama3.1:8b, hermes3:8b"
+http://124.221.216.105:11434/v1,deepseek-r1:1.5b
+http://39.105.7.174:11434/v1,"smollm2:135m, nomic-embed-text:latest"
+http://175.158.102.37:11434/v1,"smollm2:135m, llama3.1:8b, hermes3:8b"
+http://175.158.101.38:11434/v1,"smollm2:135m, llama3.1:8b, hermes3:8b"
