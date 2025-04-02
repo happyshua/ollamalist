@@ -1600,3 +1600,4 @@ http://book.disneyxyz.com:11434/v1,"deepseek-r1:8b, nomic-embed-text:latest, dee
 https://11434.kakaall.site/v1,"erwan2/DeepSeek-Janus-Pro-7B:latest, llama3.2-vision:latest, deepseek-v2:latest, huihui_ai/deepseek-r1-abliterated:14b, huihui_ai/deepseek-r1-abliterated:8b, shaw/dmeta-embedding-zh:latest"
 http://173.68.76.234:11434/v1,"smollm2:135m, llama3.2:latest, llama3.2:1b, gemma3:1b"
 http://43.130.78.57:9876/v1,deepseek-r1:7b
+http://43.239.161.91:11434/v1,"smollm2:135m, hermes3:8b"
