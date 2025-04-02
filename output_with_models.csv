@@ -1601,3 +1601,4 @@ https://11434.kakaall.site/v1,"erwan2/DeepSeek-Janus-Pro-7B:latest, llama3.2-vis
 http://173.68.76.234:11434/v1,"smollm2:135m, llama3.2:latest, llama3.2:1b, gemma3:1b"
 http://43.130.78.57:9876/v1,deepseek-r1:7b
 http://43.239.161.91:11434/v1,"smollm2:135m, hermes3:8b"
+http://175.116.242.185:11434/v1,"gemma3:4b, gemma3:12b, gemma3:27b, qwq:latest, exaone3.5:32b, exaone3.5:7.8b, deepseek-r1:14b-qwen-distill-fp16, deepseek-r1:32b, tulu3:latest, llama3.2-korean:latest, deepseek-r1:14b, deepseek-r1:8b"
