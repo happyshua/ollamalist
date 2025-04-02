@@ -1591,3 +1591,6 @@ http://101.132.181.64:11434/v1,"smollm2:135m, bge-m3:latest, nomic-embed-text:la
 http://139.155.109.59:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://175.158.103.108:11434/v1,"smollm2:135m, llama3.1:8b, hermes3:8b"
 http://175.158.103.122:11434/v1,"smollm2:135m, llama3.1:8b, hermes3:8b"
+http://120.76.218.102:11434/v1,"deepseek-r1:8b, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://art.disneyxyz.com:11434/v1,"deepseek-r1:8b, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://ireading.disneyxyz.com:11434/v1,"deepseek-r1:8b, nomic-embed-text:latest, deepseek-r1:1.5b"
