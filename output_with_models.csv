@@ -1602,3 +1602,10 @@ http://173.68.76.234:11434/v1,"smollm2:135m, llama3.2:latest, llama3.2:1b, gemma
 http://43.130.78.57:9876/v1,deepseek-r1:7b
 http://43.239.161.91:11434/v1,"smollm2:135m, hermes3:8b"
 http://175.116.242.185:11434/v1,"gemma3:4b, gemma3:12b, gemma3:27b, qwq:latest, exaone3.5:32b, exaone3.5:7.8b, deepseek-r1:14b-qwen-distill-fp16, deepseek-r1:32b, tulu3:latest, llama3.2-korean:latest, deepseek-r1:14b, deepseek-r1:8b"
+http://54.160.175.161:2077/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, openchat:7b, llama3:latest"
+http://23.20.240.68:2396/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b, deepseek-r1:latest"
+http://54.160.166.156:449/v1,"deepseek-r1:latest, llama2:latest"
+http://35.95.9.185:994/v1,"deepseek-r1:latest, llama2:latest, openchat:7b, llama3:latest"
+http://54.234.249.245:888/v1,"codellama:13b, openchat:7b, llama3:latest"
+http://34.211.35.104:5901/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
+http://54.191.155.72:35449/v1,"llama3:latest, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
