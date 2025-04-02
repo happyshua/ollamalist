@@ -1598,3 +1598,4 @@ http://222.128.104.197:11434/v1,"smollm2:135m, qwen2.5:7b, deepseek-r1:1.5b, dee
 http://175.13.202.67:11434/v1,"deepseek-r1:32b, smollm2:135m, qwen2:7b, qwen2:72b, llama3:latest, llama3.1:latest"
 http://book.disneyxyz.com:11434/v1,"deepseek-r1:8b, nomic-embed-text:latest, deepseek-r1:1.5b"
 https://11434.kakaall.site/v1,"erwan2/DeepSeek-Janus-Pro-7B:latest, llama3.2-vision:latest, deepseek-v2:latest, huihui_ai/deepseek-r1-abliterated:14b, huihui_ai/deepseek-r1-abliterated:8b, shaw/dmeta-embedding-zh:latest"
+http://173.68.76.234:11434/v1,"smollm2:135m, llama3.2:latest, llama3.2:1b, gemma3:1b"
