@@ -1627,3 +1627,4 @@ http://124.222.73.47:11434/v1,"smollm2:135m, qwen:0.5b, qwen:1.8b"
 http://123.185.222.120:10000/v1,"deepseek-r1:7b, deepseek-r1:14b, deepseek-r1:32b, qwq:32b"
 http://113.14.166.92:11434/v1,deepseek-r1:7b
 http://14.145.211.175:11434/v1,deepseek-r1:14b
+http://54.242.159.37:6004/v1,"llama3:latest, deepseek-r1:latest, llama2:latest"
