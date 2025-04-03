@@ -1611,3 +1611,10 @@ http://34.211.35.104:5901/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
 http://54.191.155.72:35449/v1,"llama3:latest, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
 http://123.56.87.231:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://119.91.228.114:11434/v1,deepseek-r1:1.5b
+http://3.229.77.87:11434/v1,"hf.co/bartowski/huihui-ai_QwQ-32B-abliterated-GGUF:Q4_K_L, qllama/bce-reranker-base_v1:latest, qllama/bge-reranker-v2-m3:latest, linux6200/bge-reranker-v2-m3:latest, llava:34b, qwen2.5:72b-instruct, qwen2.5:32b-instruct, bge-m3:567m, deepseek-r1:32b, qwen2.5:32b, qwen2.5:72b, deepseek-r1:70b"
+http://58.244.234.38:11434/v1,"smollm2:135m, deepseek-r1:7b"
+http://42.3.99.214:11434/v1,"gemma3:12b, MHKetbi/Mistral-Small3.1-24B-Instruct-2503:q3_K_L, deepseek-r1:14b"
+http://113.221.160.205:11434/v1,deepseek-r1:1.5b
+http://221.2.158.144:11434/v1,qwen2.5:32b
+http://153.101.189.171:11434/v1,"qwq:latest, deepseek-r1:14b, nomic-embed-text:latest, wizardcoder:33b, qwen:72b, qwen:32b, llama3:70b, jcdickinson/wizardcoder:latest, deepseek-r1:70b, deepseek-r1:32b"
+http://125.122.157.238:9008/v1,"llama3.2-vision:11b, gemma3:27b"
