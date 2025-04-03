@@ -1618,3 +1618,4 @@ http://113.221.160.205:11434/v1,deepseek-r1:1.5b
 http://221.2.158.144:11434/v1,qwen2.5:32b
 http://153.101.189.171:11434/v1,"qwq:latest, deepseek-r1:14b, nomic-embed-text:latest, wizardcoder:33b, qwen:72b, qwen:32b, llama3:70b, jcdickinson/wizardcoder:latest, deepseek-r1:70b, deepseek-r1:32b"
 http://125.122.157.238:9008/v1,"llama3.2-vision:11b, gemma3:27b"
+http://106.104.70.66:10001/v1,"qwq:latest, phi4:latest, deepseek-coder-v2:16b, deepseek-r1:32b, gemma3:27b"
