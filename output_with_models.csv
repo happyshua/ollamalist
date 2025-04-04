@@ -1679,3 +1679,12 @@ http://183.130.219.153:11434/v1,"gemma3:12b, gemma3:27b, huihui_ai/deepseek-r1-a
 http://15.168.13.246:5000/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
 http://124.16.102.198:8080/v1,deepseek-r1:8b
 http://123.144.249.222:11434/v1,deepseek-r1:8b
+http://18.212.78.65:7547/v1,"openchat:7b, llama3:latest, deepseek-r1:latest"
+http://3.86.16.171:9869/v1,"llama2:latest, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://3.128.18.90:5357/v1,"llama2:latest, deepseek-r1:latest, codellama:13b"
+http://52.38.198.242:9334/v1,"llama2:latest, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, openchat:7b"
+http://13.61.188.155:55553/v1,"qwen2.5:1.5b, llama2:latest, codellama:13b, deepseek-r1:latest"
+https://api-ollama.qualifiquei.com.br/v1,"smollm2:135m, llama2:latest, llama3.2-vision:90b, llama3.2-vision:latest, llava-phi3:latest, deepseek-coder-v2:latest, qwen2.5-coder:32b, phi:latest, qwen2.5-coder:7b, llama3-groq-tool-use:8b, llama3.2-vision:11b, phi3.5:latest, mistral:latest, llama3.1:latest, gemma2:27b, codegemma:latest"
+http://61.55.140.248:11434/v1,smollm2:135m
+http://61.136.144.102:8000/v1,deepseek-r1:1.5b
+http://171.213.211.252:6006/v1,deepseek-r1:1.5b
