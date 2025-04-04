@@ -1694,3 +1694,7 @@ http://18.207.97.58:5001/v1,llama3:latest
 http://27.16.212.11:11434/v1,"qwen2.5:7b, qwen2:0.5b"
 http://120.234.9.197:11434/v1,"smollm2:135m, qwen2.5:32b, deepseek-r1:671b, deepseek-r1:32b, deepseek-coder-v2:latest, deepseek-r1:70b"
 http://182.92.223.5:11434/v1,"deepseek-r1:14b, qwen2.5:7b-instruct, qwen2.5:7b"
+http://148.251.51.245:11434/v1,"deepseek-coder-v2:16b, llama2-uncensored:70b, llama2-uncensored:7b, deepseek-v3:latest, dolphin3:latest, codellama:latest, llama3.2:3b, smollm2:135m, codellama:70b, gemma:latest, llava:latest, moondream:latest, tinyllama:latest, llama2-uncensored:latest, llama3:latest, nemotron-mini:latest, granite3.1-moe:latest, granite3-moe:latest, command-r7b:latest, command-r:latest, qwq:latest, nomic-embed-text:latest, phi4:latest, llama3.2:1b, deepseek-r1:latest, qwen:7b"
+http://3.83.241.201:32771/v1,"qwen2.5:1.5b, llama2:latest"
+http://56.155.29.233:7180/v1,qwen2.5:1.5b
+http://56.124.77.250:8089/v1,deepseek-r1:latest
