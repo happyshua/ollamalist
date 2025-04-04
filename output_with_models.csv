@@ -1663,3 +1663,4 @@ http://13.56.224.187:18080/v1,llama2:latest
 http://54.186.105.145:5001/v1,deepseek-r1:latest
 http://54.184.4.214:9295/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, openchat:7b"
 http://54.166.170.219:49154/v1,"llama2:latest, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://13.250.179.51:18080/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest, codellama:13b, deepseek-r1:latest"
