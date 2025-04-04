@@ -1693,3 +1693,4 @@ http://54.164.170.72:49152/v1,"codellama:13b, llama2:latest, openchat:7b"
 http://18.207.97.58:5001/v1,llama3:latest
 http://27.16.212.11:11434/v1,"qwen2.5:7b, qwen2:0.5b"
 http://120.234.9.197:11434/v1,"smollm2:135m, qwen2.5:32b, deepseek-r1:671b, deepseek-r1:32b, deepseek-coder-v2:latest, deepseek-r1:70b"
+http://182.92.223.5:11434/v1,"deepseek-r1:14b, qwen2.5:7b-instruct, qwen2.5:7b"
