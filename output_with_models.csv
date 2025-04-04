@@ -1688,3 +1688,4 @@ https://api-ollama.qualifiquei.com.br/v1,"smollm2:135m, llama2:latest, llama3.2-
 http://61.55.140.248:11434/v1,smollm2:135m
 http://61.136.144.102:8000/v1,deepseek-r1:1.5b
 http://171.213.211.252:6006/v1,deepseek-r1:1.5b
+http://59.110.137.209:11434/v1,"llama3.2:latest, huihui_ai/qwen2.5-coder-abliterate:32b, llama3.3:latest"
