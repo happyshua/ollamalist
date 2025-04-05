@@ -1582,3 +1582,5 @@ http://35.93.178.94:3443/v1,"openchat:7b, codellama:13b"
 http://44.201.82.110:1177/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b, llama3:latest"
 http://98.84.53.27:5080/v1,llama3:latest
 http://3.81.172.139:55555/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
+http://140.122.184.117:11434/v1,"smollm2:135m, llama3.2:latest"
+http://14.154.184.249:9443/v1,"deepseek-r1:7b, bge-m3:latest, deepseek-r1:32b, deepseek-r1:14b"
