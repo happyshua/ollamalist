@@ -1573,3 +1573,4 @@ http://117.50.162.102:11434/v1,"deepseek-r1:1.5b, Q78KG/gte-Qwen2-7B-instruct:la
 http://54.226.24.167:8089/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
 http://100.25.98.123:7001/v1,"openchat:7b, deepseek-r1:latest"
 http://52.12.96.196:8834/v1,"llama2:latest, deepseek-r1:latest"
+http://13.125.52.115:8882/v1,"codellama:13b, deepseek-r1:latest"
