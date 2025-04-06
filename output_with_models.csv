@@ -1594,3 +1594,8 @@ http://123.56.223.229:11434/v1,"smollm2:135m, herald/dmeta-embedding-zh:latest, 
 http://59.172.150.52:11434/v1,deepseek-r1:32b
 http://116.169.66.96:1443/v1,"minicpm-v:8b, llama3.2-vision:11b, qwen2.5-coder:14b, qwen2.5:14b, deepseek-r1:14b, deepseek-coder-v2:16b"
 http://58.223.130.16:11434/v1,"qwen2.5:3b, qwen2.5:1.5b, qwen2.5:0.5b, nomic-embed-text:latest, qwen2.5:7b, qwen2:7b"
+http://52.197.199.249:3524/v1,"openchat:7b, qwen2.5:1.5b"
+http://1.95.0.42:11434/v1,deepseek-r1:1.5b
+http://18.144.33.38:8800/v1,"llama3:latest, deepseek-r1:latest"
+http://34.220.216.2:8880/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b"
+http://13.60.219.140:9100/v1,openchat:7b
