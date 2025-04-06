@@ -1585,3 +1585,4 @@ http://3.81.172.139:55555/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, deepse
 http://140.122.184.117:11434/v1,"smollm2:135m, llama3.2:latest"
 http://14.154.184.249:9443/v1,"deepseek-r1:7b, bge-m3:latest, deepseek-r1:32b, deepseek-r1:14b"
 http://121.29.141.160:11434/v1,"deepseek-r1:8b, qwen2.5:latest, nomic-embed-text:latest, deepseek-r1:14b"
+http://222.122.41.203:11434/v1,"gemma3:27b, smollm2:135m, deepseek-r1:32b, qwen2.5-coder:32b, bge-m3:latest, qwq:latest"
