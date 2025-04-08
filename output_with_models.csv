@@ -1713,3 +1713,8 @@ http://44.247.75.160:8181/v1,"llama3:latest, openchat:7b, deepseek-r1:latest"
 http://35.91.246.205:8084/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, openchat:7b, deepseek-r1:latest"
 http://60.191.250.16:11434/v1,"qwen2.5:3b, qwen2.5:1.5b, deepseek-r1:1.5b, deepseek-r1:7b"
 http://39.106.226.105:10011/v1,"qwen2.5:14b, bge-m3:latest, qllama/bge-reranker-v2-m3:latest, linux6200/bge-reranker-v2-m3:latest, deepseek-r1:7b, qwen2.5:7b, deepseek-r1:latest, qwen2.5:latest, llama3:latest"
+http://52.68.102.71:11434/v1,"deepseek-r1:14b, chroma/all-minilm-l6-v2-f32:latest, all-minilm:latest, all-minilm:33m, deepseek-r1:latest, deepseek-r1:7b, qwen2.5:latest"
+http://58.50.135.13:11434/v1,deepseek-r1:1.5b
+http://3.86.190.196:15000/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, llama2:latest, qwen2.5:1.5b"
+http://54.176.85.81:8090/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, llama2:latest"
+http://13.56.151.211:4711/v1,"llama3:latest, qwen2.5:1.5b, openchat:7b, codellama:13b, llama2:latest"
