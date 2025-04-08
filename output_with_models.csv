@@ -1740,3 +1740,4 @@ http://35.77.201.17:8082/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b, codella
 http://54.168.5.133:1024/v1,"llama2:latest, llama3:latest, openchat:7b, deepseek-r1:latest, qwen2.5:1.5b"
 http://43.207.146.80:8001/v1,"openchat:7b, deepseek-r1:latest, llama3:latest"
 http://18.138.231.141:888/v1,"codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, llama3:latest"
+http://183.242.0.179:11434/v1,"qwe_local:32b, qwq:latest, deepseek-r1_local:32b, deepseek-r1_local:70b, deepseek-r1:32b, deepseek-r1:70b"
