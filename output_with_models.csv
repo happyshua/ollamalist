@@ -1725,3 +1725,5 @@ http://219.145.234.29:2000/v1,deepseek-r1:8b
 https://consultant.mynatapp.cc/v1,deepseek-r1:1.5b
 http://13.214.39.208:8090/v1,"openchat:7b, llama3:latest, llama2:latest"
 http://219.135.229.219:11434/v1,"smollm2:135m, SIGJNF/deepseek-r1-671b-1.58bit:latest, deepseek-r1:70b"
+http://114.132.248.35:11434/v1,deepseek-r1:1.5b
+http://consultant.mynatapp.cc/v1,deepseek-r1:1.5b
