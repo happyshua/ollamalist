@@ -1711,3 +1711,5 @@ http://111.67.197.169:11434/v1,deepseek-r1:1.5b
 http://54.81.136.55:8083/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama2:latest"
 http://44.247.75.160:8181/v1,"llama3:latest, openchat:7b, deepseek-r1:latest"
 http://35.91.246.205:8084/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, openchat:7b, deepseek-r1:latest"
+http://60.191.250.16:11434/v1,"qwen2.5:3b, qwen2.5:1.5b, deepseek-r1:1.5b, deepseek-r1:7b"
+http://39.106.226.105:10011/v1,"qwen2.5:14b, bge-m3:latest, qllama/bge-reranker-v2-m3:latest, linux6200/bge-reranker-v2-m3:latest, deepseek-r1:7b, qwen2.5:7b, deepseek-r1:latest, qwen2.5:latest, llama3:latest"
