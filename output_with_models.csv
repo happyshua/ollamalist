@@ -1708,3 +1708,6 @@ http://119.8.239.230:8001/v1,gemma3:1b
 http://112.126.78.117:10010/v1,deepseek-r1:1.5b
 http://1.95.35.48:11434/v1,deepseek-r1:1.5b
 http://111.67.197.169:11434/v1,deepseek-r1:1.5b
+http://54.81.136.55:8083/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama2:latest"
+http://44.247.75.160:8181/v1,"llama3:latest, openchat:7b, deepseek-r1:latest"
+http://35.91.246.205:8084/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, openchat:7b, deepseek-r1:latest"
