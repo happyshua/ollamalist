@@ -1723,3 +1723,4 @@ http://183.158.251.237:11434/v1,"phi:latest, llama3.2:latest, llama3.2:3b-instru
 http://116.8.232.17:11434/v1,deepseek-r1:8b
 http://219.145.234.29:2000/v1,deepseek-r1:8b
 https://consultant.mynatapp.cc/v1,deepseek-r1:1.5b
+http://13.214.39.208:8090/v1,"openchat:7b, llama3:latest, llama2:latest"
