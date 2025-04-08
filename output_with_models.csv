@@ -1727,3 +1727,11 @@ http://13.214.39.208:8090/v1,"openchat:7b, llama3:latest, llama2:latest"
 http://219.135.229.219:11434/v1,"smollm2:135m, SIGJNF/deepseek-r1-671b-1.58bit:latest, deepseek-r1:70b"
 http://114.132.248.35:11434/v1,deepseek-r1:1.5b
 http://consultant.mynatapp.cc/v1,deepseek-r1:1.5b
+http://116.232.128.3:11434/v1,"smollm2:135m, deepseek-r1:8b, deepseek-r1:1.5b"
+http://3.83.178.254:7187/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, llama3:latest"
+http://35.95.68.196:8181/v1,"qwen2.5:1.5b, openchat:7b, llama3:latest, codellama:13b"
+http://3.132.216.11:8081/v1,"codellama:13b, llama2:latest"
+http://54.219.187.133:8088/v1,"openchat:7b, deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://54.245.190.119:7547/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b, llama3:latest"
+http://13.60.238.38:1290/v1,"codellama:13b, openchat:7b, llama3:latest"
+http://34.221.71.220:8081/v1,"llama3:latest, qwen2.5:1.5b, llama2:latest, codellama:13b, openchat:7b"
