@@ -1548,3 +1548,6 @@ http://175.45.39.130:11434/v1,"smollm2:135m, modelscope.cn/BSC-LT/salamandraTA-7
 http://49.114.132.57:11434/v1,"deepseek-r1:1.5b, deepseek-r1:8b"
 http://221.228.118.78/v1,unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest
 http://203.222.9.172:11434/v1,"qwen2.5:14b, qwen2.5:32b, MHKetbi/Mistral-Small3.1-24B-Instruct-2503:latest, qwen2.5:72b, gemma3:27b-it-fp16, qwq:32b-fp16, qwq:32b, deepseek-r1:70b, qwen2:72b, qwq:latest, qwen2.5-coder:14b, llama3.3:latest, llama3.2:latest, llama3.2:3b-text-q8_0, llama3-groq-tool-use:70b-q8_0, llama3.3:70b-instruct-q8_0, llama2-chinese:13b, qwen2.5-coder:32b, llama3.2-vision:90b, nemotron:70b, nemotron:70b-instruct-fp16, reflection:latest, mxbai-embed-large:latest, firefunction-v2:latest, llama3.1:latest, mistral-large:123b, llama3.1:70b, llama3.1:405b, nomic-embed-text:latest, codeqwen:7b-chat, llama3:70b, qwen:72b, gemma:7b, codellama:70b-instruct, codellama:70b, llama2:70b, codellama:latest, llama2:latest"
+http://54.189.156.171:82/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://52.27.45.15:6010/v1,"openchat:7b, llama3:latest"
+http://54.188.254.22:10000/v1,"openchat:7b, llama2:latest, llama3:latest, codellama:13b, deepseek-r1:latest"
