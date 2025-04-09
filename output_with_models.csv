@@ -1513,3 +1513,23 @@ http://114.132.248.35:11434/v1,deepseek-r1:1.5b
 http://consultant.mynatapp.cc/v1,deepseek-r1:1.5b
 http://140.116.6.62:11434/v1,"llava:7b, llama3.1:8b, gemma3:4b"
 http://183.242.0.179:11434/v1,"qwe_local:32b, qwq:latest, deepseek-r1_local:32b, deepseek-r1_local:70b, deepseek-r1:32b, deepseek-r1:70b"
+http://44.204.23.75:7443/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://18.220.239.165:28017/v1,"deepseek-r1:latest, codellama:13b, llama3:latest, llama2:latest, qwen2.5:1.5b"
+http://100.25.98.123:7001/v1,codellama:13b
+http://44.203.40.177:32770/v1,deepseek-r1:latest
+http://54.183.202.6:8181/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://15.168.13.246:5000/v1,"openchat:7b, qwen2.5:1.5b"
+http://18.207.97.58:5001/v1,"deepseek-r1:latest, openchat:7b, llama3:latest"
+http://222.175.189.178:11434/v1,"deepseek-r1:1.5b, deepseek-r1:8b"
+http://54.81.136.55:8083/v1,"llama2:latest, openchat:7b, codellama:13b"
+http://54.176.85.81:8090/v1,"llama3:latest, qwen2.5:1.5b"
+http://15.168.13.246:40000/v1,"openchat:7b, qwen2.5:1.5b"
+http://54.199.99.82:5801/v1,deepseek-r1:latest
+http://43.207.206.16:1024/v1,"codellama:13b, llama2:latest, openchat:7b, qwen2.5:1.5b, llama3:latest"
+http://15.168.13.246:4567/v1,"llama2:latest, openchat:7b"
+http://112.5.93.27:11434/v1,deepseek-r1:8b
+http://15.168.39.134:8800/v1,"codellama:13b, llama2:latest, openchat:7b"
+http://3.128.18.90:5357/v1,"llama2:latest, openchat:7b, llama3:latest, deepseek-r1:latest, codellama:13b"
+http://13.56.224.187:18080/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b"
+http://123.185.223.216:10000/v1,"deepseek-r1:7b, deepseek-r1:14b, deepseek-r1:32b, qwq:32b"
+http://122.51.210.208:11434/v1,deepseek-r1:1.5b
