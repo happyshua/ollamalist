@@ -1554,3 +1554,4 @@ http://54.188.254.22:10000/v1,"openchat:7b, llama2:latest, llama3:latest, codell
 http://52.79.44.110:10443/v1,openchat:7b
 http://111.230.16.149:11434/v1,llama-local:latest
 http://123.125.34.188:11434/v1,"qwen2.5:7b, deepseek-r1:7b"
+http://113.45.200.165:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
