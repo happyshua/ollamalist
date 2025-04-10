@@ -1666,3 +1666,4 @@ http://56.124.94.6:49153/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, op
 http://58.16.209.125:11434/v1,deepseek-r1:7b
 http://54.180.228.25:8000/v1,"qwen2.5:1.5b, llama2:latest, llama3:latest"
 http://3.38.181.223:5357/v1,"llama2:latest, qwen2.5:1.5b"
+http://171.213.149.232:11434/v1,"deepseek-r1:8b, deepseek-r1:14b"
