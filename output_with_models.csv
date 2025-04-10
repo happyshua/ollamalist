@@ -1610,3 +1610,6 @@ http://54.193.181.45:13666/v1,llama2:latest
 http://118.178.255.236:11434/v1,"llama3.2:latest, deepseek-r1:32b, deepseek-r1:1.5b, deepseek-r1:70b, deepseek-r1:14b, nomic-embed-text:latest"
 http://54.178.94.246:10000/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b"
 http://15.168.39.86:9999/v1,openchat:7b
+http://15.165.17.20:10000/v1,llama3:latest
+http://54.180.239.111:6009/v1,deepseek-r1:latest
+http://58.219.105.71:11434/v1,deepseek-r1:14b
