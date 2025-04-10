@@ -1562,3 +1562,4 @@ http://113.44.91.169:11434/v1,DeepSeekR1_1.5B:latest
 http://182.44.14.84:11434/v1,"qwen:14b, deepseek-r1:14b, deepseek-r1:7b"
 http://175.8.135.121:11434/v1,deepseek-r1:1.5b
 http://120.202.184.139:11434/v1,"deepseek-r1:70b, shaw/dmeta-embedding-zh:latest, nomic-embed-text:latest, deepseek-r1:32b"
+http://13.231.199.237:4369/v1,"openchat:7b, llama2:latest"
