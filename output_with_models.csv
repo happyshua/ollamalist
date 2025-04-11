@@ -1796,3 +1796,6 @@ http://119.145.30.206:11434/v1,"qwen2.5:14b, llava:13b"
 http://18.138.239.23:7443/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b"
 http://47.129.13.116:5003/v1,llama3:latest
 http://13.212.127.199:7170/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
+http://www.pubg-moblie.cn:11434/v1,"llama3.2-vision:latest, llama3.2-vision:11b, deepseek-r1:14b, deepseek-r1:8b"
+http://124.70.177.154:7001/v1,"qwen2.5:latest, gemma3:latest, gemma3:27b, qwq:32b, huanlin/Tifa-Deepsex-14b-CoT-GGUF-Q4:latest, deepseek-r1:32b, phi4:latest, qwen2.5-coder:32b, reader-lm:latest, llama3.2-vision:latest, llama3.2:latest, mistral-small:latest, qwen2.5:32b, llama3.1:latest, shaw/dmeta-embedding-zh:latest, nomic-embed-text:latest, miniCPM:latest"
+http://149.104.25.114:8080/v1,"deepseek-r1:14b, gemma3:4b"
