@@ -1727,3 +1727,20 @@ http://113.81.206.40:11434/v1,deepseek-r1:1.5b
 http://43.133.175.220:11434/v1,deepseek-r1:1.5b
 http://113.141.70.21:9010/v1,"qwq:latest, bge-m3:latest, bsahane/Qwen2.5-VL-7B-Instruct:Q4_K_M_benxh, deepseek-r1:70b"
 http://42.193.243.10:4000/v1,"llama3:8b, llama3:latest"
+http://54.180.202.176:7547/v1,"codellama:13b, openchat:7b, llama2:latest, qwen2.5:1.5b"
+http://117.72.102.107:6066/v1,"deepseek-r1:14b, deepseek-r1:32b"
+http://3.36.120.143:5000/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, llama2:latest"
+http://3.101.119.118:8884/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, codellama:13b"
+http://18.191.251.62:16030/v1,"llama2:latest, openchat:7b"
+http://18.219.133.201:50075/v1,"llama2:latest, llama3:latest, codellama:13b, qwen2.5:1.5b"
+http://35.175.122.80:620/v1,"llama2:latest, qwen2.5:1.5b"
+http://18.236.75.249:1000/v1,"openchat:7b, llama2:latest, llama3:latest, qwen2.5:1.5b"
+http://54.250.185.51:8069/v1,deepseek-r1:latest
+http://18.183.123.111:6005/v1,llama2:latest
+http://13.115.2.49:1503/v1,openchat:7b
+http://15.168.136.218:49154/v1,"deepseek-r1:latest, openchat:7b, llama3:latest, codellama:13b, qwen2.5:1.5b"
+http://13.208.181.135:55553/v1,"openchat:7b, llama3:latest, codellama:13b"
+http://183.15.204.241:11434/v1,"sef234y53gcj-ms:latest, ms-380.gguf:latest, 174t25d4312wd5-spyx:latest, html-40.gguf:latest, 174t25d4312wd2-spyx:latest, Qwen2.5-1.5B-450-steps-2-unsloth.F16.gguf:latest, Qwen2.5-1.5B-450-steps-unsloth.F16.gguf:latest, Qwen2.5-1.5B-500-steps-2-unsloth.F16.gguf:latest, Qwen2.5-1.5B-500-steps-unsloth.F16.gguf:latest, minicpm-v:latest-spyx-test, minicpm-v:latest, minicpm-v:latest-poe2, minicpm-v:latest-d4, qwen2.5:latest, lmstudio-Qwen2-VL-7B-Instruct-Q4_K_M.gguf:latest, Qwen2-VL-7B-Instruct-Q4_K_M.gguf:latest, llama3.2-vision:latest"
+http://117.72.102.107:6066/v1,"deepseek-r1:14b, deepseek-r1:32b"
+http://98.116.11.44:5001/v1,"qwen2.5:latest, llama3-groq-tool-use:latest, command-r-plus:latest, mistral-nemo:latest, llama3.1:latest, llama3:latest, command-r:latest, mxbai-embed-large:latest, mistral:7b-instruct-v0.2-q4_K_M, stable-code:3b-code-q4_0, starcoder:latest, llama3.2:latest, llama3.3:latest, starcoder2:7b, codegemma:latest, zephyr:latest, mistral:latest, dolphin-mistral:latest, codellama:latest, nomic-embed-text:latest, deepseek-llm:latest, granite-code:latest, llama2-uncensored:latest, dolphin-mixtral:latest, wizardcoder:34b-python"
+http://43.201.5.58:7547/v1,"deepseek-r1:latest, qwen2.5:1.5b"
