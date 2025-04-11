@@ -1778,3 +1778,21 @@ http://54.180.143.203:7000/v1,"codellama:13b, openchat:7b"
 http://13.125.69.40:7170/v1,"llama2:latest, llama3:latest, deepseek-r1:latest, codellama:13b"
 http://3.36.120.143:7000/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, llama2:latest"
 http://43.203.240.26:8000/v1,deepseek-r1:latest
+http://54.215.86.61:5000/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b"
+http://3.101.34.80:30/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b"
+http://35.95.61.208:5001/v1,llama3:latest
+http://18.118.6.176:7000/v1,codellama:13b
+http://54.161.131.210:7443/v1,"openchat:7b, codellama:13b"
+http://54.204.84.121:7443/v1,"deepseek-r1:latest, llama2:latest"
+http://98.81.34.100:5357/v1,"deepseek-r1:latest, codellama:13b, llama3:latest, openchat:7b, qwen2.5:1.5b"
+http://52.195.191.14:40000/v1,"codellama:13b, deepseek-r1:latest"
+http://35.79.221.162:5357/v1,"deepseek-r1:latest, codellama:13b, llama3:latest, llama2:latest, qwen2.5:1.5b"
+http://52.68.151.165:49152/v1,openchat:7b
+http://15.168.12.187:7443/v1,"llama2:latest, qwen2.5:1.5b, openchat:7b"
+http://49.232.207.14:11434/v1,"smollm2:135m, modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest"
+http://pubg-moblie.cn:11434/v1,"llama3.2-vision:latest, llama3.2-vision:11b, deepseek-r1:14b, deepseek-r1:8b"
+http://39.102.212.216:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b, bge-m3:latest, deepseek-r1:8b, nomic-embed-text:latest, deepseek-r1:14b"
+http://119.145.30.206:11434/v1,"qwen2.5:14b, llava:13b"
+http://18.138.239.23:7443/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://47.129.13.116:5003/v1,llama3:latest
+http://13.212.127.199:7170/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
