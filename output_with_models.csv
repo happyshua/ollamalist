@@ -1706,3 +1706,5 @@ http://13.124.33.31:40000/v1,llama2:latest
 http://3.36.124.230:7547/v1,"llama2:latest, openchat:7b, qwen2.5:1.5b, codellama:13b, deepseek-r1:latest"
 http://3.35.230.142:86/v1,llama2:latest
 http://54.180.143.203:8000/v1,"codellama:13b, openchat:7b"
+http://182.92.124.71:6006/v1,"qwen2.5:0.5b, deepseek-r1:7b, deepseek-r1:8b, deepseek-r1:1.5b, nomic-embed-text:latest"
+http://18.182.37.242:8882/v1,"llama2:latest, openchat:7b"
