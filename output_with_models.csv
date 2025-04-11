@@ -1750,3 +1750,13 @@ http://54.196.251.116:7170/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
 http://18.236.67.182:30005/v1,"llama3:latest, openchat:7b, llama2:latest"
 http://52.12.14.63:1234/v1,"llama3:latest, qwen2.5:1.5b, openchat:7b, llama2:latest"
 https://api-ai.primuse.dev/v1,"llama3.2:latest, llama3.2-vision:90b, gemma3:27b, llama3.3:latest"
+http://3.91.94.167:5985/v1,deepseek-r1:latest
+http://54.91.237.33:6001/v1,"openchat:7b, deepseek-r1:latest, qwen2.5:1.5b"
+http://18.207.119.244/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b"
+http://52.91.240.65:5985/v1,"deepseek-r1:latest, llama3:latest, openchat:7b, codellama:13b"
+http://44.213.89.142/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b, openchat:7b, deepseek-r1:latest"
+http://15.168.39.86/v1,openchat:7b
+http://54.250.53.151:40000/v1,"codellama:13b, llama2:latest, openchat:7b, qwen2.5:1.5b, llama3:latest"
+http://13.208.169.160:49154/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b"
+http://221.228.118.83/v1,Qwen/Qwen2.5-3B-Instruct-GGUF:latest
+http://221.228.118.82/v1,unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF:latest
