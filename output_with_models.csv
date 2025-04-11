@@ -1777,3 +1777,4 @@ http://13.124.33.31:8000/v1,llama2:latest
 http://54.180.143.203:7000/v1,"codellama:13b, openchat:7b"
 http://13.125.69.40:7170/v1,"llama2:latest, llama3:latest, deepseek-r1:latest, codellama:13b"
 http://3.36.120.143:7000/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, llama2:latest"
+http://43.203.240.26:8000/v1,deepseek-r1:latest
