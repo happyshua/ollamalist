@@ -1692,3 +1692,17 @@ http://43.201.56.81:5001/v1,"deepseek-r1:latest, openchat:7b, qwen2.5:1.5b, llam
 http://54.180.136.30:49153/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest, deepseek-r1:latest"
 http://182.245.209.50:11434/v1,"NexoNim-q8:latest, NexoNim:latest, NexoNim-MoE:latest, deepseek-r1:latest, mni:latest"
 http://183.129.54.93:8089/v1,"deepseek-r1:14b, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:8b"
+http://47.122.70.235:11434/v1,"smollm2:135m, deepseek-r1:latest"
+http://13.208.165.75:50050/v1,"llama2:latest, deepseek-r1:latest, llama3:latest, openchat:7b, qwen2.5:1.5b"
+http://183.15.206.23:11434/v1,"sef234y53gcj-ms:latest, ms-380.gguf:latest, 174t25d4312wd5-spyx:latest, html-40.gguf:latest, 174t25d4312wd2-spyx:latest, Qwen2.5-1.5B-450-steps-2-unsloth.F16.gguf:latest, Qwen2.5-1.5B-450-steps-unsloth.F16.gguf:latest, Qwen2.5-1.5B-500-steps-2-unsloth.F16.gguf:latest, Qwen2.5-1.5B-500-steps-unsloth.F16.gguf:latest, minicpm-v:latest-spyx-test, minicpm-v:latest, minicpm-v:latest-poe2, minicpm-v:latest-d4, qwen2.5:latest, lmstudio-Qwen2-VL-7B-Instruct-Q4_K_M.gguf:latest, Qwen2-VL-7B-Instruct-Q4_K_M.gguf:latest, llama3.2-vision:latest"
+http://14.145.212.155:11434/v1,"qwen2.5:7b, deepseek-r1:8b, deepseek-r1:7b"
+http://1.95.41.98:11434/v1,"qwq:32b, qwen2.5-coder:7b, deepseek-r1:14b, bge-large:latest, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest"
+http://49.75.143.16:11434/v1,"hf.co/mradermacher/Qwen2-7B-Multilingual-RP-GGUF:Q8_0, smollm2:135m, deepseek-r1:14b"
+http://18.183.123.111:30005/v1,"codellama:13b, deepseek-r1:latest, llama2:latest, llama3:latest"
+http://13.113.207.26:6103/v1,"llama3:latest, deepseek-r1:latest, openchat:7b"
+http://43.207.59.71:7547/v1,"llama3:latest, openchat:7b, deepseek-r1:latest"
+http://15.152.54.248:7547/v1,"llama3:latest, codellama:13b, llama2:latest"
+http://13.124.33.31:40000/v1,llama2:latest
+http://3.36.124.230:7547/v1,"llama2:latest, openchat:7b, qwen2.5:1.5b, codellama:13b, deepseek-r1:latest"
+http://3.35.230.142:86/v1,llama2:latest
+http://54.180.143.203:8000/v1,"codellama:13b, openchat:7b"
