@@ -1891,3 +1891,4 @@ http://110.40.36.190:11434/v1,"phi3:mini, tinyllama:latest, deepseek-r1:1.5b"
 http://124.222.216.175:11434/v1,"llama3.2-vision:11b, shaw/dmeta-embedding-zh:latest, EntropyYue/jina-embeddings-v2-base-zh:latest, deepseek-r1:8b, deepseek-r1:14b"
 http://3.35.131.11:2086/v1,"llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
 http://3.35.168.153:3000/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest"
+http://13.229.239.231:2051/v1,llama3:latest
