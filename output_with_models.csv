@@ -1865,3 +1865,4 @@ http://220.128.128.80:11434/v1,"llama3.2:latest, codellama:13b, gemma2:27b, deep
 http://222.68.0.97:11434/v1,"Elan:latest, deepseek-llm:7b-chat"
 http://114.254.86.40:6001/v1,"hellord/e5-mistral-7b-instruct:Q4_0, bge-m3:latest, MHKetbi/Mistral-Small3.1-24B-Instruct-2503:latest, huihui_ai/deepseek-r1-abliterated:70b, gemma3:27b, qwen2.5-coder:32b, qwq:latest"
 http://123.207.22.11:8000/v1,"deepseek-r1:7b, deepseek-r1:14b, linux6200/bge-reranker-v2-m3:latest, snowflake-arctic-embed:latest, gemma2:27b, llama3.3:latest, deepseek-r1:32b, deepseek-r1:70b, nomic-embed-text:latest, mxbai-embed-large:latest"
+http://3.35.166.221:55555/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
