@@ -1598,3 +1598,4 @@ http://43.201.5.58:7547/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, qw
 http://3.35.168.153:3000/v1,"openchat:7b, llama2:latest"
 http://43.203.169.146:5001/v1,"codellama:13b, qwen2.5:1.5b, llama2:latest, llama3:latest, openchat:7b"
 http://54.180.136.30:49153/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, openchat:7b, codellama:13b"
+http://3.35.132.134:2095/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b"
