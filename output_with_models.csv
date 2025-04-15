@@ -1803,3 +1803,4 @@ http://58.240.4.13:11434/v1,"smollm2:135m, qwen2.5:7b, deepseek-r1:14b"
 http://47.92.39.28:11434/v1,"smollm2:135m, deepseek-r1:70b, nomic-embed-text:latest, bge-m3:latest, deepseek-r1:1.5b"
 http://112.121.179.189:11434/v1,deepseek-r1:1.5b
 http://112.121.179.187:11434/v1,deepseek-r1:1.5b
+http://112.111.7.74:11434/v1,"qwen2.5:32b, bge-large:latest, bge-m3:latest, qwen2.5:7b, qwen2.5:14b, qwq:latest, deepseek-r1:32b, llama3:latest, deepseek-r1:70b"
