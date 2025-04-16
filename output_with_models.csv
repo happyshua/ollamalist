@@ -1980,3 +1980,15 @@ http://3.39.252.206:8090/v1,openchat:7b
 http://116.237.39.58:11434/v1,"qwq:latest, qwen2.5-coder:32b, deepseek-r1:70b, deepseek-r1:32b, qwen2:72b"
 http://62.234.4.92:11434/v1,deepseek-r1:1.5b
 http://115.239.39.91:11434/v1,"deepseek-r1:14b, gemma3:12b, gemma3:27b, adrianlab/deepseek-r1-goose-14b:latest, call518/deepseek-r1-tool-calling:7b, bge-m3:latest, mxbai-embed-large:latest, nomic-embed-text:latest, qwen2.5:32b, qwq:latest, qwen2.5:14b"
+http://183.141.165.133:11434/v1,"qwen2.5-coder:32b, qwq:latest, deepseek-r1:32b"
+http://112.65.122.108:11434/v1,"deepseek-r1:7b, deepseek-r1:8b, deepseek-r1:14b"
+http://18.118.111.118:8181/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest"
+http://54.177.251.83:5802/v1,openchat:7b
+http://34.211.198.58:8090/v1,"llama2:latest, llama3:latest, openchat:7b, qwen2.5:1.5b, codellama:13b"
+http://44.243.253.50:1024/v1,"llama2:latest, codellama:13b, qwen2.5:1.5b, deepseek-r1:latest"
+http://13.60.237.147:8002/v1,llama2:latest
+http://18.183.162.229/v1,deepseek-r1:latest
+http://35.78.85.77:8082/v1,"qwen2.5:1.5b, openchat:7b"
+http://223.93.131.64:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
+http://183.141.165.133:11434/v1,"qwen2.5-coder:32b, qwq:latest, deepseek-r1:32b"
+http://175.24.55.12:11434/v1,"Qwen2.5-1.5B-Instruct:1.5b, DeepSeek-R1-Distill-Qwen:1.5b"
