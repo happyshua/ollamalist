@@ -1932,3 +1932,15 @@ http://124.70.15.146:11434/v1,"deepseek-r1:7b, bge-m3:latest"
 http://171.223.103.185:11434/v1,"deepseek-r1:14b, deepseek-r1:70b, deepseek-r1:32b"
 http://124.71.195.207:11434/v1,qwen2.5:0.5b
 http://153.3.80.235:11434/v1,"qwq:latest, deepseek-r1:32b, deepseek-r1:70b, qwen2.5:0.5b"
+http://13.208.244.211:8083/v1,"qwen2.5:1.5b, llama2:latest, codellama:13b, openchat:7b, llama3:latest"
+http://3.82.226.188:9003/v1,deepseek-r1:latest
+http://34.228.10.151:3528/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://54.87.114.202:8020/v1,deepseek-r1:latest
+http://35.78.88.129:1212/v1,"llama2:latest, deepseek-r1:latest, llama3:latest, openchat:7b"
+http://54.168.228.52:1610/v1,codellama:13b
+http://13.114.72.144:8088/v1,"codellama:13b, deepseek-r1:latest, llama2:latest, qwen2.5:1.5b, openchat:7b"
+http://43.206.220.6:8084/v1,openchat:7b
+http://13.208.175.236:8082/v1,"deepseek-r1:latest, qwen2.5:1.5b, openchat:7b"
+http://3.35.13.202:8020/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://1.94.20.78:11434/v1,"qwen2.5:1.5b, bge-m3:latest, deepseek-r1:1.5b, qwen2.5:3b, deepseek-r1:latest"
+http://8.135.239.145:11434/v1,"erwan2/DeepSeek-Janus-Pro-7B:latest, erwan2/DeepSeek-Janus-Pro-7B-Vision-Encoder:latest, moondream:latest, 0ssamaak0/xtuner-llava:llama3-8b-v1.1-f16, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b"
