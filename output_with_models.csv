@@ -2034,3 +2034,4 @@ http://35.77.216.196:9200/v1,"deepseek-r1:latest, codellama:13b, qwen2.5:1.5b, l
 http://175.178.72.150:7634/v1,"qwen2.5:32b, qwen2.5:14b, gemma3:27b"
 http://47.113.230.251:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://101.201.178.135:11434/v1,deepseek-r1:1.5b
+http://15.152.41.61:8086/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, llama2:latest"
