@@ -1959,3 +1959,8 @@ http://13.61.6.130:1290/v1,"llama3:latest, openchat:7b"
 http://119.29.135.180:8090/v1,"qwen2.5:7b, deepseek-r1:32b"
 http://122.114.52.47:11434/v1,"deepseek-r1:1.5b, deepseek-r1:8b"
 http://183.156.75.237:11434/v1,"deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
+http://52.11.8.216:1024/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest"
+http://56.125.8.228:8001/v1,deepseek-r1:latest
+http://54.238.13.85:8090/v1,"llama2:latest, openchat:7b, qwen2.5:1.5b, codellama:13b, deepseek-r1:latest"
+http://175.178.225.150:11434/v1,deepseek-r1:1.5b
+http://49.74.248.215:11434/v1,deepseek-r1:1.5b
