@@ -1715,3 +1715,9 @@ http://3.133.129.98:10443/v1,llama3:latest
 http://43.207.158.43:9030/v1,codellama:13b
 http://13.231.241.198:6333/v1,deepseek-r1:latest
 http://123.193.196.36:11434/v1,"gemma3:4b, gemma3:27b, MHKetbi/Mistral-Small3.1-24B-Instruct-2503:q2_K_L, MHKetbi/Mistral-Small3.1-24B-Instruct-2503:latest, llama3.2:latest, llama3:latest, llama2:latest"
+http://13.208.245.193:8085/v1,"openchat:7b, codellama:13b"
+http://15.168.15.32:88/v1,codellama:13b
+http://13.112.221.250:10000/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, openchat:7b"
+http://3.143.222.1:81/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, openchat:7b"
+http://3.144.88.249:18080/v1,"codellama:13b, openchat:7b, llama2:latest"
+http://13.60.86.60:12000/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
