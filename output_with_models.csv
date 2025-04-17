@@ -1658,3 +1658,4 @@ http://140.138.142.205:11434/v1,"qwen2.5:3b, multilingual-e5-large-instruct:late
 http://122.116.127.210:11434/v1,"gemma3:12b, phi4-mini:3.8b, phi4-mini:latest, deepseek-r1:8b, deepseek-r1:7b"
 http://113.57.84.36:11434/v1,"deepseek-r1:1.5b, deepseek-r1:14b, bge-m3:567m"
 http://118.145.145.70:11434/v1,deepseek-r1:1.5b
+http://210.72.16.35:11434/v1,"deepseek-r1:7b, deepseek-r1:32b, nomic-embed-text:latest, qwq:32b, bge-m3:latest, llama3.2-vision:90b, llama3.2-vision:11b"
