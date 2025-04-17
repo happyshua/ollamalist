@@ -1706,3 +1706,12 @@ http://111.74.155.237:11434/v1,"llama3.1:8b, llama3.2:latest, qwen2.5:latest, de
 http://111.241.66.94:11434/v1,"llava:13b, phi4:latest, deepseek-coder-v2:16b, deepseek-r1:32b, deepseek-r1:14b"
 http://111.241.66.94:11434/v1,"llava:13b, phi4:latest, deepseek-coder-v2:16b, deepseek-r1:32b, deepseek-r1:14b"
 http://58.213.26.32:11434/v1,deepseek-r1:8b
+http://183.143.11.44:11434/v1,deepseek-r1:latest
+http://123.193.196.36:11434/v1,"gemma3:4b, gemma3:27b, MHKetbi/Mistral-Small3.1-24B-Instruct-2503:q2_K_L, MHKetbi/Mistral-Small3.1-24B-Instruct-2503:latest, llama3.2:latest, llama3:latest, llama2:latest"
+http://3.86.235.161:8085/v1,"llama3:latest, deepseek-r1:latest, codellama:13b"
+http://174.129.182.74:9999/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://18.118.165.21:81/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, llama2:latest, codellama:13b"
+http://3.133.129.98:10443/v1,llama3:latest
+http://43.207.158.43:9030/v1,codellama:13b
+http://13.231.241.198:6333/v1,deepseek-r1:latest
+http://123.193.196.36:11434/v1,"gemma3:4b, gemma3:27b, MHKetbi/Mistral-Small3.1-24B-Instruct-2503:q2_K_L, MHKetbi/Mistral-Small3.1-24B-Instruct-2503:latest, llama3.2:latest, llama3:latest, llama2:latest"
