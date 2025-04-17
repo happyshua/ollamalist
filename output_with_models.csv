@@ -1659,3 +1659,13 @@ http://122.116.127.210:11434/v1,"gemma3:12b, phi4-mini:3.8b, phi4-mini:latest, d
 http://113.57.84.36:11434/v1,"deepseek-r1:1.5b, deepseek-r1:14b, bge-m3:567m"
 http://118.145.145.70:11434/v1,deepseek-r1:1.5b
 http://210.72.16.35:11434/v1,"deepseek-r1:7b, deepseek-r1:32b, nomic-embed-text:latest, qwq:32b, bge-m3:latest, llama3.2-vision:90b, llama3.2-vision:11b"
+http://52.195.222.243:10000/v1,"llama3:latest, openchat:7b, llama2:latest, qwen2.5:1.5b"
+http://15.168.140.152:88/v1,"codellama:13b, llama2:latest"
+http://15.152.41.61:81/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, codellama:13b, llama2:latest"
+http://3.38.193.67:10000/v1,"deepseek-r1:latest, openchat:7b, codellama:13b"
+http://3.38.193.165:7479/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b"
+http://15.165.237.40:5003/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, codellama:13b, llama2:latest"
+http://221.198.198.137:11434/v1,"smollm2:135m, deepseek-r1:8b, nomic-embed-text:latest, deepseek-r1:14b"
+http://54.222.181.168:6004/v1,"mistral:7b, qwq:latest, phi4-mini:3.8b, qwen2.5:72b-8192, deepseek-r1:70b, linux6200/bge-reranker-v2-m3:latest, mistral-nemo:12b, llama3:8b, llama3.1:70b, llama3.3:70b, deepseek-coder:33b, unsloth_model:latest, qwen:32b, deepseek-r1:32b-qwen-distill-q8_0, llama3.1:8b, qwen2.5:72b, deepseek-r1:32b, nomic-embed-text:latest, qwen2.5-coder:32b"
+http://39.162.11.137:11434/v1,"deepseek-r1:14b-24, deepseek-r1:14b-32, bge-m3:latest, deepseek-r1:14b-k, deepseek-r1:14b, nomic-embed-text:latest, deepseek-r1:32b"
+http://116.147.3.85:11434/v1,deepseek-r1:8b
