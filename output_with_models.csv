@@ -1721,3 +1721,13 @@ http://13.112.221.250:10000/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, open
 http://3.143.222.1:81/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, openchat:7b"
 http://3.144.88.249:18080/v1,"codellama:13b, openchat:7b, llama2:latest"
 http://13.60.86.60:12000/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://118.178.131.53:11434/v1,"my_doctor_v1:latest, deepseek-r1:1.5b"
+http://43.201.69.218:85/v1,deepseek-r1:latest
+http://54.180.245.180:10443/v1,"openchat:7b, llama2:latest"
+http://54.248.190.236:8085/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://15.152.45.147:8085/v1,"qwen2.5:1.5b, codellama:13b, deepseek-r1:latest"
+http://15.152.35.7:9008/v1,"llama3:latest, llama2:latest, openchat:7b"
+http://13.208.184.174:8085/v1,"openchat:7b, llama2:latest, llama3:latest"
+http://43.202.47.3:7001/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b"
+http://3.36.61.83:8085/v1,llama2:latest
+http://54.180.242.212:85/v1,"deepseek-r1:latest, openchat:7b"
