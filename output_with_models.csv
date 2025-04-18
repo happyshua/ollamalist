@@ -1852,3 +1852,6 @@ http://3.38.210.126:30005/v1,"deepseek-r1:latest, qwen2.5:1.5b"
 http://112.81.166.32:11434/v1,deepseek-r1:7b
 http://1.94.253.124:11434/v1,"qwq:32b, qwen2.5:32b"
 http://18.138.22.80:7547/v1,"llama2:latest, deepseek-r1:latest"
+http://3.22.224.177:30005/v1,"llama3:latest, llama2:latest, deepseek-r1:latest"
+http://117.50.179.196:11434/v1,"smollm2:135m, hf.co/IlyaGusev/saiga_nemo_12b_gguf:Q5_K_M"
+http://183.15.207.12:11434/v1,deepseek-r1:8b
