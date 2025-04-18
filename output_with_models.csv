@@ -1857,3 +1857,15 @@ http://117.50.179.196:11434/v1,"smollm2:135m, hf.co/IlyaGusev/saiga_nemo_12b_ggu
 http://183.15.207.12:11434/v1,deepseek-r1:8b
 http://43.201.252.106:5357/v1,openchat:7b
 http://43.203.212.123:9418/v1,"llama2:latest, codellama:13b"
+http://44.220.136.191:49152/v1,openchat:7b
+http://3.133.140.91:9200/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, openchat:7b"
+http://3.142.135.106:8000/v1,"llama2:latest, qwen2.5:1.5b"
+http://13.57.58.249:9200/v1,"openchat:7b, codellama:13b, deepseek-r1:latest, llama2:latest, llama3:latest"
+http://54.250.161.78:49153/v1,"openchat:7b, deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
+http://52.195.186.120:5000/v1,llama3:latest
+http://57.180.247.142:1830/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, llama2:latest, openchat:7b"
+http://175.41.211.29:49152/v1,"llama2:latest, codellama:13b"
+http://15.168.238.237:40000/v1,"codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://58.251.254.20:11434/v1,"smollm2:135m, deepseek-r1:32b"
+http://124.220.235.150:11434/v1,deepseek-r1:1.5b
+http://124.193.68.227:11434/v1,"qwq:latest, deepseek-r1:7b, nomic-embed-text:latest, qwen2.5:latest, shaw/dmeta-embedding-zh:latest, bge-m3:latest, deepseek-r1:32b, deepseek-r1:1.5b"
