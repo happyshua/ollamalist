@@ -1851,3 +1851,4 @@ http://13.125.13.146:7547/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
 http://3.38.210.126:30005/v1,"deepseek-r1:latest, qwen2.5:1.5b"
 http://112.81.166.32:11434/v1,deepseek-r1:7b
 http://1.94.253.124:11434/v1,"qwq:32b, qwen2.5:32b"
+http://18.138.22.80:7547/v1,"llama2:latest, deepseek-r1:latest"
