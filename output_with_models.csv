@@ -1812,3 +1812,5 @@ http://52.77.213.172:15000/v1,deepseek-r1:latest
 http://59.57.162.61:11434/v1,"gemma3:4b, llama3.2:3b"
 http://175.7.199.87:11434/v1,"minicpm-v:latest, qwen2.5-coder:32b, qwq:latest, deepseek-r1:70b, shaw/dmeta-embedding-zh:latest, deepseek-r1:32b"
 http://183.135.169.116:11434/v1,deepseek-r1:32b
+http://54.255.6.94:8085/v1,"qwen2.5:1.5b, openchat:7b, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://54.179.159.165:7474/v1,"codellama:13b, llama2:latest, llama3:latest"
