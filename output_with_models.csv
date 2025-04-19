@@ -1902,3 +1902,7 @@ http://3.38.150.129:7777/v1,deepseek-r1:latest
 http://54.180.160.220:4664/v1,"qwen2.5:1.5b, llama3:latest"
 http://52.78.25.159:5357/v1,"codellama:13b, openchat:7b"
 http://43.203.127.150:7443/v1,"codellama:13b, openchat:7b"
+http://43.202.55.133:5001/v1,openchat:7b
+http://39.99.225.123:11434/v1,deepseek-r1:8b
+http://221.238.132.86:11000/v1,"gemma3:4b, deepseek-r1:8b, qwen2.5:3b, llama3.2:3b"
+http://101.237.129.74:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
