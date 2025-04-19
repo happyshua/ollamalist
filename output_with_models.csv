@@ -1940,3 +1940,11 @@ http://125.122.155.107:11434/v1,deepseek-r1:7b
 http://124.222.204.126:11434/v1,deepseek-r1:1.5b
 http://1.203.111.218:11434/v1,"smollm2:135m, deepseek-r1:32b, ALIENTELLIGENCE/aerospaceengineer:latest, qwen2.5-coder:latest, qwen2.5:latest, llama3.1:latest, koesn/llama3-openbiollm-8b:latest"
 http://222.71.165.236:11434/v1,"deepseek-r1:32b, deepseek-r1:7b, nomic-embed-text:latest, deepseek-r1:70b"
+http://18.224.33.184:6363/v1,"llama2:latest, openchat:7b, deepseek-r1:latest, codellama:13b, llama3:latest"
+http://3.19.238.105:5001/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, openchat:7b, llama2:latest"
+http://3.140.193.17:40000/v1,codellama:13b
+http://13.115.51.36:15000/v1,openchat:7b
+http://52.194.223.109:4567/v1,"openchat:7b, llama2:latest"
+http://13.208.215.90:7788/v1,"llama2:latest, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b"
+http://43.203.120.110:7777/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, deepseek-r1:latest, llama2:latest"
+http://111.229.27.190:12345/v1,"qwen2.5:0.5b, qwen2.5:3b, qwen2.5:1.5b, deepseek-r1:1.5b"
