@@ -1999,3 +1999,10 @@ http://43.203.173.1:40000/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, codellam
 http://3.113.26.191:6363/v1,"llama3:latest, openchat:7b, codellama:13b, qwen2.5:1.5b"
 http://113.141.73.253:11434/v1,"deepseek-r1:7b, deepseek-r1:14b, nomic-embed-text:latest"
 http://49.75.218.2:11434/v1,"deepseek-r1:14b, qwen2.5:1.5b, qwen2.5:0.5b, qwen2.5:14b, wangshenzhi/gemma2-9b-chinese-chat:latest, gemma2:latest, llama3.2:latest"
+http://13.208.174.233:55442/v1,codellama:13b
+http://47.129.108.134:6363/v1,"llama3:latest, llama2:latest, codellama:13b, deepseek-r1:latest"
+http://54.188.114.87:2086/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
+http://18.223.101.228:3780/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, llama2:latest"
+http://43.207.39.151/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, codellama:13b, llama3:latest"
+http://15.152.33.226:3000/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b, llama3:latest, deepseek-r1:latest"
+http://54.255.189.8:5550/v1,"openchat:7b, codellama:13b, llama2:latest, llama3:latest"
