@@ -2020,3 +2020,10 @@ http://221.217.51.15:11434/v1,"gemma3:12b, qwen2.5-coder:14b, huihui_ai/deepseek
 http://121.36.23.106:11434/v1,"deepseek-r1:7b, deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:32b, deepseek-r1:70b, deepseek-r1:1.5b"
 http://106.47.44.15:11434/v1,"qwq:latest, nomic-embed-text:latest, deepseek-r1:8b, deepseek-r1:7b, qwen:7b, llama3:8b, qwen:1.8b, qwen2:latest, qwen2:7b, qwen:latest, llama3:latest"
 http://222.186.21.35:11434/v1,"qwq:latest, deepseek-r1:32b-qwen-distill-q4_K_M"
+http://18.233.102.227:9200/v1,"codellama:13b, deepseek-r1:latest, llama3:latest"
+http://3.136.106.187:4660/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
+http://18.116.46.81:9200/v1,"deepseek-r1:latest, llama2:latest"
+http://54.148.58.131:7180/v1,llama3:latest
+http://13.61.195.154:9200/v1,"llama3:latest, qwen2.5:1.5b, codellama:13b"
+http://13.125.82.47:3311/v1,"deepseek-r1:latest, llama2:latest, openchat:7b, codellama:13b, llama3:latest"
+http://125.227.70.9:11434/v1,"llama3.2:latest, gemma3:latest, phi4:latest"
