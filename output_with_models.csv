@@ -1996,3 +1996,6 @@ http://54.238.217.228:40000/v1,"llama2:latest, qwen2.5:1.5b, openchat:7b, deepse
 http://15.168.7.16:28017/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, deepseek-r1:latest"
 http://13.208.44.11:3128/v1,"llama2:latest, llama3:latest, openchat:7b, codellama:13b, qwen2.5:1.5b"
 http://43.203.173.1:40000/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, codellama:13b"
+http://3.113.26.191:6363/v1,"llama3:latest, openchat:7b, codellama:13b, qwen2.5:1.5b"
+http://113.141.73.253:11434/v1,"deepseek-r1:7b, deepseek-r1:14b, nomic-embed-text:latest"
+http://49.75.218.2:11434/v1,"deepseek-r1:14b, qwen2.5:1.5b, qwen2.5:0.5b, qwen2.5:14b, wangshenzhi/gemma2-9b-chinese-chat:latest, gemma2:latest, llama3.2:latest"
