@@ -1711,3 +1711,8 @@ http://47.128.236.250:19071/v1,"openchat:7b, llama2:latest, llama3:latest, qwen2
 http://18.138.11.199:8085/v1,"llama3:latest, deepseek-r1:latest, llama2:latest"
 http://47.120.22.254:11434/v1,"smollm2:135m, modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest"
 http://123.57.81.176:11434/v1,"qwen2.5:3b_ctx128k, qwen2.5:7b_ctx128k, deepseek-r1:7b, deepseek-r1:7b_ctx128k, qwen2:7b_ctx32k"
+http://90.140.2.56:11434/v1,"DeepSeek-r1:8B, DeepSeek-r1:7B, DeepSeek-r1:1.5b, mistral-nemo:12b-instruct-2407-q8_0, llama3:8b-instruct-q8_0, llama3.3:70b-instruct-q2_K, Llama3.2-vision:11b-instruct-fp16, mistral-small:24b-instruct-2501-q8_0, MicrosoftPhi4:14B, Qwen2.5-coder:32B, Hermes3:8B, AI-Engineering/predictive_businesses_analytics:14B, AI-Engineering/brand_manager:12B, AI-Engineering/business_administrator:14B, DeepSeek-Coder-v2:12B, Meditron:7B, Health/asisstant:8B, Llama3.2-vision:11B, AI-Engineering/business_intelligence_developer:8B, Llava:34B, CodeGeex4:9B, DeepSeek-r1:32B, DeepSeek-r1:14B"
+http://35.91.137.214:9418/v1,llama2:latest
+http://35.85.63.32:28017/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, openchat:7b, llama2:latest"
+http://18.183.153.249:28017/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, llama2:latest"
+http://52.195.207.148:4711/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
