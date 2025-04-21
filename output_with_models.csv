@@ -1640,3 +1640,4 @@ http://35.72.9.179:9012/v1,"qwen2.5:1.5b, openchat:7b, codellama:13b, llama3:lat
 http://13.115.2.49:1503/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest"
 http://15.168.189.200:9007/v1,qwen2.5:1.5b
 http://43.203.247.127:8002/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, openchat:7b"
+http://116.231.48.130:11434/v1,"huanlin/Tifa-DeepsexV2-7b-Q8:latest, deepseek-r1:7b-qwen-distill-fp16, deepseek-r1:7b-qwen-distill-q8_0, deepseek-r1:latest, deepseek-r1:1.5b, qwq:32b-fp16, deepseek-r1:32b-qwen-distill-fp16, deepseek-r1:70b-llama-distill-q8_0, qllama/bge-reranker-large:q8_0, zyw0605688/bge-reranker-v2-m3:latest, linux6200/bge-reranker-v2-m3:latest, mxbai-embed-large:335m-v1-fp16, bge-large:335m-en-v1.5-fp16, nomic-embed-text:v1.5, deepseek-r1:32b, deepseek-r1:70b"
