@@ -1696,3 +1696,6 @@ http://44.248.53.78:55555/v1,llama2:latest
 http://56.228.3.114:5555/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b, llama3:latest"
 http://216.12.169.78:11434/v1,"smollm2:135m, hermes3:8b"
 http://114.32.5.23:11434/v1,"llama3.1:8b, gemma3:27b"
+http://216.12.169.113:11434/v1,"smollm2:135m, hermes3:8b"
+http://59.127.177.69:11434/v1,"gemma2:latest, gemma3:latest"
+http://160.40.53.74:11434/v1,"infoslack/Linkbricks-Horizon-AI-Japanese-Superb-V3-70B-q4:latest, hhao/qwen2.5-coder-tools:14b, hhao/qwen2.5-coder-tools:32b, qwen2.5-coder:32b, qwen2.5:32b, llama3.3:latest, deepseek-r1:32b, deepseek-r1:70b, mistral-nemo:latest, deepseek-v2:16b, qwen2.5-coder:14b, mistral:latest, deepseek-coder-v2:latest"
