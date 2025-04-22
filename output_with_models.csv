@@ -1784,3 +1784,7 @@ http://128.199.157.56:11434/v1,"qwen2.5-coder:0.5b, rule-genie-qwen2.5-coder:0.5
 http://61.222.100.37:11434/v1,"qwen2.5-coder:latest, llama3.2-vision:latest, llava:latest, gemma3:12b-it-qat, voidai/void-1:7b, deepseek-r1:7b, gemma3:4b-it-qat"
 http://34.64.181.20:8888/v1,"MFDoom/deepseek-r1-tool-calling:14b, gemma3:27b, exaone-deep:32b, cogito:14b, mistral-small3.1:latest, bge-m3:latest"
 http://111.241.100.240:11434/v1,"llava:13b, phi4:latest, deepseek-coder-v2:16b, deepseek-r1:32b, deepseek-r1:14b"
+http://18.218.68.93:8800/v1,"openchat:7b, llama2:latest, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://13.56.151.65:9090/v1,"openchat:7b, llama3:latest, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://121.189.144.66:11434/v1,gemma3:1b
+http://152.67.195.0:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:7b"
