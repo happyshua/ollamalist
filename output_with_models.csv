@@ -1866,3 +1866,8 @@ http://13.125.170.227:5984/v1,"deepseek-r1:latest, llama3:latest, codellama:13b,
 http://13.214.156.227:8848/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, deepseek-r1:latest, llama2:latest"
 http://3.35.18.111:1400/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b, llama3:latest, codellama:13b"
 http://171.22.195.88:11434/v1,"smollm2:135m, deepseek-r1:70b"
+http://13.229.142.171:7180/v1,"deepseek-r1:latest, llama3:latest, openchat:7b, llama2:latest"
+http://desk.zhizhucloud.com:11434/v1,"llama3.1:8b, deepseek-r1:32b, nomic-embed-text:latest"
+http://13.229.210.183:2082/v1,"deepseek-r1:latest, llama3:latest, codellama:13b"
+http://13.212.158.144:2055/v1,"openchat:7b, llama3:latest, codellama:13b"
+http://47.129.106.107:36/v1,codellama:13b
