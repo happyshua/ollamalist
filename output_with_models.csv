@@ -1855,3 +1855,5 @@ http://15.152.37.34:4000/v1,"deepseek-r1:latest, llama2:latest, openchat:7b, cod
 http://101.42.100.49:11434/v1,"deepseek-r1:1.5b, deepseek-r1:latest"
 http://125.109.58.164:1234/v1,"gemma3:27b, qwq:latest, gemma2:latest, deepseek-r1:32b"
 http://69.197.142.215:11434/v1,deepseek-r1:1.5b
+http://3.36.120.61:3749/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, codellama:13b"
+http://43.202.40.217:2077/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
