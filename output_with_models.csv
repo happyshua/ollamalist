@@ -1861,3 +1861,8 @@ http://54.199.34.145:8886/v1,"llama3:latest, deepseek-r1:latest, llama2:latest, 
 http://34.64.212.208:8888/v1,"MFDoom/deepseek-r1-tool-calling:14b, gemma3:27b, exaone-deep:32b, cogito:14b, mistral-small3.1:latest, bge-m3:latest"
 http://171.22.195.78:11434/v1,"smollm2:135m, deepseek-r1:70b"
 http://58.61.50.28:11434/v1,deepseek-r1:1.5b
+http://47.129.230.230:2080/v1,qwen2.5:1.5b
+http://13.125.170.227:5984/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, llama2:latest"
+http://13.214.156.227:8848/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://3.35.18.111:1400/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b, llama3:latest, codellama:13b"
+http://171.22.195.88:11434/v1,"smollm2:135m, deepseek-r1:70b"
