@@ -1857,3 +1857,7 @@ http://125.109.58.164:1234/v1,"gemma3:27b, qwq:latest, gemma2:latest, deepseek-r
 http://69.197.142.215:11434/v1,deepseek-r1:1.5b
 http://3.36.120.61:3749/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, codellama:13b"
 http://43.202.40.217:2077/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://54.199.34.145:8886/v1,"llama3:latest, deepseek-r1:latest, llama2:latest, openchat:7b, codellama:13b"
+http://34.64.212.208:8888/v1,"MFDoom/deepseek-r1-tool-calling:14b, gemma3:27b, exaone-deep:32b, cogito:14b, mistral-small3.1:latest, bge-m3:latest"
+http://171.22.195.78:11434/v1,"smollm2:135m, deepseek-r1:70b"
+http://58.61.50.28:11434/v1,deepseek-r1:1.5b
