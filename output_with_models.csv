@@ -1799,3 +1799,15 @@ http://180.106.177.96:11434/v1,"qwen2.5:3b, qwen2.5:1.5b, qwen2.5:0.5b, nomic-em
 http://13.125.226.150:8880/v1,qwen2.5:1.5b
 http://43.202.6.49:2082/v1,"openchat:7b, deepseek-r1:latest"
 http://60.177.157.184:11434/v1,"qwen2.5:14b, deepseek-r1:14b, deepseek-coder-v2:latest, codellama:13b"
+http://54.151.34.78:7547/v1,"deepseek-r1:latest, llama2:latest, llama3:latest"
+http://52.199.75.125:2052/v1,"llama3:latest, codellama:13b, deepseek-r1:latest"
+http://182.135.35.165:11434/v1,"smollm2:135m, deepseek-r1:14b, deepseek-r1:7b, deepseek-r1:1.5b, deepseek-r1:8b"
+http://116.178.103.212:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b, deepseek-r1:8b, deepseek-r1:70b, deepseek-r1:14b, deepseek-r1:32b"
+http://120.246.53.194:11434/v1,"deepseek-r1:32b, qllama/bge-reranker-v2-m3:latest, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, deepseek-r1:14b, deepseek-r1-distill-qwen-14b:latest, qwq-32b:latest, shaw/dmeta-embedding-zh:latest, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://43.242.97.25:11434/v1,"modelscope.cn/Qwen/QwQ-32B-GGUF:latest, qwq:latest"
+http://13.231.111.3:7547/v1,"openchat:7b, qwen2.5:1.5b"
+http://35.78.114.24:8800/v1,"llama2:latest, openchat:7b, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://15.168.235.151:1010/v1,"codellama:13b, llama2:latest, llama3:latest"
+http://3.39.6.133:9012/v1,qwen2.5:1.5b
+http://13.124.66.23:5009/v1,codellama:13b
+http://43.200.252.202:8880/v1,"llama2:latest, qwen2.5:1.5b, openchat:7b, deepseek-r1:latest, llama3:latest"
