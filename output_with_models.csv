@@ -1843,3 +1843,4 @@ http://47.104.128.197:9010/v1,"deepseek-r1:1.5b, deepseek-r1:8b"
 http://47.102.223.222:11434/v1,qwen2.5:0.5b
 http://117.72.12.57:11434/v1,"deepseek-r1:1.5b, deepseek-r1:latest"
 http://101.83.165.154:11434/v1,"qwq:32b-q4_K_M, huihui_ai/deepseek-r1-abliterated:32b-qwen-distill-q5_K_M"
+http://15.168.8.90:98/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest, llama2:latest"
