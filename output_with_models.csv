@@ -1798,3 +1798,4 @@ http://119.186.199.110:11434/v1,deepseek-r1:1.5b
 http://180.106.177.96:11434/v1,"qwen2.5:3b, qwen2.5:1.5b, qwen2.5:0.5b, nomic-embed-text:latest, qwen2.5:7b, qwen2:7b"
 http://13.125.226.150:8880/v1,qwen2.5:1.5b
 http://43.202.6.49:2082/v1,"openchat:7b, deepseek-r1:latest"
+http://60.177.157.184:11434/v1,"qwen2.5:14b, deepseek-r1:14b, deepseek-coder-v2:latest, codellama:13b"
