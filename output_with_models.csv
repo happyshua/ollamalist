@@ -1959,3 +1959,26 @@ http://15.168.38.218:8089/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, l
 http://13.208.207.56:8089/v1,"openchat:7b, codellama:13b, llama2:latest"
 http://13.208.89.203:8089/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b"
 http://54.180.249.180:8089/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, openchat:7b"
+http://18.142.113.187:9001/v1,llama2:latest
+http://13.214.160.123:8089/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://13.229.142.171:7443/v1,"llama2:latest, codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://3.1.25.40:9001/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, openchat:7b"
+http://43.202.42.89:98/v1,llama3:latest
+http://47.129.106.107:7443/v1,openchat:7b
+http://54.191.100.200:10005/v1,"llama2:latest, codellama:13b, qwen2.5:1.5b, openchat:7b, llama3:latest"
+http://18.234.143.131:7443/v1,deepseek-r1:latest
+http://3.17.159.232:8089/v1,"openchat:7b, codellama:13b, llama3:latest, deepseek-r1:latest"
+http://13.214.134.94:10030/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, llama2:latest"
+http://172.87.193.15:11434/v1,"smollm2:135m, hermes3:8b"
+http://202.100.240.83:11434/v1,qwen2.5:14b
+http://172.87.194.13:11434/v1,"smollm2:135m, hermes3:8b"
+http://54.180.226.222:8089/v1,openchat:7b
+http://13.125.218.112:8089/v1,"llama2:latest, llama3:latest, openchat:7b, codellama:13b, qwen2.5:1.5b"
+http://43.203.245.66:8089/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama2:latest"
+http://3.35.231.77:18086/v1,"openchat:7b, llama3:latest, llama2:latest"
+http://52.78.14.88:8089/v1,"llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, codellama:13b"
+http://123.234.165.166:11434/v1,deepseek-r1:8b
+http://34.64.33.140:8888/v1,"MFDoom/deepseek-r1-tool-calling:14b, gemma3:27b, exaone-deep:32b, cogito:14b, mistral-small3.1:latest, bge-m3:latest"
+http://139.224.254.181:8888/v1,deepseek-r1:latest
+http://1.236.245.110:11434/v1,"codellama:13b-python, nomic-embed-text:latest, llama3.1:latest, deepseek-coder:6.7b, gemma3:12b, gemma2:9b, qllama/bge-reranker-large:latest, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, llama3.1:8b, jinbora/deepseek-r1-Bllossom:8b, smollm2:135m, hf.co/ragbox/bge_embedding_model:latest, hf.co/ragbox/bge-reranker:latest, hf.co/gpustack/bge-reranker-v2-m3-GGUF:latest, hf.co/mykor/bge-m3.gguf:latest, hf.co/ragbox/Llama-3-Open-Ko-8B-Instruct-hr_250102_ver1-gguf:latest"
+http://139.9.59.177:11434/v1,deepseek-r1:1.5b
