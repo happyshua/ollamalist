@@ -1898,3 +1898,12 @@ http://38.182.229.4:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://38.182.229.195:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://38.182.229.191:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://211.104.171.186:11434/v1,"Llama3.2-Koren:latest, bge-m3:latest, llama-3-Korean-Bllossom:latest, exaone3.5:latest"
+http://210.6.45.204:11434/v1,"deepcoder:latest, gemma3:12b, minicpm-v:latest, qwen2.5-coder:14b, nomic-embed-text:latest, qwen2.5-coder:1.5b-base, llava:13b, huihui_ai/deepseek-r1-abliterated:14b, llama3.1:latest, deepseek-r1:14b, x/llama3.2-vision:11b, llama3.2:latest"
+http://3.101.124.113:8388/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, openchat:7b"
+http://111.9.21.73:11434/v1,"llama3.2:latest, deepseek-v2:latest, nomic-embed-text:latest, deepseek-r1:70B, deepseek-r1:32b"
+http://14.19.146.252:11434/v1,"huihui_ai/qwen2.5-1m-abliterated:latest, huihui_ai/deepseek-r1-abliterated:32b, huihui_ai/qwen2.5-abliterate:32b, qwen2.5-coder:32b, qwen2.5:14b, nomic-embed-text:latest, qwen2.5-coder:14b"
+http://43.138.107.120:11434/v1,"qwen2.5:0.5b, bge-m3:latest"
+http://115.215.252.81:11434/v1,deepseek-r1:1.5b
+http://120.107.167.126:11434/v1,"breuerAI/llama-maverick:latest, gemma3:27b, mistral:7b, llama3:8b, phi:latest, gemma3:12b, deepseek-r1:14b"
+http://210.75.252.56:11434/v1,qwq:latest
+http://120.107.167.126:11434/v1,"breuerAI/llama-maverick:latest, gemma3:27b, mistral:7b, llama3:8b, phi:latest, gemma3:12b, deepseek-r1:14b"
