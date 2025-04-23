@@ -1897,3 +1897,4 @@ http://18.233.23.49:11434/v1,"llama2:latest, deepseek-r1:8b, deepseek-r1:1.5b, n
 http://38.182.229.4:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://38.182.229.195:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://38.182.229.191:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
+http://211.104.171.186:11434/v1,"Llama3.2-Koren:latest, bge-m3:latest, llama-3-Korean-Bllossom:latest, exaone3.5:latest"
