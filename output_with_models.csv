@@ -1892,3 +1892,5 @@ http://121.129.5.120:11434/v1,"exaone-deep:7.8b, gemma3:latest, llama3.2:latest,
 http://43.202.51.71:2082/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, llama2:latest"
 http://13.115.108.21:34599/v1,"codellama:13b, llama2:latest, llama3:latest"
 http://13.208.85.182:4660/v1,openchat:7b
+http://139.226.28.229:11434/v1,"nidumai/Nidum-Uncensored-DeepSeek-R1-1776-671B:q4km, llama2-uncensored:70b, lordoliver/DeepSeek-V3-0324:671b-q4_k_m, qwen2.5-coder:32b-instruct-fp16, deepseek-r1:671b, qwq:latest, mistral-nemo:latest, deepseek-r1:14b, qwen2.5:14b, nomic-embed-text:latest"
+http://18.233.23.49:11434/v1,"llama2:latest, deepseek-r1:8b, deepseek-r1:1.5b, nomic-embed-text:latest, llama3.2:latest"
