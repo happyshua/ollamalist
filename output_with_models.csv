@@ -1931,3 +1931,10 @@ http://120.26.71.16:11434/v1,"smollm2:135m, deepseek-r1:7b"
 http://128.199.92.45:11434/v1,"smollm2:135m, mistral:latest, rjmalagon/gte-qwen2-1.5b-instruct-embed-f16:latest, nomic-embed-text:latest, llama3:latest"
 http://211.227.27.214:11434/v1,"MHKetbi/Unsloth_gemma3-4b-it:q6_K, gemma3:12b-it-q4_K_M, phi4-mini:latest, mannix/deepseek-coder-v2-lite-instruct:iq2_xs, qwen2.5-coder:0.5b, mannix/qwen2.5-coder:7b-iq3_xxs, mannix/qwen2.5-coder:latest"
 http://49.233.79.205:11434/v1,"deepseek-r1:8b, deepseek-r1:70b"
+http://3.95.178.30:7443/v1,qwen2.5:1.5b
+http://18.233.164.66:7443/v1,deepseek-r1:latest
+http://54.183.120.83:8089/v1,"llama2:latest, codellama:13b, deepseek-r1:latest"
+http://52.195.11.10:8194/v1,"llama2:latest, openchat:7b"
+http://3.112.247.133:8089/v1,"llama2:latest, llama3:latest"
+http://18.182.62.138:8089/v1,"codellama:13b, llama2:latest"
+http://13.113.9.75:6363/v1,qwen2.5:1.5b
