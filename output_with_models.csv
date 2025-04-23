@@ -1989,3 +1989,4 @@ http://125.122.86.161:11434/v1,"deepseek-r1:14b, qwen2.5:7b"
 http://13.231.132.86:8880/v1,"llama2:latest, openchat:7b"
 http://13.113.159.195:9090/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, llama2:latest"
 http://13.208.190.198:8159/v1,"openchat:7b, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://49.119.102.16:9090/v1,deepseek-r1:8b
