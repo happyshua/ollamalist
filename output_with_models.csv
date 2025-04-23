@@ -1889,3 +1889,6 @@ http://13.208.173.7:33338/v1,"codellama:13b, openchat:7b, llama2:latest, qwen2.5
 http://43.200.252.202:9001/v1,"deepseek-r1:latest, llama2:latest, llama3:latest"
 http://43.203.245.250:8889/v1,"llama2:latest, llama3:latest, codellama:13b"
 http://121.129.5.120:11434/v1,"exaone-deep:7.8b, gemma3:latest, llama3.2:latest, qwq:latest, qwen2.5:1.5b, llama3.1:latest, bge-m3:latest, paraphrase-multilingual:latest, mxbai-embed-large:latest, codegemma:latest, nomic-embed-text:latest, llava:latest, codellama:latest, qwen2.5-coder:latest, llama3.2-vision:latest, exaone3.5:latest, qwen2.5-coder:14b, bona/bge-m3-korean:latest, deepseek-r1:14b, qwen2.5:14b-instruct-q4_K_M, deepseek-r1:7b, deepseek-r1:8b, smollm2:135m, qwen2.5:14b-instruct-8k, deepseek-r1:7b-8k, EEVE-Korean-Instruct-10.8B:latest"
+http://43.202.51.71:2082/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, llama2:latest"
+http://13.115.108.21:34599/v1,"codellama:13b, llama2:latest, llama3:latest"
+http://13.208.85.182:4660/v1,openchat:7b
