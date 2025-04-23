@@ -1907,3 +1907,4 @@ http://115.215.252.81:11434/v1,deepseek-r1:1.5b
 http://120.107.167.126:11434/v1,"breuerAI/llama-maverick:latest, gemma3:27b, mistral:7b, llama3:8b, phi:latest, gemma3:12b, deepseek-r1:14b"
 http://210.75.252.56:11434/v1,qwq:latest
 http://120.107.167.126:11434/v1,"breuerAI/llama-maverick:latest, gemma3:27b, mistral:7b, llama3:8b, phi:latest, gemma3:12b, deepseek-r1:14b"
+http://36.212.36.131:11434/v1,"deepseek-r1:32b, deepseek-r1:70b"
