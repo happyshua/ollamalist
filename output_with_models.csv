@@ -1919,3 +1919,5 @@ http://52.68.70.57:8058/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, cod
 http://18.183.239.56:8999/v1,"deepseek-r1:latest, llama2:latest, codellama:13b"
 http://15.168.241.154:4660/v1,"deepseek-r1:latest, llama2:latest"
 http://15.168.241.139:9418/v1,"openchat:7b, codellama:13b, deepseek-r1:latest"
+http://13.125.211.33:8334/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
+http://15.204.105.172:11434/v1,"llama3.1:8b, smollm2:135m, claire:latest, llama3.2:latest"
