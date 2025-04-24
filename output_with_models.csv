@@ -2044,3 +2044,15 @@ http://54.254.131.208:8082/v1,"llama3:latest, openchat:7b, llama2:latest, qwen2.
 http://1.194.161.138:8001/v1,deepseek-r1:14b
 http://13.250.10.200:8983/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, llama2:latest"
 http://140.115.54.90:11434/v1,"llama3.2-vision:latest, geography-model:latest, myModel:latest, kenneth85/llama-3-taiwan:70b-instruct, kenneth85/llama-3-taiwan:8b-instruct, cwchang/llama3-taide-lx-8b-chat-alpha1:latest, ycchen/breeze-7b-instruct-v1_0:latest, gemma2:9b, llama3.3:latest, deepseek-r1:70b, jeffh/intfloat-multilingual-e5-large-instruct:f16, gemma2:2b, gemma2:27b, gemma2:latest"
+http://172.190.64.61:11434/v1,"llama3.3m:latest, gemma3m:latest, gemma3:1b, qwen2.5m:32b, qwen2.5:32b, gemma3:27b-it-fp16, llama3.3:latest, qwen2.5:1.5b, qwen2.5:7b, qwen2.5:3b, qwen2.5:72b, qwen2.5:14b, deepscaler:latest, llama3.2:latest, llama3:70b, llama3:8b, dolphin-llama3:8b, smollm2:135m, deepseek-r1:70b"
+http://3.82.241.9:9200/v1,"codellama:13b, openchat:7b"
+http://3.144.38.0:6664/v1,"codellama:13b, llama3:latest, openchat:7b"
+http://3.149.235.217:1234/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, llama2:latest"
+http://52.53.227.106:8000/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://54.180.240.108:9200/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest"
+http://218.210.51.189:11434/v1,llama3.2:latest
+http://20.205.160.197:11434/v1,"smollm2:135m, llama2:latest"
+http://140.119.63.98:11434/v1,"llama3.2-vision:latest, gemma3:27b, bge-m3:latest, mxbai-embed-large:latest, llama3.3:70b"
+http://61.14.208.242:11434/v1,"POLAR_v2.0:latest, gemma3:12b"
+http://114.205.69.77:11434/v1,exaone3.5:2.4b
+http://45.85.250.8:11434/v1,"medllama2:latest, deepseek-r1:1.5b"
