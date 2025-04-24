@@ -2127,3 +2127,10 @@ http://220.185.78.187:11434/v1,"qwen2.5:0.5b, qwen2.5:3b, mxbai-embed-large:late
 http://114.35.245.167:11434/v1,"llama3.1:latest, deepseek-r1:latest, llama3.2:latest, llama3.1:8b"
 http://140.115.53.204:11434/v1,"llama3.1:8b, deepseek-r1:1.5b"
 http://140.134.135.139:11434/v1,qwq:32b
+http://31.220.104.53:11434/v1,"llama3.1:8b-instruct-q4_K_M, qwq:latest, deepseek-r1:7b, qwen2:latest, llama3.2:latest"
+http://20.243.125.109:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
+http://44.204.83.53:11371/v1,"llama2:latest, openchat:7b"
+http://52.41.59.221:8081/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b, llama2:latest"
+http://44.243.81.214:8084/v1,"openchat:7b, llama2:latest"
+http://106.14.155.113:11434/v1,"deepseek-r1:70b-llama-distill-q8_0, qwq:32b-fp16, linux6200/bge-reranker-v2-m3:latest, nomic-embed-text:latest, qwen2.5-coder:32b-instruct-q8_0, MolNet_light:v0.0.3, qwen2.5:14b, qwen2.5:32b, deepseek-coder-v2:16b-lite-base-fp16, qwen2.5:32b-instruct-q4_K_M, bge-m3:latest, aerok/acge_text_embedding:latest, qwen2.5-coder:7b, MolNet_coating:v0.0.3, MolNet_chem:v0.0.3, MolNet:v0.0.3, MolNet_JP:v0.0.3, llama3.2:3b-text-fp16, qwen2.5:72b, llama3.2:latest"
+http://8.138.177.25:11434/v1,"smollm2:135m, deepseek-r1:1.5b, deepseek-r1:latest"
