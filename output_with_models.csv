@@ -1998,3 +1998,14 @@ http://106.55.26.82:11434/v1,qwen:0.5b
 http://36.213.202.206:11434/v1,"deepseek-r1:latest, deepseek-r1:32b"
 http://209.55.113.53:11434/v1,"nezahatkorkmaz/deepseek-v3:latest, deepseek-coder:latest, GandalfBaum/llama3.2-claude3.7:latest, qwen2.5-coder:latest, codellama:latest"
 http://211.238.12.15:11434/v1,gemma3:27b-it-q4_K_M
+http://139.180.145.206:11434/v1,qwen2.5:0.5b
+http://117.50.176.34:11434/v1,"qwen2.5:1.5b, qwen2.5:7b, qwen2.5:14b"
+http://54.238.232.245:9306/v1,qwen2.5:1.5b
+http://18.179.108.156:8083/v1,"openchat:7b, deepseek-r1:latest, codellama:13b, llama2:latest, qwen2.5:1.5b"
+http://54.178.5.44:8090/v1,"qwen2.5:1.5b, openchat:7b, codellama:13b, llama3:latest, llama2:latest"
+http://123.132.24.72:11434/v1,"smollm2:135m, openthinker:32b, qwen2.5:32b, openchat:latest, opencoder:latest, gemma3:27b, qwen2.5:7b, deepseek-r1:32b, deepseek-r1:7b, qwen2.5:1.5b"
+http://62.234.40.2:11434/v1,deepseek-r1:1.5b
+http://125.122.14.150:11434/v1,deepseek-r1:1.5b
+http://15.168.9.23:9200/v1,deepseek-r1:latest
+http://125.130.125.128:11434/v1,"smollm2:135m, Llama-3-LinkOnX-Modeler-Code-v1.5:latest, Llama-3-LinkOnX-Modeler-Code-v1.4:latest, Llama-3-LinkOnX-Modeler-Code-v1.3.1:latest, Llama-3-LinkOnX-Modeler-Code-v1.3:latest, Llama-3-Open-Ko-8B-LinkOnX-Modeler-v1.1:latest, llama-3-8b-bnb-4bit-LinkOnX-Modeler-Eng-v1.0:latest, deepseek-r1:7b, deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:32b"
+http://194.233.80.206:11434/v1,deepseek-r1:1.5b
