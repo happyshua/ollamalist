@@ -2096,3 +2096,4 @@ http://54.183.200.55:8081/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, deepse
 http://54.185.151.252:8020/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, llama2:latest, openchat:7b"
 http://54.92.55.253:10035/v1,"codellama:13b, llama2:latest, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
 http://141.223.91.181:11434/v1,"phi4:latest, phi4-mini:latest, phi4-mini:3.8b-q8_0, tibellium/towerinstruct-mistral:latest, llama3.1:8b, aya-expanse:32b, aya-expanse:8b, deepseek-llm:67b, deepseek-r1:70b, deepseek-r1:32b, llama3:70b, llama3:latest, mistral:latest"
+http://147.93.110.49:11434/v1,"qwen2.5-coder:3b, mydeepseekr11.5b:latest, custom_qc2.5_7b:latest, qwen2.5-coder:7b, custom_dsr11.5b:latest, deepseek-r1:1.5b, custom_deepseek-r1_7b:latest, custom_deepseek-r1_14b:latest, llama3.2:3b, deepseek-r1:7b, deepseek-r1:14b"
