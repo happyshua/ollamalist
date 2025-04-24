@@ -2039,3 +2039,7 @@ http://3.38.179.144:8083/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest, opencha
 http://118.112.148.113:11434/v1,"deepseek-r1:1.5b, Qwen2.5:0.5b"
 http://211.185.93.82:11434/v1,"exaone-deep:latest, qwen2.5:14b, qwen2.5-coder:14b, deepseek-r1:14b, aya-expanse:latest, phi4:latest, gemma3:12b, exaone3.5:7.8b"
 http://154.26.129.201:11434/v1,"smollm2:135m, llama3.2:3b, gemma:2b, deepseek-r1:1.5b"
+http://60.174.234.100:11434/v1,"deepseek-r1:1.5b, qwen:0.5b"
+http://54.254.131.208:8082/v1,"llama3:latest, openchat:7b, llama2:latest, qwen2.5:1.5b"
+http://1.194.161.138:8001/v1,deepseek-r1:14b
+http://13.250.10.200:8983/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, llama2:latest"
