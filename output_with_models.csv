@@ -2134,3 +2134,6 @@ http://52.41.59.221:8081/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b, llama2:la
 http://44.243.81.214:8084/v1,"openchat:7b, llama2:latest"
 http://106.14.155.113:11434/v1,"deepseek-r1:70b-llama-distill-q8_0, qwq:32b-fp16, linux6200/bge-reranker-v2-m3:latest, nomic-embed-text:latest, qwen2.5-coder:32b-instruct-q8_0, MolNet_light:v0.0.3, qwen2.5:14b, qwen2.5:32b, deepseek-coder-v2:16b-lite-base-fp16, qwen2.5:32b-instruct-q4_K_M, bge-m3:latest, aerok/acge_text_embedding:latest, qwen2.5-coder:7b, MolNet_coating:v0.0.3, MolNet_chem:v0.0.3, MolNet:v0.0.3, MolNet_JP:v0.0.3, llama3.2:3b-text-fp16, qwen2.5:72b, llama3.2:latest"
 http://8.138.177.25:11434/v1,"smollm2:135m, deepseek-r1:1.5b, deepseek-r1:latest"
+http://13.250.53.34:8082/v1,"deepseek-r1:latest, llama2:latest"
+http://18.141.230.79:8084/v1,qwen2.5:1.5b
+http://54.179.137.27:8885/v1,"openchat:7b, llama2:latest"
