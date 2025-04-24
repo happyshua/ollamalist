@@ -2113,3 +2113,4 @@ http://54.255.176.202:8082/v1,"codellama:13b, deepseek-r1:latest"
 http://54.255.214.6:8083/v1,deepseek-r1:latest
 http://54.179.3.100:8002/v1,"openchat:7b, codellama:13b, llama3:latest"
 http://103.228.204.80:11434/v1,"deepseek-r1:14b, deepseek-r1:7b"
+http://94.16.111.162:11434/v1,hf.co/bartowski/google_gemma-3-1b-it-GGUF:Q8_0
