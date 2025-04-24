@@ -2043,3 +2043,4 @@ http://60.174.234.100:11434/v1,"deepseek-r1:1.5b, qwen:0.5b"
 http://54.254.131.208:8082/v1,"llama3:latest, openchat:7b, llama2:latest, qwen2.5:1.5b"
 http://1.194.161.138:8001/v1,deepseek-r1:14b
 http://13.250.10.200:8983/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, llama2:latest"
+http://140.115.54.90:11434/v1,"llama3.2-vision:latest, geography-model:latest, myModel:latest, kenneth85/llama-3-taiwan:70b-instruct, kenneth85/llama-3-taiwan:8b-instruct, cwchang/llama3-taide-lx-8b-chat-alpha1:latest, ycchen/breeze-7b-instruct-v1_0:latest, gemma2:9b, llama3.3:latest, deepseek-r1:70b, jeffh/intfloat-multilingual-e5-large-instruct:f16, gemma2:2b, gemma2:27b, gemma2:latest"
