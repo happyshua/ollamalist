@@ -1793,3 +1793,4 @@ http://8.153.15.206:11434/v1,deepseek-r1:14b
 http://43.136.60.174:11434/v1,deepseek-r1:1.5b
 http://167.99.30.138:11434/v1,"deepseek-r1:1.5b, deepseek-r1:8b"
 http://115.194.187.119:11434/v1,"qwen2.5-coder:1.5b, qwen2:latest, llama3.2:latest"
+http://49.232.224.81:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
