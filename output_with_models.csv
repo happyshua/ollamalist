@@ -1817,3 +1817,6 @@ http://60.8.114.186:11434/v1,"deepseek-r1:32b, deepseek-r1:14b"
 http://18.179.10.44:7547/v1,"codellama:13b, openchat:7b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
 http://18.182.15.22:7547/v1,"deepseek-r1:latest, codellama:13b, llama3:latest, qwen2.5:1.5b"
 http://54.178.143.28:7547/v1,"llama3:latest, deepseek-r1:latest, llama2:latest"
+http://44.244.192.94/v1,"llama3.1:8b-instruct-q4_K_M, mistral-small3.1:latest, deepseek-r1:14b, qwq:latest, gemma3:27b, bge-m3:latest"
+http://136.243.80.37:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.3:latest, deepseek-r1:14b, smollm2:135m, hf.co/bartowski/Chronos-Gold-12B-1.0-GGUF:Q8_0, maxiai.v4.vision:latest, deepseek-r1:32b, deepseek-r1:latest, maxiai.v4:latest"
+http://152.136.126.215:11434/v1,deepseek-r1:1.5b
