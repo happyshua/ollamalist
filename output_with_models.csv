@@ -1878,3 +1878,8 @@ http://47.236.230.235:11434/v1,"llama3:latest, llama3:instruct"
 https://ai.goparts.kr/v1,"goparts:latest, llama3:latest, qwen2.5-coder:32b, wizardlm2:7b"
 http://3.38.168.34:7443/v1,"codellama:13b, llama2:latest, llama3:latest"
 http://54.251.5.155:10001/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, llama3:latest"
+http://44.201.243.133:5357/v1,llama2:latest
+http://54.199.210.162:5010/v1,openchat:7b
+http://15.168.38.203:30005/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://3.38.151.125:49155/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b, llama2:latest"
+http://43.203.226.81:8000/v1,"openchat:7b, llama2:latest, deepseek-r1:latest"
