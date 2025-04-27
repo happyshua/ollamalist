@@ -1994,3 +1994,11 @@ http://54.254.222.74:3790/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, cod
 http://54.255.99.231:7070/v1,"deepseek-r1:latest, llama2:latest, openchat:7b, qwen2.5:1.5b, codellama:13b"
 http://56.124.114.48:8983/v1,"llama3:latest, deepseek-r1:latest"
 http://47.103.149.63:11434/v1,deepseek-r1:1.5b
+http://116.146.18.245:11434/v1,deepseek-r1:8b
+http://44.203.75.80:8000/v1,deepseek-r1:latest
+http://54.209.191.205:40000/v1,"llama2:latest, deepseek-r1:latest, openchat:7b, codellama:13b, qwen2.5:1.5b"
+http://54.234.158.48:7170/v1,"deepseek-r1:latest, codellama:13b, qwen2.5:1.5b, openchat:7b, llama3:latest"
+http://56.228.7.253:7000/v1,"qwen2.5:1.5b, llama2:latest"
+http://13.208.172.146:5000/v1,"llama2:latest, llama3:latest, codellama:13b, qwen2.5:1.5b"
+http://43.203.120.79:6009/v1,"llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://183.6.120.176:11434/v1,"minicpm-v:latest, nomic-embed-text:latest, deepseek-r1:14b"
