@@ -1890,3 +1890,4 @@ http://211.97.137.47:7000/v1,"deepseek-r1:7b, deepseek-r1:1.5b, llava:latest, bg
 http://180.163.81.27:11434/v1,deepseek-r1:1.5b
 http://43.203.226.81:5000/v1,"openchat:7b, llama2:latest, deepseek-r1:latest"
 http://43.136.130.219:11434/v1,modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest
+http://104.154.194.101:11434/v1,"deepseek-r1:latest, llama3.2:latest, codellama:latest, llama3.1:latest, nomic-embed-text:latest"
