@@ -1954,3 +1954,6 @@ http://14.216.230.242:11434/v1,"qwen2.5:14B, qwq:latest, deepseek-r1:32b, deepse
 http://172.104.47.232:11434/v1,llama3.2:1b
 http://150.109.16.152:11434/v1,"gemma3:12b, qwen2.5:7b, qwen2.5:3b, gemma3:4b, gemma3:1b, qwen2.5:14b-instruct-q8_0, llama3.1:8b-text-fp16, gemma3:27b, gemma3:12b-it-q8_0, llama3.2-vision:11b-instruct-q8_0, minicpm-v:8b-2.6-q8_0, llava:13b-v1.6-vicuna-q8_0"
 http://112.124.22.15:11434/v1,qwq:latest
+http://43.139.147.138:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:671b, qwq:latest"
+http://13.228.79.9:7071/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://54.179.160.209:49153/v1,"codellama:13b, llama3:latest, openchat:7b, deepseek-r1:latest, llama2:latest"
