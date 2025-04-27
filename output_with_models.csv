@@ -1952,3 +1952,5 @@ http://46.3.109.73:11434/v1,"qwen2.5:32b, nomic-embed-text:latest, deepseek-r1:3
 http://125.229.109.246:11434/v1,"gemma3:27b, qwen2.5:1.5b, openthinker:32b, qwq:latest, llama3.1:8b"
 http://14.216.230.242:11434/v1,"qwen2.5:14B, qwq:latest, deepseek-r1:32b, deepseek-r1:latest, qwen2.5:latest, vanslp_en:latest, llama3.1:latest, qwen2:72b, qwen2:latest, qwen:7b, qwen:latest, vanslp_code:latest, vanslp_zh:latest, codellama:latest, llamafamily/llama3-chinese-8b-instruct:latest, llama3:70b, llama3:latest"
 http://172.104.47.232:11434/v1,llama3.2:1b
+http://150.109.16.152:11434/v1,"gemma3:12b, qwen2.5:7b, qwen2.5:3b, gemma3:4b, gemma3:1b, qwen2.5:14b-instruct-q8_0, llama3.1:8b-text-fp16, gemma3:27b, gemma3:12b-it-q8_0, llama3.2-vision:11b-instruct-q8_0, minicpm-v:8b-2.6-q8_0, llava:13b-v1.6-vicuna-q8_0"
+http://112.124.22.15:11434/v1,qwq:latest
