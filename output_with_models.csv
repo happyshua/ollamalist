@@ -2008,3 +2008,6 @@ http://13.57.241.213:5001/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, 
 http://54.250.197.200:5985/v1,codellama:13b
 http://54.238.215.115:9200/v1,llama3:latest
 http://222.90.82.112:11434/v1,deepseek-r1:1.5b
+http://18.141.230.235:49152/v1,llama3:latest
+http://3.35.219.235:8000/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, codellama:13b, deepseek-r1:latest"
+http://129.211.5.75:11434/v1,deepseek-r1:1.5b
