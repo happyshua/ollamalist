@@ -2002,3 +2002,9 @@ http://56.228.7.253:7000/v1,"qwen2.5:1.5b, llama2:latest"
 http://13.208.172.146:5000/v1,"llama2:latest, llama3:latest, codellama:13b, qwen2.5:1.5b"
 http://43.203.120.79:6009/v1,"llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
 http://183.6.120.176:11434/v1,"minicpm-v:latest, nomic-embed-text:latest, deepseek-r1:14b"
+http://15.152.54.139:7170/v1,openchat:7b
+http://3.39.229.18:8983/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, llama2:latest, openchat:7b"
+http://13.57.241.213:5001/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://54.250.197.200:5985/v1,codellama:13b
+http://54.238.215.115:9200/v1,llama3:latest
+http://222.90.82.112:11434/v1,deepseek-r1:1.5b
