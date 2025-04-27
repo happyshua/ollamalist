@@ -1957,3 +1957,14 @@ http://112.124.22.15:11434/v1,qwq:latest
 http://43.139.147.138:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:671b, qwq:latest"
 http://13.228.79.9:7071/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
 http://54.179.160.209:49153/v1,"codellama:13b, llama3:latest, openchat:7b, deepseek-r1:latest, llama2:latest"
+http://3.84.108.183:4660/v1,"deepseek-r1:latest, codellama:13b"
+http://3.81.189.208:9006/v1,"llama3:latest, qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://13.57.239.32:49155/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, llama2:latest"
+http://13.60.220.140:8983/v1,"codellama:13b, llama3:latest, deepseek-r1:latest"
+http://13.208.45.169:7199/v1,"codellama:13b, llama3:latest"
+http://120.211.219.174:11434/v1,"phi4:latest, deepseek-r1:32b"
+http://117.50.188.22:11434/v1,"deepseek-r1:7b, qwen2.5:3b, deepseek-r1:1.5b, qwen2.5:32b, qwen2.5:14b, shaw/dmeta-embedding-zh:latest, deepseek-r1:14b"
+http://125.122.156.169:11434/v1,deepseek-r1:7b
+http://123.60.35.202:11434/v1,"qwq:32b, qwen2.5-coder:7b, deepseek-r1:14b, bge-large:latest, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest"
+http://52.198.32.211:1741/v1,deepseek-r1:latest
+http://15.152.45.45:49152/v1,"llama2:latest, qwen2.5:1.5b, openchat:7b"
