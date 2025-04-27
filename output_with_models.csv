@@ -1917,3 +1917,4 @@ http://182.87.89.79:11434/v1,"gemma3:4b, deepseek-r1:1.5b, nomic-embed-text:late
 http://57.182.247.85:11434/v1,deepseek-r1:latest
 http://54.86.95.8:4567/v1,"qwen2.5:1.5b, deepseek-r1:latest"
 http://54.183.190.103:1880/v1,"openchat:7b, codellama:13b, llama3:latest"
+http://3.38.151.125:7272/v1,"llama3:latest, deepseek-r1:latest"
