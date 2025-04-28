@@ -2013,3 +2013,12 @@ http://3.35.219.235:8000/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, codella
 http://129.211.5.75:11434/v1,deepseek-r1:1.5b
 http://113.116.107.208:11434/v1,deepseek-r1:1.5b
 http://129.204.22.89:11434/v1,deepseek-r1:1.5b
+http://124.16.101.181:8000/v1,"qwq:32b, bge-m3:latest, bge-large:latest, qwen2.5:32b, qwen2.5-coder:32b, llama3.1:latest, deepseek-r1:32b"
+http://18.181.197.150:3128/v1,"deepseek-r1:latest, codellama:13b, qwen2.5:1.5b"
+http://43.202.37.144:3000/v1,"deepseek-r1:latest, openchat:7b, llama3:latest"
+http://13.124.185.141:49155/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, llama2:latest"
+http://52.79.215.56/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, llama2:latest"
+http://54.180.234.122:49152/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://121.66.40.74:11434/v1,"moondream:v2, exaone-deep:2.4b, gemma3:4b, granite3.2:2b-instruct-q4_K_M, granite3.2-vision:2b-q4_K_M, phi4-mini:latest, bge-m3:567m, gguf/DeepSeek-Janus-Pro-7B:q4_K_M, exaone3.5:7.8b-instruct-q4_K_M, deepseek-r1:8b-llama-distill-q4_K_M, deepseek-r1:1.5b-qwen-distill-q4_K_M, phi4:14b-q4_K_M, deepseek-r1:8b, nemotron-mini:4b-instruct-q4_K_M, granite-code:3b-base-q4_K_M, nezahatkorkmaz/deepseek-v3:latest, llama3.2-vision:11b-instruct-q4_K_M, qwen2.5-coder:3b-instruct-q4_K_M, qwen2.5:3b-instruct-q4_K_M, smollm2:135m, llama3.2:1b-instruct-q4_K_M, llama3.2:3b-instruct-q5_K_M, llama3.2:3b-instruct-q8_0, nemotron-mini:4b-instruct-q8_0, phi3.5:3.8b-mini-instruct-q8_0, mistral-nemo:12b-instruct-2407-q4_0, llama3.1:8b-instruct-q8_0, phi3.5:3.8b-mini-instruct-q4_0, all-minilm:l6-v2, deepseek-coder-v2:16b-lite-instruct-q4_0, Phi-3.5-mini-instruct:q4_K_M, phi-3.5-vision-gguf:latest, gemma2:2b-instruct-q4_0, llava-phi3:3.8b-mini-fp16, llava-llama3:8b-v1.1-q4_0, llama3.1:8b-instruct-q5_0, llava-phi3:3.8b, llava:7b-v1.6, gemma2:9b-instruct-q5_0, octopus-v4-q5-0:latest, nomic-embed-text:v1.5, phi3-mini-129k-f16:latest"
+http://118.250.105.92:11434/v1,"deepseek-tupo1:8b, deepseek-tupo:8b, deepseek-r1:8b, deepseek-r1:7b, deepseek-r1:32b, qwen2.5:latest"
+http://13.212.173.120:9300/v1,"openchat:7b, llama3:latest, codellama:13b"
