@@ -2011,3 +2011,5 @@ http://222.90.82.112:11434/v1,deepseek-r1:1.5b
 http://18.141.230.235:49152/v1,llama3:latest
 http://3.35.219.235:8000/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, codellama:13b, deepseek-r1:latest"
 http://129.211.5.75:11434/v1,deepseek-r1:1.5b
+http://113.116.107.208:11434/v1,deepseek-r1:1.5b
+http://129.204.22.89:11434/v1,deepseek-r1:1.5b
