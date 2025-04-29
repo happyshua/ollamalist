@@ -1655,3 +1655,5 @@ http://211.223.238.184/v1,"phi4:latest, exaone-deep:latest, gemma3:27b, gemma3:1
 http://52.77.252.47:1042/v1,"deepseek-r1:latest, codellama:13b, llama2:latest, llama3:latest, qwen2.5:1.5b"
 http://118.189.227.189:11434/v1,"llama3.1:8b, qwen2:7b, qwen2:7b-instruct-q4_K_M, qwen2:7b-instruct-fp16, qwen2.5:14b"
 http://172.105.124.212:11434/v1,"smollm2:135m, qwen2.5:1.5b"
+http://47.96.131.9:11434/v1,deepseek-r1:1.5b
+http://183.158.254.210:11434/v1,"qwen2.5:14b, deepseek-r1:14b, deepseek-coder-v2:latest, codellama:13b"
