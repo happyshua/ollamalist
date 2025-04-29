@@ -1667,3 +1667,5 @@ http://211.75.159.144:11434/v1,"jcai/breeze-7b-instruct-v1_0:f16, llama3.1:8b, c
 http://163.13.128.218:60000/v1,"deepseek-r1:1.5b, deepseek-r1:14b, deepseek-r1:7b, modelscope.cn/Qwen/QwQ-32B-GGUF:q4_k_m, qwq:32b, deepseek-r1:32b"
 http://47.101.164.91:11434/v1,"gemma3:27b, deepseek-r1:7b, gemma3:latest, nomic-embed-text:latest, qwq:latest, hf-mirror.com/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF:IQ4_XS, hf-mirror.com/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF:Q4_K_S, all-minilm:latest, hf-mirror.com/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF:Q4_K_M, hf-mirror.com/mradermacher/Janus-Pro-7B-LM-GGUF:Q8_0, llava:13b, deepseek-r1:14b, SIGJNF/deepseek-r1-671b-1.58bit:latest, gemma2:27b, deepseek-r1:8b, deepseek-r1:32b, deepseek-r1:1.5b"
 http://58.177.202.82:11434/v1,llama3.2:latest
+http://59.126.70.191:11434/v1,"llama3.1:8b, deepseek-r1:14b"
+http://221.153.24.221:11434/v1,"gemma3:latest, gemma3:12b-it-qat"
