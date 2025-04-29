@@ -1677,3 +1677,6 @@ http://3.38.190.180:8983/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, lla
 http://13.125.78.78:55555/v1,"openchat:7b, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b, llama2:latest"
 http://54.180.230.245:8983/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
 http://218.21.213.142:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
+http://140.120.54.251:11434/v1,"command-r:latest, qwq:32b-q4_K_M, gemma3:27b-it-qat, bge-m3:567m-fp16"
+http://61.185.15.120:11434/v1,"deepseek-r1:7b, bge-m3:latest, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:1.5b"
+http://112.92.91.79:11434/v1,"qwq:latest, huihui_ai/perplexity-ai-r1-abliterated:70b-distill-llama-q4_K_M, r1-1776:70b, deepseek-r1:70b, deepseek-r1:32b"
