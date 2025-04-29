@@ -1669,3 +1669,4 @@ http://47.101.164.91:11434/v1,"gemma3:27b, deepseek-r1:7b, gemma3:latest, nomic-
 http://58.177.202.82:11434/v1,llama3.2:latest
 http://59.126.70.191:11434/v1,"llama3.1:8b, deepseek-r1:14b"
 http://221.153.24.221:11434/v1,"gemma3:latest, gemma3:12b-it-qat"
+http://113.204.192.28:11434/v1,deepseek-r1:32b
