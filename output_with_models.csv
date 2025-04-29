@@ -1657,3 +1657,10 @@ http://118.189.227.189:11434/v1,"llama3.1:8b, qwen2:7b, qwen2:7b-instruct-q4_K_M
 http://172.105.124.212:11434/v1,"smollm2:135m, qwen2.5:1.5b"
 http://47.96.131.9:11434/v1,deepseek-r1:1.5b
 http://183.158.254.210:11434/v1,"qwen2.5:14b, deepseek-r1:14b, deepseek-coder-v2:latest, codellama:13b"
+http://52.195.181.68:8089/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://118.189.214.149:11434/v1,"deepseek-coder:latest, dolphin-mixtral:latest, openchat:latest, gemma:latest, vicuna:latest, llama3:latest, llama2:latest, mixtral:latest, mistral:latest, llama3.2:latest"
+http://222.128.1.152:11434/v1,"llama3.1:8b-instruct-q4_K_M, huihui_ai/deepseek-r1-abliterated:14b, huihui_ai/qwq-abliterated:latest, huihui_ai/qwen2.5-abliterate:14b, huihui_ai/qwen2.5-abliterate:32b, mistral-small3.1:latest"
+http://58.34.94.147:11434/v1,"llama3.2-vision:latest, gemma3:12b, qwen2.5:14b, nomic-embed-text:latest"
+http://111.113.214.97:11434/v1,"gemma3:12b, deepseek-r1:32b, deepseek-r1:14b, qwen2:7b, llama3.2:latest"
+http://59.124.7.158:11434/v1,"llama3.1:latest, gemma3:27b, hf.co/mradermacher/Qwen2-7B-Multilingual-RP-GGUF:Q8_0, llama3.1:8b, mistral-small:latest"
+http://211.75.159.144:11434/v1,"jcai/breeze-7b-instruct-v1_0:f16, llama3.1:8b, cwchang/llama3-taide-lx-8b-chat-alpha1:latest, ycchen/breeze-7b-instruct-v1_0:latest, cwchang/llama-3-taiwan-8b-instruct:latest"
