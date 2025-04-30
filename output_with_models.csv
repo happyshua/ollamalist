@@ -1787,3 +1787,13 @@ http://116.7.53.198:12345/v1,"smollm2:135m, qwen2:7b, llama3:8b, deepseek-r1:8b"
 http://221.229.54.58:11434/v1,"qwen2.5:3b, deepseek-r1:1.5b, deepseek-r1:latest"
 http://115.227.160.95:11434/v1,deepseek-r1:8b
 http://47.92.194.32:11434/v1,"deepseek-r1:1.5b, qwen:latest, deepseek-r1:14b"
+http://54.90.71.20:2082/v1,"deepseek-r1:latest, openchat:7b"
+http://34.235.145.38:2052/v1,"llama2:latest, codellama:13b, deepseek-r1:latest, openchat:7b"
+http://54.218.81.148:2052/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://180.121.50.51:11434/v1,"gemma3:27b, qwen3:32b, deepseek-v2:latest, deepseek-r1:7b, gemma3:latest, qwen2.5:latest, mistral:latest, llama3.2:latest, deepseek-coder-v2:latest, codellama:latest, codeqwen:latest, qwen2.5-coder:7b, deepseek-coder:6.7b"
+http://139.227.76.157:11434/v1,"deepseek-r1:latest, gemma2:9b"
+http://117.174.109.131:11434/v1,deepseek-r1:32b
+http://36.24.105.8:11434/v1,"llava:34b, qwq:latest, minicpm-v:8b-2.6-q8_0, ZimaBlueAI/Qwen2-VL-7B-Instruct:latest, erwan2/DeepSeek-Janus-Pro-7B:latest, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, deepseek-r1:32b, minicpm-v:latest, deepseek-r1:70b"
+http://3.36.49.251:2082/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://43.201.85.254:9080/v1,"llama3:latest, llama2:latest, openchat:7b"
+http://52.78.38.64:49667/v1,"deepseek-r1:latest, codellama:13b, openchat:7b, llama2:latest, qwen2.5:1.5b"
