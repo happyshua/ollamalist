@@ -1820,3 +1820,4 @@ http://3.144.96.75:3780/v1,"codellama:13b, openchat:7b, llama2:latest, deepseek-
 http://13.114.142.19:2052/v1,"llama2:latest, codellama:13b"
 http://18.179.196.224:631/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b"
 http://13.114.142.19:2077/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b"
+http://27.14.214.242:11434/v1,"DeepSeek-R1-Distill-Qwen-14B-Q8_0:latest, Qwen_QwQ-32B-Q3_K_M:latest, deepseek-r1-distill-qwen-32b-abliterated-q3_k_s:latest, deepseek-r1:32b"
