@@ -1730,3 +1730,13 @@ http://15.168.239.53:9100/v1,"deepseek-r1:latest, codellama:13b, llama3:latest, 
 http://14.145.212.193:11434/v1,"qwen2.5:7b, deepseek-r1:8b, deepseek-r1:7b"
 http://72.89.182.12/v1,"deepseek-r1:7b, deepseek-r1:8b, deepseek-r1:14b, gemma3:4b, phi4:latest"
 http://144.255.3.163:11434/v1,"deepseek-r1:1.5b, deepseek-r1:14b"
+http://3.137.172.230/v1,deepseek-r1:latest
+http://35.85.218.99/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, codellama:13b"
+http://13.115.254.119/v1,"openchat:7b, llama2:latest, llama3:latest, qwen2.5:1.5b"
+http://15.168.12.167:8800/v1,"llama2:latest, openchat:7b, codellama:13b, llama3:latest"
+http://15.168.13.130:2077/v1,"openchat:7b, llama3:latest"
+http://172.234.29.84:11434/v1,llama3.1:8b
+http://36.133.179.11:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://36.139.118.236:11434/v1,"qwen2.5:3b-instruct, qwen2.5:7b-instruct, bge-m3:latest, qwq:32b-fp16, smollm2:135m, deepseek-r1:32b, qwen2.5mod5:32b-instruct, qwen2.5mod4:32b-instruct, qwen2.5mod3:32b-instruct, qwen2.5mod2:32b-instruct, qwen2.5mod1:32b-instruct, qwen2.5:32b-instruct, qwen2.5:72b-instruct, llava:34b, nomic-embed-text:latest, qwen2:7b"
+http://117.50.241.69:11434/v1,"gemma3:27b, gemma3:12b, gemma3:4b, gemma3:1b, qwen2.5:14b, qwen2.5:7b, qwen2.5:3b, qwen2.5:1.5b, qwen2.5:0.5b, nomic-embed-text:latest, qwen2.5:latest"
+http://114.32.168.75:6060/v1,"gemma3:latest, openthinker:latest, deepscaler:latest"
