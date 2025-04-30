@@ -1701,3 +1701,9 @@ http://106.3.99.1:11434/v1,"qwen2.5:0.5b-instruct, huihui_ai/qwen2.5-coder-ablit
 http://3.35.173.109:7547/v1,"codellama:13b, openchat:7b"
 http://116.204.67.207:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
 http://47.94.208.32:11434/v1,"qwq:latest, qwen2.5_sanriji:latest, deepseek-r1:32b-qwen-distill-q4_K_M, qwen2.5:latest, Qwen2.5_HLM_f16:9b, GLM_HLM_f16:9b, GLM_9B_Q4:9b, qwen2.5_HLM_Q4:7b, deepseek-r1:14b, deepseek-r1:32b, smollm2:135m, phi4:14b, milkey/gte:base-zh-f16, nomic-embed-text:latest, rjmalagon/gte-qwen2-1.5b-instruct-embed-f16:latest, qwen2.5-coder:latest, qwen2.5:32b, glm4:9b-chat-fp16, qwen2.5:14b, qwen2.5:32b-instruct-q3_K_S, deepseek-coder-v2:latest, nemotron:70b-instruct-q2_K, mixtral:latest, gemma2:latest, quentinz/bge-base-zh-v1.5:latest, glm4:latest, mofanke/acge_text_embedding:latest"
+http://208.64.37.201:11434/v1,"MartinRizzo/Ayla-Light-v2:12b-q4_K_M, llama3.1:8b"
+http://98.82.26.69:5007/v1,codellama:13b
+http://13.60.71.62:7002/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest"
+http://18.181.152.135:999/v1,"llama3:latest, openchat:7b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://15.168.8.69:3337/v1,"llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
+http://60.205.8.90:11434/v1,"qwen2.5:latest, bge-large:latest, qwq:latest, deepseek-r1:7b, nomic-embed-text:latest"
