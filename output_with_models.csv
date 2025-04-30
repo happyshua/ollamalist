@@ -1750,3 +1750,13 @@ http://220.135.70.84:11434/v1,"qwen3:30b, qwen3:32b"
 http://140.135.11.232:11434/v1,"gemma3:27b, deepseek-r1:32b, codellama:34b, codestral:latest, gemma2:27b, mistral:latest, llama3.1:latest, gemma:latest, qwq:latest, phi4:latest, qwen2.5:32b"
 http://35.194.193.228/v1,"llama3.1:8b-instruct-q3_K_S, llama3.3:70b-instruct-q4_K_M"
 http://125.228.191.157:11434/v1,"qwen3:30b-a3b, qwen2.5:14b"
+http://13.231.106.38:8880/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://119.91.239.215:11434/v1,llama3.2:latest
+http://115.190.108.178:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
+http://60.165.248.116:11434/v1,deepseek-r1:1.5b
+http://101.201.150.208:11434/v1,"qwen2.5:32b, deepseek-r1:70b"
+http://220.194.43.109:11434/v1,"qwen3:latest, deepseek-r1:7b, bge-m3:latest, qwen2.5:latest"
+http://218.66.255.38:11434/v1,"llama3.1:8b, deepseek-r1:14b"
+http://36.134.40.52:11434/v1,"qwen3:32b-q4_K_M, linux6200/bge-reranker-v2-m3:latest, quentinz/bge-base-zh-v1.5:latest, qwq:latest"
+http://39.108.89.176:11434/v1,deepseek-r1:32b
+http://143.198.80.203:11434/v1,"huihui_ai/phi4-mini-abliterated:3.8b-q8_0, huihui_ai/qwen2.5-coder-abliterate:7b, huihui_ai/deepseek-r1-abliterated:latest, huihui_ai/qwen2.5-coder-abliterate:0.5b, smollm2:135m, huihui_ai/falcon3-abliterated:10b, bge-large:335m, huihui_ai/qwen2.5-coder-abliterate:1.5b"
