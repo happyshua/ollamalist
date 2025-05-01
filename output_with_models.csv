@@ -1764,3 +1764,6 @@ http://8.152.1.118:11434/v1,"smollm2:135m, qwen3:1.7b-q4_K_M, qwen3:1.7b, deepse
 http://156.240.9.83:11434/v1,"smollm2:135m, llama3.1:8b, deepseek-r1:1.5b"
 http://120.46.18.165:11434/v1,"qwen2.5:0.5b, qwen2.5:1.5b"
 http://124.223.21.82:11434/v1,deepseek-r1:1.5b
+http://139.129.23.104:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama2:latest, nomic-embed-text:latest"
+http://125.122.38.33:11434/v1,"qwen2.5:72b, bge-m3:latest, Nomic-Embed-Text:latest, deepseek-r1:70b, deepseek-r1:7b"
+http://121.237.181.153:11434/v1,qwen2.5:14b
