@@ -1969,3 +1969,8 @@ http://15.168.140.85:1024/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest"
 http://117.50.173.228:11434/v1,"smollm2:135m, bge-m3:latest"
 http://175.0.27.68:11434/v1,"deepseek-r1:7b, qwen2.5-7b:latest"
 http://122.228.40.36:11434/v1,deepseek-r1:7b
+http://107.178.157.209:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, smollm:135m, gemma3:4b, llama3.1:8b, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, llama3:latest, hermes3:8b"
+http://220.168.146.21:60001/v1,"llama3.2:3b-instruct-q5_K_M, milkey/Qihoo360-Light-R1-32B:q4_K_M, gemma3:27b, bge-m3:latest, justinledwards/mistral-small-3.1-Q6_K:latest"
+http://44.211.192.34:8001/v1,"llama2:latest, codellama:13b"
+http://54.166.244.7:1024/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://100.27.227.132:888/v1,openchat:7b
