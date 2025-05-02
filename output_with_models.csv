@@ -1983,3 +1983,4 @@ http://18.223.158.99:8002/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest, codellam
 http://52.11.167.39:8002/v1,"llama2:latest, qwen2.5:1.5b, openchat:7b"
 http://54.218.66.220:8181/v1,"deepseek-r1:latest, llama3:latest, openchat:7b, codellama:13b"
 http://18.181.119.63:8080/v1,"llama3:latest, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b, openchat:7b"
+http://147.93.58.8/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b"
