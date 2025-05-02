@@ -1895,3 +1895,6 @@ http://13.231.230.75:8020/v1,deepseek-r1:latest
 http://56.124.36.233:8081/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b, openchat:7b"
 http://54.180.244.164:8082/v1,llama3:latest
 http://211.90.219.245:11001/v1,deepseek-r1:70b
+http://172.87.208.5:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, smollm:135m, gemma3:4b, llama3.1:8b, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, llama3:latest, hermes3:8b"
+http://107.178.157.243:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, smollm:135m, gemma3:4b, llama3.1:8b, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, llama3:latest, hermes3:8b"
+http://172.87.208.8:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, smollm:135m, gemma3:4b, llama3.1:8b, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, llama3:latest, hermes3:8b"
