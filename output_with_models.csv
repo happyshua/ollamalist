@@ -2095,3 +2095,7 @@ http://13.208.212.192/v1,qwen2.5:1.5b
 http://15.168.173.95:82/v1,openchat:7b
 http://3.38.97.178:81/v1,"openchat:7b, codellama:13b, llama2:latest"
 http://125.244.148.29:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3.2:latest, gemma2:latest, gemma:latest, llama3:latest, qwen2.5:1.5b, llama3.1:latest"
+http://3.137.214.90:81/v1,"deepseek-r1:latest, codellama:13b"
+http://18.188.33.159/v1,codellama:13b
+http://35.93.27.1:84/v1,"llama3:latest, deepseek-r1:latest, codellama:13b, llama2:latest"
+http://120.72.37.167/v1,Qwen/Qwen2.5-3B-Instruct-GGUF:latest
