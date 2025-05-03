@@ -2030,3 +2030,4 @@ http://52.195.214.77:8001/v1,"codellama:13b, llama3:latest, deepseek-r1:latest, 
 http://43.203.244.121:8090/v1,"llama2:latest, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
 http://115.197.85.249:8089/v1,"deepseek-r1:14b, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:8b"
 http://117.50.159.241:11434/v1,"deepseek-r1:7b, deepseek-r1:14b, llama2-chinese:latest, llama3.2:latest"
+http://1.14.16.6:7007/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:14b, deepseek-r1:8b"
