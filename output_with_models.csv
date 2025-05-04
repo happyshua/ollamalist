@@ -2178,3 +2178,7 @@ http://175.162.9.1:11434/v1,"qwen2:7b, mistral:7b, bakllava:7b, llava:7b, qwen:1
 http://39.98.127.119:11434/v1,deepseek-r1:1.5b
 http://139.224.134.169:8003/v1,"qwen3:30b-a3b-q4_K_M, qwen3:32b-q4_K_M, bge-m3:latest, nomic-embed-text:latest"
 http://123.185.223.144:10000/v1,"qwq:latest, gemma3:27b, gemma3:12b"
+http://3.36.121.218:3523/v1,"openchat:7b, llama3:latest"
+http://13.60.224.230:5985/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, llama2:latest, codellama:13b"
+http://1.175.86.225:11434/v1,"qwen3:8b, qwen3:latest, llama3.1:8b, gemma3:12b, gemma3:12b-it-q4_K_M, gemma3:4b-it-qat, gemma3:12b-it-qat, gemma3:27b-it-qat"
+http://222.101.227.59:11434/v1,"granite-3.3-8b-instruct-Q4_K_M-1745912094099:latest, qwen3:8b-q4_K_M, GemmaCoder3-12B.Q4_K_M-1743564619600:latest, BGE-M3-567M-Q8_0-1743564540684:latest, nomic-embed-text:latest, EXAONE-Deep-7.8B-Q5_K_M-1742523920426:latest, gemma-3-12b-it-Q4_K_M-1741864183708:latest, kanana-nano-2.1b-instruct-q8_0:latest, DeepSeek-R1-Distill-Llama-8B_korean_reasoning.Q4_K_M-1739885983290:latest, phi-4-open-R1-Distill-EZOv1.Q4_K_S-1739612433850:latest, bakllava:latest"
