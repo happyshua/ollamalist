@@ -2174,3 +2174,4 @@ http://18.141.231.54:10035/v1,"codellama:13b, qwen2.5:1.5b, llama2:latest"
 http://13.229.117.107:8080/v1,"openchat:7b, llama2:latest"
 http://54.254.214.96:7779/v1,codellama:13b
 http://54.179.88.43:5985/v1,codellama:13b
+http://175.162.9.1:11434/v1,"qwen2:7b, mistral:7b, bakllava:7b, llava:7b, qwen:14b, qwen:7b, qwen:14b-chat, qwen:7b-chat"
