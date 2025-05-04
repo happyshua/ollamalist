@@ -2132,3 +2132,4 @@ http://13.124.103.200:7443/v1,"llama3:latest, openchat:7b, llama2:latest, qwen2.
 http://113.44.157.202:11434/v1,"qwen2.5:0.5b, qwen2.5-coder:1.5b"
 http://222.64.56.240:11434/v1,"smollm2:135m, deepseek-r1:14b, deepseek-r1:8b"
 http://139.159.216.10:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:8b"
+http://120.27.152.98:11434/v1,"qwen2.5:14b-instruct, qwen2.5:72b-instruct"
