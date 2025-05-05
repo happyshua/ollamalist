@@ -1810,3 +1810,10 @@ http://36.134.137.3:8000/v1,"llama3.2:3b-instruct-q5_K_M, qwq:latest, uzpitcmy:l
 http://116.234.54.54:11434/v1,"deepseek-r1:latest, nomic-embed-text:latest, shaw/dmeta-embedding-zh:latest, deepseek-r1:32b"
 http://222.75.51.9:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-coder:latest, nomic-embed-text:latest, deepseek-r1:1.5b"
 http://221.197.228.180:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, deepseek-r1:32b, deepseek-14b:latest"
+http://52.37.84.201:49153/v1,deepseek-r1:latest
+http://13.231.151.148:5000/v1,"qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://54.168.246.88:49153/v1,"llama3:latest, openchat:7b, llama2:latest, qwen2.5:1.5b"
+http://3.35.230.70:30005/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, openchat:7b, codellama:13b"
+http://3.38.213.72:5001/v1,llama3:latest
+http://52.79.161.198:49155/v1,"codellama:13b, openchat:7b"
+http://3.34.191.136:30005/v1,"llama2:latest, openchat:7b"
