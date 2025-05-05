@@ -1846,3 +1846,6 @@ http://13.56.151.15:3780/v1,"openchat:7b, llama3:latest, codellama:13b, deepseek
 http://56.228.7.85:9334/v1,"codellama:13b, deepseek-r1:latest"
 http://13.124.103.200:5000/v1,"deepseek-r1:latest, llama3:latest"
 http://13.124.139.18:8085/v1,"deepseek-r1:latest, codellama:13b, llama3:latest"
+http://121.133.223.135:11434/v1,"smollm2:135m, EEVE-Korean-NER:latest, hf.co/bartowski/Chronos-Gold-12B-1.0-GGUF:Q8_0"
+http://3.35.235.236:8129/v1,llama3:latest
+http://43.202.66.28:1830/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest, codellama:13b, deepseek-r1:latest"
