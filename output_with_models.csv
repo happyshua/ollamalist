@@ -1835,3 +1835,10 @@ http://113.12.102.206:8999/v1,qwen2.5:14b
 http://18.188.42.145:8000/v1,"openchat:7b, llama2:latest, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
 http://54.245.202.2:49154/v1,openchat:7b
 http://54.200.33.254:49154/v1,qwen2.5:1.5b
+http://54.167.107.157:17988/v1,"llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://18.144.39.136:40000/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b, llama3:latest"
+http://35.161.253.220:5550/v1,"deepseek-r1:latest, llama3:latest, openchat:7b, llama2:latest, codellama:13b"
+http://13.231.130.66:49152/v1,"openchat:7b, codellama:13b"
+http://18.181.191.170:3542/v1,"llama2:latest, openchat:7b, qwen2.5:1.5b"
+http://15.152.48.147:5357/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, deepseek-r1:latest"
+http://13.208.134.241:4567/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b, deepseek-r1:latest"
