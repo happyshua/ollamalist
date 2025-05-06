@@ -1864,3 +1864,4 @@ http://18.144.74.241:40000/v1,"openchat:7b, codellama:13b, llama2:latest, llama3
 http://54.199.210.80:49153/v1,"deepseek-r1:latest, codellama:13b, llama2:latest"
 http://57.180.63.168:49155/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
 http://15.168.39.144:8069/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://111.59.20.46:11434/v1,deepseek-r1:32b
