@@ -1891,3 +1891,12 @@ http://36.248.203.239:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen3:30b, qwen3:30
 http://183.156.213.47:11434/v1,"deepseek-r1:7b, deepseek-r1:14b"
 http://3.39.227.156:3128/v1,qwen2.5:1.5b
 http://114.80.100.84:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen2.5:latest, llama3.2:3b, deepseek-r1:8b"
+http://54.215.127.223:6581/v1,"llama2:latest, deepseek-r1:latest, llama3:latest"
+http://18.144.33.10:8089/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://13.56.18.220:8089/v1,"codellama:13b, deepseek-r1:latest"
+http://52.196.165.203:8089/v1,openchat:7b
+http://13.231.238.205:8089/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
+http://13.124.241.71:9191/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
+http://182.233.203.9:3000/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:12b, gemma3:4b, qwq:32b, gemma3:27b, gemma:7b, huihui_ai/llama3.3-abliterated:latest, huihui_ai/deepseek-r1-abliterated:70b, huihui_ai/qwen2.5-coder-abliterate:32b, huihui_ai/openthinker-abliterated:32b, huihui_ai/deepseek-r1-abliterated:32b, huihui_ai/deepseek-r1-abliterated:14b, huihui_ai/deepseek-r1-abliterated:8b, deepseek-r1:32b, deepseek-v2:16b, deepseek-r1:7b, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:1.5b, llama3.2-vision:11b, mistral-small:latest, mistral-nemo:latest"
+http://3.35.20.130:8089/v1,openchat:7b
+http://43.203.240.231:8089/v1,"deepseek-r1:latest, llama2:latest, llama3:latest"
