@@ -1890,3 +1890,4 @@ http://36.105.165.141:11434/v1,deepseek-r1:7b
 http://36.248.203.239:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen3:30b, qwen3:30b-a3b, qwen3:32b, bge-large:latest, qwen2.5:32b, deepseek-r1:32b, qwq:latest"
 http://183.156.213.47:11434/v1,"deepseek-r1:7b, deepseek-r1:14b"
 http://3.39.227.156:3128/v1,qwen2.5:1.5b
+http://114.80.100.84:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen2.5:latest, llama3.2:3b, deepseek-r1:8b"
