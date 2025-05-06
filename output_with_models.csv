@@ -1883,3 +1883,10 @@ http://52.195.194.150:55555/v1,"codellama:13b, llama2:latest, llama3:latest"
 http://106.14.35.66:11434/v1,deepseek-r1:1.5b
 http://13.124.123.105:55442/v1,"qwen2.5:1.5b, llama2:latest"
 http://54.180.133.82:4664/v1,"llama2:latest, deepseek-r1:latest"
+http://44.243.104.172:801/v1,"openchat:7b, llama2:latest"
+http://54.177.177.243:3000/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b"
+http://54.199.247.228:2095/v1,llama3:latest
+http://36.105.165.141:11434/v1,deepseek-r1:7b
+http://36.248.203.239:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen3:30b, qwen3:30b-a3b, qwen3:32b, bge-large:latest, qwen2.5:32b, deepseek-r1:32b, qwq:latest"
+http://183.156.213.47:11434/v1,"deepseek-r1:7b, deepseek-r1:14b"
+http://3.39.227.156:3128/v1,qwen2.5:1.5b
