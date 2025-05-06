@@ -1943,3 +1943,6 @@ http://35.93.22.5:8080/v1,"llama2:latest, codellama:13b"
 http://222.129.38.84:11434/v1,"gemma3:27b, qwq:latest, deepseek-r1:32b"
 http://54.238.214.150:8080/v1,"codellama:13b, llama3:latest, openchat:7b, deepseek-r1:latest"
 http://13.231.31.155:8080/v1,"deepseek-r1:latest, codellama:13b, openchat:7b, llama2:latest, llama3:latest"
+http://3.149.240.250:2086/v1,"deepseek-r1:latest, llama2:latest, llama3:latest"
+http://13.208.248.128:9444/v1,qwen2.5:1.5b
+http://171.43.196.232:11434/v1,"llama3.2:3b-instruct-q5_K_M, smollm2:135m, deepseek-r1:latest"
