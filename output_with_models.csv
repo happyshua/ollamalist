@@ -1865,3 +1865,11 @@ http://54.199.210.80:49153/v1,"deepseek-r1:latest, codellama:13b, llama2:latest"
 http://57.180.63.168:49155/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
 http://15.168.39.144:8069/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b"
 http://111.59.20.46:11434/v1,deepseek-r1:32b
+http://54.198.192.128:3128/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://18.236.164.92:55555/v1,"qwen2.5:1.5b, llama2:latest, llama3:latest, codellama:13b, deepseek-r1:latest"
+http://54.186.109.30:6998/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, codellama:13b, llama3:latest"
+http://56.228.8.18:3000/v1,openchat:7b
+http://15.152.32.102:10030/v1,"deepseek-r1:latest, openchat:7b"
+http://57.181.31.49:7070/v1,"llama3:latest, deepseek-r1:latest"
+http://117.184.67.158:3000/v1,"llama3.2:3b-instruct-q5_K_M, qwen3:32b, qwq:latest, justinledwards/mistral-small-3.1-Q6_K:latest, qwen2.5:32b-instruct-q4_K_M, gemma3:latest, deepseek-r1:32b, deepseek-r1:7b, deepseek-r1:latest, phi4:latest, bge-m3:latest, aratan/phi-4:latest, bge-large:latest, gpt-3.5-turbo:latest, qwen2.5-coder:14b, qwen2.5-coder:7b, deepseek-coder:33b, qwen2.5-coder:32b, llama3.2:latest, qwen2.5-coder:latest, qwen2.5:latest, qwen2.5:32b, qwen:latest, quentinz/bge-large-zh-v1.5:latest, deepseek-coder-v2:latest, llama3.1:latest, mistral-nemo:latest, qwen2:7b, qwen2:72b, qwen2:latest, gemma2:27b, gemma2:latest, gemma2:2b, nomic-embed-text:latest, mistral:latest, llama3.1:70b"
+http://58.38.5.177:11434/v1,"llama3.2:3b-instruct-q5_K_M, smollm2:135m, deepseek-r1:7b"
