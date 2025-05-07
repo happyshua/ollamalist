@@ -2002,3 +2002,4 @@ http://18.212.98.164:2869/v1,"openchat:7b, qwen2.5:1.5b"
 http://18.217.56.226:2082/v1,deepseek-r1:latest
 http://113.110.245.71:11434/v1,"llama3.2:3b, nomic-embed-text:latest, deepseek-r1:8B"
 http://183.179.9.186:11434/v1,"llama3.1:8b, gemma3:latest, smollm2:135m, qwen2.5:14b"
+http://59.61.64.87:11434/v1,deepseek-r1:32b
