@@ -1964,3 +1964,4 @@ http://34.224.91.78:2086/v1,"llama2:latest, openchat:7b"
 http://101.81.237.102:8060/v1,"llama3.2:3b-instruct-q5_K_M, hf-mirror.com/mradermacher/Qwen2-7B-Multilingual-RP-GGUF:Q8_0, deepseek-r1:32b"
 http://15.165.77.203:449/v1,"deepseek-r1:latest, llama2:latest, llama3:latest"
 http://43.202.60.142:2086/v1,deepseek-r1:latest
+http://171.217.157.210:11434/v1,"deepseek-r1:1.5b, Qwen2.5:0.5b"
