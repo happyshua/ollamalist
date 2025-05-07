@@ -1996,3 +1996,4 @@ http://34.160.37.221/v1,"tinyllama:latest, mistral:latest, llama3.2:latest, deep
 http://223.99.216.94:11434/v1,"bx7b20:latest, bx7b:latest, bx8b:latest, test1:latest, deepseek-r1:8b, deepseek-r1:1.5b, deepseek-r1:32b, deepseek-r1:14b"
 http://43.203.206.196:9870/v1,"llama2:latest, deepseek-r1:latest"
 http://14.52.161.217/v1,"smollm2:135m, starcoder2:15b, llava:34b, qwq:latest, phi4:latest, llama3.2:latest, llama3.1:latest, exaone3.5:32B"
+http://ai-ollama.sinog2c.com/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, llama3.2:3b, bge-m3:567m, deepseek-r1:1.5b, deepseek-r1:7b, deepseek-r1:8b"
