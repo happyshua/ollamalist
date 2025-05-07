@@ -1959,3 +1959,4 @@ http://18.167.99.79:7547/v1,"codellama:13b, openchat:7b, llama3:latest, deepseek
 http://43.198.98.115:7547/v1,"codellama:13b, llama2:latest"
 http://18.166.213.124:2252/v1,"openchat:7b, llama2:latest"
 http://112.91.239.61:11434/v1,"deepseek-r1:32b, deepseek-r1:1.5b, deepseek-r1:8b"
+http://1.95.215.79:11434/v1,deepseek-r1:1.5b
