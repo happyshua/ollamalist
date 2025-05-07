@@ -1986,3 +1986,8 @@ http://13.208.189.195:2080/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, l
 http://43.202.60.142:2080/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, openchat:7b"
 http://110.42.207.179:6010/v1,"ZimaBlueAI/Qwen2.5-VL-7B-Instruct:latest, qwen2.5:1.5b, llama3.2:3b-instruct-q5_K_M, qwen2.5:7b, qwen2.5:14b"
 http://118.178.254.100:11434/v1,"qwen3:0.6b, qwen3:4b, qwen3:8b, qwen3:14b, codegemma:latest, deepseek-r1:1.5b, deepseek-r1:14b, qwen2.5-coder:3b, codegemma:2b, starcoder2:latest, gemma3:4b, moondream:latest, granite3.2-vision:latest, llama3.1:8b, qwen2.5-coder:1.5b-base, qwen2.5-coder:7b, deepseek-r1:8b, granite-code:8b, gemma3:12b, qwen2.5:7b, nomic-embed-text:latest, deepseek-coder-v2:latest"
+http://3.21.43.124/v1,openchat:7b
+http://52.88.46.221/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://56.228.19.126:9864/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest, llama2:latest, llama3:latest"
+http://54.65.191.175/v1,"deepseek-r1:latest, codellama:13b"
+http://3.39.223.232/v1,"openchat:7b, qwen2.5:1.5b"
