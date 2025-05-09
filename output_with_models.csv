@@ -1640,3 +1640,5 @@ http://54.254.67.166:8081/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest, opench
 http://13.212.85.108/v1,"codellama:13b, llama3:latest, llama2:latest, deepseek-r1:latest"
 http://59.125.102.80:11434/v1,"gemma3:27b, llama3.2-vision:latest, mistral-small3.1:latest, llava:latest, minicpm-v:latest, llama4:scout, llama3.2:latest, gemma3:12b"
 http://14.199.101.121:11434/v1,"gemma3:27b, mxbai-embed-large:latest, nomic-embed-text:latest, deepseek-r1:32b, qwen3:32b"
+http://13.228.183.170:7779/v1,"openchat:7b, llama2:latest, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://54.179.105.199:8080/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
