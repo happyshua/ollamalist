@@ -1558,3 +1558,25 @@ http://13.208.208.57:8880/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, o
 http://15.168.8.69:3337/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, codellama:13b, llama2:latest"
 http://112.219.167.82:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3.3:latest, llama3:latest"
 http://43.201.219.180:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
+http://43.202.50.219:8080/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://13.124.103.200:5000/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b"
+http://3.38.255.172:2080/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b, deepseek-r1:latest, llama2:latest"
+http://18.144.39.136:5000/v1,llama3:latest
+http://3.39.236.181:28017/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b"
+http://3.36.76.66:9200/v1,"llama3:latest, openchat:7b, llama2:latest, deepseek-r1:latest"
+http://43.201.85.74:8002/v1,llama3:latest
+http://3.38.209.185:2080/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, llama2:latest, openchat:7b"
+http://52.77.240.106:8983/v1,"openchat:7b, codellama:13b, llama2:latest, deepseek-r1:latest"
+http://43.199.156.171:9200/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
+http://3.39.252.12:5938/v1,qwen2.5:1.5b
+http://52.79.253.155:7005/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, llama3:latest"
+http://3.39.252.12:8090/v1,"openchat:7b, codellama:13b, llama3:latest, llama2:latest"
+http://56.155.3.59:9100/v1,llama2:latest
+http://43.202.50.219:1880/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://15.152.32.233:30005/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, llama2:latest"
+http://43.203.247.127:8002/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b"
+http://3.35.51.76:9100/v1,"llama2:latest, deepseek-r1:latest, codellama:13b, llama3:latest"
+http://43.202.32.16:9444/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://18.143.135.161:2010/v1,"openchat:7b, deepseek-r1:latest"
+http://52.79.168.106:5984/v1,"qwen2.5:1.5b, openchat:7b, codellama:13b, deepseek-r1:latest, llama3:latest"
+http://43.201.85.74:8083/v1,"llama2:latest, llama3:latest"
