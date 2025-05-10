@@ -1732,3 +1732,18 @@ http://18.143.174.40:2869/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, l
 http://43.199.209.46:8090/v1,"llama2:latest, openchat:7b, llama3:latest, codellama:13b, deepseek-r1:latest"
 http://59.126.70.191:11434/v1,"llama3.1:8b, deepseek-r1:14b"
 http://140.117.176.85:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, llama3.2:latest, breeze:7b, deepseek-r1:32b, phi4:14b, llama3.3:70b"
+http://3.96.126.93:8080/v1,"deepseek-r1:latest, llama3:latest, llama2:latest"
+http://118.251.69.201:11434/v1,"deepseek-r1:7b, smartcreation/bge-large-zh-v1.5:latest, viosay/xiaobu-embedding-v2:latest, qwen:latest, bge-m3:latest, quentinz/bge-large-zh-v1.5:latest, nomic-embed-text:latest, mofanke/acge_text_embedding:latest, linux6200/bge-reranker-v2-m3:latest"
+http://160.40.53.74:8080/v1,"llama3.2:3b-instruct-q5_K_M, llama3.1:8b, infoslack/Linkbricks-Horizon-AI-Japanese-Superb-V3-70B-q4:latest, hhao/qwen2.5-coder-tools:14b, hhao/qwen2.5-coder-tools:32b, qwen2.5-coder:32b, qwen2.5:32b, llama3.3:latest, deepseek-r1:32b, deepseek-r1:70b, mistral-nemo:latest, deepseek-v2:16b, qwen2.5-coder:14b, mistral:latest, deepseek-coder-v2:latest"
+http://18.181.191.170:31337/v1,"codellama:13b, llama2:latest, openchat:7b, deepseek-r1:latest"
+http://13.115.247.9:8085/v1,"llama2:latest, llama3:latest, codellama:13b"
+http://15.168.239.251:8080/v1,"codellama:13b, openchat:7b, llama2:latest"
+http://43.198.207.95:8080/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b, codellama:13b"
+http://18.163.238.162:8001/v1,llama2:latest
+http://13.229.56.149:888/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, llama3:latest"
+http://13.229.181.107:8083/v1,openchat:7b
+http://13.228.25.253:8080/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://13.212.149.199:8088/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, llama2:latest"
+http://13.229.44.163:8080/v1,"deepseek-r1:latest, llama2:latest"
+http://47.100.102.131:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwq:latest, qllama/bge-reranker-large:latest, deepseek-r1:latest, deepseek-r1:8b, bge-m3:567m"
+http://118.251.69.201:11434/v1,"deepseek-r1:7b, smartcreation/bge-large-zh-v1.5:latest, viosay/xiaobu-embedding-v2:latest, qwen:latest, bge-m3:latest, quentinz/bge-large-zh-v1.5:latest, nomic-embed-text:latest, mofanke/acge_text_embedding:latest, linux6200/bge-reranker-v2-m3:latest"
