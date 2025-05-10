@@ -1747,3 +1747,9 @@ http://13.212.149.199:8088/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, l
 http://13.229.44.163:8080/v1,"deepseek-r1:latest, llama2:latest"
 http://47.100.102.131:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwq:latest, qllama/bge-reranker-large:latest, deepseek-r1:latest, deepseek-r1:8b, bge-m3:567m"
 http://118.251.69.201:11434/v1,"deepseek-r1:7b, smartcreation/bge-large-zh-v1.5:latest, viosay/xiaobu-embedding-v2:latest, qwen:latest, bge-m3:latest, quentinz/bge-large-zh-v1.5:latest, nomic-embed-text:latest, mofanke/acge_text_embedding:latest, linux6200/bge-reranker-v2-m3:latest"
+http://34.230.78.186:8002/v1,llama2:latest
+http://54.89.193.151:6782/v1,"llama3:latest, qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://100.26.184.225:8086/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://54.146.223.175:8002/v1,llama2:latest
+http://3.142.130.208:81/v1,"llama2:latest, deepseek-r1:latest, llama3:latest, codellama:13b"
+http://110.190.135.86:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:8b, zhenzhen:latest, shaw/dmeta-embedding-zh:latest, deepseek-r1:32b, deepseek-r1:14b"
