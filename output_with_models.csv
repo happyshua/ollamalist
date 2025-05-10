@@ -1718,3 +1718,7 @@ http://221.229.107.137:11434/v1,"deepseek-r1:32b, nomic-embed-text:latest, deeps
 http://54.241.60.109:8084/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, openchat:7b, llama2:latest"
 http://106.55.44.33:11434/v1,"hf-mirror.com/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF:Q6_K_L, hf-mirror.com/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF:latest"
 http://16.162.32.201:8089/v1,"codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, llama2:latest"
+http://54.242.217.167:8001/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://52.79.210.165:8083/v1,"llama3:latest, codellama:13b, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://43.203.229.186:51/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b, llama3:latest, codellama:13b"
+http://13.229.48.121:8081/v1,"codellama:13b, llama3:latest, openchat:7b"
