@@ -1722,3 +1722,8 @@ http://54.242.217.167:8001/v1,"llama3:latest, codellama:13b, deepseek-r1:latest,
 http://52.79.210.165:8083/v1,"llama3:latest, codellama:13b, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
 http://43.203.229.186:51/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b, llama3:latest, codellama:13b"
 http://13.229.48.121:8081/v1,"codellama:13b, llama3:latest, openchat:7b"
+http://43.206.229.65:31337/v1,"llama3:latest, openchat:7b, codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://52.192.68.86:8098/v1,"llama3:latest, qwen2.5:1.5b, llama2:latest"
+http://3.113.28.79:1024/v1,"llama3:latest, llama2:latest"
+http://15.168.144.129:8090/v1,"llama2:latest, deepseek-r1:latest"
+http://180.111.15.10:11434/v1,"qwen3:14b, modelscope.cn/lmstudio-community/Qwen3-14B-GGUF:Q6_K"
