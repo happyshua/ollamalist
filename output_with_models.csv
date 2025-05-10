@@ -1715,3 +1715,4 @@ http://59.28.108.142:11434/v1,"rabbit-ko:latest, llama3-ko:latest"
 http://125.121.120.209:8089/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:14b, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:8b"
 http://52.130.211.79:11434/v1,gemma2:2b
 http://221.229.107.137:11434/v1,"deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:14b"
+http://54.241.60.109:8084/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, openchat:7b, llama2:latest"
