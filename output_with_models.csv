@@ -1796,3 +1796,10 @@ http://54.183.122.14/v1,"llama2:latest, deepseek-r1:latest, codellama:13b, llama
 http://118.163.57.220:11434/v1,"llama3-backup:latest, llama3.1:8b, smollm2:135m, llama3:70b-instruct-q4_K_M, llama3.2:latest, llama3-groq-tool-use:latest, breeze-7b-instruct-v1_0-q4_k_m:latest"
 http://140.134.48.38:443/v1,taide-contract:latest
 http://101.200.40.189:11434/v1,"llama3.2:3b-instruct-q5_K_M, smollm2:135m, deepseek-r1:32b"
+http://49.113.137.68:11434/v1,"deepseek-r1:1.5b, deepseek-r1:8b"
+http://52.196.175.13/v1,"codellama:13b, openchat:7b, llama3:latest"
+http://13.208.192.106/v1,"llama2:latest, codellama:13b"
+http://15.168.239.251/v1,"codellama:13b, openchat:7b, llama2:latest"
+http://112.124.51.176:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, gemma3:27b, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, deepseek-r1:32b, deepseek-r1:70b"
+http://120.241.178.9/v1,unsloth/Qwen3-30B-A3B-GGUF:latest
+http://222.186.21.163:8007/v1,WenLiu-QA-FT-Tiny:latest
