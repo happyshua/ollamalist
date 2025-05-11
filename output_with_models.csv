@@ -1833,3 +1833,10 @@ http://18.166.210.43/v1,codellama:13b
 http://18.166.28.81/v1,"qwen2.5:1.5b, llama2:latest"
 http://60.208.108.50:11434/v1,"qwen2.5:14b, deepseek-r1:32b, hf.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF:Q3_K_M, hf.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF:Q6_K_L, deepseek-r1:14b"
 http://123.57.149.208:11434/v1,qwen2.5-coder:32b
+http://58.211.246.78:11434/v1,"deepseek-r1:32b, deepseek-r1:14b"
+http://47.99.111.144:11434/v1,qwen3:latest
+http://3.91.202.100:10000/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b, llama3:latest, llama2:latest"
+http://56.124.96.166:81/v1,openchat:7b
+http://52.198.124.8:7443/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://13.208.252.125:7443/v1,"llama3:latest, deepseek-r1:latest"
+http://221.167.196.208:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3.1:8b, phi4:latest, phi4-mini:latest"
