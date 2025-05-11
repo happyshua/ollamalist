@@ -1891,3 +1891,12 @@ http://13.230.221.32:9999/v1,llama2:latest
 http://3.112.233.189:8983/v1,llama2:latest
 http://18.183.242.13:82/v1,"qwen2.5:1.5b, codellama:13b"
 http://3.36.127.89:5938/v1,"llama2:latest, openchat:7b"
+http://18.141.240.133:5560/v1,"llama2:latest, codellama:13b"
+http://113.109.240.231:11434/v1,"deepseek-r1:latest, smollm2:135m, qwen:14b, qwen:7b, qwen:4b"
+http://43.198.215.171:82/v1,"deepseek-r1:latest, llama3:latest, llama2:latest"
+http://1.14.102.153:30001/v1,"llama3.2:3b-instruct-q5_K_M, nemotron-mini:latest, qwen2.5:3b, qwen2.5:1.5b, qwen2.5:0.5b, llama3.2:1b, llama3.2:latest, llama3:latest, deepseek-r1:1.5b"
+http://43.207.114.6:81/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, codellama:13b, openchat:7b"
+http://18.183.221.4:88/v1,"deepseek-r1:latest, llama3:latest, llama2:latest"
+http://43.203.169.91:18080/v1,"codellama:13b, openchat:7b, llama3:latest"
+http://54.255.178.161:18080/v1,"llama3:latest, openchat:7b"
+http://18.141.240.133:5560/v1,"llama2:latest, codellama:13b"
