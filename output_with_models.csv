@@ -1877,3 +1877,13 @@ http://13.124.243.113:8983/v1,"llama2:latest, codellama:13b, qwen2.5:1.5b"
 http://34.221.223.128:9999/v1,"qwen2.5:1.5b, codellama:13b"
 http://18.144.37.88:81/v1,"llama3:latest, openchat:7b"
 http://52.53.240.173:85/v1,"llama3:latest, llama2:latest, codellama:13b"
+http://54.183.108.94:10000/v1,deepseek-r1:latest
+http://52.53.240.173:22335/v1,"llama3:latest, llama2:latest, codellama:13b"
+http://3.15.140.0:8378/v1,"openchat:7b, deepseek-r1:latest"
+http://52.90.228.181:8983/v1,"qwen2.5:1.5b, codellama:13b, deepseek-r1:latest, llama2:latest, openchat:7b"
+http://56.155.45.198:1000/v1,"llama2:latest, openchat:7b"
+http://13.208.206.190:8983/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, openchat:7b"
+http://18.162.123.42:82/v1,qwen2.5:1.5b
+http://52.194.211.111:8983/v1,"codellama:13b, openchat:7b, deepseek-r1:latest"
+http://52.197.134.217:620/v1,"llama3:latest, llama2:latest, deepseek-r1:latest, codellama:13b"
+http://101.127.56.2:11434/v1,"goekdenizguelmez/JOSIEFIED-Qwen3:latest, qwen3:latest, hf.co/second-state/Qwen3-4B-GGUF:Q8_0, hf.co/TheDrummer/Gemmasutra-9B-v1-GGUF:Q4_K_M, hf.co/bartowski/L3-8B-Stheno-v3.2-GGUF:Q4_K_M, hf.co/mradermacher/Cydonia-v1.3-Magnum-v4-22B-GGUF:IQ4_XS, hf.co/BobFawkes/T-Rex-mini-Q4_K_M-GGUF:latest, hf.co/mradermacher/Irix-12B-Model_Stock-i1-GGUF:IQ3_S, hf.co/anthracite-org/magnum-v4-9b-gguf:Q4_K_M, hf.co/mradermacher/MN-12B-Mag-Mell-R1-GGUF:IQ3_S, hf.co/bartowski/EVA-Qwen2.5-7B-v0.1-GGUF:Q4_K_M, deepseek-r1:7b, qwen2.5-coder:7b-base-q6_K, qwen2.5-coder:latest, qwen2.5:latest"
