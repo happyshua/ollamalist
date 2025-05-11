@@ -1790,3 +1790,9 @@ http://47.128.76.154:88/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b, codellama:
 http://18.163.6.139:7547/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, codellama:13b"
 http://18.162.244.125:3075/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, openchat:7b, qwen2.5:1.5b"
 http://43.199.156.171:8181/v1,llama2:latest
+http://3.90.190.14/v1,"codellama:13b, llama3:latest"
+http://13.56.229.208/v1,"deepseek-r1:latest, codellama:13b, llama2:latest, llama3:latest"
+http://54.183.122.14/v1,"llama2:latest, deepseek-r1:latest, codellama:13b, llama3:latest, openchat:7b"
+http://118.163.57.220:11434/v1,"llama3-backup:latest, llama3.1:8b, smollm2:135m, llama3:70b-instruct-q4_K_M, llama3.2:latest, llama3-groq-tool-use:latest, breeze-7b-instruct-v1_0-q4_k_m:latest"
+http://140.134.48.38:443/v1,taide-contract:latest
+http://101.200.40.189:11434/v1,"llama3.2:3b-instruct-q5_K_M, smollm2:135m, deepseek-r1:32b"
