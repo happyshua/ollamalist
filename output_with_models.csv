@@ -1919,3 +1919,4 @@ http://43.203.120.78:9999/v1,codellama:13b
 http://3.36.94.199:81/v1,"openchat:7b, qwen2.5:1.5b, codellama:13b"
 http://13.124.120.62:5000/v1,"llama2:latest, deepseek-r1:latest"
 http://43.203.209.124:7000/v1,codellama:13b
+http://115.85.181.93:11434/v1,"llava:latest, llama3.2:latest, llama3.2-vision:latest, llama3.1:8b-instruct-q4_K_M, llama3.2:3b, llava:7b"
