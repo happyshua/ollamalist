@@ -1940,3 +1940,5 @@ http://117.72.216.20:11434/v1,"qwen3:1.7b, qwen3:30b, qwen3:latest, qwen3:14b_no
 http://125.121.232.223:11434/v1,"phi:latest, llama3.2:latest, llama3.2:3b-instruct-fp16, llama3.2:3b, llama3.2:3b-instruct-q8_0, llama3.2-vision:latest, llama3.2:1b"
 http://113.98.58.77:11434/v1,"robinx-308:latest, llama3-8B-DarkIdol_no_prompt:latest, qwen2.5:32b, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, deepseek-r1:32b"
 http://122.231.66.81:11434/v1,"deepseek-r1:7b, deepseek-r1:14b"
+http://54.179.128.237:10000/v1,"codellama:13b, llama2:latest, deepseek-r1:latest"
+http://13.213.18.27:7777/v1,deepseek-r1:latest
