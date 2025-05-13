@@ -1580,3 +1580,11 @@ https://gemma3.demo-app.io/v1,gemma3:4b
 http://gemma3.demo-app.io/v1,gemma3:4b
 http://172.105.122.66:53413/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
 http://172.105.122.66:30005/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://18.222.115.99:3312/v1,"llama2:latest, llama3:latest, codellama:13b"
+http://3.148.178.62:7777/v1,"deepseek-r1:latest, llama3:latest"
+http://54.190.28.21:5000/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, llama2:latest"
+http://54.219.184.64:49153/v1,openchat:7b
+http://44.243.194.119:8112/v1,openchat:7b
+http://3.36.26.95:49155/v1,deepseek-r1:latest
+http://172.105.122.66:5001/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://125.229.69.42:11434/v1,"llama3.2:3b-instruct-q5_K_M, smollm2:135m, deepseek-r1:7b"
