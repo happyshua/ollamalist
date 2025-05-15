@@ -1781,3 +1781,10 @@ http://13.114.208.229:2082/v1,"openchat:7b, llama2:latest"
 http://3.112.150.112:2082/v1,openchat:7b
 http://3.112.150.112:20332/v1,openchat:7b
 http://43.201.100.156:2080/v1,llama2:latest
+http://18.224.34.66:2082/v1,codellama:13b
+http://3.145.7.113:8834/v1,codellama:13b
+http://34.219.127.105:2080/v1,qwen2.5:1.5b
+http://44.246.127.70:8092/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, openchat:7b"
+http://13.231.248.210:2082/v1,"openchat:7b, qwen2.5:1.5b"
+http://172.105.122.66:2077/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://14.215.50.24:11434/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest"
