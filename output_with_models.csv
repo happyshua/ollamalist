@@ -1730,3 +1730,4 @@ http://52.78.156.31:9981/v1,"openchat:7b, qwen2.5:1.5b, codellama:13b, llama2:la
 http://54.180.234.174:9943/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b"
 http://3.34.96.38:2095/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, openchat:7b, codellama:13b"
 http://120.108.111.124:11434/v1,llama3.1:8b
+http://172.105.122.66:6379/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
