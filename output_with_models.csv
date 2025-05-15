@@ -1764,3 +1764,15 @@ http://13.212.143.1:2080/v1,"llama3:latest, openchat:7b, deepseek-r1:latest"
 http://222.112.21.191:11434/v1,"llama3.2:3b-instruct-q5_K_M, codellama:7b, qwen2.5-coder:3b-instruct-q4_0, qwen2.5-coder:7b-instruct, phi3:3.8b-instruct, qwen2.5-coder:1.5b, deepseek-coder:1.3b, qwen2.5-coder:7b, deepseek-coder-v2:latest, gemma3:1b, qwen2.5-coder:14b, gemma3:12b"
 http://47.109.107.119:11434/v1,"gemma3:27b, qwen3:32b, bge-m3:latest, nomic-embed-text:latest, deepseek-r1:32b"
 http://47.116.206.185/v1,deepseek-r1:32b
+http://117.50.223.60:11434/v1,"qwen3:32b, deepseek-r1:32b"
+http://43.199.205.95:2080/v1,deepseek-r1:latest
+http://13.212.60.203:7493/v1,"deepseek-r1:latest, codellama:13b, openchat:7b"
+http://18.166.208.103:12999/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://15.168.11.169:2082/v1,"openchat:7b, codellama:13b, llama2:latest, qwen2.5:1.5b"
+http://18.166.208.103:12999/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://43.199.205.95:2080/v1,deepseek-r1:latest
+http://54.180.163.81:2082/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://13.229.82.70:4040/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://13.212.60.203:7493/v1,"deepseek-r1:latest, codellama:13b, openchat:7b"
+http://172.105.122.66:3337/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://172.105.122.66:1344/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
