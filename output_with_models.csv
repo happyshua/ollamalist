@@ -1678,3 +1678,5 @@ http://117.50.152.147:11434/v1,"deepseek-r1:14b, deepseek-r1:7b, deepseek-r1:1.5
 http://122.115.57.196:11434/v1,"qwen3:32b-fp16, qwen3:235b, qwen3:32b"
 http://35.77.89.138:2086/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, codellama:13b, llama2:latest"
 http://18.181.175.145:3052/v1,"openchat:7b, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://56.124.112.95:5560/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://40.162.41.142/v1,phi3.5:3.8b
