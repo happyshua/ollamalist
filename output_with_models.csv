@@ -1815,3 +1815,6 @@ http://18.183.143.105:2080/v1,qwen2.5:1.5b
 http://175.41.215.65:28017/v1,"llama2:latest, openchat:7b, codellama:13b, qwen2.5:1.5b"
 http://113.44.138.18:11434/v1,"hf-mirror.com/mradermacher/Qwen2-7B-Multilingual-RP-GGUF:Q8_0, deepseek-r1:32b"
 http://121.35.46.81:11434/v1,"harishkumar56278/TextContentModerator:7b, harishkumar56278/VisionContentModerator:12b, llama-guard3:8b, llava:13b, llama3.2-vision:11b, qwen2:7b, quentinz/bge-large-zh-v1.5:latest, deepseek-r1:14b"
+http://52.195.3.141:8800/v1,"deepseek-r1:latest, codellama:13b, llama3:latest, llama2:latest, openchat:7b"
+http://54.95.50.96:5427/v1,qwen2.5:1.5b
+http://43.202.41.46:9001/v1,"openchat:7b, codellama:13b, llama2:latest, deepseek-r1:latest, llama3:latest"
