@@ -1805,3 +1805,13 @@ http://18.179.119.230:28017/v1,llama2:latest
 http://54.65.5.125:28017/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b, llama2:latest, codellama:13b"
 http://43.206.212.152:28017/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, openchat:7b, codellama:13b"
 http://172.105.122.66:9001/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://52.79.151.42:28017/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://43.201.149.108:2082/v1,qwen2.5:1.5b
+http://3.149.27.152:2082/v1,"openchat:7b, llama2:latest, llama3:latest"
+http://43.201.250.228:28017/v1,codellama:13b
+http://54.174.185.25:1471/v1,"codellama:13b, llama3:latest, openchat:7b, deepseek-r1:latest, llama2:latest"
+http://18.144.15.253:8089/v1,openchat:7b
+http://18.183.143.105:2080/v1,qwen2.5:1.5b
+http://175.41.215.65:28017/v1,"llama2:latest, openchat:7b, codellama:13b, qwen2.5:1.5b"
+http://113.44.138.18:11434/v1,"hf-mirror.com/mradermacher/Qwen2-7B-Multilingual-RP-GGUF:Q8_0, deepseek-r1:32b"
+http://121.35.46.81:11434/v1,"harishkumar56278/TextContentModerator:7b, harishkumar56278/VisionContentModerator:12b, llama-guard3:8b, llava:13b, llama3.2-vision:11b, qwen2:7b, quentinz/bge-large-zh-v1.5:latest, deepseek-r1:14b"
