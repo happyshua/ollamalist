@@ -1655,3 +1655,4 @@ http://61.238.130.108:11434/v1,"gemma3:12b, qwen2.5:3b, hf.co/tpks031100/hatcl_t
 http://54.219.167.123:8020/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest, codellama:13b, openchat:7b"
 http://47.101.67.217:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen2.5:7b, mistral:7b-instruct-v0.3-q4_0, deepseek-r1:32b, deepseek-r1:8b"
 http://61.238.197.4:11434/v1,"qwen3:latest, dolphin3:latest, llama3.1:8b, qwen2.5-coder:1.5b-base, gemma3:27b, deepseek-r1:14b, nomic-embed-text:latest"
+http://101.42.224.6:11434/v1,llama3.2:3b-instruct-q5_K_M
