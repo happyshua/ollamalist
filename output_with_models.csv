@@ -1767,3 +1767,5 @@ http://54.188.80.158:8083/v1,"deepseek-r1:latest, llama2:latest"
 http://43.201.45.22:16030/v1,llama3:latest
 http://8.219.210.214:11434/v1,hf.co/TheBloke/deepseek-llm-7B-chat-GGUF:Q4_K_M
 http://39.105.38.31:11434/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, qwen2.5:32b, deepseek-r1:14b, qwen2.5:14b, bge-m3:latest"
+http://52.78.71.149:88/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, llama2:latest"
+http://218.49.167.99:11434/v1,"gemma3:27b-it-qat, gemma3:4b, gemma3:4b-it-qat, qwen3:30b-a3b, gemma3:1b, gemma3:1b-it-qat, gemma3:27b"
