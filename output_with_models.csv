@@ -1708,3 +1708,4 @@ http://13.114.51.120:8081/v1,"llama2:latest, deepseek-r1:latest"
 http://13.231.128.9:1991/v1,"deepseek-r1:latest, llama2:latest, llama3:latest, codellama:13b"
 http://15.168.238.236:8002/v1,codellama:13b
 http://52.79.151.42:8002/v1,openchat:7b
+http://47.98.133.28:11434/v1,deepseek-r1:1.5b
