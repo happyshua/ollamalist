@@ -1761,3 +1761,9 @@ http://3.84.104.2:8081/v1,"qwen2.5:1.5b, deepseek-r1:latest"
 http://54.85.139.55:6780/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, openchat:7b"
 http://13.125.230.160:8020/v1,"llama2:latest, openchat:7b, llama3:latest"
 http://13.212.213.244:8082/v1,"llama3:latest, openchat:7b, llama2:latest, codellama:13b"
+http://202.63.172.20:9005/v1,"llama3.2:3b-instruct-q5_K_M, llama3.2:latest, llama3.1:latest, hf-mirror.com/IlyaGusev/saiga_nemo_12b_gguf:Q5_K_M, deepseek-v3:latest"
+http://3.148.247.129:8081/v1,llama3:latest
+http://54.188.80.158:8083/v1,"deepseek-r1:latest, llama2:latest"
+http://43.201.45.22:16030/v1,llama3:latest
+http://8.219.210.214:11434/v1,hf.co/TheBloke/deepseek-llm-7B-chat-GGUF:Q4_K_M
+http://39.105.38.31:11434/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, qwen2.5:32b, deepseek-r1:14b, qwen2.5:14b, bge-m3:latest"
