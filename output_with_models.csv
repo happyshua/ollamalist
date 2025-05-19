@@ -1851,3 +1851,5 @@ http://16.162.161.85:8084/v1,"openchat:7b, deepseek-r1:latest, llama2:latest"
 http://47.116.39.164:2022/v1,"qwen2:7b, qwen3:8b, qwen2:7b-instruct-20250427"
 http://140.112.148.46:11434/v1,"llama3.1:latest, llama3.1:8b"
 http://140.112.148.46:11434/v1,"llama3.1:latest, llama3.1:8b"
+http://54.151.100.5:10443/v1,openchat:7b
+http://54.238.9.57:8848/v1,"llama2:latest, llama3:latest, codellama:13b, deepseek-r1:latest"
