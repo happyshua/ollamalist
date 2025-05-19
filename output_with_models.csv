@@ -1866,3 +1866,11 @@ http://122.226.129.226:11434/v1,"qwen3:30b-a3b, qwen3:32b, qwen3:4b"
 http://18.179.196.43:9999/v1,"llama3:latest, openchat:7b, codellama:13b, llama2:latest, qwen2.5:1.5b"
 http://124.70.142.2:8097/v1,"vsp_qwen:latest, gemma3:12b, gemma3:4b-it-q8_0, gemma3:4b, qwen2.5:7b, mistral-nemo:12b-instruct-2407-q5_K_M, llama3.1:8b-instruct-q5_K_M"
 http://15.168.11.158:7180/v1,qwen2.5:1.5b
+http://43.201.33.79:81/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest, deepseek-r1:latest"
+http://192.227.177.10:10000/v1,qwen3:30b-a3b
+http://3.39.250.86:10000/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://54.244.77.84:10443/v1,"deepseek-r1:latest, openchat:7b, llama2:latest"
+http://13.231.105.59:81/v1,"deepseek-r1:latest, openchat:7b, llama2:latest, codellama:13b, llama3:latest"
+http://43.201.33.79:81/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest, deepseek-r1:latest"
+http://3.39.250.86:10000/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://126.60.213.98:11434/v1,"qwen3:latest, rjmalagon/gte-qwen2-1.5b-instruct-embed-f16:latest"
