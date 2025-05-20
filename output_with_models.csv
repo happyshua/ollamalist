@@ -2068,3 +2068,12 @@ http://3.112.151.92:5985/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, op
 http://52.194.190.159:6001/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, deepseek-r1:latest"
 http://54.95.189.218:10443/v1,"llama3:latest, codellama:13b"
 http://13.208.165.223:7000/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, llama2:latest, openchat:7b"
+http://13.62.18.57:10443/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, llama2:latest"
+http://13.60.76.64:18080/v1,openchat:7b
+http://56.155.29.235:7000/v1,openchat:7b
+http://13.208.181.136:18080/v1,"openchat:7b, qwen2.5:1.5b"
+http://13.208.165.223:10000/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, llama2:latest, openchat:7b"
+http://3.36.55.249:5001/v1,"qwen2.5:1.5b, codellama:13b, llama2:latest, openchat:7b, llama3:latest"
+http://114.32.96.98:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen3:8b, llama3.1:8b, llama2:latest, deepseek-r1:70b"
+http://114.32.96.98:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen3:8b, llama3.1:8b, llama2:latest, deepseek-r1:70b"
+http://47.94.205.127:11434/v1,"llama3.2:3b-instruct-q5_K_M, quentinz/bge-small-zh-v1.5:latest"
