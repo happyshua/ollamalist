@@ -1943,3 +1943,15 @@ http://114.254.92.211:6001/v1,"llama3.2:3b-instruct-q5_K_M, hellord/e5-mistral-7
 http://52.196.187.151/v1,"phi4:latest, llama3.2:latest, deepseek-r1:latest, llama3.1:latest"
 http://106.228.24.196:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen3:8b, smollm2:135m, gemma3:4b, deepseek-r1:1.5b, nomic-embed-text:latest, huihui_ai/deepseek-r1-abliterated:7b, qwen2.5:1.5b, llama3:latest"
 http://118.178.34.182:11434/v1,"deepseek-r1:14b, qwen2.5:7b, kirito1/qwen3-coder:latest, qwen3:14b"
+http://43.198.101.21:88/v1,"openchat:7b, llama2:latest, deepseek-r1:latest"
+http://18.162.45.200:8006/v1,codellama:13b
+http://183.179.112.144:11434/v1,"qwen2.5:latest, llama3.2:3b-instruct-q5_K_M, gemma3:12b, llama3-groq-tool-use:8b, qwen2.5:14b, minicpm-v:latest, deepseek-r1:14b, llama3.2-vision:latest, qwen2.5-coder:14b, mxbai-embed-large:latest, llama3:latest, llama3.2-vision:11b, llama3.1:latest, nomic-embed-text:latest, llama3:8b, llama3:instruct, elarto/musa_q8:latest, wangshenzhi/llama3-8b-chinese-chat-ollama-fp16:latest, taozhiyuai/openbiollm-llama-3-chinese:70b-q8_0, gemma:latest"
+http://13.56.223.238:5005/v1,"deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://13.218.166.154:6780/v1,qwen2.5:1.5b
+http://3.92.88.112/v1,"openchat:7b, qwen2.5:1.5b, codellama:13b"
+http://3.128.197.119:9999/v1,llama3:latest
+http://54.238.149.2:1010/v1,"qwen2.5:1.5b, codellama:13b"
+http://15.168.16.211:10443/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, openchat:7b"
+http://56.155.26.213:6005/v1,qwen2.5:1.5b
+http://61.177.18.246:11434/v1,"llama3.2:1b-instruct-q4_K_M, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, HCJ_AI:latest, deepseek-r1:32b, panda:latest, sqlcoder:latest, deepseek-r1:14b"
+http://183.6.114.219:11434/v1,"llama3.2:3b-instruct-q5_K_M, avr/sfr-embedding-mistral:latest, yxchia/multilingual-e5-large-instruct:latest, ordis/gte-Qwen2-7B-instruct-Q5_K_M-GGUF-8k:latest, bge-m3:latest, milkey/QwQ-32B-0305:q4_K_M, modelscope.cn/Qwen/QwQ-32B-GGUF:latest, qwen2.5:14b, mistral:latest, gemma:latest, nomic-embed-text:latest, deepseek-r1:14b, openchat:latest, llama3.1:latest"
