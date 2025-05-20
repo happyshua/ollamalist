@@ -2020,3 +2020,5 @@ http://54.180.135.127:7170/v1,"openchat:7b, llama2:latest, codellama:13b"
 http://3.38.100.193:9200/v1,"codellama:13b, qwen2.5:1.5b"
 http://13.124.193.203:8983/v1,deepseek-r1:latest
 http://13.124.193.203:8983/v1,deepseek-r1:latest
+http://34.201.44.250:5001/v1,"codellama:13b, llama3:latest, llama2:latest, openchat:7b, qwen2.5:1.5b"
+http://56.155.9.175:7474/v1,openchat:7b
