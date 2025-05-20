@@ -2044,3 +2044,8 @@ http://211.72.229.133:11434/v1,"qwen3:8b, mxbai-embed-large:latest"
 http://49.232.141.45:11434/v1,"qwen3:32b, deepseek-r1:70b, llama3.2:latest, deepseek-r1:32b, qwen3:latest"
 http://54.180.158.10:7777/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
 http://211.72.229.133:11434/v1,"qwen3:8b, mxbai-embed-large:latest"
+http://52.54.112.153:7777/v1,"llama2:latest, openchat:7b, deepseek-r1:latest, llama3:latest"
+http://54.164.95.194:10000/v1,"llama3:latest, deepseek-r1:latest, codellama:13b, openchat:7b"
+http://106.14.88.25:11434/v1,"glm4:9b, deepseek-r1:7b, bge-m3:567m"
+http://18.179.111.196:5001/v1,qwen2.5:1.5b
+http://15.168.189.141:10443/v1,"codellama:13b, openchat:7b, llama3:latest"
