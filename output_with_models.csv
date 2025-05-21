@@ -1660,3 +1660,9 @@ http://13.125.233.240:30005/v1,llama2:latest
 http://3.36.98.25:8000/v1,"qwen2.5:1.5b, deepseek-r1:latest"
 http://13.60.76.80:3749/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b"
 http://49.232.85.202:11434/v1,"qwen:1.8b, deepseek-r1:1.5b"
+http://3.87.222.47:6002/v1,"codellama:13b, deepseek-r1:latest, llama3:latest"
+http://18.226.186.73:8006/v1,"codellama:13b, openchat:7b, llama2:latest, llama3:latest"
+http://52.53.173.141:7777/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://54.193.117.240:6003/v1,codellama:13b
+http://52.78.241.34:49154/v1,llama3:latest
+http://222.121.56.6:11434/v1,mistral:latest
