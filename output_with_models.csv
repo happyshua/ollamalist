@@ -1773,3 +1773,8 @@ http://223.71.182.78:11434/v1,deepseek-r1:32b
 http://174.129.53.193:30005/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, llama3:latest"
 http://34.227.111.119:2086/v1,"deepseek-r1:latest, llama3:latest, openchat:7b, llama2:latest"
 http://23.22.29.82:40000/v1,codellama:13b
+http://35.171.151.33:2086/v1,"openchat:7b, llama2:latest, codellama:13b"
+https://llm.haya.cloud/v1,granite3.3:latest
+http://222.185.254.60:11434/v1,"deepseek-r1:7b, deepseek-r1:1.5b"
+http://1.92.195.238:11434/v1,deepseek-r1:1.5b
+http://1.203.77.204:32768/v1,deepseek-r1:1.5b
