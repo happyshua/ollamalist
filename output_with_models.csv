@@ -1757,3 +1757,4 @@ http://35.186.178.156:11434/v1,"llama3.1:8b-instruct-q4_K_M, deepseek-r1:7b, lla
 http://54.242.6.126:8089/v1,"deepseek-r1:latest, codellama:13b, openchat:7b, llama2:latest"
 http://111.227.146.204:11434/v1,deepseek-r1:1.5b
 http://182.121.206.40:11434/v1,"qwen2.5-coder:14b, gemma3:12b, qwen2.5:14b, deepseek-r1:14b"
+http://43.202.44.46:30/v1,"llama2:latest, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b, openchat:7b"
