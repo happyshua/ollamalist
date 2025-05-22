@@ -1770,3 +1770,6 @@ http://43.198.206.219:2086/v1,"llama2:latest, llama3:latest, codellama:13b"
 http://54.150.161.119/v1,"phi4:latest, llama3.2:latest, deepseek-r1:latest, llama3.1:latest"
 http://58.212.237.199:11434/v1,"deepseek-r1:latest, llama3.1:latest, nomic-embed-text:latest"
 http://223.71.182.78:11434/v1,deepseek-r1:32b
+http://174.129.53.193:30005/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, llama3:latest"
+http://34.227.111.119:2086/v1,"deepseek-r1:latest, llama3:latest, openchat:7b, llama2:latest"
+http://23.22.29.82:40000/v1,codellama:13b
