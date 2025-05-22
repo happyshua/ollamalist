@@ -1778,3 +1778,5 @@ https://llm.haya.cloud/v1,granite3.3:latest
 http://222.185.254.60:11434/v1,"deepseek-r1:7b, deepseek-r1:1.5b"
 http://1.92.195.238:11434/v1,deepseek-r1:1.5b
 http://1.203.77.204:32768/v1,deepseek-r1:1.5b
+http://34.91.56.17:11434/v1,deepseek-llm:7b-chat
+http://111.229.190.249:11434/v1,smollm2:135m
