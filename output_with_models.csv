@@ -1807,3 +1807,13 @@ http://54.196.12.211:7443/v1,"codellama:13b, openchat:7b, llama3:latest, qwen2.5
 http://175.41.233.49:6560/v1,"codellama:13b, deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
 http://140.115.53.72:11434/v1,"llama3.1:8b, deepseek-r1:7b"
 http://140.115.53.72:11434/v1,"llama3.1:8b, deepseek-r1:7b"
+http://174.129.53.193:55555/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, llama3:latest"
+http://3.101.109.172:8123/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest"
+http://13.208.213.96:5051/v1,deepseek-r1:latest
+http://52.78.241.34:7443/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest, llama2:latest"
+http://54.180.239.137:7443/v1,"deepseek-r1:latest, qwen2.5:1.5b"
+http://43.202.44.46:8480/v1,"llama2:latest, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b, openchat:7b"
+http://221.228.118.81/v1,"llama3.2:3b-instruct-q5_K_M, unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF:latest"
+http://14.103.240.176:11434/v1,modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest
+http://49.175.147.162:11434/v1,"qwen:7b, llama3.2:latest, phi4:latest, mistral:latest"
+http://111.165.163.87:11434/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, smollm2:135m, codellama:latest, qwen2.5-coder:latest, aya-expanse:latest, minicpm-v:latest, yi-coder:latest, smollm:latest, phi3.5:latest, llava:13b, qwen:14b, modelbest/minicpm-2b-dpo:latest, gemma2:2b, llama3.1:latest, nuextract:latest, llama3:latest, internlm2:latest, gemma2:latest, codegeex4:latest, glm4:latest, deepseek-coder-v2:latest, deepseek-v2:latest, qwen2:latest, hhao/openbmb-minicpm-llama3-v-2_5:latest, aya:latest, zephyr:latest, yi:latest, snowflake-arctic-embed:latest, moondream:v2, impactframes/ifai_promptmkr_dolphin_phi3:latest, dolphin-llama3:latest, falcon2:latest, llama3-gradient:latest, impactframes/llama3_ifai_sd_prompt_mkr_q4km:latest, llama3-chatqa:latest, deepseek-coder:latest, moondream:latest, notus:latest, llava-llama3:latest, llava-phi3:latest, stablelm2:latest, ollam/unichat-llama3-chinese-8b:latest, deepseek-llm:latest, deepseek-coder:6.7b, jimscard/blackhat-hacker:latest, wangshenzhi/llama3-8b-chinese-chat-ollama-q8:latest, wizardlm2:latest, qwen:7b, phi3:latest, mistral:latest, gemma:latest, codegemma:latest, llava:latest"
