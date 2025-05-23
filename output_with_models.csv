@@ -1826,3 +1826,4 @@ http://8.130.130.241:11434/v1,llama3.2:3b-instruct-q5_K_M
 http://43.207.117.109:3097/v1,qwen2.5:1.5b
 http://111.175.102.183:11434/v1,"qwen2.5:3b, qwen2.5vl:latest, qwen2.5:7b, qwen3:4b, qwen3:14b, qwen3:32b-q8_0, GFalcon-UA/ReaderLM-v2:Q8, rjmalagon/gte-qwen2-7b-instruct-embed-f16:latest"
 http://117.50.179.167:11434/v1,"qwen2.5:3b, nomic-embed-text:latest, deepseek-r1:14b"
+http://117.50.162.9:11434/v1,"qwen3:30b, qwen3:32b, bge-m3:latest"
