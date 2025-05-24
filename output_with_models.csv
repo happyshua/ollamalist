@@ -2000,3 +2000,6 @@ http://123.192.64.205:11434/v1,"llama3-backup:latest, mario:latest, llama3.1:8b,
 http://110.42.47.35:9001/v1,"qwen:0.5b, qwen:1.8b"
 http://14.18.16.24:11434/v1,"smollm2:135m, gemma3:12b, gemma3:4b, deepseek-r1:8b, deepseek-r1:1.5b"
 http://27.155.120.43:11434/v1,"llama3.2:3b-instruct-q5_K_M, test:latest"
+http://58.215.183.11:11434/v1,"llama3.1:8b, qwen3:30b, deepseek-r1:70b, qllama/bge-large-zh-v1.5:latest, qllama/bge-reranker-v2-m3:latest, deepseek-r1:32b, qwen3:32b"
+http://15.152.47.69:9080/v1,"llama2:latest, deepseek-r1:latest, openchat:7b"
+http://168.131.141.198:11434/v1,"llama3.2:latest, mario:latest, deepseek-coder:33b, deepseek-r1:70b, deepseek-r1:32b, llama2-uncensored:latest, llama2:latest"
