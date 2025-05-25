@@ -1706,3 +1706,10 @@ http://54.199.209.190:4155/v1,"codellama:13b, llama3:latest"
 http://15.168.144.34:9090/v1,"llama2:latest, qwen2.5:1.5b, codellama:13b"
 http://13.208.189.39:18081/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
 http://13.208.183.207:9090/v1,"openchat:7b, deepseek-r1:latest"
+http://54.64.233.244:8080/v1,"llama2:latest, llama3:latest, codellama:13b, openchat:7b"
+http://3.85.240.179:9010/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://34.219.110.154:888/v1,llama2:latest
+http://221.228.118.104/v1,unsloth/DeepSeek-R1-Distill-Qwen-14B-GGUF:latest
+http://47.106.74.86:11434/v1,"llama3.1:8b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:8b"
+http://116.54.52.149:11434/v1,deepseek-r1:8b
+http://183.15.174.96:11434/v1,"llama3.1:8b, erwan2/DeepSeek-Janus-Pro-7B:latest, erwan2/DeepSeek-Janus-Pro-7B-Vision-Encoder:latest, moondream:latest, 0ssamaak0/xtuner-llava:llama3-8b-v1.1-f16, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b"
