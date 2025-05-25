@@ -1759,3 +1759,4 @@ http://54.176.1.56:8001/v1,codellama:13b
 http://15.168.7.113:7547/v1,"openchat:7b, llama2:latest, llama3:latest, codellama:13b"
 http://15.152.46.137:8082/v1,codellama:13b
 http://192.63.207.3:11434/v1,deepseek-r1:32b
+http://54.199.46.129:8002/v1,"qwen2.5:1.5b, codellama:13b, deepseek-r1:latest, openchat:7b"
