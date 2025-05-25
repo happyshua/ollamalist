@@ -1713,3 +1713,4 @@ http://221.228.118.104/v1,unsloth/DeepSeek-R1-Distill-Qwen-14B-GGUF:latest
 http://47.106.74.86:11434/v1,"llama3.1:8b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:8b"
 http://116.54.52.149:11434/v1,deepseek-r1:8b
 http://183.15.174.96:11434/v1,"llama3.1:8b, erwan2/DeepSeek-Janus-Pro-7B:latest, erwan2/DeepSeek-Janus-Pro-7B-Vision-Encoder:latest, moondream:latest, 0ssamaak0/xtuner-llava:llama3-8b-v1.1-f16, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b"
+http://219.77.87.62:11434/v1,"qwen3:14b, deepseek-r1:14b, tinyllama:latest, vicuna:latest, llama3.3:latest, deepseek-v2:latest, llama3.2-vision:11b, qwen2:7b, phi3:14b, nemotron-mini:latest, llama3:latest, llama3.2:latest, llama3.1:8b"
