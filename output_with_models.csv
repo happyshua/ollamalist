@@ -1758,3 +1758,4 @@ http://54.215.221.124:8082/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b, deeps
 http://54.176.1.56:8001/v1,codellama:13b
 http://15.168.7.113:7547/v1,"openchat:7b, llama2:latest, llama3:latest, codellama:13b"
 http://15.152.46.137:8082/v1,codellama:13b
+http://192.63.207.3:11434/v1,deepseek-r1:32b
