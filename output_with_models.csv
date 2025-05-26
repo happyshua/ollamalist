@@ -1852,3 +1852,8 @@ http://15.152.49.240:121/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest, codellama
 http://35.93.26.185:8084/v1,deepseek-r1:latest
 http://34.218.253.235:8084/v1,openchat:7b
 http://178.128.133.40:11434/v1,"smollm2:135m, llama2:latest, nomic-embed-text:latest, llama3.1:latest"
+http://56.124.113.205:8082/v1,"llama2:latest, openchat:7b, codellama:13b, qwen2.5:1.5b, deepseek-r1:latest"
+http://3.113.5.196:8083/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://112.51.15.153:11434/v1,"llama3.1:8b, qwen3:14b, minicpm-v:latest, qwen2.5-coder:14b, bge-m3:latest, huihui_ai/deepseek-r1-abliterated:14b"
+http://103.61.153.27:11434/v1,"deepseek-r1:1.5b, llama3.1:8b-instruct-q4_K_M, MFDoom/deepseek-r1-tool-calling:14b, modelscope.cn/IAILabs/Qwen2.5-VL-7B-Instruct-GGUF:latest, qwq:latest, deepseek-v2:16b, qwen2.5:latest, deepseek-r1:7b, deepseek-r1:14b"
+http://60.248.56.96:11434/v1,"smollm2:135m, starcoder2:15b, nomic-embed-text:v1.5, qwen2.5:32b, codellama:34b, llama3.2-vision:11b, llama3.3:70b"
