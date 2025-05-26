@@ -1849,3 +1849,6 @@ http://3.101.64.85:8082/v1,"codellama:13b, openchat:7b"
 http://50.18.19.251:8008/v1,"openchat:7b, llama2:latest"
 http://56.124.95.182:1025/v1,"codellama:13b, deepseek-r1:latest, openchat:7b"
 http://15.152.49.240:121/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest, codellama:13b, deepseek-r1:latest"
+http://35.93.26.185:8084/v1,deepseek-r1:latest
+http://34.218.253.235:8084/v1,openchat:7b
+http://178.128.133.40:11434/v1,"smollm2:135m, llama2:latest, nomic-embed-text:latest, llama3.1:latest"
