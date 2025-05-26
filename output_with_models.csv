@@ -1802,3 +1802,9 @@ http://3.147.28.218:6346/v1,qwen2.5:1.5b
 http://44.242.207.149:8088/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
 http://15.168.237.119:888/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, llama2:latest, codellama:13b"
 http://49.74.149.101:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b"
+http://39.107.247.178:11434/v1,"deepseek-r1:7b, qwen3:8b, mxbai-embed-large:latest"
+http://54.95.34.108:1024/v1,"deepseek-r1:latest, openchat:7b, llama2:latest"
+http://15.168.8.222:4440/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://15.168.237.119:7100/v1,deepseek-r1:latest
+http://138.3.214.46:11434/v1,"smollm2:135m, deepseek-r1:latest, llava:latest, qwen2:latest"
+http://47.109.148.231:8083/v1,"llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, llava:13b, deepseek-r1:7b, linux6200/bge-reranker-v2-m3:latest, qwen2.5-coder:7b, deepseek-r1:14b, qwen2.5:7b, bge-m3:latest"
