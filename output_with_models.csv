@@ -1864,3 +1864,5 @@ http://59.54.224.12:11434/v1,"ManishThota/llava_next_video:latest, llava:13b, ml
 http://60.248.70.124:11434/v1,"qwen2.5vl:7b, gemma3:4b, llama3.2-vision:latest, qwen2.5:7b, qwen3:14b, qwen3:8b, llama3:8b"
 http://121.41.31.117:11434/v1,"deepseek-r1:1.5b, deepseek-r1:8b"
 http://60.248.70.124:11434/v1,"qwen2.5vl:7b, gemma3:4b, llama3.2-vision:latest, qwen2.5:7b, qwen3:14b, qwen3:8b, llama3:8b"
+http://52.195.3.89:8020/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, codellama:13b, llama3:latest"
+http://54.248.33.238:88/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, llama2:latest"
