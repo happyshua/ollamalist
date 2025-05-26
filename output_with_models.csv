@@ -1785,3 +1785,8 @@ http://56.228.4.12/v1,"codellama:13b, deepseek-r1:latest"
 http://125.142.0.32:11434/v1,llama3.2:latest
 http://117.64.250.212:11434/v1,"dolphin3:latest, deepseek-r1:8b, gemma3:27b, qwen2.5-coder:14b, deepseek-r1:14b"
 http://56.124.127.238:8020/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, openchat:7b"
+http://43.159.42.178:11434/v1,"llama3.1:8b-instruct-q4_K_M, qwen2.5-coder:32b, deepseek-v2.5:latest, deepseek-coder:6.7b"
+http://44.203.146.196/v1,"codellama:13b, llama2:latest, deepseek-r1:latest"
+http://204.236.171.136/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, llama2:latest, codellama:13b"
+http://47.99.161.146:11434/v1,"qwen2.5-coder:14b, lazarevtill/Seed-Coder-8B-Base:latest, smollm2:135m, quentinz/bge-large-zh-v1.5:latest, deepseek-R1:14b, deepseek-coder-v2:16b, qwen2.5:latest"
+http://121.41.92.19:11434/v1,"qwen3:30b-a3b, llama3.2:3b-instruct-q5_K_M, phi4:latest, gemma3:27b-it-qat, mistral-small3.1:latest, smollm2:135m, qwq:latest, gemma3:27b, llava:latest, llava-llama3:latest, granite3.2-vision:latest, qwen:32b, deepseek-r1:70b, bge-large:latest"
