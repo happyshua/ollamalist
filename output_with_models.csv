@@ -1894,3 +1894,5 @@ http://54.226.164.54:8088/v1,"codellama:13b, openchat:7b"
 http://54.197.195.182:8181/v1,"codellama:13b, llama3:latest, llama2:latest, qwen2.5:1.5b"
 http://43.198.199.72:2103/v1,codellama:13b
 http://47.106.136.134:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b"
+http://116.232.128.57:11434/v1,"qwen2.5:1.5b, deepseek-r1:1.5b, gemma3:latest, gemma3:1b, llama3:latest"
+http://182.43.53.144:11434/v1,"huihui_ai/arcee-blitz-abliterated:24b, wizard-vicuna-uncensored:30b, aqualaguna/gemma-3-27b-it-abliterated-GGUF:q4_k_m"
