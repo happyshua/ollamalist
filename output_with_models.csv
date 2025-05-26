@@ -1835,3 +1835,8 @@ http://52.195.195.201:8025/v1,llama2:latest
 http://13.230.63.244:1024/v1,codellama:13b
 http://52.198.29.15:888/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
 http://27.8.5.33:11434/v1,gemma3:latest
+http://3.147.45.215:8081/v1,"llama3:latest, deepseek-r1:latest, llama2:latest"
+http://54.191.5.115:8081/v1,"codellama:13b, llama3:latest"
+http://13.208.240.101:8008/v1,"llama3:latest, deepseek-r1:latest"
+http://15.168.16.54:8090/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest, llama2:latest"
+http://112.91.137.146:11434/v1,"qwen2.5vl:latest, qwen2.5vl:72b"
