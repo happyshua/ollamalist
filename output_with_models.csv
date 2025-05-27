@@ -1916,3 +1916,4 @@ http://60.248.51.137:11434/v1,"mario:latest, llama3-backup:latest, mattw/pygmali
 http://52.197.246.81:5003/v1,"qwen2.5:1.5b, codellama:13b"
 http://52.192.176.224:4022/v1,"deepseek-r1:latest, codellama:13b, openchat:7b"
 http://52.68.74.143:19150/v1,openchat:7b
+http://175.27.243.132:11434/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, deepseek-r1:70b"
