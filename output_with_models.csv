@@ -1950,3 +1950,5 @@ http://121.237.93.152:11434/v1,"test:latest, qunzhuniubi:latest, deepseek-r1:14b
 http://54.95.221.149:8002/v1,openchat:7b
 http://52.193.48.36:28017/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, llama2:latest, llama3:latest"
 http://15.168.174.95:5555/v1,codellama:13b
+http://106.246.250.202:11434/v1,"gemma3:4b, qwen3:4b, qwen3:8b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, kanana-nano-finetuned:latest, unitythemaker/llama3.2-vision-tools:latest, tripolskypetr/gemma3-tools:4b, tripolskypetr/gemma3-tools:12b, Hituzip/gemma3-tools:4b, mannix/llama3-groq-tool-8b:latest, llama3-groq-tool-use:latest, llama3.3:latest, qwen2.5:latest, llama3:8b, llama3.2:latest, llama3:latest, exaone3.5:latest, exaone-deep:latest, huihui_ai/kanana-nano-abliterated:latest, gemma3:12b"
+http://124.222.115.214:11434/v1,deepseek-r1:1.5b
