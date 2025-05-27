@@ -1917,3 +1917,13 @@ http://52.197.246.81:5003/v1,"qwen2.5:1.5b, codellama:13b"
 http://52.192.176.224:4022/v1,"deepseek-r1:latest, codellama:13b, openchat:7b"
 http://52.68.74.143:19150/v1,openchat:7b
 http://175.27.243.132:11434/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, deepseek-r1:70b"
+http://43.206.232.91:8088/v1,openchat:7b
+http://120.26.115.14:11434/v1,"llama3.1:8b-instruct-q4_K_M, nomic-embed-text:latest"
+http://3.14.134.57:3052/v1,"codellama:13b, llama2:latest, llama3:latest, deepseek-r1:latest, openchat:7b"
+http://54.221.11.179:20332/v1,"qwen2.5:1.5b, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://103.139.212.228:11434/v1,"smollm2:135m, qwen2.5:32b, qwen2.5:latest, deepseek-r1:14b"
+http://3.142.35.140:8020/v1,"deepseek-r1:latest, codellama:13b, openchat:7b, llama3:latest, qwen2.5:1.5b"
+http://18.209.18.47:82/v1,deepseek-r1:latest
+http://35.167.115.149:28017/v1,"codellama:13b, openchat:7b, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://171.105.178.86:88/v1,"kmct526:latest, kmct51918:latest, kmct518:latest, qwen2.5-coder:32b, qwen3:14b, qwen3:8b, qwen3:4b, qwen3:1.7b, qwen3:0.6b, gemma3:12b, gemma3:4b, gemma3:1b, gemma:2b, gemma3:27b, qwen3:32b, nomic-embed-text:latest, deepseek-r1:70b, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:7b, qwen2.5:72b, qwen2.5:32b, qwen2.5:14b, qwen2.5:7b, qwen2.5:3b, qwen2.5:1.5B, qwen2.5:0.5b, deepseek-r1:1.5B"
+http://218.48.9.193:11434/v1,"llama3.1:8b, thash/ninja-v1-nsfw-128k:latest, hf.co/Triangle104/Gemma-3-4b-it-Uncensored-DBL-X-Q6_K-GGUF:latest, hf.co/bartowski/soob3123_amoral-gemma3-12B-v2-GGUF:Q6_K_L, gemma3:12b, gemma3:4b, llama3.2-vision:latest, husoyun/L3.1DR-SN-RP-HermesR1-Uncensored-NSFW-Femboy:latest, jimscard/adult-film-screenwriter-nsfw:latest, MekhyW/cookiebaker-nsfw:latest, benevolentjoker/nsfwvanessa:latest, dolphin-mistral:latest"
