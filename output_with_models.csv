@@ -2011,3 +2011,8 @@ http://43.203.234.18:8983/v1,"llama3:latest, codellama:13b, openchat:7b"
 http://43.203.228.106:9200/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
 http://202.189.7.223:11434/v1,"huihui_ai/deepseek-r1-abliterated:32b, llava:34b, qwen2.5:14b, bge-m3:latest, gpt-4o:latest, onefeek:latest, qwen2.5:32b, qwq:latest, deepseek-r1:7b, deepseek-r1:32b, deepseek-r1:1.5b"
 http://124.193.68.227:11434/v1,"qwq:latest, deepseek-r1:7b, nomic-embed-text:latest, qwen2.5:latest, shaw/dmeta-embedding-zh:latest, bge-m3:latest, deepseek-r1:32b, deepseek-r1:1.5b"
+http://3.148.184.247:81/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b"
+http://54.175.247.248:1400/v1,"llama3:latest, llama2:latest, openchat:7b, deepseek-r1:latest, qwen2.5:1.5b"
+http://118.25.7.228:11434/v1,"deepseek-r1:1.5b, bunny393633905/deepseek-r1-medical-v1:latest, llama3.1:8b-instruct-q4_K_M, bge-m3:latest, deepseek-r1-medical-v1:latest, deepseek-r1:8b"
+http://113.98.195.218:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, linux6200/bge-reranker-v2-m3:latest, deepseek-r1:14b"
+http://117.50.27.39:11434/v1,qwen3:14b
