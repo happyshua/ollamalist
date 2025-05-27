@@ -2049,3 +2049,5 @@ http://3.84.150.73:3372/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b, codellama:
 http://13.208.182.0:8058/v1,llama3:latest
 http://54.250.99.185:88/v1,"openchat:7b, codellama:13b, llama3:latest"
 http://3.34.143.43:8069/v1,openchat:7b
+http://3.80.106.3:8140/v1,"qwen2.5:1.5b, codellama:13b"
+http://117.50.175.254:11434/v1,"qwen3:8b_nothink, qwen3:8b, qwen3:30b_nothink, qwen3:30b"
