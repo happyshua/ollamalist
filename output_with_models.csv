@@ -1955,3 +1955,23 @@ http://124.222.115.214:11434/v1,deepseek-r1:1.5b
 http://13.208.173.155:10000/v1,"codellama:13b, openchat:7b, llama2:latest"
 http://180.111.82.208:11434/v1,"llama3.1:8b-instruct-q4_K_M, qwen2.5:72b, qwen2.5:32b, scratchfens/QwQ-32B-CoD:latest, gemma3:27b, gemma3:27b-it-fp16, qwq:32b-fp16, qwq:32b-q8_0, qwq:latest, r1-1776:671b, r1-1776:70b, bsahane/Qwen2.5-VL-7B-Instruct:Q4_K_M_benxh, tom_himanen/deepseek-r1-roo-cline-tools:32b, clh021/qwen2.5-coder-cline-tool:14b-64k, huihui_ai/deepseek-r1-abliterated:32b, huihui_ai/deepseek-r1-abliterated:70b, deepseek-r1:671b, deepseek-r1:70b, smollm2:135m, hhao/qwen2.5-coder-tools:32b-q8_0, qwen2.5-coder:32b, hhao/qwen2.5-coder-tools:32b"
 http://13.208.190.115:82/v1,"llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
+http://43.206.232.91:8001/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://18.162.153.217:6664/v1,"deepseek-r1:latest, codellama:13b, qwen2.5:1.5b"
+http://18.163.128.252:28017/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
+http://13.114.198.99:88/v1,"codellama:13b, llama3:latest, llama2:latest"
+http://43.201.1.22:8181/v1,"deepseek-r1:latest, llama3:latest"
+http://54.95.221.149:3002/v1,openchat:7b
+http://54.238.230.108:11965/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b"
+http://43.203.228.62:85/v1,"qwen2.5:1.5b, codellama:13b, llama2:latest"
+http://107.20.65.169:3372/v1,"llama2:latest, openchat:7b, llama3:latest, qwen2.5:1.5b"
+http://3.23.101.188:10443/v1,"llama3:latest, openchat:7b"
+http://3.148.187.75:18080/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, llama3:latest, openchat:7b"
+http://54.238.230.108:11965/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b"
+http://15.152.50.56:81/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest"
+http://13.208.165.250:10000/v1,"llama2:latest, codellama:13b, openchat:7b"
+http://54.95.221.149:3002/v1,openchat:7b
+http://52.79.82.77:55553/v1,deepseek-r1:latest
+http://18.162.145.238:10000/v1,"llama2:latest, llama3:latest, codellama:13b, openchat:7b"
+http://117.50.250.245:11434/v1,"qwen3:8b_nothink, qwen3:8b, qwen3:30b_nothink, qwen3:30b"
+http://115.190.103.58:11434/v1,"qwen2.5:1.5b, deepseek-r1:1.5b"
+http://47.120.48.245:11434/v1,"deepseek-r1:8b, deepseek-r1:1.5b"
