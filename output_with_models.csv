@@ -1985,3 +1985,7 @@ http://13.208.174.188:9200/v1,"openchat:7b, deepseek-r1:latest"
 http://15.168.174.253:10443/v1,"codellama:13b, llama2:latest"
 http://123.6.229.127:11001/v1,"deepseek-r1:8b, deepseek-r1:14b, llama3.1:8b-instruct-q4_K_M, deepseek-r1:32b, bge-m3:latest"
 http://114.32.203.179:11434/v1,qwen3:14b
+http://35.87.100.1:9200/v1,"llama3:latest, llama2:latest"
+http://35.86.104.200:82/v1,"openchat:7b, llama2:latest, llama3:latest"
+http://140.125.35.8:11434/v1,"gemma3:27b-it-qat, gemma3:12b, gemma3:12b-it-qat"
+http://140.125.35.8:11434/v1,"gemma3:27b-it-qat, gemma3:12b, gemma3:12b-it-qat"
