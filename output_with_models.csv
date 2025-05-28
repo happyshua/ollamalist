@@ -2079,3 +2079,7 @@ http://120.236.35.58:8000/v1,"deepcoder:14b-preview-q8_0, qwen3:14b-q8_0, qwen3:
 http://13.231.202.84:8123/v1,llama3:latest
 http://13.125.230.101:7170/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, llama3:latest"
 http://3.38.208.211:3337/v1,"codellama:13b, openchat:7b, deepseek-r1:latest"
+http://43.201.54.103:8000/v1,"openchat:7b, codellama:13b"
+http://111.170.58.176:11434/v1,deepseek-r1:1.5b
+http://54.180.154.111:5985/v1,"openchat:7b, llama3:latest, codellama:13b, deepseek-r1:latest"
+http://13.209.84.34:5357/v1,"llama3:latest, llama2:latest, codellama:13b"
