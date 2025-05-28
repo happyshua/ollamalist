@@ -2158,3 +2158,12 @@ http://124.221.47.115:11434/v1,"llama3.2-vision:latest, llama3.2-vision:11b, dee
 http://13.208.248.56:8085/v1,"llama2:latest, codellama:13b"
 http://27.155.141.148:11434/v1,"qwen3:latest, ZimaBlueAI/Qwen2.5-VL-7B-Instruct:latest, llama3.2-vision:latest, gemma3:12b, deepseek-v2:latest, bge-m3:latest, qwq:latest, qllama/bge-reranker-large:latest, qwen2.5:32b, causallm:14b, qwen2.5-coder:14b, llamafamily/llama3-chinese-8b-instruct:latest, qwen2.5:14b, huihui_ai/qwen2.5-1m-abliterated:14b, huihui_ai/deepseek-r1-abliterated:14b, huihui_ai/qwen2.5-1m-abliterated:latest, huihui_ai/deepseek-r1-abliterated:8b, deepseek-r1:latest, nsfw:latest, qwen2.5:latest, jimscard/adult-film-screenwriter-nsfw:latest, nomic-embed-text:latest, xwinlm:latest, llama3.1:latest"
 http://183.150.82.154:11434/v1,deepseek-coder-v2:16b
+http://184.72.184.152:10443/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://3.94.132.247:7777/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, deepseek-r1:latest"
+http://50.17.53.47:10255/v1,"openchat:7b, llama2:latest, deepseek-r1:latest"
+http://52.202.204.194:22335/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b, codellama:13b"
+http://3.144.87.226:18080/v1,"codellama:13b, openchat:7b, llama2:latest"
+http://18.224.52.124:8085/v1,"qwen2.5:1.5b, llama2:latest"
+http://54.191.176.3:4567/v1,qwen2.5:1.5b
+http://13.61.188.41:4567/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://56.124.109.113:7170/v1,openchat:7b
