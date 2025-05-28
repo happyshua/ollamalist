@@ -2064,3 +2064,5 @@ http://111.253.188.49:11434/v1,"deepseek-coder-v2:latest, deepseek-r1:8b"
 http://221.13.138.55:11434/v1,"gemma3:1b, deepseek-r1:8b, qwen3:8b, deepseek-r1:1.5b"
 http://183.62.76.18:19999/v1,"qwen2.5vl:7b, bge-m3:latest, qwen3:30b-a3b"
 http://221.3.53.21:11434/v1,deepseek-r1:8b
+http://117.73.9.21:11434/v1,"deepseek-r1:14b, stable-diffusion-3.5:q8, qwen3:8b, deepseek-r1:7b, qwen2.5:1.5b, deepseek-r1:1.5b, deepseek-r1-train-1.5b:latest, nomic-embed-text:latest, SenseVoiceSmall:latest"
+http://203.202.237.106:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:latest, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, bge-m3:latest, deepseek-r1:14b, deepseek-r1:7b"
