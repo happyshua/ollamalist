@@ -2061,3 +2061,6 @@ http://106.122.212.180:11434/v1,"devstral:latest, qwen2.5vl:32b, deepseek-r1:1.5
 http://219.153.237.19:11434/v1,"deepseek-r1:7b, nomic-embed-text:latest, deepseek-coder:latest"
 http://13.208.42.250:5008/v1,"qwen2.5:1.5b, llama2:latest"
 http://111.253.188.49:11434/v1,"deepseek-coder-v2:latest, deepseek-r1:8b"
+http://221.13.138.55:11434/v1,"gemma3:1b, deepseek-r1:8b, qwen3:8b, deepseek-r1:1.5b"
+http://183.62.76.18:19999/v1,"qwen2.5vl:7b, bge-m3:latest, qwen3:30b-a3b"
+http://221.3.53.21:11434/v1,deepseek-r1:8b
