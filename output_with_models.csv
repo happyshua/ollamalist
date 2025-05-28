@@ -2177,3 +2177,11 @@ http://13.230.69.171:4567/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b"
 http://52.193.235.121:7000/v1,"deepseek-r1:latest, llama3:latest"
 http://39.108.239.124:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, qwq:latest, codellama:13b, llama3.1:latest, deepseek-r1:14b, deepseek-r1:8b, qwen2.5:latest"
 http://183.60.143.21:11434/v1,qwen3:32b
+http://3.144.87.226:8089/v1,llama2:latest
+http://44.243.95.217:49152/v1,"codellama:13b, llama3:latest, openchat:7b, llama2:latest, deepseek-r1:latest"
+http://56.155.27.97:5985/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest"
+http://52.91.53.177:3542/v1,"llama3:latest, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b"
+http://34.214.180.96:4567/v1,"llama2:latest, codellama:13b, deepseek-r1:latest"
+http://56.155.28.17:17988/v1,deepseek-r1:latest
+http://111.74.155.237:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, llama3.2:latest, qwen2.5:latest, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:70b"
+http://43.239.162.124:11434/v1,"mario:latest, llama3-backup:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:latest, llama3.1:8b, hermes3:8b"
