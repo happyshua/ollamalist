@@ -2100,3 +2100,23 @@ http://180.109.4.72:11434/v1,deepseek-r1:1.5b
 http://222.131.58.81:10001/v1,"qwen3:30b-a3b-q8_0, deepseek-r1:1.5b, qwq:latest, deepseek-r1:32b"
 http://15.152.42.88:7170/v1,"codellama:13b, openchat:7b"
 http://13.208.109.158:7170/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, llama3:latest, deepseek-r1:latest"
+http://18.183.148.151:12000/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
+http://18.163.6.14:7777/v1,codellama:13b
+http://1.212.52.170:11434/v1,"qwen3:8b, qwen2.5vl:7b, kanana-1.5-8B-instruct-2505-F16:latest, llama3.1:8b, gemma3:12b, deepseek-r1:14b"
+http://43.198.96.166:7170/v1,"llama3:latest, openchat:7b"
+http://18.163.75.234:7170/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest"
+http://18.183.148.151:9999/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b"
+http://18.183.148.151:7000/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
+http://3.35.141.47:10000/v1,"deepseek-r1:latest, llama2:latest"
+http://43.198.107.212:6002/v1,"codellama:13b, openchat:7b"
+http://52.79.249.210:9999/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b"
+http://44.204.48.104:8085/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, llama3:latest"
+http://54.89.114.211:8085/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b"
+http://18.224.63.125:7777/v1,openchat:7b
+http://54.249.223.68:18080/v1,"codellama:13b, qwen2.5:1.5b"
+http://13.112.120.78:5357/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, codellama:13b"
+http://43.201.47.16:7000/v1,"codellama:13b, openchat:7b, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://43.198.96.166:7170/v1,"llama3:latest, openchat:7b"
+http://18.163.75.234:7170/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest"
+http://111.79.227.211:11434/v1,deepseek-r1:1.5b
+http://203.218.217.208:11434/v1,"qwen3:4b, qwen3:8B, qwen3:30b-a3b, qwen3:30b, qwen3:14b, qwen2.5:7b, qwen3:32b, qwen3:latest, qwq:latest, qwen2.5:32b, deepseek-r1:8B, qwen2.5:14b, llama3:8B, llama3:latest, deepseek-v2:lite, hf.co/mradermacher/Lamma3merge3-15B-MoE-GGUF:IQ4_XS, deepseek-r1:32b, deepseek-r1:14b"
