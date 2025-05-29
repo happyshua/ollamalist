@@ -1611,3 +1611,11 @@ http://44.244.22.233:49155/v1,"qwen2.5:1.5b, codellama:13b, deepseek-r1:latest"
 http://44.246.225.180:8080/v1,"qwen2.5:1.5b, openchat:7b, llama3:latest, codellama:13b, deepseek-r1:latest"
 http://68.249.178.145:8080/v1,deepseek-llm:7b
 http://121.130.106.60:8000/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, mistral:instruct"
+http://52.193.235.121:7000/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b, codellama:13b"
+http://54.95.221.149:2052/v1,"llama3:latest, qwen2.5:1.5b, codellama:13b"
+http://18.224.51.115:9981/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://3.89.180.232:8096/v1,"deepseek-r1:latest, llama2:latest, llama3:latest, openchat:7b, qwen2.5:1.5b"
+http://34.238.148.43:19888/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
+http://56.228.16.225:5000/v1,codellama:13b
+http://52.195.183.176:5357/v1,"llama2:latest, llama3:latest"
+http://58.47.143.98:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, driaforall/tiny-agent-a:1.5b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, twwch/m3e-base:latest, qwq:32b, deepseek-r1:70b, nomic-embed-text:latest, deepseek-r1:32b, bge-m3:latest"
