@@ -1650,3 +1650,4 @@ http://34.215.48.96:7547/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
 http://3.101.76.217:7777/v1,codellama:13b
 http://13.61.18.217:7777/v1,"deepseek-r1:latest, llama3:latest"
 http://13.208.107.14:8000/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://98.208.173.134:5001/v1,"llama3.3:latest, gemma3:27b-it-qat, deepseek-r1:70b, gemma2:27b, llava:34b, qwen2.5:72b, mistral-large:123b-instruct-2407-q2_K, llama3.1:70b, llama3.1:latest, starcoder2:3b, rjmalagon/dolphin-2.9.4-llama3.1-8b:q8_0, phind-codellama:latest, codestral:latest, mistral:latest, llama3.2:latest, deepseek-r1:7b, deepseek-r1:14b, nomic-embed-text:latest, llava:13b, deepseek-coder-v2:latest, qwen2:0.5b"
