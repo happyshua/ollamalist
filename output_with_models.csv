@@ -1712,3 +1712,8 @@ http://118.248.196.107:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instru
 http://13.231.178.229:7003/v1,"deepseek-r1:latest, llama2:latest, llama3:latest, openchat:7b"
 http://110.90.205.228:11434/v1,"smollm2:135m, deepseek-r1:14b"
 https://api1.room4all.net/v1,"deepseek-coder:latest, phi:latest, codellama:latest, mistral:latest, llama3:latest, llama3.2:latest"
+http://54.146.215.89:6565/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, openchat:7b, llama2:latest"
+http://54.208.116.9:800/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, codellama:13b, llama3:latest"
+http://52.14.221.63:2443/v1,"llama2:latest, codellama:13b"
+http://183.141.68.227:11434/v1,"qwen2.5:0.5b, qwen2.5:3b, mxbai-embed-large:latest, nomic-embed-text:latest, smollm2:135m"
+http://211.250.216.249:11434/v1,"deepseek-r1:1.5b, deepseek-r1:latest, deepseek-r1:7b"
