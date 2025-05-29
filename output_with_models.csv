@@ -1667,3 +1667,24 @@ http://56.155.81.157:4567/v1,llama2:latest
 http://116.234.91.183:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-v3:671b-q8_0, myqwen2.5:latest, qwen2.5:latest, mine-deepseek-r1-8b:latest, deepseek-r1:8b, deepseek-r1:1.5b, mine-qwen2.5:latest, qwen2:latest, llama2-chinese:latest"
 http://103.6.49.76:11434/v1,"deepseek-r1:7b, deepseek-r1:671b-local, deepseek-r1:671b"
 http://58.212.109.110:11434/v1,"test:latest, qunzhuniubi:latest, deepseek-r1:14b, deepseek-r1:32b"
+http://13.124.255.89:5000/v1,"openchat:7b, deepseek-r1:latest, llama3:latest"
+http://14.22.78.43:8001/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:567m, deepseek-r1:32b"
+http://13.124.255.89:9864/v1,"deepseek-r1:latest, qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://34.85.146.231/v1,"llama3.2:3b-instruct-q5_K_M, codellama:latest, deepseek-r1:32b, llama3.2:latest"
+http://116.7.236.74:11434/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest, nomic-embed-text:latest, deepseek-r1:32b"
+http://3.35.169.5:7170/v1,"codellama:13b, llama2:latest, openchat:7b, qwen2.5:1.5b"
+http://13.229.227.38:1024/v1,"llama3:latest, qwen2.5:1.5b, codellama:13b, deepseek-r1:latest, openchat:7b"
+http://54.180.202.25:30005/v1,qwen2.5:1.5b
+http://54.255.168.221:5001/v1,"llama3:latest, deepseek-r1:latest"
+http://47.115.213.169:11434/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest, quentinz/bge-large-zh-v1.5:latest"
+http://54.180.243.252:9100/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest"
+http://54.180.240.70:7548/v1,"qwen2.5:1.5b, llama3:latest"
+http://43.198.207.95:8080/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b, llama2:latest"
+http://140.119.164.193:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama2:latest"
+http://47.93.82.25:5000/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest, deepseek-r1:14b"
+http://1.95.43.4:11434/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest"
+http://16.163.98.115:7547/v1,codellama:13b
+http://56.228.80.207:7547/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://16.163.95.160:7547/v1,llama3:latest
+http://16.163.98.115:7547/v1,codellama:13b
+http://139.226.106.25:11434/v1,"qwen2.5vl:latest, qwen3:30b, linux6200/bge-reranker-v2-m3:latest, quentinz/bge-large-zh-v1.5:latest, bge-m3:latest, deepseek-r1:32b"
