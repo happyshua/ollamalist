@@ -1815,3 +1815,4 @@ http://18.166.61.70:6009/v1,"llama2:latest, deepseek-r1:latest, qwen2.5:1.5b, co
 http://43.198.103.0:1010/v1,"llama3:latest, deepseek-r1:latest"
 http://97.92.241.29/v1,"gemma3:4b-it-qat, qwen3:14b, qwen3:8b, nomic-embed-text:v1.5"
 http://36.111.128.101:11434/v1,qwen2_7b_ft:latest
+http://120.107.167.126:11434/v1,"llama3.1:70b, nomic-embed-text:latest, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, breuerAI/llama-maverick:latest, gemma3:27b, mistral:7b, llama3:8b, phi:latest, gemma3:12b, deepseek-r1:14b"
