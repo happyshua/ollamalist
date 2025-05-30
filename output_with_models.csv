@@ -1806,3 +1806,6 @@ http://120.72.37.180/v1,Qwen/Qwen2.5-7B-Instruct-GGUF:latest
 http://118.248.162.194:11434/v1,"MFDoom/deepseek-coder-v2-tool-calling:16b, zac/phi4-tools:latest, qwen2.5:14b, smollm2:135m, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, nomic-embed-text:latest, deepseek-r1:14b"
 http://183.62.149.70/v1,"deepseek-r1:8b, llama3.2:1b, deepseek-r1:32b"
 http://18.167.246.198/v1,"deepseek-r1:8b, gemma3:4b, qwen2.5-coder:14b"
+http://66.179.191.14/v1,deepseek-r1:1.5b
+http://54.242.173.68:6560/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, codellama:13b, openchat:7b"
+http://40.162.46.124/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, phi3.5:3.8b"
