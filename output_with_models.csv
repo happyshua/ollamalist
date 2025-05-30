@@ -1756,3 +1756,5 @@ http://44.243.249.136:3531/v1,"llama3:latest, llama2:latest, codellama:13b, qwen
 http://60.176.219.140:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
 http://180.158.236.126:11434/v1,"llama3.2:3b-instruct-q5_K_M, smollm2:135m, qwq:latest, phi3:latest, qwen2:latest"
 http://49.131.34.239:11434/v1,"llama3.2:3b-instruct-q5_K_M, sam860/qwen3:8b, llama3.1:8b, qwen3:0.6b, qwen3:32b, deepseek-r1:32b, qwen2.5:latest, qwen2.5:32b, deepseek-r1:14b, qwen2.5:14b, gemma3:27b, qwen2.5:7b"
+http://140.112.247.13:11434/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:4b, gemma3:12b, deepseek-r1:8b, deepseek-r1:14b, qwq:32b, deepseek-r1:32b, llama3.2:3b, deepseek-r1:8b-llama-distill-q8_0"
+http://140.112.247.13:11434/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:4b, gemma3:12b, deepseek-r1:8b, deepseek-r1:14b, qwq:32b, deepseek-r1:32b, llama3.2:3b, deepseek-r1:8b-llama-distill-q8_0"
