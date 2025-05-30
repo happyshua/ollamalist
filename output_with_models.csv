@@ -1828,3 +1828,4 @@ http://34.216.220.30:8882/v1,deepseek-r1:latest
 http://52.192.120.191:49155/v1,"llama3:latest, qwen2.5:1.5b"
 http://16.163.99.215:631/v1,"deepseek-r1:latest, codellama:13b, llama2:latest"
 http://120.72.37.160/v1,"llama3.2:3b-instruct-q5_K_M, Qwen/Qwen2.5-Coder-7B-Instruct-GGUF:latest"
+http://43.239.162.108:11434/v1,"mario:latest, llama3-backup:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:latest, llama3.1:8b, hermes3:8b"
