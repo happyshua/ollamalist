@@ -1840,3 +1840,11 @@ http://54.210.50.20:6868/v1,deepseek-r1:latest
 http://34.222.157.198:3002/v1,"deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
 http://13.56.13.232:1610/v1,"llama3:latest, qwen2.5:1.5b"
 http://27.19.100.217:11434/v1,deepseek-r1:1.5b
+http://3.144.87.226:1177/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b"
+http://54.163.47.20:22335/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, llama2:latest, deepseek-r1:latest"
+http://54.177.168.102:3000/v1,codellama:13b
+http://52.195.170.31:2095/v1,"codellama:13b, openchat:7b, llama2:latest, qwen2.5:1.5b"
+http://13.113.100.188:7014/v1,"openchat:7b, codellama:13b, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
+http://13.208.249.137:3000/v1,"openchat:7b, codellama:13b, llama2:latest, qwen2.5:1.5b"
+http://180.184.98.10:11434/v1,"deepseek-r1:1.5b, llama3.1:8b-instruct-q4_K_M, deepseek-r1:32b"
+http://175.182.219.153:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, EasonONLINE/Sakura-qwen2.5-v1.0:14b, starcoder2:latest"
