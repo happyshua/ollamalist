@@ -1761,3 +1761,10 @@ http://140.112.247.13:11434/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:4b, gemma3:1
 http://35.171.163.78:3001/v1,"llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, openchat:7b"
 http://34.211.186.255:8983/v1,deepseek-r1:latest
 http://119.6.253.106:11434/v1,"llama3.1:8b, deepseek-r1:32b, deepseek-r1:1.5b"
+http://43.201.47.16:3443/v1,"llama2:latest, qwen2.5:1.5b"
+http://222.122.41.203:11434/v1,"devstral:latest, qwen3:32b, qwen2.5-coder:32b, bge-m3:latest"
+http://54.90.138.61:49153/v1,llama2:latest
+http://54.242.215.68:7004/v1,"qwen2.5:1.5b, llama2:latest, codellama:13b, deepseek-r1:latest, llama3:latest"
+http://40.162.47.188/v1,phi3.5:3.8b
+https://lm1.otaske.net/v1,"hf.co/Aratako/Qwen3-8B-ERP-v0.1-GGUF:latest, MrScarySpaceCat/gemma3-tools:4b, MrScarySpaceCat/gemma3-tools:12b, mychen76/gemma3_cline_roocode_qat:12b, hf.co/Kyure-A/Heron-NVILA-Lite-15B-GGUF:latest, qwen3:14b, deepcoder:latest, phi4:latest, gemma3:12b, hf.co/mradermacher/ArrowNeo-AME-3x4B-v0.1-MoE-GGUF:latest, gemma3:4b, phi4-mini:latest, deepseek-r1:latest, hf.co/TheDrummer/Tiger-Gemma-9B-v3-GGUF:latest, hf.co/elyza/Llama-3-ELYZA-JP-8B-GGUF:latest, llama3.2-vision:latest, llama3.2:latest, 7shi/tanuki-dpo-v1.0:latest, hf.co/alfredplpl/llm-jp-3-3.7b-instruct-gguf:latest"
+http://103.36.223.217:11434/v1,"gemma3:27b, qwen3:32b, qwen3:8b, bge-m3:567m"
