@@ -1747,3 +1747,12 @@ http://124.71.97.68:11434/v1,deepseek-r1:8b
 http://124.222.96.215:11434/v1,deepseek-r1:1.5b
 http://118.117.49.179:11434/v1,"gemma3:12b, gemma3:27b, deepseek-r1:32b, mxbai-embed-large:latest, nomic-embed-text:latest, llava:34b, llava:13b, qwq:latest, deepseek-r1:14b"
 http://ollama.dev2.arconecloud.com/v1,phi4:latest
+http://1.36.252.231:11434/v1,"deepseek-r1:latest, deepseek-r1:70b, deepseek-r1:7b, llama3.2-vision:latest"
+http://13.59.112.169:8983/v1,"llama3:latest, codellama:13b"
+http://54.166.109.124:9864/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://54.163.178.245:3311/v1,"llama2:latest, deepseek-r1:latest, llama3:latest, openchat:7b"
+http://18.236.85.82:8983/v1,"llama3:latest, openchat:7b, llama2:latest, codellama:13b"
+http://44.243.249.136:3531/v1,"llama3:latest, llama2:latest, codellama:13b, qwen2.5:1.5b, deepseek-r1:latest"
+http://60.176.219.140:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
+http://180.158.236.126:11434/v1,"llama3.2:3b-instruct-q5_K_M, smollm2:135m, qwq:latest, phi3:latest, qwen2:latest"
+http://49.131.34.239:11434/v1,"llama3.2:3b-instruct-q5_K_M, sam860/qwen3:8b, llama3.1:8b, qwen3:0.6b, qwen3:32b, deepseek-r1:32b, qwen2.5:latest, qwen2.5:32b, deepseek-r1:14b, qwen2.5:14b, gemma3:27b, qwen2.5:7b"
