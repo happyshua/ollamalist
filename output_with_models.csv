@@ -1796,3 +1796,13 @@ http://52.53.233.48:3790/v1,llama2:latest
 http://llm.mylswami.com/v1,"tinyllama:latest, incept5/llama3.1-claude:latest, deepseek-coder:1.3b, deepseek-r1:32b, deepseek-coder:33b, deepseek-r1:14b"
 http://221.228.118.71/v1,"llama3.2:3b-instruct-q5_K_M, unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF:latest"
 http://40.162.48.151/v1,"llama3.2:3b-instruct-q5_K_M, phi3.5:3.8b"
+http://13.229.100.41:6664/v1,"llama2:latest, qwen2.5:1.5b"
+http://43.199.159.207:49155/v1,"openchat:7b, llama2:latest, llama3:latest, deepseek-r1:latest"
+http://13.231.155.132:49152/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, qwen2.5:1.5b"
+http://18.118.93.159:9050/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest"
+http://3.148.194.209:8194/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://13.231.188.95:4000/v1,"llama3:latest, codellama:13b"
+http://120.72.37.180/v1,Qwen/Qwen2.5-7B-Instruct-GGUF:latest
+http://118.248.162.194:11434/v1,"MFDoom/deepseek-coder-v2-tool-calling:16b, zac/phi4-tools:latest, qwen2.5:14b, smollm2:135m, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, nomic-embed-text:latest, deepseek-r1:14b"
+http://183.62.149.70/v1,"deepseek-r1:8b, llama3.2:1b, deepseek-r1:32b"
+http://18.167.246.198/v1,"deepseek-r1:8b, gemma3:4b, qwen2.5-coder:14b"
