@@ -1865,3 +1865,6 @@ http://59.9.11.187:11434/v1,mistral-small3.1:latest
 http://153.3.94.202:51007/v1,"llama3.2:3b-instruct-q5_K_M, DeepSeek-R1-Distill-Qwen-7B:latest, DeepSeek-R1-Distill-Qwen-1.5B:latest"
 http://43.239.162.115:11434/v1,"mario:latest, llama3-backup:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:latest, llama3.1:8b, hermes3:8b"
 http://125.178.35.173:11434/v1,"llama3.2:3b-instruct-q5_K_M, omercelik/exaone-deep:7.8b, nomic-embed-text:latest, hf.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8:latest, gemma3:12b"
+http://56.155.92.17:6588/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://3.34.140.106:1880/v1,"llama3:latest, qwen2.5:1.5b, llama2:latest, openchat:7b"
+http://140.116.245.154:11434/v1,"cow/taigi-llama-2-chat:7b, deepseek-r1:7b, qwen2:7b, cow/taigi-llama-2-chat:13b, llama3:8b, deepseek-r1:1.5b"
