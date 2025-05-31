@@ -1942,3 +1942,5 @@ http://34.211.186.255:2080/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b, llama3:
 http://52.198.205.187:55555/v1,openchat:7b
 http://13.60.9.156:8010/v1,qwen2.5:1.5b
 http://140.115.54.68:11434/v1,gemma2:9b
+http://57.180.247.54:7547/v1,"llama3:latest, openchat:7b"
+http://222.90.31.217:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, huihui_ai/qwen2.5-coder-abliterate:1.5b, huihui_ai/qwen2.5-coder-abliterate:14b, deepseek-r1:14b"
