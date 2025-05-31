@@ -1904,3 +1904,4 @@ http://3.148.102.149:9200/v1,"codellama:13b, deepseek-r1:latest"
 http://18.181.146.147:9200/v1,llama2:latest
 http://13.208.102.203:9200/v1,llama2:latest
 http://18.162.96.235:55555/v1,"llama3:latest, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://56.124.36.231:12300/v1,"deepseek-r1:latest, openchat:7b"
