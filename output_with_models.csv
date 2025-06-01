@@ -1750,3 +1750,10 @@ http://56.125.9.197:9080/v1,qwen2.5:1.5b
 http://101.126.152.137:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b"
 http://59.31.109.68:11434/v1,"smollm2:135m, command-r7b:latest, openthinker:7b, exaone3.5:32b, exaone3.5:latest, exaone3.5:7.8b, exaone3.5:2.4b, llama3.1:8b, mistral:latest"
 http://54.163.195.253:11434/v1,"deepseek-r1:8b, deepseek-r1:14b, llama3.1:8b"
+http://52.206.202.42:898/v1,"qwen2.5:1.5b, llama3:latest"
+http://3.141.27.212:8089/v1,"qwen2.5:1.5b, llama2:latest, codellama:13b, openchat:7b, deepseek-r1:latest"
+http://50.18.8.53:8887/v1,"deepseek-r1:latest, llama2:latest, codellama:13b"
+http://56.155.105.129:9090/v1,deepseek-r1:latest
+http://120.26.96.138:11434/v1,qwen3:0.6b
+http://14.220.242.63:11434/v1,"deepseek-r1:32b, ZimaBlueAI/MiniCPM-o-2_6:latest, deepseek-r1:7b, deepseek-r1:1.5b, deepseek-r1:70b"
+http://15.168.175.222:9100/v1,"qwen2.5:1.5b, codellama:13b, llama2:latest, openchat:7b"
