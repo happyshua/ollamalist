@@ -1774,3 +1774,15 @@ http://18.179.11.175:5550/v1,"llama2:latest, codellama:13b, llama3:latest, openc
 http://43.198.203.32:6001/v1,"codellama:13b, llama2:latest, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
 http://13.231.146.87:8888/v1,"codellama:13b, qwen2.5:1.5b"
 http://15.168.8.242:9006/v1,"deepseek-r1:latest, llama2:latest"
+http://36.137.196.135:11434/v1,"qwen2.5:1.5b, shaw/dmeta-embedding-zh:latest"
+http://47.92.68.21:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, qwen2.5:0.5b, deepseek-r1:1.5b"
+http://223.99.220.203:11434/v1,"smollm2:135m, qwen2.5vl:latest, gemma3:latest, qwen3:32b-28000, qwen3:32b-16384, qwen3:32b-40960, qwen3:32b-65536, qwen3:32b-49152, qwen3:32b-32768, qwen3:32b, gte-qwen2-7b-32768:latest, qwen2.5:72b-2bit-instruct-16384, qwen2.5:32b-49152-context, qwen2.5:32b-32768-context, deepseek-r1:32b-49152-context, qwq:32b-49152-context, qwq:32b-65536-context, qwq:32b-32768-context, qwq:32b, deepseek-r1:32b-32768-context, qwen2.5:32b, bge-m3:latest"
+http://116.90.87.83:11434/v1,"smollm2:135m, bge-m3:latest, qwen3:8b, gemma3:latest, llama3.2:3b, phi3:latest, qwen2.5:latest, deepseek-r1:latest"
+http://3.15.0.131:8118/v1,llama3:latest
+http://18.117.192.207:8880/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, codellama:13b"
+http://54.144.245.150:631/v1,"llama3:latest, codellama:13b, deepseek-r1:latest"
+http://3.85.43.45:20332/v1,"llama2:latest, deepseek-r1:latest"
+http://54.197.42.232:9003/v1,"deepseek-r1:latest, llama2:latest"
+http://3.36.86.229:3001/v1,"deepseek-r1:latest, openchat:7b"
+http://117.72.49.0:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://114.108.180.198:5555/v1,llama3.2:3b-instruct-q5_K_M
