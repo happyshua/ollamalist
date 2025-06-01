@@ -1700,3 +1700,7 @@ http://13.60.10.94:9050/v1,"openchat:7b, codellama:13b, llama2:latest, llama3:la
 http://13.208.164.37:2052/v1,"openchat:7b, llama3:latest"
 http://36.137.100.194:11434/v1,"deepseek-r1:1.5b, llama3.1:8b-instruct-q4_K_M, bge-m3:latest, deepseek-r1:14b"
 http://73.149.23.93:11434/v1,"llama3-backup:latest, mario:latest, mattw/pygmalion:latest, llama3.2:latest, llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, qwen3:30b, qwen3:32b, llama3.1:8b-instruct-q4_K_M, llama3.1:8b, gemma3:27b, qwq:latest"
+http://47.109.152.213:11434/v1,"smollm2:135m, bge-m3:latest"
+http://120.27.200.203:2024/v1,"qwq:latest, linux6200/bge-reranker-v2-m3:latest, nomic-embed-text:latest, shaw/dmeta-embedding-zh:latest, bge-m3:latest, deepseek-r1:32b, deepseek-r1:7b"
+http://182.43.100.249:11434/v1,deepseek-r1:7b
+http://123.57.251.91:9090/v1,"qwen3:32b, llama3.2-vision:latest, codestral:latest, deepseek-r1:32b, llava:34b, qwen2.5:14b, gemma2:27b, qwen2.5:latest, llama3.2:latest, qwen2:72b, qwen2:latest, starcoder2:15b, llama2:text, llama2:latest, llama3:70b-text, llama3:text, llama3:70b, nomic-embed-text:latest, starcoder2:3b, llama3:latest"
