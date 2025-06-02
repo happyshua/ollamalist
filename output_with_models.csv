@@ -1846,3 +1846,12 @@ http://68.69.180.164:8888/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:12b"
 http://113.68.53.152:9000/v1,"qwen2.5vl:latest, qwen3:14b, llama3.2:3b-instruct-q5_K_M, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest"
 http://56.155.117.75:1025/v1,llama2:latest
 http://183.172.139.147:11434/v1,deepseek-r1:32b
+http://114.116.223.136:11434/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest, deepseek-r1:latest"
+http://3.38.104.186:9001/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, openchat:7b"
+http://16.163.31.69:7547/v1,llama2:latest
+http://43.199.157.147:9080/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b"
+http://13.231.75.87:2379/v1,codellama:13b
+http://13.231.130.234:7547/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b"
+http://16.162.4.69:3443/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b"
+http://117.50.194.103:11434/v1,"llama3.2:3b-instruct-q5_K_M, hhao/qwen2.5-coder-tools:latest, bge-m3:latest"
+http://106.38.205.204:11434/v1,"llama3.1:8b-instruct-q4_K_M, bge-m3:latest, llava:34b, nomic-embed-text:latest, llama3:8b, deepseek-r1:32b, deepseek-r1:671b, erwan2/DeepSeek-Janus-Pro-7B:latest, deepseek-r1:14b, shaw/dmeta-embedding-zh:latest, deepseek-r1:70b"
