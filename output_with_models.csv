@@ -1844,3 +1844,5 @@ http://13.61.196.237:9090/v1,"llama3:latest, qwen2.5:1.5b, llama2:latest, opench
 http://15.168.175.222:4000/v1,"qwen2.5:1.5b, codellama:13b, llama2:latest, openchat:7b"
 http://68.69.180.164:8888/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:12b"
 http://113.68.53.152:9000/v1,"qwen2.5vl:latest, qwen3:14b, llama3.2:3b-instruct-q5_K_M, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest"
+http://56.155.117.75:1025/v1,llama2:latest
+http://183.172.139.147:11434/v1,deepseek-r1:32b
