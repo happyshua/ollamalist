@@ -1896,3 +1896,6 @@ http://54.208.124.188:7443/v1,"deepseek-r1:latest, llama3:latest, codellama:13b,
 http://18.179.111.160:7657/v1,"qwen2.5:1.5b, openchat:7b"
 http://57.180.245.54:8008/v1,llama2:latest
 http://35.72.2.191/v1,"codellama:13b, llama3:latest, llama2:latest, openchat:7b"
+http://43.203.230.224:7443/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://3.36.122.69:9100/v1,"codellama:13b, llama3:latest, openchat:7b, qwen2.5:1.5b"
+http://112.159.62.232:11434/v1,"llama3.2:latest, timHan/llama3korean8B4QKM:latest, jinbora/deepseek-r1-Bllossom:8b, deepseek-r1:7b, llama3.2-vision:11b, llama3.2:1b"
