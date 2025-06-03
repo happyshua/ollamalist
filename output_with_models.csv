@@ -1984,3 +1984,5 @@ http://43.198.89.252:8083/v1,"openchat:7b, deepseek-r1:latest"
 http://13.60.210.69:8082/v1,codellama:13b
 http://60.204.136.80:11434/v1,"qwen2.5vl:latest, llama3.2-vision:latest, llama3.2:3b-instruct-q5_K_M, cyberuser42/DeepSeek-R1-Distill-Qwen-14B:latest, deepseek-r1:latest, openchat:latest, bge-m3:latest, deepseek-r1:14b, qwq:latest"
 http://120.220.102.76:11434/v1,"deepseek-r1:32b-qwen-distill-q4_K_M, yasserrmd/Qwen2.5-7B-Instruct-1M:latest"
+http://153.101.189.218:11434/v1,"llama3.1:8b, qwq:latest, deepseek-r1:14b, nomic-embed-text:latest, wizardcoder:33b, qwen:72b, qwen:32b, llama3:70b, jcdickinson/wizardcoder:latest, deepseek-r1:70b, deepseek-r1:32b"
+http://122.51.111.211:11434/v1,deepseek-r1:1.5b
