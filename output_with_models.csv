@@ -2039,3 +2039,9 @@ http://54.149.52.8:8088/v1,"codellama:13b, llama3:latest, openchat:7b"
 http://54.238.250.35:85/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b"
 http://43.207.153.130:8090/v1,llama2:latest
 http://15.168.144.210:8886/v1,"llama3:latest, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://132.145.113.96:8500/v1,"qwen3:235b, mistral-small3.1:24b-instruct-2503-q8_0, snowflake-arctic-embed2:latest, nomic-embed-text:latest, gemma3:27b, qwq:32b-q8_0, deepscaler:1.5b, mxbai-embed-large:latest, qwen2.5:72b-instruct-q8_0, qwen2.5:32b-instruct-q6_K, qwen2.5-coder:32b-instruct-q4_1, qwen2.5-coder:32b, qwen2:72b, phi4:14b-q8_0, llama3.3:70b-instruct-q8_0, llama3.2-vision:11b-instruct-q8_0, llama3.1:latest, llama3.1:8b, deepseek-r1:70b-llama-distill-q8_0, deepseek-r1:32b"
+http://35.77.96.29:28017/v1,llama2:latest
+http://115.120.219.17:11434/v1,"qwen2.5:1.5b, qwen2.5:3b, qwen2.5:0.5b, qwen3:30b-a3b-q4_K_M, qwen2.5vl:7b, qwen3:4b, qwen2.5:7b-instruct-q4_0, gemma3:27b-it-qat, bge-m3:latest, gemma3:12b, gemma3:4b"
+http://121.37.106.37:11434/v1,"qwen2.5vl:3b, qwen2.5vl:latest, qwen2.5vl:32b, www.modelscope.cn/AI-ModelScope/Qwen2-VL-7B-Instruct-GGUF:latest, modelscope.cn/AI-ModelScope/Llama-3.2-11B-Vision-Instruct-GGUF:latest, debopam/Text-to-SQL__Qwen2.5-Coder-3B-FineTuned:latest, deepseek-r1:14b, bge-m3:latest, deepseek-r1:7b, deepseek-r1:1.5b, qwen:4b"
+http://45.33.253.254:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, mattw/pygmalion:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, gemma3:4b, llama3.1:8b, mistral:latest, llama2:latest, hermes3:8b"
+http://45.33.253.221:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, mattw/pygmalion:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, gemma3:4b, llama3.1:8b, mistral:latest, llama2:latest, hermes3:8b"
