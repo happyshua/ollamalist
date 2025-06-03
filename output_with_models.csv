@@ -1995,3 +1995,12 @@ http://124.70.136.199:7003/v1,"deepseek-coder-v2:latest, deepseek-r1:14b"
 http://183.7.145.205:11434/v1,"qwen3:32b, deepseek-r1:32b, deepseek-r1:14b, nomic-embed-text:latest, deepseek-r1:70b"
 http://47.117.113.154:11434/v1,"qwen3:14b, llava:latest, gemma3:latest, deepseek-r1:latest, mistral:latest, bge-m3:latest, qwen3:8b, qwen3:4b"
 http://106.63.5.123:11434/v1,deepseek-r1:32b
+http://18.236.85.82:1471/v1,"llama2:latest, codellama:13b, qwen2.5:1.5b"
+http://44.211.223.138:6588/v1,"llama3:latest, qwen2.5:1.5b"
+http://3.149.23.190:81/v1,openchat:7b
+http://52.8.234.79:8088/v1,deepseek-r1:latest
+http://52.10.66.206:8083/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://18.191.154.96:81/v1,"codellama:13b, llama2:latest"
+http://13.60.75.217:81/v1,"llama3:latest, deepseek-r1:latest"
+http://82.156.98.126:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, llama3:latest, llama3.3:latest, qwen2.5:latest, llama3.2:latest, llama3.2-vision:11b, smollm2:135m, deepseek-r1:32b, deepseek-r1:7b"
+http://82.157.146.217:8083/v1,qwen3:8b
