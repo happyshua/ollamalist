@@ -1964,3 +1964,23 @@ http://56.155.29.34:8020/v1,"llama2:latest, llama3:latest, deepseek-r1:latest, o
 http://44.243.214.56:888/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, codellama:13b, openchat:7b"
 http://13.231.222.94:8083/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, openchat:7b, codellama:13b"
 http://13.231.222.94:8083/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, openchat:7b, codellama:13b"
+http://43.201.62.240:8008/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://18.162.194.206:8083/v1,llama3:latest
+http://43.207.73.185:8090/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://3.38.250.40:4848/v1,llama3:latest
+http://43.198.245.180:888/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, openchat:7b"
+http://52.86.234.7:8080/v1,"qwen:0.5b, qwen2.5:0.5b"
+http://3.38.250.40:7500/v1,deepseek-r1:latest
+http://3.112.228.238:1024/v1,"llama3:latest, deepseek-r1:latest, llama2:latest, qwen2.5:1.5b, openchat:7b"
+http://54.249.1.186:7001/v1,"qwen2.5:1.5b, openchat:7b, llama3:latest, codellama:13b"
+http://54.212.45.208:8084/v1,"deepseek-r1:latest, openchat:7b"
+http://35.91.64.126:8081/v1,deepseek-r1:latest
+http://3.133.146.11:50070/v1,"deepseek-r1:latest, codellama:13b"
+http://56.155.130.29:620/v1,"codellama:13b, openchat:7b, deepseek-r1:latest, llama3:latest, llama2:latest"
+http://13.124.160.61:888/v1,"deepseek-r1:latest, llama3:latest, openchat:7b, llama2:latest"
+http://43.198.250.253:8082/v1,"codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://16.162.19.238:8083/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest, llama2:latest"
+http://43.198.89.252:8083/v1,"openchat:7b, deepseek-r1:latest"
+http://13.60.210.69:8082/v1,codellama:13b
+http://60.204.136.80:11434/v1,"qwen2.5vl:latest, llama3.2-vision:latest, llama3.2:3b-instruct-q5_K_M, cyberuser42/DeepSeek-R1-Distill-Qwen-14B:latest, deepseek-r1:latest, openchat:latest, bge-m3:latest, deepseek-r1:14b, qwq:latest"
+http://120.220.102.76:11434/v1,"deepseek-r1:32b-qwen-distill-q4_K_M, yasserrmd/Qwen2.5-7B-Instruct-1M:latest"
