@@ -1956,3 +1956,4 @@ http://18.237.97.31:4300/v1,"llama2:latest, openchat:7b, codellama:13b"
 http://18.183.238.142:8081/v1,openchat:7b
 http://35.77.105.162:8082/v1,"openchat:7b, deepseek-r1:latest"
 http://13.124.192.128:8083/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, codellama:13b"
+http://36.24.159.250:8089/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:14b, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:8b"
