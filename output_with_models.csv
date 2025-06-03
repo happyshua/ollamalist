@@ -1937,3 +1937,8 @@ http://43.198.187.185:8083/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b"
 http://223.167.202.95:11434/v1,"llama3.1:latest, deepseek-r1:latest"
 http://58.19.13.94:11434/v1,"deepseek-r1:1.5b, nomic-embed-text:latest, deepseek-r1:14b, deepseek-r1:7b"
 http://49.75.218.5:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, deepseek-r1:14b, qwen2.5:1.5b, qwen2.5:0.5b, qwen2.5:14b, wangshenzhi/gemma2-9b-chinese-chat:latest, gemma2:latest, llama3.2:latest"
+http://3.148.103.23:8089/v1,codellama:13b
+http://56.155.106.36:1024/v1,"deepseek-r1:latest, llama2:latest, codellama:13b"
+http://112.168.28.246:7778/v1,"edawon:latest, edawon2:latest, llama3.2:latest"
+http://125.227.249.155:11434/v1,"smollm2:135m, qwq32bIq4:latest, huihui_ai/qwen2.5-1m-abliterated:14b, ilyagusev/saiga_nemo_12b:latest, deepseek8b:4q, nomic-embed-text:latest, QwQ-32B.Q8_0.gguf:latest, killgfat/galtransl-7b-v2:latest, qwen2.5:14b, llama2-chinese:13b, kenneth85/llama-3-taiwan:latest, minicpm-v:latest, qwen2.5-coder:3b, qwen2.5-coder:0.5b, qwen:7b, mistral-small:latest, mistral-nemo:latest"
+http://125.227.249.155:11434/v1,"smollm2:135m, qwq32bIq4:latest, huihui_ai/qwen2.5-1m-abliterated:14b, ilyagusev/saiga_nemo_12b:latest, deepseek8b:4q, nomic-embed-text:latest, QwQ-32B.Q8_0.gguf:latest, killgfat/galtransl-7b-v2:latest, qwen2.5:14b, llama2-chinese:13b, kenneth85/llama-3-taiwan:latest, minicpm-v:latest, qwen2.5-coder:3b, qwen2.5-coder:0.5b, qwen:7b, mistral-small:latest, mistral-nemo:latest"
