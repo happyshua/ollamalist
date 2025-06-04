@@ -2110,3 +2110,4 @@ http://18.181.165.170:82/v1,deepseek-r1:latest
 http://3.35.222.43:8084/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest, codellama:13b"
 http://18.181.165.170:82/v1,deepseek-r1:latest
 http://3.34.146.94:1212/v1,"openchat:7b, llama3:latest, llama2:latest, qwen2.5:1.5b"
+http://1.207.8.114:11434/v1,"gemma3:27b-it-qat, qwen2.5:32b, qwen2.5:14b, gemma3:12b-it-qat, devstral:24b, bge-m3:latest, mxbai-embed-large:latest, nomic-embed-text:latest, qwen3:32b, qwen2.5vl:7b, deepseek-coder-v2:16b, qwen2.5-coder:32b, qwen2.5vl:32b, qwen3:14b, qwen2.5vl:3b, qwen2.5-coder:14b, qwen2.5:7b, qwen2.5:3b, qwen3:4b, qwen3:8b, qwen3:0.6b, qwen3:1.7b"
