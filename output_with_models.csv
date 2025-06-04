@@ -2092,3 +2092,10 @@ http://42.2.59.42:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, gemma3:4b
 http://13.208.192.94:37670/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, codellama:13b, openchat:7b"
 http://13.208.186.123:8002/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
 http://13.208.183.141:8181/v1,deepseek-r1:latest
+http://111.229.197.250:11434/v1,"smollm2:135m, nomic-embed-text:latest, qwen2.5-coder:1.5b"
+http://121.40.179.18:11434/v1,"smollm2:135m, deepseek-r1:1.5b, nomic-embed-text:latest"
+http://36.231.145.216:11434/v1,"benevolentjoker/nsfwvanessa:latest, gemma3:1b, gemma3:12b, qwen3:8b, gemma3:latest, llama3:latest"
+http://117.50.250.136:11434/v1,"qwen3:8b_nothink, qwen3:8b, qwen3:30b_nothink, qwen3:30b"
+http://123.113.145.157:11434/v1,"deepseek-r1:7B, deepseek-r1:14b"
+http://13.208.192.94/v1,"llama3:latest, openchat:7b"
+http://36.231.145.216:11434/v1,"benevolentjoker/nsfwvanessa:latest, gemma3:1b, gemma3:12b, qwen3:8b, gemma3:latest, llama3:latest"
