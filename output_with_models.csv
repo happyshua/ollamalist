@@ -2099,3 +2099,4 @@ http://117.50.250.136:11434/v1,"qwen3:8b_nothink, qwen3:8b, qwen3:30b_nothink, q
 http://123.113.145.157:11434/v1,"deepseek-r1:7B, deepseek-r1:14b"
 http://13.208.192.94/v1,"llama3:latest, openchat:7b"
 http://36.231.145.216:11434/v1,"benevolentjoker/nsfwvanessa:latest, gemma3:1b, gemma3:12b, qwen3:8b, gemma3:latest, llama3:latest"
+http://218.29.142.242:8118/v1,"deepseek-r1:8b, qwen3:8b, qwen2.5-coder:7b, qwen2.5-coder:3b, gemma3:27b, qwen3:235b-a22b, quentinz/bge-large-zh-v1.5:latest"
