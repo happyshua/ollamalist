@@ -1621,3 +1621,15 @@ http://54.215.203.195:5000/v1,"llama2:latest, openchat:7b, qwen2.5:1.5b, deepsee
 http://52.38.183.203:8444/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest"
 http://52.42.56.252:10000/v1,"deepseek-r1:latest, llama2:latest, openchat:7b, llama3:latest, qwen2.5:1.5b"
 http://54.90.180.235:10000/v1,deepseek-r1:latest
+http://125.42.76.98:12377/v1,deepseek-r1:32b
+http://125.42.76.98:10443/v1,deepseek-r1:32b
+http://18.191.109.107:9999/v1,codellama:13b
+http://184.73.21.173:18080/v1,"openchat:7b, qwen2.5:1.5b, codellama:13b, deepseek-r1:latest, llama3:latest"
+http://54.235.29.107:38/v1,"codellama:13b, openchat:7b, llama3:latest, qwen2.5:1.5b"
+http://54.151.101.122/v1,"openchat:7b, qwen2.5:1.5b"
+http://35.95.29.160:5001/v1,llama3:latest
+http://44.243.214.56:5000/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, codellama:13b, openchat:7b"
+http://123.123.208.24:8087/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest, deepseek-r1:7b, deepseek-r1:8b, deepseek-r1:1.5b"
+http://183.179.112.144:11434/v1,"qwen2.5:latest, llama3.2:3b-instruct-q5_K_M, gemma3:12b, llama3-groq-tool-use:8b, qwen2.5:14b, minicpm-v:latest, deepseek-r1:14b, llama3.2-vision:latest, qwen2.5-coder:14b, mxbai-embed-large:latest, llama3:latest, llama3.2-vision:11b, llama3.1:latest, nomic-embed-text:latest, llama3:8b, llama3:instruct, elarto/musa_q8:latest, wangshenzhi/llama3-8b-chinese-chat-ollama-fp16:latest, taozhiyuai/openbiollm-llama-3-chinese:70b-q8_0, gemma:latest"
+http://8.130.78.55:8000/v1,"deepseek-r1:14b, deepseek-r1:7b"
+http://52.220.192.138/v1,qwen3:8b
