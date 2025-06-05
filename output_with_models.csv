@@ -1676,3 +1676,10 @@ http://144.0.66.8:11434/v1,"smollm2:135m, gemma3:27b"
 http://171.35.50.120:7000/v1,deepseek-r1:14b
 http://98.152.200.88:8000/v1,"qwen3_ctx20:14b, qwen3:14b, qwen3-32b_nthink:ctx40k, qwen3-32b:ctx40k, qwen3:30b, qwen3-30b:ctx40k, qwen3:32b, myqwq:ctx50k, mygemma3-tools:27b, gemma3-tools:27b, PetrosStav/gemma3-tools:27b, myqwen25:latest, gemma3:27b, qwen2.5:32b, qwq:latest"
 http://218.201.254.184:11434/v1,"qwen3:30b-a3b, qwen3:14b, qwen2.5:7b, deepseek-r1:14b, deepseek-r1:7b, mofanke/acge_text_embedding:latest, quentinz/bge-large-zh-v1.5:latest, qwen2:7b, llama3:latest, qwen:7b, qwen:32b, qwen:14b, qwen:latest"
+http://43.206.209.223:8000/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b"
+http://15.168.237.12:7547/v1,qwen2.5:1.5b
+http://123.114.100.140:11434/v1,"smollm2:135m, deepseek-r1:70b, qwq:latest, deepseek-r1:32b"
+http://122.51.181.224:11434/v1,aiden_lu/minicpm-v2.6:Q4_K_M
+http://14.145.171.20:11434/v1,"deepseek-coder-v2:16b, deepseek-coder:33b, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:70b"
+http://43.206.209.223:8000/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b"
+http://121.129.32.42:11434/v1,gemma3:12b-it-qat
