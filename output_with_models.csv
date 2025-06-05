@@ -1683,3 +1683,8 @@ http://122.51.181.224:11434/v1,aiden_lu/minicpm-v2.6:Q4_K_M
 http://14.145.171.20:11434/v1,"deepseek-coder-v2:16b, deepseek-coder:33b, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:70b"
 http://43.206.209.223:8000/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b"
 http://121.129.32.42:11434/v1,gemma3:12b-it-qat
+http://3.23.101.145:7547/v1,"llama3:latest, codellama:13b"
+http://18.222.21.46:7547/v1,"openchat:7b, codellama:13b, llama2:latest"
+http://120.233.202.62:11434/v1,"qwen3:1.7b, nuextract:3.8b, llama3.2:1b"
+http://13.208.214.16:7547/v1,"codellama:13b, llama3:latest, openchat:7b, llama2:latest"
+http://116.25.250.142:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
