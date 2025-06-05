@@ -1647,3 +1647,6 @@ http://15.168.174.27:7170/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest"
 http://43.202.55.222:10443/v1,"llama3:latest, codellama:13b, openchat:7b, qwen2.5:1.5b"
 http://163.44.122.240:11434/v1,"tinyllama:1.1b, llama3.1:8b, llama3.2:3b, schroneko/llama-3.1-swallow-8b-instruct-v0.1:latest, yottahmd/tiny-swallow-1.5b-instruct:latest"
 http://219.137.50.157:12369/v1,"qwen3:30b-a3b, gemma3:1b-it-q8_0"
+http://34.227.32.161:8060/v1,"codellama:13b, openchat:7b, llama2:latest, llama3:latest"
+http://3.15.240.139:9999/v1,"codellama:13b, llama3:latest, openchat:7b, deepseek-r1:latest, llama2:latest"
+http://119.147.117.95/v1,unsloth/Qwen3-0.6B-GGUF:latest
