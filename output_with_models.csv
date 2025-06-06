@@ -1700,3 +1700,6 @@ http://43.199.203.116:7547/v1,"openchat:7b, codellama:13b, llama2:latest"
 http://115.190.9.61:11434/v1,"smollm2:135m, qwen2.5:0.5b"
 http://36.231.145.216:11434/v1,"benevolentjoker/nsfwvanessa:latest, gemma3:1b, gemma3:12b, qwen3:8b, gemma3:latest, llama3:latest"
 http://121.18.74.49:11434/v1,deepseek-r1:32b
+http://89.117.77.64:7777/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:latest, gemma3:1b"
+http://204.236.181.181:7547/v1,"deepseek-r1:latest, llama2:latest"
+http://24.199.100.140:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:8b, deepseek-r1:1.5b, deepseek-r1:latest"
