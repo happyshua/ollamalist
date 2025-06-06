@@ -1724,3 +1724,10 @@ http://15.152.38.177:5000/v1,codellama:13b
 http://13.208.191.145:49152/v1,"qwen2.5:1.5b, deepseek-r1:latest"
 http://113.249.23.115:11434/v1,"zincles/sakura-1.5b-qwen2.5-v1.0-q5ks:latest, deepseek-r1:8b, llama3.2:latest"
 http://222.93.14.41:11434/v1,deepseek-r1:1.5b
+http://18.181.118.238:17988/v1,"codellama:13b, llama3:latest"
+http://18.220.49.188:40000/v1,qwen2.5:1.5b
+http://44.203.123.145:8089/v1,qwen2.5:1.5b
+http://3.80.23.241:8000/v1,deepseek-r1:latest
+http://35.94.113.155/v1,"openchat:7b, llama2:latest, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://52.53.243.161/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, deepseek-r1:latest, codellama:13b"
+http://56.155.121.130:5985/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b, llama3:latest, openchat:7b"
