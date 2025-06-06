@@ -1705,3 +1705,6 @@ http://204.236.181.181:7547/v1,"deepseek-r1:latest, llama2:latest"
 http://24.199.100.140:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:8b, deepseek-r1:1.5b, deepseek-r1:latest"
 http://114.89.199.237:11434/v1,"qwen3:30b, qwen3:32b, deepseek-r1:70b, deepseek-r1:32b, deepseek-r1:1.5b"
 http://13.57.238.108:7777/v1,codellama:13b
+http://54.64.169.29:7547/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://125.42.72.148:12384/v1,"deepseek-r1:8b, deepseek-r1:latest, deepseek-r1:14b, deepseek-r1:32b"
+http://47.102.202.189:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b"
