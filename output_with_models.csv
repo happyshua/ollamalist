@@ -1688,3 +1688,15 @@ http://18.222.21.46:7547/v1,"openchat:7b, codellama:13b, llama2:latest"
 http://120.233.202.62:11434/v1,"qwen3:1.7b, nuextract:3.8b, llama3.2:1b"
 http://13.208.214.16:7547/v1,"codellama:13b, llama3:latest, openchat:7b, llama2:latest"
 http://116.25.250.142:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
+http://16.162.4.69:18086/v1,"llama2:latest, deepseek-r1:latest"
+http://3.35.173.120:18080/v1,codellama:13b
+http://3.112.188.5:8000/v1,"llama2:latest, llama3:latest, deepseek-r1:latest, codellama:13b"
+http://13.231.248.126:5001/v1,"deepseek-r1:latest, llama3:latest, openchat:7b"
+http://43.199.203.116:7547/v1,"openchat:7b, codellama:13b, llama2:latest"
+http://3.148.203.88:49154/v1,"openchat:7b, codellama:13b, llama3:latest"
+http://18.181.170.27:22335/v1,codellama:13b
+http://18.163.33.142:1503/v1,"llama3:latest, llama2:latest, openchat:7b, deepseek-r1:latest, codellama:13b"
+http://43.199.203.116:7547/v1,"openchat:7b, codellama:13b, llama2:latest"
+http://115.190.9.61:11434/v1,"smollm2:135m, qwen2.5:0.5b"
+http://36.231.145.216:11434/v1,"benevolentjoker/nsfwvanessa:latest, gemma3:1b, gemma3:12b, qwen3:8b, gemma3:latest, llama3:latest"
+http://121.18.74.49:11434/v1,deepseek-r1:32b
