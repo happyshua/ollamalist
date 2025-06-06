@@ -1767,3 +1767,7 @@ http://117.72.193.110:11434/v1,"smollm2:135m, deepseek-r1:1.5b, nomic-embed-text
 http://125.42.72.148:8085/v1,"deepseek-r1:8b, deepseek-r1:latest, deepseek-r1:14b, deepseek-r1:32b"
 http://223.15.41.188:11434/v1,deepseek-r1:8b
 http://223.15.41.204:11434/v1,deepseek-r1:8b
+http://13.112.180.90:6544/v1,"llama2:latest, deepseek-r1:latest, codellama:13b"
+http://15.152.44.232:2010/v1,codellama:13b
+http://125.42.72.148:12388/v1,"deepseek-r1:8b, deepseek-r1:latest, deepseek-r1:14b, deepseek-r1:32b"
+http://125.42.72.148:11371/v1,"deepseek-r1:8b, deepseek-r1:latest, deepseek-r1:14b, deepseek-r1:32b"
