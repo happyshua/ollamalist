@@ -1718,3 +1718,9 @@ http://16.162.93.85:7170/v1,"llama2:latest, deepseek-r1:latest, llama3:latest"
 http://125.42.72.148:12385/v1,"deepseek-r1:8b, deepseek-r1:latest, deepseek-r1:14b, deepseek-r1:32b"
 http://125.42.72.148:50580/v1,"deepseek-r1:8b, deepseek-r1:latest, deepseek-r1:14b, deepseek-r1:32b"
 http://125.42.72.148:7000/v1,"deepseek-r1:8b, deepseek-r1:latest, deepseek-r1:14b, deepseek-r1:32b"
+http://1.94.23.49:11434/v1,deepseek-r1:1.5b
+http://119.236.231.43:11434/v1,"smollm2:135m, gemma3:1b"
+http://15.152.38.177:5000/v1,codellama:13b
+http://13.208.191.145:49152/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://113.249.23.115:11434/v1,"zincles/sakura-1.5b-qwen2.5-v1.0-q5ks:latest, deepseek-r1:8b, llama3.2:latest"
+http://222.93.14.41:11434/v1,deepseek-r1:1.5b
