@@ -1796,3 +1796,11 @@ http://54.249.123.217:5801/v1,deepseek-r1:latest
 http://43.201.252.99:3005/v1,llama3:latest
 http://54.183.174.165:2086/v1,deepseek-r1:latest
 http://96.9.229.236:11434/v1,"smollm2:135m, deepseek-r1:8b"
+http://180.97.91.191:11434/v1,"qwen2.5:14b, qwen2.5:7b"
+http://125.42.72.148:29515/v1,"deepseek-r1:8b, deepseek-r1:latest, deepseek-r1:14b, deepseek-r1:32b"
+http://125.42.72.148:12392/v1,"deepseek-r1:8b, deepseek-r1:latest, deepseek-r1:14b, deepseek-r1:32b"
+http://122.97.77.116:11434/v1,llama3.1:8b
+http://27.19.210.62:8888/v1,"llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, nomic-embed-text:latest, deepseek-r1:7b, deepseek-r1:8b, deepseek-r1:14b"
+http://112.166.52.96:54321/v1,"llama3.1:8b, qwen2.5:72b, deepseek-r1:32b, qwen3:32b, qwen2:72b"
+http://124.198.30.90:11434/v1,deepseek-coder-v2:16b
+http://222.106.229.98:11434/v1,"deepseek-r1:14b, deepseek-r1:70b"
