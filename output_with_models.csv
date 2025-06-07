@@ -1843,3 +1843,15 @@ http://3.133.158.216:49153/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
 http://52.193.250.27:49152/v1,llama2:latest
 http://218.35.167.123:11434/v1,gemma3:27b
 http://82.156.46.188:11434/v1,"deepseek-r1:1.5b, qwen2.5:1.5b"
+http://54.238.212.231:7071/v1,"openchat:7b, deepseek-r1:latest, llama3:latest"
+http://43.203.251.26:49153/v1,"openchat:7b, deepseek-r1:latest, llama2:latest"
+http://16.162.252.91:5280/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://54.245.182.151:49154/v1,"deepseek-r1:latest, codellama:13b, llama2:latest, qwen2.5:1.5b, openchat:7b"
+http://18.212.239.64:5678/v1,"llama2:latest, openchat:7b, codellama:13b, qwen2.5:1.5b, llama3:latest"
+http://52.72.118.202:8887/v1,llama3:latest
+http://13.62.57.156:14265/v1,"qwen2.5:1.5b, codellama:13b, deepseek-r1:latest"
+http://18.162.46.250:2010/v1,"deepseek-r1:latest, qwen2.5:1.5b"
+http://52.194.213.81:8378/v1,"llama3:latest, deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
+http://15.168.238.82:8886/v1,"llama3:latest, deepseek-r1:latest, openchat:7b"
+http://183.220.36.12:11434/v1,"llama3.1:8b, borch/llama3_speed_chat:latest, bge-m3:latest, hf.co/kunpehx/farming-model:latest, huihui_ai/deepseek-r1-abliterated:14b, erwan2/DeepSeek-Janus-Pro-7B:latest, deepseek-coder-v2:latest, deepseek-r1:14b, deepseek-r1:32b"
+http://1.14.193.47:12000/v1,"deepseek-r1:14b, deepseek-r1:32b, bge-m3:latest"
