@@ -1909,3 +1909,13 @@ http://52.195.184.12:8983/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, llama2
 http://18.179.31.73:8983/v1,"codellama:13b, qwen2.5:1.5b, llama2:latest"
 http://15.168.140.21:8983/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, openchat:7b, llama3:latest"
 http://121.156.245.38:11434/v1,"korean-llama3-8b:latest, llama3:8b"
+http://13.56.159.252:9200/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://54.80.115.103:3097/v1,"llama3:latest, openchat:7b, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b"
+http://3.101.119.119:9200/v1,"llama2:latest, deepseek-r1:latest, openchat:7b"
+http://54.183.174.165:9200/v1,"codellama:13b, llama2:latest, openchat:7b, deepseek-r1:latest, qwen2.5:1.5b"
+http://222.116.137.122:11434/v1,"smollm2:135m, gemma3-27b-Q2:latest, gemma3:12b-it-q4_K_M, gemma3:12b, JEJUMA-8b-Q6:latest, architectyou/ko-gemma2-9B-Q4_K_M:latest, gemma2:9b, gemma2:latest"
+http://123.60.41.85:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, llama3.2:latest, llama3.2:3b-instruct-q5_K_M, deepseek-r1:latest"
+http://60.205.106.75:11434/v1,"qwen3:8b, Elixpo/LlamaMedicine:latest, deepseek-r1:7b"
+http://61.185.15.120:11434/v1,"deepseek-r1:7b, bge-m3:latest, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:1.5b"
+http://81.70.23.180:11434/v1,deepseek-r1:32b
+http://172.104.182.228:11434/v1,llama3.2:latest
