@@ -1919,3 +1919,13 @@ http://60.205.106.75:11434/v1,"qwen3:8b, Elixpo/LlamaMedicine:latest, deepseek-r
 http://61.185.15.120:11434/v1,"deepseek-r1:7b, bge-m3:latest, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:1.5b"
 http://81.70.23.180:11434/v1,deepseek-r1:32b
 http://172.104.182.228:11434/v1,llama3.2:latest
+http://52.78.49.150:8089/v1,"deepseek-r1:latest, openchat:7b, llama3:latest"
+http://13.113.174.142:8983/v1,llama2:latest
+http://13.124.57.131:8983/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://13.124.22.168:8983/v1,llama3:latest
+http://18.167.173.36:8983/v1,"llama3:latest, openchat:7b, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://34.203.34.243:4343/v1,"llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://52.79.36.60:3000/v1,"codellama:13b, llama3:latest, llama2:latest"
+http://43.203.251.26:2086/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://13.60.10.215:38/v1,"qwen2.5:1.5b, llama2:latest"
+http://16.162.161.73:9191/v1,"codellama:13b, llama2:latest"
