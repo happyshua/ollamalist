@@ -1938,3 +1938,8 @@ http://56.155.105.128:8080/v1,"openchat:7b, deepseek-r1:latest, codellama:13b, q
 http://130.162.139.147:11434/v1,"smollm2:135m, llama3.1:8b, huihui_ai/deepseek-r1-abliterated:8b"
 http://64.112.43.41:11434/v1,"smollm2:135m, hermes3:8b"
 http://67.207.85.160:11434/v1,tinyllama:latest
+http://183.159.109.57:11434/v1,"llama3.1:8b, llama3.1:8b-instruct-q4_K_M, deepseek-r1:14b"
+http://13.56.114.109:211/v1,"llama3:latest, llama2:latest, openchat:7b, deepseek-r1:latest, codellama:13b"
+http://3.112.196.85:8080/v1,"codellama:13b, openchat:7b, llama2:latest"
+http://56.155.131.135:8080/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://210.14.65.55:8080/v1,"qwen3:14b, qwq:32b, qwq:latest"
