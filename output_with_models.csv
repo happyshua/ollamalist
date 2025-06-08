@@ -2017,3 +2017,7 @@ http://35.86.107.167:8025/v1,llama2:latest
 http://13.158.56.221:2052/v1,"llama2:latest, codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
 http://203.110.233.206:11434/v1,"smollm2:135m, deepseek-r1:14b, qwen3:32b, bge-m3:latest, deepseek-r1:70b"
 http://223.72.104.77:6502/v1,"qwen3:30b, jeffh/intfloat-multilingual-e5-large-instruct:f16, shaw/dmeta-embedding-zh:latest, qwq:latest, deepseek-r1:32b, deepseek-r1:14b"
+http://182.245.185.130:11434/v1,deepseek-r1:8b
+http://13.57.5.229:2052/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, qwen2.5:1.5b"
+http://98.22.242.234:11434/v1,"llama3.1:8b, llama3.1:8b-instruct-q4_K_M, deepseek-r1:8b, mistral:latest"
+http://182.245.185.130:11434/v1,deepseek-r1:8b
