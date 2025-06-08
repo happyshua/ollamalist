@@ -1964,3 +1964,8 @@ http://15.152.48.83:2086/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, qwe
 http://15.152.48.83:31/v1,"llama3:latest, openchat:7b, codellama:13b"
 http://60.186.168.197:11434/v1,"mistral:latest, qwen:14b, glm4:latest, phi4:latest, deepseek-coder-v2:latest, openchat:latest, deepseek-r1:32b, deepseek-r1:14b, nomic-embed-text:latest, deepseek-r1:7b, deepseek-r1:70b"
 http://16.163.226.137:11434/v1,"phi4:14b, phi4:latest, qwen:14b, nomic-embed-text:latest, deepseek-r1:14b, deepseek-r1:8b"
+http://54.219.130.18:12000/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b, codellama:13b"
+http://34.216.255.227:2080/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://35.87.114.228:3005/v1,"llama3:latest, llama2:latest, codellama:13b"
+http://15.152.44.232:6002/v1,"openchat:7b, deepseek-r1:latest"
+http://101.28.98.157:11434/v1,deepseek-r1:1.5b
