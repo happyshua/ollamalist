@@ -2021,3 +2021,6 @@ http://182.245.185.130:11434/v1,deepseek-r1:8b
 http://13.57.5.229:2052/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, qwen2.5:1.5b"
 http://98.22.242.234:11434/v1,"llama3.1:8b, llama3.1:8b-instruct-q4_K_M, deepseek-r1:8b, mistral:latest"
 http://182.245.185.130:11434/v1,deepseek-r1:8b
+http://56.155.104.52:8085/v1,"codellama:13b, openchat:7b, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://61.171.61.250:11434/v1,"qwen3:8b, qwen2.5:3b, bge-m3:latest"
+http://117.50.223.123:11434/v1,"minicpm-v:latest, qwen3:8b"
