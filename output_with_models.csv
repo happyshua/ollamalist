@@ -1955,3 +1955,12 @@ http://13.62.50.77:8080/v1,qwen2.5:1.5b
 http://18.217.122.188:8097/v1,qwen2.5:1.5b
 http://56.155.32.197:8886/v1,codellama:13b
 http://45.77.133.155:11434/v1,"smollm2:135m, llama3.1:8b, deepseek-coder:1.3b, deepseek-r1:1.5b, deepseek-coder:6.7b, nomic-embed-text:latest, deepseek-r1:8b"
+http://113.195.147.143:70/v1,"deepseek-r1:32b, deepseek-r1:8b, qwen3:32b, qwen3:30b-a3b-q4_K_M, qwen3:30b-a3b-q8_0, hf.co/unsloth/QwQ-32B-Preview-GGUF:Q4_K_M, gemma3:27b, qwq:4k, qwen2.5-coder:14b, qwq:32b-q8_0, Definity/snowflake-arctic-embed-l-v2.0-q8_0:latest, snowflake-arctic-embed2:latest, qwq:latest, deepseek-r1:7b, qwen2.5:32b, bge-m3:latest"
+http://57.180.253.252:2051/v1,llama2:latest
+http://52.40.132.191:3128/v1,"llama3:latest, llama2:latest"
+http://3.21.105.173:28017/v1,"llama2:latest, openchat:7b"
+http://57.180.253.252:2051/v1,llama2:latest
+http://15.152.48.83:2086/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://15.152.48.83:31/v1,"llama3:latest, openchat:7b, codellama:13b"
+http://60.186.168.197:11434/v1,"mistral:latest, qwen:14b, glm4:latest, phi4:latest, deepseek-coder-v2:latest, openchat:latest, deepseek-r1:32b, deepseek-r1:14b, nomic-embed-text:latest, deepseek-r1:7b, deepseek-r1:70b"
+http://16.163.226.137:11434/v1,"phi4:14b, phi4:latest, qwen:14b, nomic-embed-text:latest, deepseek-r1:14b, deepseek-r1:8b"
