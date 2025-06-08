@@ -1952,3 +1952,6 @@ http://3.80.143.125:4022/v1,"deepseek-r1:latest, llama3:latest"
 http://43.207.83.95:3520/v1,"codellama:13b, llama3:latest, llama2:latest, qwen2.5:1.5b"
 http://13.158.56.173:6664/v1,"openchat:7b, qwen2.5:1.5b"
 http://13.62.50.77:8080/v1,qwen2.5:1.5b
+http://18.217.122.188:8097/v1,qwen2.5:1.5b
+http://56.155.32.197:8886/v1,codellama:13b
+http://45.77.133.155:11434/v1,"smollm2:135m, llama3.1:8b, deepseek-coder:1.3b, deepseek-r1:1.5b, deepseek-coder:6.7b, nomic-embed-text:latest, deepseek-r1:8b"
