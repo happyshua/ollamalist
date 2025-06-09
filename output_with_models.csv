@@ -1717,3 +1717,4 @@ http://18.167.165.159:8060/v1,codellama:13b
 http://43.207.108.98:9090/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, openchat:7b, llama2:latest"
 http://15.152.41.161:5051/v1,"llama2:latest, codellama:13b, llama3:latest, qwen2.5:1.5b"
 http://52.79.156.12:2077/v1,qwen2.5:1.5b
+http://15.152.32.183:3002/v1,"llama3:latest, codellama:13b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
