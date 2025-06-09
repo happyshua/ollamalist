@@ -1718,3 +1718,17 @@ http://43.207.108.98:9090/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, 
 http://15.152.41.161:5051/v1,"llama2:latest, codellama:13b, llama3:latest, qwen2.5:1.5b"
 http://52.79.156.12:2077/v1,qwen2.5:1.5b
 http://15.152.32.183:3002/v1,"llama3:latest, codellama:13b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://18.183.232.182:8880/v1,"llama2:latest, deepseek-r1:latest, llama3:latest, openchat:7b, qwen2.5:1.5b"
+http://54.179.150.124:19888/v1,"deepseek-r1:latest, codellama:13b"
+http://3.36.78.19:2077/v1,codellama:13b
+http://13.231.124.45:2077/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, openchat:7b"
+http://ai-api.storage-mart.com/v1,"mistral:7b, mistral7b_32k:latest, hf.co/ToastyPigeon/gemma-3-27b-medglitter-ero-Q4_K_S-GGUF:Q4_K_S, llama3.2:3b-instruct-q5_K_M, llama3.2:latest, mixtral:8x7b, mixtral:8x22b, mistral-nemo:latest, qwq:latest, openthinker:32b, granite3.3:latest, starling-lm:latest, gemma3:latest, microai/calm2-7b-chat:latest, phi3:latest, cyberuser42/DeepSeek-R1-Distill-Llama-8B:latest, mistral:latest, llama3:70b, phi4:latest, llama3.3:latest, qwen2.5:7b, deepseek-coder-v2:16b, deepseek-coder-v2:latest, deepseek-r1:1.5b, deepseek-r1:7b, deepseek-v2:latest"
+http://13.57.242.148:7547/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest, codellama:13b"
+http://34.216.251.74:9007/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b"
+http://34.211.214.104:9001/v1,"deepseek-r1:latest, llama2:latest"
+http://3.15.145.185:9001/v1,llama3:latest
+http://100.27.190.136:7547/v1,"deepseek-r1:latest, qwen2.5:1.5b"
+http://16.162.89.209:7547/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest, llama3:latest"
+http://3.36.78.19:2077/v1,codellama:13b
+http://182.42.145.180:11434/v1,deepseek-r1:1.5b
+http://123.139.116.252:11434/v1,"deepseek-r1:7b, bge-m3:latest, deepseek-r1:latest, deepseek-r1:32b"
