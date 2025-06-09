@@ -1607,3 +1607,5 @@ http://15.152.42.187:9006/v1,llama2:latest
 http://52.38.183.203:8444/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
 http://18.179.196.43:9999/v1,"llama2:latest, codellama:13b, qwen2.5:1.5b"
 http://44.243.214.56:888/v1,"deepseek-r1:latest, qwen2.5:1.5b, openchat:7b, llama3:latest"
+http://3.112.238.17:4567/v1,"deepseek-r1:latest, codellama:13b"
+http://13.113.100.188:8081/v1,"llama2:latest, llama3:latest, deepseek-r1:latest"
