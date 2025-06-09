@@ -1732,3 +1732,8 @@ http://16.162.89.209:7547/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest, lla
 http://3.36.78.19:2077/v1,codellama:13b
 http://182.42.145.180:11434/v1,deepseek-r1:1.5b
 http://123.139.116.252:11434/v1,"deepseek-r1:7b, bge-m3:latest, deepseek-r1:latest, deepseek-r1:32b"
+http://3.133.126.91:9595/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b"
+http://18.119.125.45:5986/v1,"deepseek-r1:latest, openchat:7b, llama3:latest, codellama:13b"
+http://56.228.7.147:7547/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, llama3:latest, openchat:7b"
+http://164.92.93.231:11434/v1,"smollm2:135m, llama3.1:8b, llama2:latest, hf.co/bartowski/Chronos-Gold-12B-1.0-GGUF:Q8_0"
+http://119.91.35.183:11434/v1,"qwen3:1.7b, qwen3:4b, codegeex:latest, qwen3:latest, embedding:latest, qwen2.5-coder:0.5b, SeedCoder:latest"
