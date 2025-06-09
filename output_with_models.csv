@@ -1640,3 +1640,27 @@ http://58.20.44.245:11434/v1,"qwen3:30b, qwen3:32b, qwen2.5:32b, deepseek-r1:1.5
 http://13.114.44.134:2052/v1,"llama2:latest, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
 http://117.22.253.118:11434/v1,"qwen3:latest, qwen2:7b, qwen2.5:14b, deepseek-r1:32b, deepseek-r1:14b"
 http://27.42.71.247:11434/v1,"smollm2:135m, llama3.1:8b, deepseek-r1:8b, deepseek-r1:14b, qwen2.5-coder:14b, qwen2.5-coder:32b, llama3.2-vision:11b"
+http://43.206.209.223:8000/v1,"codellama:13b, qwen2.5:1.5b, llama2:latest, llama3:latest"
+http://43.199.210.252:49153/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b"
+http://43.198.207.95:8080/v1,"openchat:7b, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://43.198.101.85:11371/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b, llama3:latest"
+http://13.125.235.210:8089/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b, llama3:latest, deepseek-r1:latest"
+http://43.199.210.252:8002/v1,"deepseek-r1:latest, llama3:latest"
+http://43.207.150.0:8089/v1,"llama3:latest, qwen2.5:1.5b, openchat:7b"
+http://122.233.123.56:11434/v1,deepseek-r1:7b
+http://43.198.98.116:3780/v1,"llama3:latest, llama2:latest, openchat:7b, deepseek-r1:latest"
+http://3.35.222.43:8129/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, codellama:13b"
+http://54.92.119.115:32773/v1,openchat:7b
+http://18.162.244.125:3075/v1,"qwen2.5:1.5b, llama2:latest, codellama:13b"
+http://52.78.190.254:8888/v1,"qwen2.5:1.5b, llama3:latest"
+http://3.38.209.129:14443/v1,deepseek-r1:latest
+http://153.0.195.31:11434/v1,deepseek-r1:32b
+http://3.35.222.43:8080/v1,"qwen2.5:1.5b, openchat:7b, llama3:latest, deepseek-r1:latest, llama2:latest"
+http://43.199.163.10:8880/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b"
+http://43.198.98.116:18080/v1,"llama3:latest, llama2:latest, openchat:7b, deepseek-r1:latest"
+http://43.199.163.10:2080/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b"
+http://3.35.222.43/v1,"qwen2.5:1.5b, openchat:7b, llama3:latest, deepseek-r1:latest, llama2:latest"
+http://35.163.73.114:16000/v1,"llama2:latest, qwen2.5:1.5b"
+http://16.162.3.168:8880/v1,qwen2.5:1.5b
+http://36.137.93.246:11434/v1,"smollm2:135m, llama3:latest, llama3:8b"
+http://58.34.54.46:8089/v1,llama3.2:3b-instruct-q5_K_M
