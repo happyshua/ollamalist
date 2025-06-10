@@ -1850,3 +1850,7 @@ http://13.113.16.208:8181/v1,"qwen2.5:1.5b, codellama:13b, llama2:latest"
 http://111.175.29.129:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, qwen3:32b, qwq:latest, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:7b, nomic-embed-text:latest, qwen2.5:32b, qwen2.5-coder:32b, qwen2.5:14b, mistral-nemo:12b-instruct-2407-q8_0, mistral-nemo:latest"
 http://1.30.83.18:11434/v1,llama3.2:3b-instruct-q5_K_M
 http://175.209.183.164:32768/v1,"tinyllama:latest, phi:latest"
+http://43.199.159.243:8088/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, llama2:latest, openchat:7b"
+http://18.167.173.229:9090/v1,"openchat:7b, deepseek-r1:latest, codellama:13b"
+http://13.230.184.95:888/v1,"qwen2.5:1.5b, codellama:13b"
+http://13.230.246.77:8881/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, llama2:latest"
