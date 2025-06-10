@@ -1776,3 +1776,8 @@ http://50.18.139.223:7657/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, opench
 http://56.124.49.18:9090/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
 https://talk.intellectinternal.com/v1,llama3.2:latest
 http://101.42.175.35:11434/v1,"smollm2:135m, deepseek-r1:1.5b, nomic-embed-text:latest"
+http://42.227.54.205:3310/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
+http://42.227.54.205:8125/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
+http://42.227.54.205:49157/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
+http://54.164.149.182:7401/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://15.168.174.7:7007/v1,"deepseek-r1:latest, codellama:13b, llama2:latest"
