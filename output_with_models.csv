@@ -1781,3 +1781,14 @@ http://42.227.54.205:8125/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b,
 http://42.227.54.205:49157/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
 http://54.164.149.182:7401/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
 http://15.168.174.7:7007/v1,"deepseek-r1:latest, codellama:13b, llama2:latest"
+http://57.180.22.182:12416/v1,openchat:7b
+http://18.179.5.201:7288/v1,"llama3:latest, llama2:latest"
+http://54.208.42.26:9200/v1,openchat:7b
+http://18.191.233.44:5010/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b, deepseek-r1:latest"
+http://18.222.41.112:50075/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
+http://13.217.228.162:4369/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://163.25.103.46:11434/v1,"zac/phi4-tools:latest, orieg/gemma3-tools:27b, phi4:latest, hf.co/mlabonne/gemma-3-27b-it-abliterated-GGUF:Q4_K_M, qwq:32b, deepseek-r1:32b, hf.co/mradermacher/QwenLong-L1-32B-GGUF:Q4_K_M, since2006/gte-qwen2-7b-instruct:Q4_K_M, qwen3:32b"
+http://42.227.54.205:5903/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
+http://154.205.149.147:6007/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://171.35.51.60:11434/v1,"yang:latest, yangnai:latest, 32b-q2s:latest, deepseek-r1:8b, deepseek-r1:7b, deepseek-r1:14b, deepseek-r1:1.5b, 8b-q4:latest"
+http://114.80.222.245:11434/v1,"deepseek-r1:7b, deepseek-r1:1.5b, qwen2.5:32b-instruct, deepseek-r1:32b, qwen2.5:14b-instruct, qwq:32b, qwen2.5:14b-ctx32k, qwen2.5:14b, deepseek-r1:32b-ctx32k, bge-m3-ctx32k:latest, deepseek-r1:14b-ctx32k, bge-m3-ctx128k:latest, deepseek-r1:14b-ctx128k, deepseek-r1:14b, bge-m3:latest, qwen2.5:7b, bge-large:latest"
