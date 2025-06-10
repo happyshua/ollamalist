@@ -1812,3 +1812,11 @@ http://42.227.54.205:12418/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b
 http://42.227.54.205:12000/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
 http://42.227.54.205:54321/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
 http://39.107.117.131:11434/v1,deepseek-r1:7b
+http://3.147.81.221:900/v1,"llama2:latest, llama3:latest"
+http://72.94.208.213/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, deepseek-v3:latest, deepseek-r1:70b, bge-m3:latest, deepseek-r1:32b, deepseek-r1:671b, qwen3:235b-a22b, qwen3:32b, qwen3:30b-a3b"
+http://120.232.79.82:11434/v1,"mario:latest, llama3-backup:latest, bge-m3:latest, llama3.2:latest, mattw/pygmalion:latest, smollm2:135m, mxbai-embed-large:latest, deepseek-r1:1.5b, nomic-embed-text:latest, llama3.2-vision:latest, llama3.1:latest"
+http://164.70.70.35:11434/v1,"smollm2:135m, mistral:7b, PetrosStav/gemma3-tools:4b"
+http://42.227.54.205:12420/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
+http://116.177.225.7:11434/v1,"huihui_ai/deepseek-r1-abliterated:70b, deepseek-r1:70b, deepseek-r1:latest, llama3:latest"
+http://42.227.54.205:23424/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
+http://42.227.54.205:7500/v1,"deepseek-r1:latest, bge-m3:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:32b"
