@@ -1937,3 +1937,10 @@ http://114.218.245.5:11434/v1,"qwen3:14b, llama3.2:3b-instruct-q5_K_M, granite-e
 http://52.78.3.94:81/v1,"openchat:7b, llama3:latest"
 http://14.18.126.236:8001/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest, qwen3:32b, llava:13b, qwq:32b, minicpm-v:latest, deepseek-v2:16b, deepseek-r1:32b, deepseek-r1:7b, qwen2.5-coder:32b, deepseek-coder-v2:latest, llama3.1:8b, gemma2:27b, nomic-embed-text:latest, llama3:latest, qwen2:latest"
 http://222.112.153.220:11434/v1,"aya-expanse:latest, bge-m3:latest, gemma3:27b-it-qat"
+http://16.163.31.195:8983/v1,"openchat:7b, codellama:13b"
+http://43.198.247.131:8983/v1,llama3:latest
+http://13.125.231.213:9007/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b, deepseek-r1:latest"
+http://43.201.48.6:82/v1,"codellama:13b, qwen2.5:1.5b"
+http://18.162.191.114:88/v1,"deepseek-r1:latest, llama3:latest, openchat:7b, codellama:13b"
+http://43.198.99.11:8181/v1,"codellama:13b, llama2:latest"
+http://18.162.191.114:9200/v1,"deepseek-r1:latest, codellama:13b"
