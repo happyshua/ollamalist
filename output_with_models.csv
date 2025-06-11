@@ -1953,3 +1953,12 @@ http://52.90.229.8:9200/v1,"llama3:latest, qwen2.5:1.5b, openchat:7b, llama2:lat
 http://54.199.113.82:8082/v1,"llama2:latest, llama3:latest, deepseek-r1:latest, codellama:13b"
 http://13.114.218.111:8088/v1,"codellama:13b, llama2:latest"
 http://15.168.38.240:8087/v1,"codellama:13b, openchat:7b, llama3:latest, qwen2.5:1.5b"
+http://18.218.1.120:8081/v1,qwen2.5:1.5b
+http://3.84.101.75:3052/v1,llama2:latest
+http://54.81.19.42:9200/v1,"llama2:latest, llama3:latest, openchat:7b"
+http://54.203.115.87:7547/v1,"llama2:latest, deepseek-r1:latest"
+http://13.57.188.239:9200/v1,"llama2:latest, llama3:latest"
+http://15.168.37.42:9200/v1,openchat:7b
+http://15.152.31.139:9004/v1,"deepseek-r1:latest, qwen2.5:1.5b"
+http://52.195.220.192:8083/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b"
+http://140.116.249.124:11434/v1,"ycchen/breeze-7b-instruct-v1_0:latest, gemma3:12b, llama2:latest, gemma3:latest"
