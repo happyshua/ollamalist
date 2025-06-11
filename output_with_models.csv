@@ -1897,3 +1897,7 @@ http://13.217.14.34:8001/v1,"deepseek-r1:latest, llama2:latest"
 http://54.193.77.129:4369/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, llama2:latest"
 http://54.241.110.160:8001/v1,"openchat:7b, llama3:latest"
 http://113.204.117.134:11434/v1,deepseek-r1:32b
+http://123.207.52.17:11434/v1,modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest
+http://52.38.177.74:86/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b, codellama:13b"
+http://56.228.13.170:8020/v1,"llama2:latest, llama3:latest"
+http://128.251.198.117:11434/v1,"Osmosis/Osmosis-Structure-0.6B:latest, deepseek-r1:7b, deepseek-r1:14b, codellama:latest, deepseek-r1:latest, qwen3:latest, devstral:latest, command-a:latest, phi4:latest, command-r-plus:latest"
