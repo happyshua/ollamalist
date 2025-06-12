@@ -2068,3 +2068,6 @@ http://54.88.36.71:8085/v1,"codellama:13b, llama3:latest, llama2:latest, opencha
 http://3.145.15.142:10000/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b, llama2:latest"
 http://3.147.140.241:9999/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, openchat:7b"
 http://130.162.157.146:11434/v1,"smollm2:135m, qwen2.5:7b-instruct, deepseek-r1:7b, deepseek-r1:latest"
+http://13.231.110.254:8085/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
+http://140.143.201.232:11434/v1,"smollm2:135m, ZimaBlueAI/MiniCPM-o-2_6:latest, llama3.1:latest, yefx/minicpm3_4b:latest, qwen2.5:latest"
+http://47.119.24.133:9334/v1,"llama3.2:3b-instruct-q5_K_M, qwen3:0.6b, qwen3:8b, qwen2.5:latest, qwen2.5-coder:latest"
