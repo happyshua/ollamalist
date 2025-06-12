@@ -2021,3 +2021,12 @@ http://18.189.157.255:7547/v1,"openchat:7b, codellama:13b"
 http://43.201.56.39:8084/v1,"llama3:latest, codellama:13b"
 http://56.228.1.11:5801/v1,"llama2:latest, deepseek-r1:latest, qwen2.5:1.5b, openchat:7b, llama3:latest"
 http://111.0.131.31:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, deepseek-v2:latest, deepseek-r1:70b, deepseek-r1:32b, deepseek-r1:7b"
+http://3.12.120.105:85/v1,llama2:latest
+http://18.182.54.11:8129/v1,llama3:latest
+http://54.95.253.159:85/v1,deepseek-r1:latest
+http://13.208.123.126:88/v1,"openchat:7b, deepseek-r1:latest, qwen2.5:1.5b"
+http://56.155.98.23:8020/v1,"codellama:13b, llama3:latest"
+http://122.225.5.133:12434/v1,"llama3.2:3b-instruct-q5_K_M, mxbai-embed-large:latest, shaw/dmeta-embedding-zh:latest, nomic-embed-text:latest, deepseek-r1:7b"
+http://75.99.108.99:12434/v1,"llama3.2:latest, llama3-groq-tool-use:latest, llama3.2:3b, phi4:14b-fp16, phi3:mini, deepseek-r1:14b"
+http://183.156.151.126:12434/v1,"mistral:latest, llama2:latest, qwq:32b, bge-m3:latest, bge-large:latest, deepseek-r1:8b, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:7b, deepseek-r1:1.5b"
+http://61.153.124.118:18000/v1,"qwen2.5:14b, nomic-embed-text:latest, bge-m3:latest, linux6200/bge-reranker-v2-m3:latest, deepseek-r1:14b, wangshenzhi/llama3.1_8b_chinese_chat:latest, qwen2:7b"
