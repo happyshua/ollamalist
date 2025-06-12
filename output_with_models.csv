@@ -2054,3 +2054,4 @@ http://182.43.101.188:11434/v1,dk:1.5b
 http://119.178.100.14:12434/v1,"deepseek-0538-8b:latest, qwen3:32b"
 http://156.254.6.28:12434/v1,"qwen2.5-coder:latest, qwen2.5:latest, deepseek-r1:8b"
 http://52.193.218.148:85/v1,"llama3:latest, deepseek-r1:latest"
+http://15.168.7.48:81/v1,llama3:latest
