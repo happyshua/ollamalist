@@ -2071,3 +2071,4 @@ http://130.162.157.146:11434/v1,"smollm2:135m, qwen2.5:7b-instruct, deepseek-r1:
 http://13.231.110.254:8085/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
 http://140.143.201.232:11434/v1,"smollm2:135m, ZimaBlueAI/MiniCPM-o-2_6:latest, llama3.1:latest, yefx/minicpm3_4b:latest, qwen2.5:latest"
 http://47.119.24.133:9334/v1,"llama3.2:3b-instruct-q5_K_M, qwen3:0.6b, qwen3:8b, qwen2.5:latest, qwen2.5-coder:latest"
+http://111.162.232.192:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen2.5:1.5b, nomic-embed-text:latest, llamafamily/llama3-chinese-8b-instruct:latest, deepseek-r1:8b, weiaide:latest"
