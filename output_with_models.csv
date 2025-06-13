@@ -1715,3 +1715,6 @@ http://116.249.150.116:11434/v1,"qwen2.5vl:32b, qwen2.5vl:latest, codestral:late
 http://52.78.3.94:4040/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, codellama:13b"
 http://13.124.129.3:7777/v1,"openchat:7b, codellama:13b"
 http://13.124.129.3:8098/v1,"deepseek-r1:latest, llama3:latest"
+http://52.197.211.31:7170/v1,deepseek-r1:latest
+http://54.199.31.255:8080/v1,llama2:latest
+http://106.127.130.120:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:14b, deepseek14b:latest"
