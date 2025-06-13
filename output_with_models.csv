@@ -1771,3 +1771,4 @@ http://221.126.246.124:11434/v1,"qwen2.5:14b, qwen2.5:7b, qwen2.5:3b, qwen2.5:1.
 http://124.222.167.207:11434/v1,llama3:latest
 http://14.155.235.75:8000/v1,huihui_ai/deepseek-r1-abliterated:14b
 http://183.141.68.246:11434/v1,"qwen2.5:0.5b, qwen2.5:3b, mxbai-embed-large:latest, nomic-embed-text:latest, smollm2:135m"
+http://18.183.225.180:7547/v1,openchat:7b
