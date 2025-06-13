@@ -1770,3 +1770,4 @@ http://222.98.122.50:20000/v1,"qwen3:4b-q4_K_M, qwen3:8b-q4_K_M, bge-m3:567m"
 http://221.126.246.124:11434/v1,"qwen2.5:14b, qwen2.5:7b, qwen2.5:3b, qwen2.5:1.5b, qwen2.5:0.5b, qwen3:14b, gemma3:12b, llama2:13b, phi4:14b, gemma2:9b, llama3.1:8b, phi3.5:3.8b, qwen3:4b, gemma3:4b, gemma3:1b, llama3.2:1b"
 http://124.222.167.207:11434/v1,llama3:latest
 http://14.155.235.75:8000/v1,huihui_ai/deepseek-r1-abliterated:14b
+http://183.141.68.246:11434/v1,"qwen2.5:0.5b, qwen2.5:3b, mxbai-embed-large:latest, nomic-embed-text:latest, smollm2:135m"
