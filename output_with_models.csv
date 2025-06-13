@@ -1649,3 +1649,13 @@ http://3.112.238.17:7070/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest, codella
 http://15.152.31.186:5001/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b"
 http://13.208.247.180:8080/v1,llama2:latest
 http://116.15.255.141:11434/v1,"gemma3:4b, llama3.2-vision:latest, gemma2:27b, mistral:latest, mistral:7b, nomic-embed-text:latest, llama3.2:latest"
+http://15.168.175.83:8008/v1,"qwen2.5:1.5b, llama2:latest"
+http://52.193.218.148:85/v1,"llama2:latest, openchat:7b"
+http://18.182.54.11:8129/v1,"qwen2.5:1.5b, llama3:latest"
+http://18.189.193.123:9999/v1,codellama:13b
+http://3.80.44.56:8080/v1,"llama3:latest, llama2:latest, openchat:7b"
+http://56.228.2.112:7000/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, openchat:7b"
+http://56.124.105.44:8000/v1,"codellama:13b, llama2:latest, llama3:latest"
+http://54.199.113.82:5985/v1,"codellama:13b, openchat:7b, llama2:latest, qwen2.5:1.5b"
+http://96.86.254.149:12442/v1,"llama3.2-vision:latest, llama3.3:latest, deepseek-r1:14b, deepseek-r1:8b, jimscard/adult-film-screenwriter-nsfw:latest, jimscard/whiterabbit-neo:13b, jimscard/blackhat-hacker:latest, mistral-nemo:latest, qwen2.5:latest, gemma:latest, mannix/gemma2-9b-simpo:latest, codebooga:latest, mistral:latest, qwen2.5-coder:32b-instruct-q6_K, codellama:latest, magicoder:latest, duckdb-nsql:latest, command-r7b:latest, codegemma:latest, llava:latest, gemma2:latest, mxbai-embed-large:latest, starcoder2:latest, mixtral:latest, codegeex4:latest, deepseek-coder-v2:latest, codestral:latest, all-minilm:latest, zephyr:latest, artifish/llama3.2-uncensored:latest, nsheth/llama-3-lumimaid-8b-v0.1-iq-imatrix:latest, llama2:latest, dolphin-mistral:latest, dolphin-llama3:latest, dolphin3:latest, deepseek-r1:1.5b, deepseek-r1:7b, llama3.1:latest, nomic-embed-text:latest, openchat:latest, llama3:latest, llama3.2:latest, phi4:latest, bge-m3:latest, llama2-uncensored:latest, new-minerva:latest"
+http://120.53.240.155:9005/v1,"gemma3:4b, qwen2.5vl:7b, sqlcoder:latest, qwen3:14b, dagbs/qwen2.5-coder-7b-instruct-abliterated:latest, deepseek-r1:14b, shaw/dmeta-embedding-zh:latest"
