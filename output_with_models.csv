@@ -1772,3 +1772,7 @@ http://124.222.167.207:11434/v1,llama3:latest
 http://14.155.235.75:8000/v1,huihui_ai/deepseek-r1-abliterated:14b
 http://183.141.68.246:11434/v1,"qwen2.5:0.5b, qwen2.5:3b, mxbai-embed-large:latest, nomic-embed-text:latest, smollm2:135m"
 http://18.183.225.180:7547/v1,openchat:7b
+http://106.15.186.130:11434/v1,"smollm2:135m, deepseek-r1:7b, deepseek-r1:1.5b"
+http://13.221.186.251:28017/v1,deepseek-r1:latest
+http://3.139.85.185:8097/v1,"qwen2.5:1.5b, openchat:7b"
+http://13.61.146.158:6346/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, llama2:latest, codellama:13b"
