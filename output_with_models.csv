@@ -1737,3 +1737,9 @@ http://54.250.35.103:8000/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, qw
 http://96.86.254.149:2480/v1,"llama3.2-vision:latest, llama3.3:latest, deepseek-r1:14b, deepseek-r1:8b, jimscard/adult-film-screenwriter-nsfw:latest, jimscard/whiterabbit-neo:13b, jimscard/blackhat-hacker:latest, mistral-nemo:latest, qwen2.5:latest, gemma:latest, mannix/gemma2-9b-simpo:latest, codebooga:latest, mistral:latest, qwen2.5-coder:32b-instruct-q6_K, codellama:latest, magicoder:latest, duckdb-nsql:latest, command-r7b:latest, codegemma:latest, llava:latest, gemma2:latest, mxbai-embed-large:latest, starcoder2:latest, mixtral:latest, codegeex4:latest, deepseek-coder-v2:latest, codestral:latest, all-minilm:latest, zephyr:latest, artifish/llama3.2-uncensored:latest, nsheth/llama-3-lumimaid-8b-v0.1-iq-imatrix:latest, llama2:latest, dolphin-mistral:latest, dolphin-llama3:latest, dolphin3:latest, deepseek-r1:1.5b, deepseek-r1:7b, llama3.1:latest, nomic-embed-text:latest, openchat:latest, llama3:latest, llama3.2:latest, phi4:latest, bge-m3:latest, llama2-uncensored:latest, new-minerva:latest"
 http://15.165.19.13:5985/v1,openchat:7b
 http://13.212.217.108:8000/v1,qwen2.5:1.5b
+http://3.93.182.217:5985/v1,"llama3:latest, qwen2.5:1.5b, llama2:latest"
+http://54.89.172.1:5357/v1,"llama3:latest, openchat:7b"
+http://34.217.212.160:4440/v1,llama3:latest
+http://163.13.132.67:11434/v1,"llama3.2:latest, nomic-embed-text:latest, llama3.3:latest"
+http://13.208.247.180:18080/v1,llama2:latest
+http://15.168.62.114:8000/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b, llama3:latest"
