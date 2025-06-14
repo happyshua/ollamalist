@@ -1934,3 +1934,11 @@ http://139.227.85.195:11434/v1,"qwen3:4b, qwen3:32b, mxbai-embed-large:latest, b
 http://47.117.12.20:11434/v1,deepseek-r1:32b
 http://47.117.182.85/v1,"llama3-backup:latest, mario:latest, llama3.2:latest, llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b, deepseek-r1:latest, qwen2.5:latest, deepseek-r1:32b, qwen2.5:32b, qwq:32b"
 http://183.250.159.23:11434/v1,"qwen3:0.6b, bge-m3:latest, qwen3:1.7b, deepseek-r1:7b, deepseek-r1:1.5b"
+http://35.162.196.66:7401/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, llama2:latest"
+http://34.219.125.96:2095/v1,llama3:latest
+http://13.208.193.201:3128/v1,llama2:latest
+http://54.199.113.82:49153/v1,"llama3:latest, llama2:latest"
+http://96.86.254.149:12456/v1,"mario:latest, llama3-backup:latest, mattw/pygmalion:latest, llama3.2-vision:latest, llama3.3:latest, deepseek-r1:14b, deepseek-r1:8b, jimscard/adult-film-screenwriter-nsfw:latest, jimscard/whiterabbit-neo:13b, jimscard/blackhat-hacker:latest, mistral-nemo:latest, qwen2.5:latest, gemma:latest, mannix/gemma2-9b-simpo:latest, codebooga:latest, mistral:latest, qwen2.5-coder:32b-instruct-q6_K, codellama:latest, magicoder:latest, duckdb-nsql:latest, command-r7b:latest, codegemma:latest, llava:latest, gemma2:latest, mxbai-embed-large:latest, starcoder2:latest, mixtral:latest, codegeex4:latest, deepseek-coder-v2:latest, codestral:latest, all-minilm:latest, zephyr:latest, artifish/llama3.2-uncensored:latest, nsheth/llama-3-lumimaid-8b-v0.1-iq-imatrix:latest, llama2:latest, dolphin-mistral:latest, dolphin-llama3:latest, dolphin3:latest, deepseek-r1:1.5b, deepseek-r1:7b, llama3.1:latest, nomic-embed-text:latest, openchat:latest, llama3:latest, llama3.2:latest, phi4:latest, bge-m3:latest, llama2-uncensored:latest, new-minerva:latest"
+http://116.205.230.195:11434/v1,"smollm2:135m, deepseek-r1:14b"
+http://47.93.217.168:11434/v1,"qwen3:8b, EntropyYue/chatglm3:latest, meditron:latest, medllama2:latest, qwen2.5:latest, gemma3:latest, llama3.1:latest, nomic-embed-text:latest, qwen2.5-coder:latest, codellama:latest, deepseek-r1:8b, qwen3:latest, gemma3:12b"
+http://61.162.210.124:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen2.5:7b, deepseek-r1:7b"
