@@ -1960,3 +1960,7 @@ http://44.201.226.160:11965/v1,"llama3:latest, qwen2.5:1.5b"
 http://34.215.75.8:49154/v1,"codellama:13b, llama3:latest, openchat:7b"
 http://15.152.40.150:12457/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b"
 http://54.248.162.95:8983/v1,openchat:7b
+http://3.82.51.94:8686/v1,"codellama:13b, llama3:latest"
+http://54.162.6.151:3749/v1,"llama3:latest, llama2:latest, openchat:7b, qwen2.5:1.5b, deepseek-r1:latest"
+http://54.67.38.115:4842/v1,"qwen2.5:1.5b, codellama:13b, deepseek-r1:latest, openchat:7b"
+http://61.173.52.41:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M"
