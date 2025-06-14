@@ -1824,3 +1824,21 @@ http://140.117.176.61:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruc
 http://96.86.254.149:4444/v1,"llama3.2-vision:latest, llama3.3:latest, deepseek-r1:14b, deepseek-r1:8b, jimscard/adult-film-screenwriter-nsfw:latest, jimscard/whiterabbit-neo:13b, jimscard/blackhat-hacker:latest, mistral-nemo:latest, qwen2.5:latest, gemma:latest, mannix/gemma2-9b-simpo:latest, codebooga:latest, mistral:latest, qwen2.5-coder:32b-instruct-q6_K, codellama:latest, magicoder:latest, duckdb-nsql:latest, command-r7b:latest, codegemma:latest, llava:latest, gemma2:latest, mxbai-embed-large:latest, starcoder2:latest, mixtral:latest, codegeex4:latest, deepseek-coder-v2:latest, codestral:latest, all-minilm:latest, zephyr:latest, artifish/llama3.2-uncensored:latest, nsheth/llama-3-lumimaid-8b-v0.1-iq-imatrix:latest, llama2:latest, dolphin-mistral:latest, dolphin-llama3:latest, dolphin3:latest, deepseek-r1:1.5b, deepseek-r1:7b, llama3.1:latest, nomic-embed-text:latest, openchat:latest, llama3:latest, llama3.2:latest, phi4:latest, bge-m3:latest, llama2-uncensored:latest, new-minerva:latest"
 http://124.223.75.4:11434/v1,"llama3.1:8b, yasserrmd/Qwen2.5-7B-Instruct-1M:latest, deepseek-r1:32b, qwq:latest"
 http://121.43.182.244:10000/v1,"deepseek-r1:latest, deepseek-r1:70b"
+http://18.181.196.60:28017/v1,qwen2.5:1.5b
+http://121.237.178.58:11434/v1,"deepseek-r1:32b, qwen3:14b, qwen3:latest, qwq:32b"
+http://44.248.137.247:8881/v1,"openchat:7b, llama3:latest, codellama:13b"
+http://18.220.253.171:5001/v1,"codellama:13b, qwen2.5:1.5b"
+http://13.219.103.29:4369/v1,"codellama:13b, qwen2.5:1.5b"
+http://15.168.60.48:57499/v1,"llama3:latest, codellama:13b, openchat:7b, qwen2.5:1.5b, llama2:latest"
+http://13.208.123.126/v1,"llama3:latest, llama2:latest, openchat:7b"
+http://18.181.196.60:28017/v1,qwen2.5:1.5b
+http://3.112.26.153:8881/v1,"llama3:latest, deepseek-r1:latest, openchat:7b, llama2:latest"
+http://18.163.16.108/v1,"deepseek-r1:latest, qwen2.5:1.5b"
+http://18.166.211.233:30/v1,openchat:7b
+http://113.250.189.25:11434/v1,"deepseek-r1:1.5b, deepseek-r1:14b"
+http://106.14.139.126:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:latest, llama3.2:3b-instruct-q5_K_M, qwq:latest, deepseek-r1:14b"
+http://110.53.191.156:11434/v1,deepseek-r1:1.5b
+http://3.35.14.129:4567/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest"
+http://13.124.6.98:5001/v1,"codellama:13b, llama3:latest, openchat:7b"
+http://3.36.72.78/v1,"openchat:7b, codellama:13b"
+http://40.162.43.126/v1,"deepseek-r1:1.5b, mattw/pygmalion:latest, llama3.2:3b-instruct-q5_K_M, phi3.5:3.8b"
