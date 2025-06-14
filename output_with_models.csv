@@ -1874,3 +1874,14 @@ http://54.158.14.45:40000/v1,"llama3:latest, llama2:latest"
 http://54.163.39.191/v1,"codellama:13b, llama3:latest, deepseek-r1:latest, openchat:7b, llama2:latest"
 http://96.86.254.149:49153/v1,"llama3.2-vision:latest, llama3.3:latest, deepseek-r1:14b, deepseek-r1:8b, jimscard/adult-film-screenwriter-nsfw:latest, jimscard/whiterabbit-neo:13b, jimscard/blackhat-hacker:latest, mistral-nemo:latest, qwen2.5:latest, gemma:latest, mannix/gemma2-9b-simpo:latest, codebooga:latest, mistral:latest, qwen2.5-coder:32b-instruct-q6_K, codellama:latest, magicoder:latest, duckdb-nsql:latest, command-r7b:latest, codegemma:latest, llava:latest, gemma2:latest, mxbai-embed-large:latest, starcoder2:latest, mixtral:latest, codegeex4:latest, deepseek-coder-v2:latest, codestral:latest, all-minilm:latest, zephyr:latest, artifish/llama3.2-uncensored:latest, nsheth/llama-3-lumimaid-8b-v0.1-iq-imatrix:latest, llama2:latest, dolphin-mistral:latest, dolphin-llama3:latest, dolphin3:latest, deepseek-r1:1.5b, deepseek-r1:7b, llama3.1:latest, nomic-embed-text:latest, openchat:latest, llama3:latest, llama3.2:latest, phi4:latest, bge-m3:latest, llama2-uncensored:latest, new-minerva:latest"
 http://15.168.9.201:1610/v1,openchat:7b
+http://54.250.170.251:40001/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, openchat:7b"
+http://18.163.194.23:8834/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://18.162.187.126:5280/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b"
+http://16.163.95.130:5985/v1,"llama2:latest, codellama:13b, llama3:latest, openchat:7b"
+http://52.69.81.226:4155/v1,openchat:7b
+http://211.20.13.135:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-v3:671b-q8_0, llama3.1:8b"
+http://125.208.22.239:11434/v1,"qwen2.5:7b, qwen:7b, deepseek-r1:32b, deepseek-r1:latest, qwen2.5:32b, qwen2.5:3b"
+http://15.152.42.131:7170/v1,deepseek-r1:latest
+http://52.69.81.226:4155/v1,openchat:7b
+http://54.250.170.251:40001/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, openchat:7b"
+http://211.20.13.135:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-v3:671b-q8_0, llama3.1:8b"
