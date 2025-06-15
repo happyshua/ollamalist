@@ -2055,3 +2055,4 @@ http://13.62.45.120:8890/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, opencha
 http://13.212.109.194:8087/v1,llama2:latest
 http://116.4.97.94:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepseek-r1:8b"
 http://125.106.205.162:11434/v1,deepseek-coder-v2:16b
+http://56.124.21.82:2086/v1,"llama3:latest, deepseek-r1:latest, openchat:7b, codellama:13b, qwen2.5:1.5b"
