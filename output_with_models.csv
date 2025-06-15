@@ -1981,3 +1981,7 @@ http://124.70.194.173:11434/v1,"llama3.2:3b-instruct-q5_K_M, quentinz/bge-large-
 http://118.241.215.253:11434/v1,"deepseek-r1:8b, qwen3:14b, deepseek-r1:14b, nomic-embed-text:latest, deepseek-r1:32b"
 http://116.49.38.79:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, mario:latest, llama3-backup:latest, deepseek-r1:8b, qwen3:8b, gemma3:4b, mattw/pygmalion:latest, llama3.2:latest, gemma3:12b, deepseek-r1:14b"
 http://118.166.4.184:11434/v1,"my-custom-model:latest, hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4:latest, dolphin-long-writer:latest, nomic-embed-text:latest, huihui_ai/llama3.3-abliterated:70b-instruct-q4_K_M, hf.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B-GGUF:Q4_0, huihui_ai/qwen2.5-abliterate:14b, mollysama/rwkv-6-world:1.6b, reefer/monica:latest, rzline/Tifa-Deepsex-14b-CoT-Chat-Q8.gguf:latest, hf.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8:latest, hf.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-F16:latest, mistral:latest, bge-m3:latest, hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4:IQ4_NL"
+http://124.205.111.17:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, qwen:32b, nomic-embed-text:latest, qwen2.5:32b, deepseek-r1:70b, deepseek-r1:14b, llama3.3:latest, deepseek-r1:32b"
+http://15.168.37.185:49152/v1,qwen2.5:1.5b
+http://13.208.214.27:40000/v1,"codellama:13b, llama3:latest, llama2:latest, openchat:7b, qwen2.5:1.5b"
+http://124.205.111.17:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, qwen:32b, nomic-embed-text:latest, qwen2.5:32b, deepseek-r1:70b, deepseek-r1:14b, llama3.3:latest, deepseek-r1:32b"
