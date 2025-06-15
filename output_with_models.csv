@@ -2043,3 +2043,15 @@ http://111.6.107.45:11434/v1,"gemma3:27b, deepseek-r1:70b"
 http://116.237.127.38:11434/v1,"llama3.2:3b-instruct-q5_K_M, huanlin/Tifa-DeepsexV2-7b-Q8:latest"
 http://18.181.163.168:2086/v1,"codellama:13b, openchat:7b"
 http://56.125.49.240:9295/v1,openchat:7b
+http://13.229.236.99:2086/v1,"llama2:latest, codellama:13b"
+http://54.95.190.116:3128/v1,"llama3:latest, llama2:latest"
+http://54.255.177.83:3000/v1,llama2:latest
+http://43.198.98.189:49152/v1,llama2:latest
+http://47.129.9.45:40000/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://54.255.177.83:5000/v1,llama2:latest
+http://54.177.84.101:3128/v1,"openchat:7b, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b"
+http://43.207.68.23:2095/v1,"codellama:13b, llama3:latest, llama2:latest, qwen2.5:1.5b, openchat:7b"
+http://13.62.45.120:8890/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, openchat:7b"
+http://13.212.109.194:8087/v1,llama2:latest
+http://116.4.97.94:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepseek-r1:8b"
+http://125.106.205.162:11434/v1,deepseek-coder-v2:16b
