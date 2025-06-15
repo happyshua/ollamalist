@@ -2042,3 +2042,4 @@ http://18.167.54.49:49154/v1,"llama3:latest, openchat:7b, codellama:13b, deepsee
 http://111.6.107.45:11434/v1,"gemma3:27b, deepseek-r1:70b"
 http://116.237.127.38:11434/v1,"llama3.2:3b-instruct-q5_K_M, huanlin/Tifa-DeepsexV2-7b-Q8:latest"
 http://18.181.163.168:2086/v1,"codellama:13b, openchat:7b"
+http://56.125.49.240:9295/v1,openchat:7b
