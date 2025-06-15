@@ -1969,3 +1969,5 @@ http://39.106.130.85:11434/v1,deepseek-r1:1.5b
 http://52.198.64.21:8983/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, openchat:7b"
 http://34.219.126.154:49155/v1,"llama2:latest, llama3:latest, openchat:7b, qwen2.5:1.5b"
 http://18.181.163.168:8882/v1,"llama2:latest, llama3:latest"
+http://120.79.80.17:11434/v1,"smollm2:135m, deepseek-r1:14b, deepseek-r1:32b"
+http://116.234.62.41:11434/v1,"deepseek-r1:latest, nomic-embed-text:latest, shaw/dmeta-embedding-zh:latest, deepseek-r1:32b"
