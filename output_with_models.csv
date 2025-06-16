@@ -2088,3 +2088,4 @@ http://54.211.3.94:7010/v1,"deepseek-r1:latest, codellama:13b, llama3:latest, ll
 http://18.181.163.168:2082/v1,"llama2:latest, llama3:latest"
 http://54.152.212.27:8884/v1,"llama2:latest, codellama:13b, openchat:7b"
 http://136.143.157.5:11434/v1,"llama3.1:8b, phi4-reasoning:plus, phi4:latest, gemma3:12b, qwq:latest, deepseek-r1:14b"
+http://110.234.194.18:11434/v1,llama:latest
