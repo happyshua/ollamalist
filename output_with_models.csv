@@ -2078,3 +2078,9 @@ http://61.220.158.87:11434/v1,"llama3.1:8b, bge-m3:latest, gemma3:12b, deepseek-
 http://18.179.5.100:8085/v1,"codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, llama2:latest"
 http://13.208.45.161:2010/v1,"qwen2.5:1.5b, deepseek-r1:latest"
 http://49.213.140.89:11434/v1,"llama3.1:8b, bge-m3:latest, deepseek-r1:8b, gemma:7b, llama3:70b, llama3:8b"
+http://54.215.67.65:8085/v1,llama2:latest
+http://54.176.139.3:8085/v1,"llama2:latest, deepseek-r1:latest, codellama:13b, llama3:latest"
+http://54.153.45.107:9030/v1,qwen2.5:1.5b
+http://35.166.146.90:50050/v1,"codellama:13b, llama2:latest, openchat:7b, qwen2.5:1.5b"
+http://35.87.147.167:55555/v1,"deepseek-r1:latest, llama3:latest"
+http://222.101.227.59:11434/v1,"granite-3.3-8b-instruct-Q4_K_M-1745912094099:latest, qwen3:8b-q4_K_M, GemmaCoder3-12B.Q4_K_M-1743564619600:latest, BGE-M3-567M-Q8_0-1743564540684:latest, nomic-embed-text:latest, EXAONE-Deep-7.8B-Q5_K_M-1742523920426:latest, gemma-3-12b-it-Q4_K_M-1741864183708:latest, kanana-nano-2.1b-instruct-q8_0:latest, DeepSeek-R1-Distill-Llama-8B_korean_reasoning.Q4_K_M-1739885983290:latest, phi-4-open-R1-Distill-EZOv1.Q4_K_S-1739612433850:latest, bakllava:latest"
