@@ -2068,3 +2068,4 @@ http://61.38.2.220:6003/v1,"llama3.2:3b-instruct-q5_K_M, llama3:latest, mistral:
 http://43.202.219.29:11434/v1,"llama3.2:latest, qwen2.5:1.5b, deepseek-r1:70b, qwen2.5:7b, qwen2.5:0.5b, llama3.2-vision:latest"
 http://56.124.36.175:55555/v1,"codellama:13b, openchat:7b, deepseek-r1:latest, llama3:latest"
 http://13.208.51.69:18264/v1,"deepseek-r1:latest, qwen2.5:1.5b, openchat:7b, llama3:latest"
+http://13.60.70.76:2082/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, openchat:7b"
