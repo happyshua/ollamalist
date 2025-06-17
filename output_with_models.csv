@@ -1832,3 +1832,5 @@ http://43.199.157.146:9001/v1,"llama2:latest, openchat:7b, llama3:latest, codell
 http://157.148.135.141/v1,"llama3.2:3b-instruct-q5_K_M, unsloth/Qwen3-14B-GGUF:latest"
 http://16.162.88.224:2052/v1,"llama2:latest, deepseek-r1:latest"
 http://61.173.8.207:11434/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, deepseek-r1:7b"
+http://56.124.79.142:8089/v1,"deepseek-r1:latest, openchat:7b, qwen2.5:1.5b, llama2:latest"
+http://125.109.6.87:1234/v1,"gemma3:27b, qwq:latest, gemma2:latest, deepseek-r1:32b"
