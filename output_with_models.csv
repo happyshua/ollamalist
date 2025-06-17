@@ -1795,3 +1795,9 @@ http://52.78.172.190:8089/v1,"deepseek-r1:latest, codellama:13b, qwen2.5:1.5b, o
 http://52.78.227.255:50050/v1,"deepseek-r1:latest, openchat:7b, llama3:latest, qwen2.5:1.5b, llama2:latest"
 http://56.228.11.178:1991/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b, llama2:latest"
 http://13.62.57.126:7145/v1,"deepseek-r1:latest, openchat:7b, qwen2.5:1.5b, llama3:latest"
+http://43.203.169.143:9292/v1,"openchat:7b, llama2:latest"
+http://13.59.37.147:10035/v1,openchat:7b
+http://34.228.54.3:8129/v1,"openchat:7b, deepseek-r1:latest"
+http://18.236.148.43:8089/v1,"deepseek-r1:latest, llama3:latest, llama2:latest"
+http://13.60.201.160:5801/v1,"codellama:13b, openchat:7b"
+http://96.86.254.149:9001/v1,"mario:latest, mattw/pygmalion:latest, llama3-backup:latest, llama3.2-vision:latest, llama3.3:latest, deepseek-r1:14b, deepseek-r1:8b, jimscard/adult-film-screenwriter-nsfw:latest, jimscard/whiterabbit-neo:13b, jimscard/blackhat-hacker:latest, mistral-nemo:latest, qwen2.5:latest, gemma:latest, mannix/gemma2-9b-simpo:latest, codebooga:latest, mistral:latest, qwen2.5-coder:32b-instruct-q6_K, codellama:latest, magicoder:latest, duckdb-nsql:latest, command-r7b:latest, codegemma:latest, llava:latest, gemma2:latest, mxbai-embed-large:latest, starcoder2:latest, mixtral:latest, codegeex4:latest, deepseek-coder-v2:latest, codestral:latest, all-minilm:latest, zephyr:latest, artifish/llama3.2-uncensored:latest, nsheth/llama-3-lumimaid-8b-v0.1-iq-imatrix:latest, llama2:latest, dolphin-mistral:latest, dolphin-llama3:latest, dolphin3:latest, deepseek-r1:1.5b, deepseek-r1:7b, llama3.1:latest, nomic-embed-text:latest, openchat:latest, llama3:latest, llama3.2:latest, phi4:latest, bge-m3:latest, llama2-uncensored:latest, new-minerva:latest"
