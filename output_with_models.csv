@@ -1708,3 +1708,13 @@ http://13.208.157.225:55555/v1,openchat:7b
 http://54.180.162.21:7014/v1,codellama:13b
 http://43.203.239.142/v1,"codellama:13b, qwen2.5:1.5b"
 http://96.86.254.149:4840/v1,"mario:latest, mattw/pygmalion:latest, llama3-backup:latest, llama3.2-vision:latest, llama3.3:latest, deepseek-r1:14b, deepseek-r1:8b, jimscard/adult-film-screenwriter-nsfw:latest, jimscard/whiterabbit-neo:13b, jimscard/blackhat-hacker:latest, mistral-nemo:latest, qwen2.5:latest, gemma:latest, mannix/gemma2-9b-simpo:latest, codebooga:latest, mistral:latest, qwen2.5-coder:32b-instruct-q6_K, codellama:latest, magicoder:latest, duckdb-nsql:latest, command-r7b:latest, codegemma:latest, llava:latest, gemma2:latest, mxbai-embed-large:latest, starcoder2:latest, mixtral:latest, codegeex4:latest, deepseek-coder-v2:latest, codestral:latest, all-minilm:latest, zephyr:latest, artifish/llama3.2-uncensored:latest, nsheth/llama-3-lumimaid-8b-v0.1-iq-imatrix:latest, llama2:latest, dolphin-mistral:latest, dolphin-llama3:latest, dolphin3:latest, deepseek-r1:1.5b, deepseek-r1:7b, llama3.1:latest, nomic-embed-text:latest, openchat:latest, llama3:latest, llama3.2:latest, phi4:latest, bge-m3:latest, llama2-uncensored:latest, new-minerva:latest"
+http://43.198.103.235:30005/v1,"llama2:latest, deepseek-r1:latest, llama3:latest"
+http://220.86.97.11:11434/v1,"Duss02/qwen2_5_3b_ocr_100s:latest, hf.co/glogwa68/Llama-4-scout-GGUF:latest, smollm2:135m, hf.co/cjpais/llava-1.6-mistral-7b-gguf:latest, spratling/mistral-small-3.1-24B-it-2503:Q6_K, phi4:latest, aratan/mistral-small-3.1:24b, omercelik/exaone-deep:32b, mistral-small:24b, llava:13b, gemma3:4b, bge-m3:latest, deepseek-r1:32b, hf.co/QuantFactory/Ministral-3b-instruct-GGUF:Q4_K_M, mistral-nemo:12b-instruct-2407-q4_K_M, hf.co/katanemo/Arch-Function-1.5B.gguf:Q4_K_M, EEVE-Korean-10.8B-Q8_0:latest, phi3.5:3.8b, phi3.5:3.8b-mini-instruct-q5_K_M, phi3.5:3.8b-mini-instruct-fp16, llama3.1:8b, llama3.1:8b-instruct-q5_K_M, gemma2:9b-instruct-q5_K_M, gemma2:latest"
+http://52.195.175.238:8088/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, codellama:13b"
+http://3.36.72.78:10030/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://43.201.63.243:8090/v1,deepseek-r1:latest
+http://16.163.95.130:5985/v1,"llama2:latest, codellama:13b, llama3:latest, qwen2.5:1.5b, openchat:7b"
+http://18.166.211.233/v1,"llama3:latest, codellama:13b"
+http://18.162.46.221:8546/v1,qwen2.5:1.5b
+http://140.117.176.61:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, mistral:latest, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, hf.co/bartowski/Chronos-Gold-12B-1.0-GGUF:Q8_0, llava:latest, llama3.1:latest"
+http://18.163.142.184:11434/v1,"qwen2.5:0.5b, llama3.2:3b, nomic-embed-text:latest"
