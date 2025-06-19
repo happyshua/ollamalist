@@ -1942,3 +1942,8 @@ http://15.164.227.30:8002/v1,"codellama:13b, llama2:latest, llama3:latest"
 http://35.171.20.252:1024/v1,"qwen2.5:1.5b, deepseek-r1:latest"
 http://54.226.26.80:8020/v1,qwen2.5:1.5b
 http://56.124.120.27:1025/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
+http://47.97.97.198:8090/v1,"llama3:8b, llava:7b, deepseek-llm:67b-chat-q4_0, deepseek-llm:7b-chat-q5_K_M, deepseek-coder:6.7b-instruct-q5_K_M"
+http://18.181.163.168:8081/v1,"deepseek-r1:latest, llama3:latest"
+http://13.208.215.161:9200/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, openchat:7b"
+http://27.35.42.35:11434/v1,"qwen2.5-coder:3b-instruct-q5_1, qwen2.5-coder:7b-instruct-q5_1, smollm2:135m, qwen2.5-coder:1.5b, bge-m3:latest, starcoder2:3b, qwen2.5-coder:7b-instruct-q4_K_M"
+http://140.112.84.246:8080/v1,"gemma3:latest, goekdenizguelmez/JOSIEFIED-Qwen3:8b, avil/UI-TARS:latest, llama3.1:8b, nomic-embed-text:latest, qwen2.5-coder:1.5b-base, granite3.2-vision:latest, gemma3:12b, llama3.2:3b, granite3.2:latest, cwchang/jina-embeddings-v2-base-zh:latest, qllama/multilingual-e5-base:latest, deepseek-r1:14b, Gemma2:latest"
