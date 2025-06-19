@@ -2004,3 +2004,9 @@ http://89.47.51.35:11434/v1,"llama3-backup:latest, llama3.2:latest, smollm2:135m
 http://34.219.171.211:8088/v1,"llama3:latest, openchat:7b, llama2:latest"
 http://35.88.254.47:85/v1,"openchat:7b, codellama:13b, deepseek-r1:latest"
 http://116.130.184.169:11434/v1,deepseek-r1:70b
+http://3.16.75.19:8084/v1,llama3:latest
+http://54.209.251.197:8084/v1,llama2:latest
+http://54.250.97.171:8090/v1,deepseek-r1:latest
+http://54.248.179.182:85/v1,"deepseek-r1:latest, codellama:13b"
+http://203.83.228.159:11434/v1,Qwen3_14B:latest
+http://103.197.25.246:11434/v1,"qwq:latest, bge-m3:latest, llama3.2-vision:latest, nomic-embed-text:latest, qwen2.5:72b, wangshenzhi/llama3.1_70b_chinese_chat:latest, llama3.1:70b"
