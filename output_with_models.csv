@@ -1939,3 +1939,6 @@ http://47.99.191.247/v1,"llama3-backup:latest, mario:latest, llama3.2:latest, ll
 http://52.78.120.4:8081/v1,"llama3:latest, llama2:latest, openchat:7b"
 http://3.38.101.226:8002/v1,"codellama:13b, llama3:latest, openchat:7b, deepseek-r1:latest"
 http://15.164.227.30:8002/v1,"codellama:13b, llama2:latest, llama3:latest"
+http://35.171.20.252:1024/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://54.226.26.80:8020/v1,qwen2.5:1.5b
+http://56.124.120.27:1025/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
