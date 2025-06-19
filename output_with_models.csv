@@ -1984,3 +1984,5 @@ http://54.197.16.133:82/v1,"qwen2.5:1.5b, llama2:latest, llama3:latest"
 http://3.101.116.252:8080/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, openchat:7b"
 http://13.208.51.131:8020/v1,"llama3:latest, codellama:13b, deepseek-r1:latest"
 http://183.156.80.3:11434/v1,"qwen3:30b-a3b, bge-m3:latest, gemma3:latest, qwq:latest"
+http://44.243.117.122:8081/v1,"llama3:latest, llama2:latest"
+http://18.246.243.206:8080/v1,qwen2.5:1.5b
