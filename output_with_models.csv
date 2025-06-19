@@ -1967,3 +1967,7 @@ http://15.168.173.134:8082/v1,"llama3:latest, openchat:7b, llama2:latest, codell
 http://3.112.228.104:8088/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
 http://18.162.43.86:888/v1,llama2:latest
 http://117.64.250.178:11434/v1,"llama3.2:3b-instruct-q5_K_M, dolphin3:latest, deepseek-r1:8b, gemma3:27b, qwen2.5-coder:14b, deepseek-r1:14b"
+http://3.94.132.209:8080/v1,"llama2:latest, codellama:13b, llama3:latest, qwen2.5:1.5b, openchat:7b"
+http://13.59.75.189:8084/v1,"openchat:7b, llama2:latest"
+http://18.219.248.14:1025/v1,llama2:latest
+http://121.40.169.37:8080/v1,"your_model_name:latest, qwen2.5-coder:32b, qwen3:30b, qwq:latest, mistral-small3.1:latest"
