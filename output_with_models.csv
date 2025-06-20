@@ -2103,3 +2103,7 @@ http://101.126.92.174:11434/v1,qwen3:0.6b
 http://54.214.94.244:10443/v1,deepseek-r1:latest
 http://59.46.11.115:11434/v1,qwen2.5:14b
 http://18.226.98.131:82/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://3.81.85.13:18070/v1,llama3:latest
+http://56.228.10.154:8080/v1,qwen2.5:1.5b
+http://113.141.73.17:11434/v1,"deepseek-r1:8b, qwen2.5vl:7b, deepseek-r1:7b, qwen3:8b"
+http://61.157.70.39:11434/v1,"deepseek-r1:8b, deepseek-r1:latest"
