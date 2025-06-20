@@ -2100,3 +2100,5 @@ http://54.201.120.252:8008/v1,"deepseek-r1:latest, llama2:latest"
 http://203.176.92.112:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.1:8b-instruct-q4_K_M, qwen2.5:latest, llama3.2:latest, qwen2.5:1.5b, llama3.2:3b, qwen2.5:7b, deepseek-r1:7b, deepseek-r1:14b"
 http://124.220.96.127:7788/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:14b"
 http://101.126.92.174:11434/v1,qwen3:0.6b
+http://54.214.94.244:10443/v1,deepseek-r1:latest
+http://59.46.11.115:11434/v1,qwen2.5:14b
