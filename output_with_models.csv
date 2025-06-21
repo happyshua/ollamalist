@@ -1714,3 +1714,6 @@ http://3.88.187.162:7000/v1,deepseek-r1:latest
 http://3.34.43.198:7170/v1,deepseek-r1:latest
 http://122.97.237.174:11434/v1,"llama3.2:latest, llama3.2:3b-instruct-q5_K_M, deepseek-r1:14b, deepseek-r1:7b"
 http://193.25.217.23/v1,"gemma3:12b, gemma-3-12b-multimodal:latest, google/gemma-3-12b:latest, llava:13b, hf.co/unsloth/gemma-3-12b-it-GGUF:Q4_K_M"
+http://52.77.228.115:9001/v1,"deepseek-r1:latest, openchat:7b, llama2:latest"
+http://54.251.135.171:9100/v1,llama2:latest
+http://157.148.135.166/v1,unsloth/Qwen3-30B-A3B-GGUF:latest
