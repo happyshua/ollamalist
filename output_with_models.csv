@@ -1757,3 +1757,4 @@ http://ai.ztqh.com/v1,"qwen3:14b, mychen76/Fin-R1:Q6, qwen3:latest, qwen2.5:late
 http://43.239.161.90:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:latest, llama3.1:8b, hermes3:8b"
 http://43.239.161.73:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:latest, llama3.1:8b, hermes3:8b"
 http://124.222.20.206:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://36.7.69.248:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:latest, nomic-embed-text:latest, deepseek-r1:8b"
