@@ -1717,3 +1717,5 @@ http://193.25.217.23/v1,"gemma3:12b, gemma-3-12b-multimodal:latest, google/gemma
 http://52.77.228.115:9001/v1,"deepseek-r1:latest, openchat:7b, llama2:latest"
 http://54.251.135.171:9100/v1,llama2:latest
 http://157.148.135.166/v1,unsloth/Qwen3-30B-A3B-GGUF:latest
+http://56.124.88.112:18080/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, qwen2.5:1.5b, openchat:7b"
+http://13.114.9.221:50070/v1,"qwen2.5:1.5b, codellama:13b, llama2:latest, deepseek-r1:latest, llama3:latest"
