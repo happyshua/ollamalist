@@ -1845,3 +1845,4 @@ http://171.88.104.239:3000/v1,"llama3.2:3b-instruct-q5_K_M, llama3.2-vision:late
 http://3.148.168.54:3128/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
 http://54.185.236.67:3128/v1,"qwen2.5:1.5b, openchat:7b, llama3:latest, deepseek-r1:latest"
 http://54.168.197.42:49153/v1,llama2:latest
+http://52.193.193.176:49153/v1,"codellama:13b, llama2:latest"
