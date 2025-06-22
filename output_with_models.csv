@@ -1771,3 +1771,9 @@ http://111.2.20.110:11434/v1,deepseek-r1:32b
 http://3.145.56.196:7000/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b"
 http://34.215.155.43:18080/v1,"llama2:latest, llama3:latest, codellama:13b, qwen2.5:1.5b, openchat:7b"
 http://101.34.246.155:11434/v1,deepseek-r1:1.5b
+http://3.141.21.172:49154/v1,deepseek-r1:latest
+http://54.198.78.186:49153/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b"
+http://54.199.162.136/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://120.26.145.171:11434/v1,"smollm2:135m, llama3.2:1b, deepseek-r1:1.5b"
+http://222.137.156.145:11434/v1,"HuaEr-DeepSeek-R1-Distill-Qwen-1.5B-1:latest, glm4:latest, mxbai-embed-large:v1, mxbai-embed-large:latest, erwan2/DeepSeek-Janus-Pro-7B:latest, llama3.2-vision:latest, linux6200/bge-reranker-v2-m3:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:1.5b, deepseek-r1:latest, deepseek-r1:7b, deepseek-r1:32b, llama3:latest, sqlcoder:latest, qwen2:latest"
+https://ollama.twala.ai/v1,"tinyllama:latest, mistral:latest, llama3.2:latest, deepseek-r1:latest, qwen2:latest, mxbai-embed-large:latest"
