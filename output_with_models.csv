@@ -1922,3 +1922,23 @@ http://38.111.146.7:11434/v1,"smollm2:135m, llava:latest, llama3.1:latest, deeps
 http://15.204.235.227:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q2_K, llama3.2:3b, llama3.2:1b"
 http://82.156.4.138:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://114.35.101.242:8092/v1,"chevalblanc/gpt-4o-mini:latest, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, codellama:latest, deepseek-r1:latest, x/llama3.2-vision:latest, qwen2.5-coder:latest, llama3.2-vision:latest, llama3:latest"
+http://3.36.69.7:30005/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest, deepseek-r1:latest"
+http://13.124.171.5:40000/v1,"openchat:7b, llama3:latest, codellama:13b, llama2:latest"
+http://3.145.78.229:8085/v1,"llama3:latest, qwen2.5:1.5b"
+http://54.242.63.240:8081/v1,"llama2:latest, llama3:latest, openchat:7b, deepseek-r1:latest, qwen2.5:1.5b"
+http://54.225.57.31/v1,"llama2:latest, codellama:13b, openchat:7b, llama3:latest"
+http://54.242.102.236/v1,"llama3:latest, llama2:latest"
+http://54.242.102.236:8080/v1,"llama3:latest, llama2:latest"
+http://54.250.6.204:8081/v1,llama3:latest
+http://56.155.107.224:8085/v1,"llama3:latest, codellama:13b"
+http://98.81.211.99:11434/v1,llama3:8b
+http://119.196.13.149:11434/v1,deepseek-coder:1.3b-instruct
+http://154.196.178.145:11434/v1,"smollm2:135m, llama3.2:latest, llama3.1:8b, deepseek-r1:1.5b"
+http://154.196.178.130:11434/v1,"smollm2:135m, llama3.2:latest, llama3.1:8b, deepseek-r1:1.5b"
+http://154.196.178.155:11434/v1,"smollm2:135m, llama3.2:latest, llama3.1:8b, deepseek-r1:1.5b"
+http://154.196.178.137:11434/v1,"smollm2:135m, llama3.2:latest, llama3.1:8b, deepseek-r1:1.5b"
+http://154.196.178.154:11434/v1,"smollm2:135m, llama3.2:latest, llama3.1:8b, deepseek-r1:1.5b"
+http://154.196.178.150:11434/v1,"smollm2:135m, llama3.2:latest, llama3.1:8b, deepseek-r1:1.5b"
+http://154.196.178.138:11434/v1,"smollm2:135m, llama3.2:latest, llama3.1:8b, deepseek-r1:1.5b"
+http://154.196.178.142:11434/v1,"smollm2:135m, llama3.2:latest, llama3.1:8b, deepseek-r1:1.5b"
+http://54.151.185.145:11434/v1,"llama3.2:3b-instruct-q5_K_M, mistral-nemo:12b-instruct-2407-q4_1"
