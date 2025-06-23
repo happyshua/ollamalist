@@ -1890,3 +1890,6 @@ http://18.181.163.34:49155/v1,"openchat:7b, qwen2.5:1.5b"
 http://3.36.131.126:3128/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
 http://18.162.244.30:2095/v1,llama2:latest
 http://43.139.156.49:11434/v1,"smollm2:135m, gemma3:1b, qwen:latest, llama3.2:1b"
+http://54.251.152.16:7170/v1,"deepseek-r1:latest, codellama:13b"
+http://218.104.230.50:11434/v1,"deepseek-r1:7b, bge-large:latest"
+http://42.193.236.78:11434/v1,"qwen2.5:0.5b-instruct, qwen2.5:1.5b-instruct, qwen2.5:1.5b"
