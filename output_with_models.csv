@@ -2007,3 +2007,6 @@ http://3.128.197.144:55555/v1,"llama2:latest, codellama:13b"
 http://218.39.139.197:11434/v1,"smollm2:135m, mixtral:latest, mistral:latest, llama2:latest, gemma:7b"
 http://222.234.38.96:11434/v1,"mistral-small:latest, bnksys/yanolja-eeve-korean-instruct-10.8b:latest, lancard/korean-yanolja-eeve:latest, mistral:latest"
 http://115.178.77.130:11434/v1,llama_3:latest
+http://52.41.247.156:11434/v1,"cover_letter_generator:latest, job_fit_estimator:latest, llama3.2:latest"
+http://69.48.206.166:11434/v1,"deepseek-r1:1.5b, llama3-backup:latest, mattw/pygmalion:latest, llama3.2:latest, smollm2:135m, jimbollama:latest, llama3.2:3b, mistral:latest, llama3.1:8b"
+http://114.44.130.99:11434/v1,"qwen3:30b-a3b, deepseek-r1:14b"
