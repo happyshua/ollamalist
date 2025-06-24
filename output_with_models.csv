@@ -2056,3 +2056,7 @@ http://202.5.255.91:11434/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest, gemma3
 http://39.97.255.242:11434/v1,qwen3:0.6b
 http://47.108.84.31:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3.1:8b, deepseek-r1:14b, deepseek-r1:32b"
 http://97.106.26.140:11434/v1,"llama3.1:8b, llama3.3:latest, gemma3:1b, mistral:latest"
+http://49.0.201.129:11434/v1,"smollm2:135m, deepseek-r1:1.5b, deepseek-r1:14b, deepseek-r1:70b, deepseek-r1:32b, deepseek-r1:7b"
+http://183.157.22.114:11434/v1,deepseek-r1:1.5b
+http://154.204.185.170:11434/v1,deepseek-r1:1.5b
+http://110.9.80.155:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, phind-codellama:34b-v2, codellama:7b, codellama:latest, llava:7b, gemma3:4b, llama3:latest"
