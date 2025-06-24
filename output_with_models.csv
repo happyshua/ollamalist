@@ -2034,3 +2034,11 @@ http://18.221.218.6:51005/v1,"codellama:13b, deepseek-r1:latest"
 http://54.193.209.102:50090/v1,"llama2:latest, codellama:13b, deepseek-r1:latest"
 http://54.219.228.85:2052/v1,"qwen2.5:1.5b, llama2:latest, codellama:13b, deepseek-r1:latest, llama3:latest"
 http://13.208.43.139:51007/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, codellama:13b"
+http://43.198.186.23:8080/v1,"llama3:latest, llama2:latest, deepseek-r1:latest"
+http://43.203.215.182:2077/v1,"codellama:13b, qwen2.5:1.5b"
+http://211.75.42.58:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, gemma3:27b, gemma3:12b, llama3.2-vision:11b, llama3.2-vision:latest, llama3.2:3b, llama3.2:1b, llama3:latest, mistral:latest, llama2:latest, gemma:2b, gemma:7b"
+http://54.64.44.152:8080/v1,"qwen2.5:1.5b, llama2:latest, llama3:latest, deepseek-r1:latest"
+http://153.228.166.56:11434/v1,"gemma3:12b, qwen2.5vl:7b, gemma3:4b, llama3.2-vision:latest"
+http://35.198.249.138:11434/v1,deepseek-r1:8b
+http://211.75.42.58:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, gemma3:27b, gemma3:12b, llama3.2-vision:11b, llama3.2-vision:latest, llama3.2:3b, llama3.2:1b, llama3:latest, mistral:latest, llama2:latest, gemma:2b, gemma:7b"
+http://18.138.138.6:11434/v1,qwen3:8b
