@@ -2042,3 +2042,9 @@ http://153.228.166.56:11434/v1,"gemma3:12b, qwen2.5vl:7b, gemma3:4b, llama3.2-vi
 http://35.198.249.138:11434/v1,deepseek-r1:8b
 http://211.75.42.58:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, gemma3:27b, gemma3:12b, llama3.2-vision:11b, llama3.2-vision:latest, llama3.2:3b, llama3.2:1b, llama3:latest, mistral:latest, llama2:latest, gemma:2b, gemma:7b"
 http://18.138.138.6:11434/v1,qwen3:8b
+http://54.215.185.81:18036/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://13.208.165.150:55555/v1,openchat:7b
+http://34.23.27.209:11434/v1,"llama3.2:3b, llama3.1:8b, devstral:24b, qwen2.5:7b, qwen2.5:14b, deepseek-r1:14b, mistral-small3.1:latest, mistral:latest, qwen3:latest, magistral:latest, gemma3:12b, phi4:latest, llama3.1:latest, deepseek-coder-v2:latest"
+http://50.190.119.1:11434/v1,"qwen2.5:latest, qwen2.5-coder:32b, qwen2.5-coder:latest, qwq:latest"
+http://131.94.130.186:11434/v1,"mario:latest, llama3-backup:latest, qwen3:latest, deepseek-r1:7b, llama3.2:latest"
+http://211.186.164.130:11434/v1,"qwen3:8b, llama3-groq-tool-use:latest, llama3.3:latest, llama3.1:8b, qwen3:latest, gemma3:12b, gemma3:latest"
