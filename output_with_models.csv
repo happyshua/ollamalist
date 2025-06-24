@@ -2022,3 +2022,6 @@ http://54.185.225.40:8080/v1,llama2:latest
 http://101.43.50.153:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M"
 http://203.83.238.237:11434/v1,deepseek-r1:70b
 http://8.137.107.81:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://52.200.190.92:2077/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://15.152.36.176:8080/v1,"codellama:13b, llama3:latest, llama2:latest, qwen2.5:1.5b, openchat:7b"
+http://121.184.47.162:11434/v1,exaone3.5:2.4b
