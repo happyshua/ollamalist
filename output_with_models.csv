@@ -2030,3 +2030,7 @@ http://13.208.214.178:8080/v1,"llama3:latest, openchat:7b, deepseek-r1:latest, q
 http://146.56.47.252:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.1:8b"
 http://126.4.203.254:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, hf.co/RichardErkhov/Kanonenbombe_-_llama3.2-1B-Function-calling-gguf:IQ3_S, llama3.2-vision:latest, qwen2.5:latest, llava-llama3:latest, llava:latest, codellama:latest, gemma:latest, llama3.2:latest, llama3.1:latest, mistral:latest, phi4:latest, deepseek-r1:8b, deepseek-r1:latest"
 http://218.95.37.58:11434/v1,"smollm2:135m, modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-14B-GGUF:latest"
+http://18.221.218.6:51005/v1,"codellama:13b, deepseek-r1:latest"
+http://54.193.209.102:50090/v1,"llama2:latest, codellama:13b, deepseek-r1:latest"
+http://54.219.228.85:2052/v1,"qwen2.5:1.5b, llama2:latest, codellama:13b, deepseek-r1:latest, llama3:latest"
+http://13.208.43.139:51007/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, codellama:13b"
