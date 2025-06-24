@@ -2017,3 +2017,8 @@ http://40.76.142.73:11434/v1,"mario:latest, llama3-backup:latest, deepseek-r1:1.
 http://223.254.129.239:11434/v1,deepseek-r1:1.5b
 http://223.254.130.73:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen2.5:latest, qwen3:4b, deepscaler:latest, qwen3:1.7b"
 http://43.137.17.243:11434/v1,"llama3.1:8b, linux6200/bge-reranker-v2-m3:latest, huihui_ai/deepseek-r1-abliterated:32b, smollm2:135m, qwen3:32b, bge-m3:latest, deepseek-r1:32b"
+http://54.205.85.211:8080/v1,"codellama:13b, llama3:latest"
+http://54.185.225.40:8080/v1,llama2:latest
+http://101.43.50.153:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M"
+http://203.83.238.237:11434/v1,deepseek-r1:70b
+http://8.137.107.81:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
