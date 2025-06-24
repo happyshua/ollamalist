@@ -2062,3 +2062,4 @@ http://154.204.185.170:11434/v1,deepseek-r1:1.5b
 http://110.9.80.155:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, phind-codellama:34b-v2, codellama:7b, codellama:latest, llava:7b, gemma3:4b, llama3:latest"
 http://54.176.75.61:2082/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, openchat:7b"
 http://13.112.232.155:18035/v1,"qwen2.5:1.5b, llama2:latest"
+http://108.48.39.232:11434/v1,"qwen3:30b-a3b, nomic-embed-text:latest"
