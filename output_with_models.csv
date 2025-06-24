@@ -2063,3 +2063,7 @@ http://110.9.80.155:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, phi
 http://54.176.75.61:2082/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, openchat:7b"
 http://13.112.232.155:18035/v1,"qwen2.5:1.5b, llama2:latest"
 http://108.48.39.232:11434/v1,"qwen3:30b-a3b, nomic-embed-text:latest"
+http://35.90.6.245:500/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest"
+http://65.181.112.89:443/v1,"gemma:2b, llama3.2:latest, gemma3:1b"
+http://98.210.196.177:11434/v1,"llama3:latest, deepseek-r1:latest"
+http://175.196.73.81:11434/v1,"hf.co/unsloth/Llama-3.3-70B-Instruct-GGUF:Q5_K_M, hf.co/mradermacher/gemma-3-27b-tools-GGUF:Q5_K_M, qwen3:14b, qwen3:8b, qwen3:4b, qwen3:1.7b, qwen3:0.6b, qwen2.5:32b, qwen3:32b, gemma3:27b, qwq:32b, nomic-embed-text:latest, hf.co/unsloth/QwQ-32B-GGUF:Q4_K_M, qwq:latest, llama3-groq-tool-use:8b, llama3-groq-tool-use:70b, kimjk/llama3.2-korean:latest, hhao/qwen2.5-coder-tools:latest, ishumilin/deepseek-r1-coder-tools:32b"
