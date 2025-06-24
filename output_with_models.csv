@@ -2010,3 +2010,10 @@ http://115.178.77.130:11434/v1,llama_3:latest
 http://52.41.247.156:11434/v1,"cover_letter_generator:latest, job_fit_estimator:latest, llama3.2:latest"
 http://69.48.206.166:11434/v1,"deepseek-r1:1.5b, llama3-backup:latest, mattw/pygmalion:latest, llama3.2:latest, smollm2:135m, jimbollama:latest, llama3.2:3b, mistral:latest, llama3.1:8b"
 http://114.44.130.99:11434/v1,"qwen3:30b-a3b, deepseek-r1:14b"
+http://114.55.116.94:11434/v1,"qwen2.5:14b, gemma3:12b, qwen3:14b, deepseek-r1:14b, deepseek-r1:32b, deepseek-r1:8b, deepseek-r1:1.5b, deepseek-r1:7b"
+http://220.85.41.195:11434/v1,"llama3-backup:latest, mario:latest, llama3.1:8b, mattw/pygmalion:latest, llama3.2:latest, exaone3.5:7.8b, llama3.3:70b, mistral:latest, deepseek-r1:70b, deepseek-r1:8b"
+http://141.98.152.235:11434/v1,"gemma3:latest, llama3.2:latest, command-r7b-arabic:latest, deepseek-r1:latest"
+http://40.76.142.73:11434/v1,"mario:latest, llama3-backup:latest, deepseek-r1:1.5b, llama2:latest, deepseek-r1:latest, smollm2:135m, gemma2:2b, gemma:2b, phi4:latest, llama3.2:1b, phi3:latest, moondream:latest, deepseek-r1:14b, mistral:latest, llama3.2:latest"
+http://223.254.129.239:11434/v1,deepseek-r1:1.5b
+http://223.254.130.73:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen2.5:latest, qwen3:4b, deepscaler:latest, qwen3:1.7b"
+http://43.137.17.243:11434/v1,"llama3.1:8b, linux6200/bge-reranker-v2-m3:latest, huihui_ai/deepseek-r1-abliterated:32b, smollm2:135m, qwen3:32b, bge-m3:latest, deepseek-r1:32b"
