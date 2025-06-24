@@ -2049,3 +2049,10 @@ http://50.190.119.1:11434/v1,"qwen2.5:latest, qwen2.5-coder:32b, qwen2.5-coder:l
 http://131.94.130.186:11434/v1,"mario:latest, llama3-backup:latest, qwen3:latest, deepseek-r1:7b, llama3.2:latest"
 http://211.186.164.130:11434/v1,"qwen3:8b, llama3-groq-tool-use:latest, llama3.3:latest, llama3.1:8b, qwen3:latest, gemma3:12b, gemma3:latest"
 http://35.93.130.174:7547/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, llama2:latest"
+http://150.129.138.116:11434/v1,"minicpm-v:latest, reader-lm:1.5b, llava:latest, hf-mirror.com/CompendiumLabs/bge-large-zh-v1.5-gguf:latest, llava:13b"
+http://43.239.162.102:11434/v1,"llama3-backup:latest, mattw/pygmalion:latest, mario:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:latest, llama3.1:8b, hermes3:8b"
+http://43.239.162.93:11434/v1,"llama3-backup:latest, mario:latest, mattw/pygmalion:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:latest, llama3.1:8b, hermes3:8b"
+http://202.5.255.91:11434/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest, gemma3:12b, gemma3:4b, cwchang/llama-3-taiwan-8b-instruct:latest"
+http://39.97.255.242:11434/v1,qwen3:0.6b
+http://47.108.84.31:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3.1:8b, deepseek-r1:14b, deepseek-r1:32b"
+http://97.106.26.140:11434/v1,"llama3.1:8b, llama3.3:latest, gemma3:1b, mistral:latest"
