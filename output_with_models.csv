@@ -1991,3 +1991,9 @@ http://124.64.223.205:11434/v1,"devstral:24b, qwen3:30b, deepseek-r1:14b, deepse
 http://121.131.44.204:11434/v1,"llama3.1:8b, GandalfBaum/deepseek_r1-claude3.7:latest, gemma3:latest, qwen3:latest, gemma3:27b"
 http://121.78.112.25:11434/v1,"gemma3:4b, llama4:16x17b, deepseek-r1:70b"
 http://49.142.48.247:11434/v1,"kwangsuklee/SEOKDONG-llama3.1_korean_Q5_K_M:latest, kimjk/llama3.2-korean:latest, jinbora/deepseek-r1-Bllossom:8b, chnaaam/ko-gemma2-9b-it-gguf:latest, tinyllama-1.1b:latest, tinyllama-1.1b-kor:latest, timHan/llama3korean8B4QKM:latest, benedict/linkbricks-llama3.1-korean:8b, llama3.2:latest, llama2:latest, deepseek-r1:8b, llama3.1:latest"
+http://52.79.149.89:8983/v1,deepseek-r1:latest
+http://18.162.187.167:11434/v1,"deepseek-r1:7b, deepseek-r1:14b"
+http://54.248.133.246:8089/v1,"codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
+http://15.168.16.206:8983/v1,"codellama:13b, llama2:latest, openchat:7b, llama3:latest, qwen2.5:1.5b"
+http://164.70.68.82:11434/v1,"llama3.2:latest, nomic-embed-text:latest, kun432/cl-nagoya-ruri-large:latest"
+http://14.55.117.95:11434/v1,"deepseek-r1:14b, llama2:latest, deepcoder:latest, llama3.2:latest, llama3.3:latest, llama4:latest, deepseek-r1:latest"
