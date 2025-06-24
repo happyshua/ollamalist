@@ -2074,3 +2074,8 @@ http://120.196.131.82:11434/v1,"qwen2.5vl:3b, qwen2.5vl:7b, qwen2.5vl:72b, qwen2
 http://64.176.224.102:11434/v1,"llama3.2:latest, deepseek-r1:32b"
 http://61.83.153.227:11434/v1,Llama3.2-Korean:latest
 http://203.2.164.156:11434/v1,"deepseek-r1:14b, deepseek-r1:32b, deepseek-r1:8b, deepseek-r1:7b, deepseek-r1:70b, deepseek-r1:1.5b"
+http://98.82.135.105:11434/v1,"llava:7b, qwen2.5-coder:7b, gemma3:4b, qwen2.5-coder:3b, nomic-embed-text:latest, qwen3:1.7b, qwen3:0.6b, deepseek-r1:1.5b, deepseek-r1:8b, qwen3:8b, llama3:latest, llama3.1:latest, mistral:latest, gemma3:12b"
+http://106.15.187.253:11434/v1,"smollm2:135m, qwen2:0.5b"
+http://120.53.94.27:11434/v1,"smollm2:135m, qwen:0.5b"
+http://35.172.206.147/v1,tinyllama:latest
+http://13.229.243.56:11434/v1,"deepseek-r1:1.5b, mattw/pygmalion:latest, llama3.2:3b-instruct-q5_K_M, llama3.1:latest, quentinz/bge-large-zh-v1.5:latest"
