@@ -2002,3 +2002,8 @@ http://73.59.36.169:11434/v1,"qwen2.5-coder:7b, qwen2.5:7b-instruct"
 http://1.30.81.107:11434/v1,llama3.2:3b-instruct-q5_K_M
 http://108.85.14.130:11434/v1,"llama3.1:8b, qwen3:8b, llama3.2:3b, nomic-embed-text:latest, llama3.2:1b"
 http://39.99.156.233:11434/v1,"qwen3:0.6b, qwen:1.8b"
+http://54.65.66.237:8089/v1,deepseek-r1:latest
+http://3.128.197.144:55555/v1,"llama2:latest, codellama:13b"
+http://218.39.139.197:11434/v1,"smollm2:135m, mixtral:latest, mistral:latest, llama2:latest, gemma:7b"
+http://222.234.38.96:11434/v1,"mistral-small:latest, bnksys/yanolja-eeve-korean-instruct-10.8b:latest, lancard/korean-yanolja-eeve:latest, mistral:latest"
+http://115.178.77.130:11434/v1,llama_3:latest
