@@ -1759,3 +1759,17 @@ https://gpt-api.dev.oneam.app/v1,deepseek-r1:14b
 http://159.138.148.60:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b"
 http://139.162.52.188:11434/v1,"qwen3:0.6b, deepseek-r1:1.5b, granite3.1-moe:3b, granite3.2-vision:2b, granite3.3:2b, llama3.2:latest"
 http://139.162.52.188:11434/v1,"qwen3:0.6b, deepseek-r1:1.5b, granite3.1-moe:3b, granite3.2-vision:2b, granite3.3:2b, llama3.2:latest"
+http://47.129.9.45:30005/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, llama3:latest"
+http://43.198.103.235:30005/v1,"deepseek-r1:latest, openchat:7b, llama3:latest, codellama:13b, llama2:latest"
+http://13.212.217.108:8000/v1,"openchat:7b, codellama:13b"
+http://3.34.43.198:85/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, llama3:latest"
+http://13.125.41.230:88/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, qwen2.5:1.5b"
+http://43.203.215.182:2077/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, openchat:7b, llama2:latest"
+http://47.129.9.45:40000/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, openchat:7b"
+http://13.212.185.138:49151/v1,qwen2.5:1.5b
+http://18.119.117.238:2052/v1,llama2:latest
+http://13.60.93.1:2082/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, codellama:13b, qwen2.5:1.5b"
+http://38.45.122.147:11434/v1,"smollm2:135m, mario:latest, llama3-backup:latest, llama3.2:latest, llama3.1:8b, llama3.1:8b-instruct-q4_K_M, deepseek-r1:1.5b"
+http://211.97.146.2:11434/v1,"llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.1:8b, llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, deepseek-r1:8b"
+http://113.116.104.239:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
+http://34.204.78.179:11434/v1,"llama3-backup:latest, llama3.2:latest, llama3.1:8b-instruct-q4_K_M, llama3.1:latest"
