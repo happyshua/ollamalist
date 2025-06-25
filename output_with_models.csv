@@ -1788,3 +1788,8 @@ http://154.204.185.169:11434/v1,deepseek-r1:1.5b
 http://140.135.65.57:11434/v1,"gemma3:27b, r1-1776:70b, llama4:16x17b, lsm03624/deepseek-r1:8b-0528-qwen3-fp16, rockn/DeepSeek-R1-0528-Qwen3-8B-IQ4_NL:latest, qwen2.5vl:32b, llama4:latest, llama3.1:8b-instruct-q4_K_M, qwen3:32b-q8_0, qwen3:30b-a3b, llama3.1:8b, qwq:32b, linux6200/bge-reranker-v2-m3:latest, jina-embeddings-v2-base-zh:latest, deepseek-r1:70b, deepseek-r1:70b-llama-distill-q8_0, deepseek-r1:1.5b, taide_Llama3-TAIDE-LX-8B-Chat-Alpha1:latest, FreedomIntelligence_Apollo2-9B:latest, deepseek-r1:14b, deepseek-r1:14b-qwen-distill-q8_0, llama2:13b, Llama-3.3-70B-Instruct-IQ1_M:latest, deepseek-r1:8b, Llama-3.3-70B-Instruct-Q2_K_L:latest, deepseek-r1:70b-llama-distill-q4_K_M, TAIDE_Llama3_8B:latest, deepseek-r1:32b, llama2-uncensored:latest, Llama-3.3-70B-Instruct-IQ2_XS:latest, taide_ollama3:latest, Llama-3.3-70B:latest"
 http://223.130.142.236:11434/v1,"hyperclovax:latest, ubion-rule-model:latest, output-model:latest"
 http://221.140.57.244:11434/v1,gemma2:latest
+http://56.155.3.176:2080/v1,"llama2:latest, deepseek-r1:latest, codellama:13b, llama3:latest"
+http://13.208.192.139:1314/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, codellama:13b, llama3:latest"
+http://75.43.156.105/v1,"gemma3:4b-it-fp16, llama3.1:8b, nomic-embed-text:latest, qwen3:8b, deepseek-r1:14b, granite3.2:8b, qwen2.5-coder:7b, qwen2.5vl:7b, llama3.2:latest, qwen2.5:latest"
+http://119.207.180.79:11434/v1,"gemma3:27b, jinbora/deepseek-r1-Bllossom:70b"
+http://121.78.112.103:11434/v1,"deepseek-r1:70b, llava:34b, llama3.3:70b, llama3.1:8b, gemma3:27b, qwq:latest"
