@@ -1808,3 +1808,7 @@ http://23.249.179.241:11434/v1,"smollm2:135m, mario:latest, llama3-backup:latest
 http://23.249.179.214:11434/v1,"smollm2:135m, mario:latest, llama3-backup:latest, llama3.2:latest, llama3.1:8b-instruct-q4_K_M, llama3.1:8b, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, llama3.2-vision:latest, nomic-embed-text:latest, hermes3:8b"
 http://68.183.17.173:11434/v1,"smollm2:135m, llama2:latest, llama3.1:latest, nomic-embed-text:latest"
 http://218.32.15.226:11434/v1,"designLlama:latest, gemma2:9b, deepseek-r1:32b, Llama3.1-8B-air030:latest, Llama-3.1-8B-AIR030:latest, AIRDataLoRa:latest, gemma3:27b-it-qat, phi3.5:latest, gemma3:27b-it-q4_K_M, mistral-nemo:latest, bge-m3:latest, test:latest, ADVDocsJapan:latest, r1-1776:latest, wadetest:latest"
+http://43.207.84.88:7443/v1,"llama2:latest, qwen2.5:1.5b"
+http://52.90.127.194:7443/v1,"llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://50.77.32.55:11434/v1,"granite3.2:2b, granite3.2:8b, ALIENTELLIGENCE/doctorai:latest, deepseek-r1:latest, llama3.1:latest"
+http://54.177.69.127:9200/v1,"llama3:latest, llama2:latest, openchat:7b"
