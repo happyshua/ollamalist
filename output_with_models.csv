@@ -1616,3 +1616,77 @@ http://183.6.7.218:11434/v1,"qwen2.5vl:3b, qwen3:4b, qwen3:8b, llama3.1:8b-instr
 http://111.230.48.143:11434/v1,"smollm2:135m, bge-large:latest, nomic-embed-text:latest, deepseek-r1:8b"
 http://114.246.101.191:11434/v1,"llama3.2:latest, minicpm-v:latest, deepseek-r1:14b, qwen3:14b, qwen3:8b, mixtral:8x7b, qwen2.5-coder:7b"
 http://180.159.99.132:40001/v1,"llama3.2:3b-instruct-q5_K_M, qwen2.5-coder:32b, deepseek-r1:14b, qwen2.5-coder:14b, deepseek-r1:32b, deepseek-r1:70b, llama3:latest, llama3:70b"
+http://54.250.97.171:8088/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, codellama:13b"
+http://13.208.43.139:7443/v1,"deepseek-r1:latest, openchat:7b"
+http://3.133.142.76:2077/v1,"llama2:latest, deepseek-r1:latest, openchat:7b"
+http://3.141.21.172:49154/v1,"llama3:latest, llama2:latest, openchat:7b"
+http://13.114.9.221:8800/v1,"openchat:7b, codellama:13b"
+http://13.114.9.221:50070/v1,"llama2:latest, deepseek-r1:latest"
+http://3.148.207.172:9090/v1,"openchat:7b, llama3:latest, llama2:latest"
+http://35.86.140.60:55442/v1,llama3:latest
+http://54.144.121.90:1234/v1,codellama:13b
+http://18.212.224.171:8083/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://13.208.172.78:32400/v1,"llama2:latest, llama3:latest, openchat:7b"
+http://3.148.168.54:3128/v1,"openchat:7b, llama3:latest, llama2:latest"
+http://107.20.90.42:10443/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, llama2:latest"
+http://3.101.62.150:10000/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, codellama:13b"
+http://18.191.150.208:49155/v1,llama2:latest
+http://54.92.217.41:49152/v1,"llama2:latest, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, codellama:13b"
+http://3.101.62.150:5000/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, codellama:13b"
+http://35.90.6.245:500/v1,"openchat:7b, deepseek-r1:latest, llama2:latest"
+http://54.168.197.42:49153/v1,"llama3:latest, openchat:7b, llama2:latest"
+http://34.219.126.154:9090/v1,"llama3:latest, codellama:13b"
+http://13.208.165.150:55555/v1,"llama3:latest, llama2:latest, deepseek-r1:latest"
+http://3.145.41.215:8000/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest"
+http://3.129.253.4:9999/v1,codellama:13b
+http://56.124.106.18:9090/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b, codellama:13b, openchat:7b"
+http://15.152.42.187:9006/v1,"llama2:latest, deepseek-r1:latest, llama3:latest"
+http://54.250.97.171:8090/v1,llama2:latest
+http://3.137.173.15:3128/v1,"llama2:latest, deepseek-r1:latest, openchat:7b, codellama:13b"
+http://18.236.129.107:7777/v1,llama2:latest
+http://56.155.121.4:55555/v1,deepseek-r1:latest
+http://3.141.21.172:9200/v1,"deepseek-r1:latest, qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://13.208.172.78:3000/v1,"llama2:latest, llama3:latest, openchat:7b"
+http://13.208.43.139:51007/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://36.212.209.184:11434/v1,"qwen3:32b, gemma3:27b, deepseek-r1:32b"
+http://54.203.115.87:7547/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, llama3:latest, llama2:latest"
+http://13.60.201.160:5801/v1,"llama3:latest, qwen2.5:1.5b, codellama:13b"
+http://13.114.9.221:7170/v1,"llama2:latest, deepseek-r1:latest"
+http://100.27.31.78:7547/v1,deepseek-r1:latest
+http://35.90.6.245:18035/v1,llama2:latest
+http://54.185.236.67:3128/v1,"llama2:latest, llama3:latest"
+http://18.179.119.156:8983/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, llama3:latest"
+http://3.101.34.207:5985/v1,"llama2:latest, codellama:13b, openchat:7b, llama3:latest"
+http://13.61.14.179:5801/v1,"qwen2.5:1.5b, codellama:13b, deepseek-r1:latest, llama3:latest"
+http://13.112.26.188:9100/v1,codellama:13b
+http://13.208.165.204:8880/v1,"llama3:latest, openchat:7b, deepseek-r1:latest, codellama:13b"
+http://3.145.41.215:10000/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest"
+http://3.101.34.207:9090/v1,"qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://56.124.106.18:8081/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b, deepseek-r1:latest"
+http://13.231.110.254:7777/v1,"deepseek-r1:latest, openchat:7b"
+http://3.147.84.4:3000/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, openchat:7b, deepseek-r1:latest"
+http://54.203.115.87:9999/v1,"openchat:7b, codellama:13b"
+http://54.199.113.82:8082/v1,"llama3:latest, llama2:latest"
+http://13.208.165.204:5357/v1,"llama2:latest, openchat:7b, llama3:latest"
+http://18.188.141.177:5985/v1,openchat:7b
+http://34.235.136.70:8008/v1,openchat:7b
+http://13.56.241.42/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, llama2:latest, codellama:13b"
+http://13.114.9.221:19150/v1,"openchat:7b, codellama:13b"
+http://54.208.113.157:40000/v1,openchat:7b
+http://3.101.62.150:85/v1,"llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://13.125.7.17:85/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b"
+http://57.180.21.176:9001/v1,qwen2.5:1.5b
+http://3.147.84.4:40000/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, openchat:7b, deepseek-r1:latest"
+http://34.219.126.154:49155/v1,"llama3:latest, codellama:13b, llama2:latest"
+http://43.203.229.123:7676/v1,qwen2.5:1.5b
+http://184.72.6.131:8899/v1,"llama3:latest, llama2:latest, deepseek-r1:latest"
+http://54.219.228.85:2052/v1,"openchat:7b, llama3:latest, codellama:13b"
+http://56.155.105.128:2080/v1,"deepseek-r1:latest, codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://52.53.240.122:34599/v1,"llama2:latest, llama3:latest"
+http://54.199.113.82:5985/v1,"deepseek-r1:latest, codellama:13b, openchat:7b"
+http://56.155.105.128:8880/v1,"deepseek-r1:latest, codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://54.164.108.170:2082/v1,"qwen2.5:1.5b, openchat:7b"
+http://111.192.129.181:11434/v1,"llama3.2:3b-instruct-q5_K_M, devstral:latest, qwen3:8b, ishumilin/deepseek-r1-coder-tools:14b, ishumilin/deepseek-r1-coder-tools:32b, qwq:latest"
+http://121.196.227.21:11434/v1,"deepseek-r1:14b, llama3.1:8b, deepseek-r1:1.5b, deepseek-r1:70b, deepseek-r1:32b, bge-m3:latest"
+http://221.149.79.169:11434/v1,"deepseek-r1:latest, gemma3:27b, MHKetbi/Mistral-Small3.1-24B-Instruct-2503:latest, gemma3:12b, qwen3:8b"
+http://47.120.51.38:11434/v1,"qwen3:8b, qwen:7b-chat, qwen2.5:14b"
