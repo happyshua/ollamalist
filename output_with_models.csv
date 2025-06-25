@@ -1720,3 +1720,14 @@ http://23.20.131.246:8082/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, o
 http://13.60.224.41/v1,"deepseek-r1:latest, codellama:13b"
 https://ollama.skproductions.llc/v1,qwen2.5vl:7b
 http://117.50.162.160:11434/v1,deepseek-r1:7b
+http://18.166.28.134:2080/v1,"codellama:13b, deepseek-r1:latest"
+http://54.168.205.178:5357/v1,llama2:latest
+http://43.198.247.131:8983/v1,llama2:latest
+http://54.199.182.24:8088/v1,"deepseek-r1:latest, openchat:7b"
+http://43.198.98.189:2052/v1,openchat:7b
+http://18.179.119.156:8085/v1,deepseek-r1:latest
+http://18.166.208.151:7547/v1,"openchat:7b, llama3:latest"
+http://13.112.232.155:18035/v1,deepseek-r1:latest
+http://43.198.247.131:8083/v1,llama2:latest
+http://43.198.186.23/v1,"openchat:7b, llama2:latest"
+http://117.184.26.210:11434/v1,"smollm2:135m, qwen3:32b, gemma3:27b, qwen2.5:32b, qwq:32b, bge-m3:latest, nomic-embed-text:latest, deepseek-r1:32b"
