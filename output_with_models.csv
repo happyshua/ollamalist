@@ -1698,3 +1698,21 @@ http://120.240.236.157:11434/v1,"qwen3:4b, qwen3:1.7b, quentinz/bge-large-zh-v1.
 http://126.62.106.126:11434/v1,qwen3:1.7b
 http://111.10.177.133:11434/v1,"Qwen3:32b, deepseek-r1:1.5b, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, nomic-embed-text:latest, deepseek-r1:70b, deepseek-r1:32b"
 https://jmdjr.duckdns.org/v1,"llama3.2:latest, llama2:latest"
+http://43.199.159.115:8000/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://43.199.159.115:9200/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://43.198.184.161:49155/v1,llama2:latest
+http://18.166.211.233:2096/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b"
+http://18.163.2.171:81/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b, llama3:latest"
+http://43.199.162.145:8983/v1,codellama:13b
+http://52.78.3.94:18080/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b, openchat:7b"
+http://110.40.20.51:11434/v1,llama3.2:3b-instruct-q5_K_M
+http://43.207.197.107:7170/v1,"codellama:13b, llama3:latest"
+http://43.199.162.145:28017/v1,llama2:latest
+http://52.79.155.23:8983/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, llama2:latest, openchat:7b"
+http://43.199.159.115:7000/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://43.198.98.189:7777/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, deepseek-r1:latest"
+http://18.162.133.27:4567/v1,"llama3:latest, openchat:7b"
+http://52.78.3.94:8181/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b, deepseek-r1:latest, llama3:latest"
+http://43.199.159.115:5000/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://132.145.124.178:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:8b, deepseek-r1:8b, llama3.2:latest"
+http://110.40.20.51:11434/v1,llama3.2:3b-instruct-q5_K_M
