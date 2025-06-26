@@ -1934,3 +1934,8 @@ http://203.234.223.103:11434/v1,"llama3.2:3b-instruct-fp16, exaone-deep:2.4b-fp1
 http://43.207.76.24:9200/v1,"llama2:latest, openchat:7b, codellama:13b"
 http://203.234.223.103:11434/v1,"llama3.2:3b-instruct-fp16, exaone-deep:2.4b-fp16, gemma3:4b-it-fp16, exaone-deep:2.4b, gemma3:27b, gemma3:12b, gemma3:4b"
 http://120.55.50.162:11434/v1,"llama3.1:8b-instruct-q4_K_M, deepseek-r1:7b, qwen2.5:32b, qwq:latest, deepseek-r1:1.5b"
+http://52.205.183.145:9001/v1,openchat:7b
+http://52.53.246.43:8983/v1,"codellama:13b, openchat:7b"
+http://44.243.19.0:9100/v1,"llama3:latest, openchat:7b"
+http://210.126.8.197:11434/v1,"qwen3:30b, gemma3:27b, qwq:latest, bge-m3:latest, deepseek-r1:14b-qwen-distill-q8_0, eeve-10.8b:q5, deepseek-r1:32b"
+http://47.41.101.112:11434/v1,"gemma3:12b, gemma3:27b-it-qat, llama3:8b, phi3:mini, gemma3:4b-it-qat, Hannibal:latest, Jarvis:latest, gemma3:latest, gemma2:latest, gemma3:4b, gemma2:9b, mistral:latest, deepseek-r1:1.5b, llama3.2:3b, llama3.2:1b, gemma2:2b"
