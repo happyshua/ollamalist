@@ -1875,3 +1875,6 @@ http://113.116.33.141:11434/v1,"qwen2.5vl:32b, qwen3:30b-a3b, deepseek-r1:70b, q
 http://163.13.119.14:11434/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, gemma3:latest"
 http://40.160.6.79:11434/v1,"gemma2:2b, llama3.2:1b, mistral:latest, codellama:latest, llama3.2:latest"
 http://39.171.252.33:11434/v1,"llama3.1:8b, qwen2.5:14b, qwen2.5:3b, qwen2.5:7b"
+http://124.16.139.22:11434/v1,tinyllama:latest
+http://140.115.59.171:11434/v1,"deepseek-r1:1.5b, qwen3:latest, llama3.2:3b-instruct-q5_K_M, gemma3:latest, minicpm-v:latest, llama3.2:latest, llama3.1:latest, qwen2.5:latest, deepseek-r1:8b, deepseek-r1:latest"
+http://119.202.37.170:11434/v1,rohithbojja/llava-med-v1.6:latest
