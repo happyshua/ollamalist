@@ -1923,3 +1923,7 @@ http://175.209.197.38:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruc
 http://154.204.184.170:11434/v1,deepseek-r1:1.5b
 http://16.162.160.160:9100/v1,deepseek-r1:latest
 http://223.83.177.142:11434/v1,"qwen2.5vl:3b, qwen2.5vl:latest, qwen2.5vl:32b, www.modelscope.cn/AI-ModelScope/Qwen2-VL-7B-Instruct-GGUF:latest, modelscope.cn/AI-ModelScope/Llama-3.2-11B-Vision-Instruct-GGUF:latest, debopam/Text-to-SQL__Qwen2.5-Coder-3B-FineTuned:latest, deepseek-r1:14b, bge-m3:latest, deepseek-r1:7b, deepseek-r1:1.5b, qwen:4b"
+http://116.237.149.72:11434/v1,"llama3.2:3b-instruct-q5_K_M, huanlin/Tifa-DeepsexV2-7b-Q8:latest"
+http://119.145.30.202:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:32b, qwen2.5:14b, llava:13b"
+http://101.35.103.39:11434/v1,"qwen-basic:latest, qwen:1.8b"
+http://139.196.115.221:11434/v1,"llama3.1:8b, deepseek-r1:14b"
