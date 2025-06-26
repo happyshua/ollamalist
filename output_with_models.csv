@@ -1892,3 +1892,16 @@ http://44.192.29.108:11434/v1,"llama3.2:1b, deepseek-r1:8b"
 http://45.115.153.221:11434/v1,"gemma3-4b:v1.0, gemma3:4b, gemma3:12b-test-temp0, llama4:16x17b, gemma3:12b-test-temp0.01, gemma3:12b, gemma3-test-temp0.01:latest, gemma3-test:latest, gemma3:latest, kevin-test:latest, llama4:scout, llama3.3:70b"
 http://115.171.17.122:11434/v1,"llama3.1:8b, deepseek-v2:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:70b"
 http://117.131.171.27:11434/v1,llama3.1:8b-instruct-q4_K_M
+http://43.239.162.76:11434/v1,"mario:latest, llama3-backup:latest, mattw/pygmalion:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:latest, llama3.1:8b, hermes3:8b"
+http://139.196.196.43:11434/v1,"codellama:34b-code, qwen3:32b, qwen2.5:72b-instruct, deepseek-r1:70b"
+http://43.239.162.71:11434/v1,"mario:latest, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:latest, llama3.1:8b, hermes3:8b"
+http://43.239.162.88:11434/v1,"mario:latest, llama3-backup:latest, mattw/pygmalion:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:latest, llama3.1:8b, hermes3:8b"
+http://54.250.10.44:9200/v1,codellama:13b
+http://3.147.84.4:8800/v1,llama2:latest
+http://35.89.248.44:28017/v1,"llama3:latest, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b"
+http://56.228.17.188:8888/v1,"openchat:7b, codellama:13b, llama2:latest"
+http://13.61.196.166:28017/v1,"qwen2.5:1.5b, codellama:13b"
+http://54.199.199.66:1024/v1,"codellama:13b, deepseek-r1:latest"
+http://52.205.207.36:11434/v1,"llama2:latest, llama3.2:latest, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, mistral:latest, qwen2.5-coder:7b, deepseek-r1:7b"
+http://27.82.194.51:11434/v1,"qwen3:14b, qwen3:30b, qwen3:8b, qwen3:32b, qwen3:latest, devstral:latest, deepseek-r1:32b, gemma3:27b, llama4:scout, llama3.3:latest, gemma3:12b, gemma3:latest, llama3.2:1b, deepseek-r1:14b, deepseek-r1:latest, phi4:latest, gemma2:latest, llama3.2:latest"
+http://154.38.179.135:11434/v1,"phi3:mini, nous-hermes2:latest"
