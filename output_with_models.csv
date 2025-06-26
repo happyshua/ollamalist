@@ -1976,3 +1976,11 @@ http://184.169.255.123:8085/v1,"deepseek-r1:latest, codellama:13b, openchat:7b, 
 http://149.28.228.15:11434/v1,"llama3.1:8b, mistral:7b-instruct-q4_K_M"
 http://34.207.150.233:8888/v1,"llama3:latest, llama2:latest, codellama:13b, deepseek-r1:latest"
 http://23.90.76.44:11434/v1,"Osmosis/Osmosis-Structure-0.6B:latest, mxbai-embed-large:latest, bge-large:latest, minicpm-v:latest, nomic-embed-text:latest, gemma3:27b"
+http://222.139.28.135:11434/v1,"deepseek-r1:7b, gemma3:4b-it-fp16, nomic-embed-text:latest, qwen3:30b"
+http://3.112.211.6:8085/v1,"llama2:latest, codellama:13b, llama3:latest"
+http://3.36.94.142:9080/v1,"deepseek-r1:latest, qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://18.162.133.27:8800/v1,"openchat:7b, deepseek-r1:latest"
+http://115.204.186.138:11434/v1,"smollm2:135m, deepseek-r1:32b, deepseek-r1:70b, deepseek-r1:14b, deepseek-r1:8b"
+http://221.151.107.42:11434/v1,"codeqwen:latest, Mistral:latest, llava:7b, ALIENTELLIGENCE/genaiimagecsprompt:latest, gemma3:latest, llama3:latest"
+http://220.118.147.58:11434/v1,"qwen3:4b, qwen-3-8b-q8:latest, llama3.1:latest, bge-m3:latest"
+http://121.170.140.210:11434/v1,llama3-kor:latest
