@@ -1905,3 +1905,18 @@ http://54.199.199.66:1024/v1,"codellama:13b, deepseek-r1:latest"
 http://52.205.207.36:11434/v1,"llama2:latest, llama3.2:latest, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, mistral:latest, qwen2.5-coder:7b, deepseek-r1:7b"
 http://27.82.194.51:11434/v1,"qwen3:14b, qwen3:30b, qwen3:8b, qwen3:32b, qwen3:latest, devstral:latest, deepseek-r1:32b, gemma3:27b, llama4:scout, llama3.3:latest, gemma3:12b, gemma3:latest, llama3.2:1b, deepseek-r1:14b, deepseek-r1:latest, phi4:latest, gemma2:latest, llama3.2:latest"
 http://154.38.179.135:11434/v1,"phi3:mini, nous-hermes2:latest"
+http://27.155.120.105:11434/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest"
+http://43.239.162.97:11434/v1,"llama3-backup:latest, mario:latest, mattw/pygmalion:latest, llama3.2:latest, qwen3:1.7b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:latest, llama3.1:8b, hermes3:8b"
+http://54.193.109.227:1024/v1,"codellama:13b, llama2:latest"
+http://3.144.89.21:8983/v1,"qwen2.5:1.5b, openchat:7b"
+http://78.12.108.34:1024/v1,llama2:latest
+http://3.95.20.90:8800/v1,"llama2:latest, openchat:7b, deepseek-r1:latest"
+http://56.155.121.18:1025/v1,openchat:7b
+http://13.61.142.205:28017/v1,deepseek-r1:latest
+http://52.77.228.115:9001/v1,"openchat:7b, deepseek-r1:latest, codellama:13b"
+http://18.179.119.156:9090/v1,"llama3:latest, deepseek-r1:latest"
+http://13.208.175.167:1025/v1,"codellama:13b, llama3:latest"
+http://3.34.200.141:8888/v1,"qwen2.5:1.5b, llama2:latest"
+http://52.79.37.22:888/v1,openchat:7b
+http://120.25.121.94:11434/v1,"mario:latest, llama3-backup:latest, nomic-embed-text:latest, llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, llama3.2:3b-instruct-q5_K_M, gemma3:27b, llava:7b, qwq:latest, deepseek-v2:latest, deepseek-r1:8b, deepseek-r1:1.5b, qwen2.5:7b, qwen:0.5b, wangshenzhi/llama3-8b-chinese-chat-ollama-q8:latest, qwen2.5:0.5b, llama3.2:latest, llama3.1:latest, qwen2:0.5b"
+http://175.209.197.38:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, deepscaler:1.5b, jeffh/intfloat-multilingual-e5-large:f32, llama3.2-vision:11b, phi4:14b"
