@@ -1862,3 +1862,7 @@ http://3.101.135.66:9200/v1,"qwen2.5:1.5b, llama2:latest, codellama:13b, deepsee
 http://18.222.20.15:28017/v1,"llama3:latest, llama2:latest, deepseek-r1:latest, codellama:13b, openchat:7b"
 http://138.2.106.251:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama2:latest, deepseek-r1:7b"
 http://3.83.107.203:11434/v1,"phi:latest, tinyllama:latest, gemma2:latest, gemma3:latest, gemma:2b, mistral:latest, llama3:latest"
+http://115.190.34.89:11434/v1,"BoltonBailey/Kimina-Prover-Preview-Distill-7B:latest, deepseek-r1:671b, qwen3:235b"
+http://204.12.209.6:11434/v1,"gemma3:12b, llama3:latest, gemma3:27b"
+http://154.196.178.134:11434/v1,"smollm2:135m, llama3.2:latest, llama3.1:8b, deepseek-r1:1.5b"
+http://121.170.188.65:11434/v1,"gemma3:27b, gemma3:12b"
