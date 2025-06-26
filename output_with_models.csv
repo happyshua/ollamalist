@@ -1971,3 +1971,8 @@ http://43.198.98.201:8085/v1,"llama2:latest, codellama:13b, deepseek-r1:latest, 
 http://183.128.213.75:11434/v1,"smollm2:135m, qwen3:32b, gemma3:27b, qwq:latest"
 http://64.85.160.99:11434/v1,"benhaotang/Nanonets-OCR-s:latest, granite3.2-vision:2b, phi4-mini:3.8b"
 http://183.141.117.173:11434/v1,deepseek-r1:7b
+http://54.210.235.73:8085/v1,"llama3:latest, openchat:7b"
+http://184.169.255.123:8085/v1,"deepseek-r1:latest, codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://149.28.228.15:11434/v1,"llama3.1:8b, mistral:7b-instruct-q4_K_M"
+http://34.207.150.233:8888/v1,"llama3:latest, llama2:latest, codellama:13b, deepseek-r1:latest"
+http://23.90.76.44:11434/v1,"Osmosis/Osmosis-Structure-0.6B:latest, mxbai-embed-large:latest, bge-large:latest, minicpm-v:latest, nomic-embed-text:latest, gemma3:27b"
