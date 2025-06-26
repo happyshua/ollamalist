@@ -1942,3 +1942,11 @@ http://47.41.101.112:11434/v1,"gemma3:12b, gemma3:27b-it-qat, llama3:8b, phi3:mi
 http://124.70.182.112:11434/v1,deepseek-r1:7b
 http://211.218.144.230:11434/v1,"deepseek-r1:latest, deepseek-r1:8b, hf.co/ibm-research/granite-guardian-3.2-3b-a800m-GGUF:Q8_0, granite3.2-vision:latest, granite3.2:latest, exaone3.5:2.4b, iriveroaks/gemma3-multitool:12b, iriveroaks/gemma3-multitool:1B, iriveroaks/gemma3-multitool:4b, gemma3:4b, gemma3:latest, llama3.2:3b, sheldon:latest, qwq:latest, cow/gemma2_tools:9b, llama-kor:latest, llama3.2:1B, deepseek-r1:7b, deepseek-r1:1.5b, gemma2:latest, Llama-3-Open-Ko-8B-Q8_0:latest, qwen2.5:latest, gemma2:9b, llama3.2:latest, bge-m3:latest"
 http://152.136.100.199:18020/v1,"qwen3:0.6b, qwen3:0.6b-fp16, qwen3:8b, qwen3:14b-q8_0, qwen3:30b-a3b-q8_0, qwen3:14b-fp16, qwen3:8b-fp16, qwen3:4b-fp16, qwen3:32b, qwen3:30b-a3b, qwen3:14b, llama3.2:1b, command-r7b:latest, deepseek-r1:32b, deepseek-r1:8b"
+http://167.71.105.157:11434/v1,llama2:latest
+http://54.90.98.45:8085/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, llama3:latest"
+http://3.101.27.132:8888/v1,"openchat:7b, llama2:latest, codellama:13b, llama3:latest"
+http://34.13.77.146:11434/v1,qwen3:1.7b
+http://54.90.82.238:9001/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest"
+http://3.101.61.158:541/v1,llama3:latest
+http://103.116.76.57:11434/v1,"llama3.1:8b, llama3.2:3b-instruct-q5_K_M, qllama/bge-reranker-large:latest, deepseek-r1:32b"
+http://154.219.102.142:11434/v1,"gemma3:1b, qwen3:1.7b"
