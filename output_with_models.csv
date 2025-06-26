@@ -1927,3 +1927,6 @@ http://116.237.149.72:11434/v1,"llama3.2:3b-instruct-q5_K_M, huanlin/Tifa-Deepse
 http://119.145.30.202:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:32b, qwen2.5:14b, llava:13b"
 http://101.35.103.39:11434/v1,"qwen-basic:latest, qwen:1.8b"
 http://139.196.115.221:11434/v1,"llama3.1:8b, deepseek-r1:14b"
+http://119.91.193.16:11434/v1,deepseek-r1:1.5b
+http://205.172.58.141:11434/v1,"deepseek-r1:7b, dev:latest, deepseek-r1:1.5b"
+http://15.168.13.45:888/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest, llama2:latest"
