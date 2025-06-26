@@ -1950,3 +1950,9 @@ http://54.90.82.238:9001/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest"
 http://3.101.61.158:541/v1,llama3:latest
 http://103.116.76.57:11434/v1,"llama3.1:8b, llama3.2:3b-instruct-q5_K_M, qllama/bge-reranker-large:latest, deepseek-r1:32b"
 http://154.219.102.142:11434/v1,"gemma3:1b, qwen3:1.7b"
+http://54.199.160.209:1025/v1,"qwen2.5:1.5b, llama2:latest"
+http://3.112.224.159:9090/v1,"qwen2.5:1.5b, codellama:13b, llama2:latest, llama3:latest, deepseek-r1:latest"
+http://56.155.113.45:8085/v1,llama3:latest
+http://211.119.149.138:11434/v1,gemma3:4b
+http://129.146.154.122:11434/v1,"compress:latest, prompt-trimmer:latest, fast-optimizer:latest, phi:latest, mistral:latest, prompt-optimizer:latest"
+http://210.99.113.55:11434/v1,"qwen3:14b, qwen3:latest, deepseek-r1:8b, bge-m3:latest, qwen3:8b, qwen2.5-coder:7b, gemma3:12b, qwen2.5-coder:1.5b, llama3.1:latest"
