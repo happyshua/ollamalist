@@ -2037,3 +2037,4 @@ http://104.155.239.252:11434/v1,"qwen3:1.7b-q4_K_M, qwen2.5:3b-instruct-q5_K_M"
 http://154.204.186.177:11434/v1,deepseek-r1:1.5b
 http://115.190.133.150:11434/v1,deepseek-r1:1.5b
 http://43.139.45.102:11434/v1,deepseek-r1:1.5b
+http://146.56.46.149:11434/v1,"huihui_ai/qwen2.5-abliterate:0.5b, huihui_ai/qwen2.5-abliterate:1.5b, huihui_ai/qwen2.5-abliterate:3b, huihui_ai/qwen2.5-1m-abliterated:latest"
