@@ -2034,3 +2034,4 @@ http://125.138.65.180:11434/v1,"gemma3:12b, qwen3:4b, phi4-mini-reasoning:3.8b-f
 http://211.104.114.227:11434/v1,"gemma3n:e4b, gemma3:27b-it-qat, deepseek-r1:14b, deepseek-r1:8b, bge-m3:567m, qwen3:32b, qwen3:30b, qwen2.5vl:7b, qwen2.5vl:32b, mistral:latest, gemma3:4b, gemma3:27b, gemma3:12b, cogito:70b, cogito:32b, cogito:14b"
 http://123.57.18.237:11434/v1,"qwen3:1.7b, qwen3:4b, qwen2.5:3b, bge-m3:latest, smollm2:135m, mxbai-embed-large:latest, nomic-embed-text:latest, deepseek-r1:latest"
 http://104.155.239.252:11434/v1,"qwen3:1.7b-q4_K_M, qwen2.5:3b-instruct-q5_K_M"
+http://154.204.186.177:11434/v1,deepseek-r1:1.5b
