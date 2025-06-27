@@ -2038,3 +2038,5 @@ http://154.204.186.177:11434/v1,deepseek-r1:1.5b
 http://115.190.133.150:11434/v1,deepseek-r1:1.5b
 http://43.139.45.102:11434/v1,deepseek-r1:1.5b
 http://146.56.46.149:11434/v1,"huihui_ai/qwen2.5-abliterate:0.5b, huihui_ai/qwen2.5-abliterate:1.5b, huihui_ai/qwen2.5-abliterate:3b, huihui_ai/qwen2.5-1m-abliterated:latest"
+http://116.62.63.77:11434/v1,deepseek-r1:7b
+http://78.13.105.8:50090/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, llama2:latest"
