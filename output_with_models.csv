@@ -1984,3 +1984,10 @@ http://115.204.186.138:11434/v1,"smollm2:135m, deepseek-r1:32b, deepseek-r1:70b,
 http://221.151.107.42:11434/v1,"codeqwen:latest, Mistral:latest, llava:7b, ALIENTELLIGENCE/genaiimagecsprompt:latest, gemma3:latest, llama3:latest"
 http://220.118.147.58:11434/v1,"qwen3:4b, qwen-3-8b-q8:latest, llama3.1:latest, bge-m3:latest"
 http://121.170.140.210:11434/v1,llama3-kor:latest
+http://178.128.117.159:11434/v1,"gemma2:2b, gemma3:1b, bge-m3:567m, llama3.2:1b, llama3.2:3b, deepseek-r1:8b, mxbai-embed-large:latest"
+http://3.145.101.34:8000/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://3.84.24.174:8085/v1,"qwen2.5:1.5b, llama3:latest"
+http://43.137.18.199:11434/v1,qwen2.5:0.5b
+http://59.126.70.191:11434/v1,"llama3.1:8b, deepseek-r1:14b"
+http://140.182.48.93:11434/v1,deepseek-r1:14b
+http://8.148.64.155:11434/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, deepseek-r1:1.5b"
