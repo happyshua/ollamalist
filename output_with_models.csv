@@ -2021,3 +2021,9 @@ http://222.99.214.16:11434/v1,"dsr1:ysy, deepseek-r1:8b, gemma3:jbr, gemma3:ysy,
 http://59.54.224.253:11434/v1,"gemma3n:e4b, qwen3:8b, ManishThota/llava_next_video:latest, llava:13b, mlaprise/gemma-3-4b-it-qat-q4_0-gguf:latest, bsahane/Qwen2.5-VL-7B-Instruct:Q4_K_M_benxh, ingu627/Qwen2.5-VL-7B-Instruct-Q5_K_M:latest, gemma3:12b, gemma3:4b, qwen2.5:3b, qwen2.5:0.5b, qwen2.5-coder:14b, qwq:32b, deepseek-r1:7b, deepseek-r1:1.5b"
 http://36.102.46.230:11434/v1,deepseek-r1:14b-qwen-distill-fp16
 http://221.238.132.91:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, deepseek-r1:1.5b, deepseek-r1:7b"
+http://154.204.186.179:11434/v1,deepseek-r1:1.5b
+http://154.204.186.186:11434/v1,deepseek-r1:1.5b
+http://154.204.186.163:11434/v1,deepseek-r1:1.5b
+http://154.204.186.176:11434/v1,deepseek-r1:1.5b
+http://154.204.186.169:11434/v1,deepseek-r1:1.5b
+http://154.204.186.167:11434/v1,deepseek-r1:1.5b
