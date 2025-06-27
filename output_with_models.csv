@@ -1995,3 +1995,6 @@ http://8.163.17.103:11434/v1,"qwen2.5_14b_instruct_cmg:latest, qwen2.5_7b_instru
 http://3.101.106.93:8085/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, openchat:7b, llama2:latest"
 http://52.53.179.1:8085/v1,"openchat:7b, codellama:13b, llama3:latest"
 http://152.42.236.180:11434/v1,tinyllama:latest
+http://194.233.80.206:11434/v1,"llama3.2:latest, deepseek-r1:1.5b"
+http://117.50.188.248:11434/v1,"qwen2.5vl:7b, bge-m3:567m, qwen2.5:7b"
+http://47.79.32.44:11434/v1,"smollm2:135m, qwen3:4b, qwen3:14b, deepseek-r1:14b, gemma3:12b"
