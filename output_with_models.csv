@@ -1991,3 +1991,7 @@ http://43.137.18.199:11434/v1,qwen2.5:0.5b
 http://59.126.70.191:11434/v1,"llama3.1:8b, deepseek-r1:14b"
 http://140.182.48.93:11434/v1,deepseek-r1:14b
 http://8.148.64.155:11434/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://8.163.17.103:11434/v1,"qwen2.5_14b_instruct_cmg:latest, qwen2.5_7b_instruct_cmg:latest"
+http://3.101.106.93:8085/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, openchat:7b, llama2:latest"
+http://52.53.179.1:8085/v1,"openchat:7b, codellama:13b, llama3:latest"
+http://152.42.236.180:11434/v1,tinyllama:latest
