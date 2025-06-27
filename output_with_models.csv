@@ -2046,3 +2046,4 @@ http://64.176.211.167:11434/v1,"smollm2:135m, llama2:latest, deepseek-r1:1.5b, d
 http://1.13.175.46:11434/v1,qwen2.5:0.5b
 http://223.122.33.162:11434/v1,"gemma3:1b-it-qat, gemma3:12b-it-qat, gemma3:4b-it-qat, gemma3:latest, granite3.3:2b, phi4-mini-reasoning:latest, deepseek-r1:8b, granite-code:latest, phi4:14b-q4_K_M, deepseek-r1:7B, mistral:latest, mistral-nemo:latest, llama3:latest, deepseek-r1:1.5b, qwen2:0.5b"
 http://124.71.32.98:11434/v1,deepseek-r1:7b
+http://178.156.133.105:11434/v1,"llama3.2:3b, llama3:8b, qwen3:4b"
