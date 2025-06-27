@@ -1998,3 +1998,6 @@ http://152.42.236.180:11434/v1,tinyllama:latest
 http://194.233.80.206:11434/v1,"llama3.2:latest, deepseek-r1:1.5b"
 http://117.50.188.248:11434/v1,"qwen2.5vl:7b, bge-m3:567m, qwen2.5:7b"
 http://47.79.32.44:11434/v1,"smollm2:135m, qwen3:4b, qwen3:14b, deepseek-r1:14b, gemma3:12b"
+http://115.171.57.41:11434/v1,"llama2-uncensored:7b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b, deepseek-r1:1.5b, bge-m3:latest, nomic-embed-text:latest, qwen2.5:latest, llama3.2:latest"
+http://194.233.74.174:11434/v1,"llama3.1:8b-instruct-q4_K_M, nemotron:latest, smollm2:135m, qwen2.5:7b, qwen2.5:32b, qwen2.5:14b, qwen2.5-coder:latest, gemma3:1b, deepseek-r1:8b, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:1.5b"
+http://114.27.65.252:11434/v1,"qwen3:14b, gemma3:1b, gemma3-med-27b:latest, gemma3:4b, gemma3:12b-it-qat, gemma3:27b-it-qat, alibayram/medgemma:latest, bge-m3:latest"
