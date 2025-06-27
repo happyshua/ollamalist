@@ -2035,3 +2035,5 @@ http://211.104.114.227:11434/v1,"gemma3n:e4b, gemma3:27b-it-qat, deepseek-r1:14b
 http://123.57.18.237:11434/v1,"qwen3:1.7b, qwen3:4b, qwen2.5:3b, bge-m3:latest, smollm2:135m, mxbai-embed-large:latest, nomic-embed-text:latest, deepseek-r1:latest"
 http://104.155.239.252:11434/v1,"qwen3:1.7b-q4_K_M, qwen2.5:3b-instruct-q5_K_M"
 http://154.204.186.177:11434/v1,deepseek-r1:1.5b
+http://115.190.133.150:11434/v1,deepseek-r1:1.5b
+http://43.139.45.102:11434/v1,deepseek-r1:1.5b
