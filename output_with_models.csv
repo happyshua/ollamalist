@@ -2133,3 +2133,8 @@ http://154.8.156.201:11434/v1,"smollm2:135m, llama3.1:8b, deepseek-r1:1.5b"
 http://146.56.153.38:11434/v1,"smollm2:135m, llama3-backup:latest, llama3.2:latest, qwen2.5:1.5b, deepseek-r1:latest"
 http://220.135.2.35:11434/v1,"alibayram/medgemma:latest, gemma3:4b, gemma3:12b"
 http://106.107.209.1:11434/v1,"deepseek-r1:1.5b_tmp0, deepseek-r1:1.5b"
+http://154.193.216.24:11434/v1,"phi3:latest, qwen:7b, codellama:7b"
+http://54.180.158.81:15779/v1,"llama2:latest, llama3:latest, openchat:7b"
+http://220.141.193.171:11434/v1,"deepseek-r1:latest, gemma3:latest"
+http://202.140.143.137:11434/v1,deepseek-r1:1.5b
+http://220.141.193.171:11434/v1,"deepseek-r1:latest, gemma3:latest"
