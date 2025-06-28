@@ -2077,3 +2077,4 @@ http://8.136.103.192:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct
 http://125.34.89.106:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:latest, deepseek-r1:14b, deepseek-r1:7b, qwen2.5:7b"
 http://118.180.21.74:11434/v1,"qwen2.5:14b, deepseek-r1:14b, llava:latest, qwq:latest, deepseek-r1:1.5b, qwen2.5-coder:1.5b"
 http://204.12.253.118:11434/v1,"gemma3:4b, llama3.1:8b, llama3.1:8b-instruct-q4_K_M, phi4:latest"
+http://106.54.242.80:11434/v1,"sqlcoder:15b, llama3.2:3b-instruct-q5_K_M, qwen3:32b, gemma3:27b"
