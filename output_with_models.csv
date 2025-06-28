@@ -2086,3 +2086,4 @@ http://211.54.147.202:11434/v1,llama3.2:latest
 http://211.107.114.112:11434/v1,"qwen2.5:32b, gemma3:27b, llama3:8b, deepseek-r1:32b"
 http://61.31.92.96:11434/v1,"gemma3n:latest, qwen2.5vl:72b, qwen2.5:latest, qwen2.5vl:32b, nomic-embed-text:latest, llama3.3:latest, qwen:110b, deepseek-r1:70b, qwen3:32b, gemma3:27b"
 http://222.96.108.184:11434/v1,"llama3.1:8b, gemma3:27b, deepseek-r1:14b"
+http://139.9.73.38:6003/v1,"qwen3:latest, qwen2.5:7b, bge-m3:latest, deepseek-r1:1.5b"
