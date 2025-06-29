@@ -1946,3 +1946,6 @@ http://23.239.107.6:11434/v1,"gemma3:latest, codellama:latest"
 http://122.9.135.177:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, qwen2.5:latest, deepseek-r1:7B, deepseek-r1:1.5B"
 http://204.12.229.155:11434/v1,"llama3.1:8b, qwen3:14b, llama3.2:3b, qwen2.5:14b, nomic-embed-text:latest"
 http://38.23.46.64:11434/v1,"llama3.1:8b, llama3.2-vision:latest, minicpm-v:latest"
+http://101.68.206.171:11434/v1,"mario:latest, llama3.2:latest, smollm2:135m, hf-mirror.com/tensorblock/Mixtral-8x7B-v0.1-GGUF:Q5_K_M, hf-mirror.com/TheBloke/Mixtral-8x7B-v0.1-GGUF:Q5_K_M, hf-mirror.com/KimChen/bge-m3-GGUF:Q4_K_M, hf-mirror.com/tensorblock/gte-Qwen2-7B-instruct-GGUF:Q4_K_M, hf-mirror.com/mradermacher/gte-large-zh-GGUF:Q4_K_M, hf-mirror.com/mradermacher/gte-large-zh-i1-GGUF:Q4_K_M, llama3.1:8b-instruct-q4_K_M, huanlin/Tifa-DeepsexV2-7b-Cot-0301-F16:latest, deepseek-r1:32b, deepseek-r1:70b, deepseek-r1:1.5b"
+http://3.16.83.133:8089/v1,qwen2.5:1.5b
+http://52.8.169.235:8089/v1,"openchat:7b, deepseek-r1:latest"
