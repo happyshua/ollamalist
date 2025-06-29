@@ -1868,3 +1868,5 @@ http://121.167.219.251:11434/v1,"gemma3:27b, exaone-deep:32b, gemma3:27b-it-fp16
 http://49.72.2.160:11434/v1,deepseek-coder:1.3b
 http://54.255.31.219/v1,qwen3:8b
 http://8.155.38.232:11434/v1,"Qwen3-32B-Q4-Manual:latest, Qwen3-32B-Q4-no:latest, Qwen3-30B-A3B-Q4-NoThink:latest, qwen3:14b, qwen3:32b, qwq-32b-bnb-4bit:latest, deepseek-r1:32b, modelscope.cn/Qwen/QwQ-32B-GGUF:Q5_K_M, qwq:32b-q8_0"
+http://56.155.106.248/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, codellama:13b"
+http://134.175.236.248:11434/v1,"llama3.1:8b, qwq:latest, qllama/bge-reranker-v2-m3:latest, bge-m3:latest, deepseek-r1:32b"
