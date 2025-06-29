@@ -1889,3 +1889,7 @@ http://54.169.92.92:81/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, codellama:1
 http://47.129.9.45:40000/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
 http://61.250.95.163:11434/v1,"smollm2:135m, mistral:latest"
 http://192.227.177.10:10000/v1,qwen3:30b-a3b
+http://112.64.108.209:11434/v1,"mychen76/qwen3_cline_roocode:30b, mistral-small3.1:latest, qwen3:32b, llama3.2:3b-instruct-q5_K_M, gemma3:27b, yasserrmd/Qwen2.5-7B-Instruct-1M:latest, qwq:latest, MFDoom/deepseek-r1-tool-calling:32b, smollm2:135m, qwen:14b-chat-q4_0"
+http://43.138.116.76:11434/v1,"qwen3:14b, gemma3:27b, gemma3:12b"
+http://43.240.222.9:11434/v1,deepseek-r1:1.5b
+http://120.40.62.99:11434/v1,"deepseek-r1:8b, deepseek-r1:14b, linux6200/bge-reranker-v2-m3:latest, qwen3:32b, ishumilin/deepseek-r1-coder-tools:14b, gemma3:27b, hhao/qwen2.5-coder-tools:latest, minicpm-v:latest, qwen3:8b"
