@@ -1881,3 +1881,11 @@ https://wy-ollama.tunnel.blueorigintech.com/v1,"qwen3:latest, okamototk/deepseek
 http://61.166.210.240:11434/v1,"qwen2.5:14b, deepseek-r1:8b, qwen2.5vl:7b, qwen3:14b, gemma3:12b, qwq:latest, deepseek-r1:1.5b, huihui_ai/deepseek-r1-abliterated:32b, huihui_ai/deepseek-r1-abliterated:14b, llama3.2-vision:latest, qwen2.5:latest, nomic-embed-text:latest"
 http://122.233.122.222:11434/v1,deepseek-r1:7b
 http://106.107.209.1:11434/v1,"deepseek-r1:1.5b_tmp0, deepseek-r1:1.5b"
+http://13.212.217.108:8000/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://47.129.9.45:30005/v1,"openchat:7b, llama3:latest"
+http://117.50.213.227:11434/v1,"qwq:32b, qwen2.5:32b, deepseek-r1:32b, bge-m3:latest"
+http://47.129.9.45:49155/v1,"openchat:7b, llama3:latest"
+http://54.169.92.92:81/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, codellama:13b, llama3:latest"
+http://47.129.9.45:40000/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://61.250.95.163:11434/v1,"smollm2:135m, mistral:latest"
+http://192.227.177.10:10000/v1,qwen3:30b-a3b
