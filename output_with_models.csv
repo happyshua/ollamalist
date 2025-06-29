@@ -1918,3 +1918,10 @@ http://1.119.147.57:11434/v1,qwen3:4b
 http://60.29.78.246:11434/v1,"qwen2.5:7b, qwen2.5:3b, deepseek-r1:1.5b, deepseek-r1:14b"
 http://47.97.255.119:11434/v1,"qwen3:latest, qwen2.5vl:latest, dengcao/Qwen3-Reranker-4B:Q5_K_M, dengcao/Qwen3-Embedding-4B:Q5_K_M, xitao/bge-reranker-v2-m3:latest, llava:latest, bge-m3:latest, deepseek-r1:7b"
 http://124.222.15.142:11434/v1,qwen2.5:0.5b
+http://13.212.185.138:49151/v1,qwen2.5:1.5b
+http://52.77.228.115:9001/v1,"codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, llama2:latest"
+http://112.227.203.132:11434/v1,"qwen3:1.7b, deepseek-r1:8b"
+http://160.202.129.125:11434/v1,"deepseek-r1:latest, llama4:maverick, all-minilm:22m, all-minilm:latest"
+http://67.227.154.30:11434/v1,"gemma3:4b, qwen3:8b-q4_K_M, qwen3:8b"
+http://62.84.179.68:11434/v1,"llama3.2:1b, qwen3:0.6b"
+http://47.108.171.152:8000/v1,"gemma3n:e2b, gemma3n:e4b, qwen3:4b-q8_0, bge-m3:latest, deepseek-r1:8b, qwen2.5vl:7b, gemma2:9b, qwen3:8b, qwen3:4b, gemma3:4b, qwen2.5:7b, minicpm-v:8b"
