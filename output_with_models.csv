@@ -1865,3 +1865,6 @@ http://218.74.200.30:11434/v1,deepseek-r1:14b
 http://121.167.219.251:11434/v1,"gemma3:27b, exaone-deep:32b, gemma3:27b-it-fp16, gemma3:latest, qwq:latest, nomic-embed-text:latest, llama3.3:latest, bge-m3:latest, codestral:latest, phi4:latest, deepseek-r1:14b, deepseek-r1:1.5b, exaone3.5:32b, mistral-nemo:latest, deepseek-r1:70b"
 http://50.28.86.152:11434/v1,mistral:latest
 http://121.167.219.251:11434/v1,"gemma3:27b, exaone-deep:32b, gemma3:27b-it-fp16, gemma3:latest, qwq:latest, nomic-embed-text:latest, llama3.3:latest, bge-m3:latest, codestral:latest, phi4:latest, deepseek-r1:14b, deepseek-r1:1.5b, exaone3.5:32b, mistral-nemo:latest, deepseek-r1:70b"
+http://49.72.2.160:11434/v1,deepseek-coder:1.3b
+http://54.255.31.219/v1,qwen3:8b
+http://8.155.38.232:11434/v1,"Qwen3-32B-Q4-Manual:latest, Qwen3-32B-Q4-no:latest, Qwen3-30B-A3B-Q4-NoThink:latest, qwen3:14b, qwen3:32b, qwq-32b-bnb-4bit:latest, deepseek-r1:32b, modelscope.cn/Qwen/QwQ-32B-GGUF:Q5_K_M, qwq:32b-q8_0"
