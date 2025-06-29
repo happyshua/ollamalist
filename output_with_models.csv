@@ -1870,3 +1870,8 @@ http://54.255.31.219/v1,qwen3:8b
 http://8.155.38.232:11434/v1,"Qwen3-32B-Q4-Manual:latest, Qwen3-32B-Q4-no:latest, Qwen3-30B-A3B-Q4-NoThink:latest, qwen3:14b, qwen3:32b, qwq-32b-bnb-4bit:latest, deepseek-r1:32b, modelscope.cn/Qwen/QwQ-32B-GGUF:Q5_K_M, qwq:32b-q8_0"
 http://56.155.106.248/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, codellama:13b"
 http://134.175.236.248:11434/v1,"llama3.1:8b, qwq:latest, qllama/bge-reranker-v2-m3:latest, bge-m3:latest, deepseek-r1:32b"
+http://13.112.101.98:1024/v1,"llama3:latest, openchat:7b"
+http://211.219.212.143:11434/v1,"unsloth_model:latest, dnotitia/dna-r1:latest, llama3.3:latest, sqlcoder:latest, llama3.2:latest, bge-m3:latest, timHan/llama3korean8B4QKM:latest, llama3:latest"
+http://210.107.196.161:11434/v1,"llama3.2:latest, gemma3-chat:latest, gemma3:4b, deepseek-coder:6.7b, llama3:latest"
+http://34.143.184.85:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-fp16-32k, llama3.1:8b-instruct-fp16-64k, llama3.1:8b-instruct-fp16-128k, llama3.2:3b-instruct-fp16, llama3.2:3b-text-q8_0, llama3.1:8b-instruct-fp16"
+http://43.134.233.6:11434/v1,"smollm2:135m, bge-m3:latest, deepseek-r1:1.5b"
