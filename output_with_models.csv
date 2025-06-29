@@ -1915,3 +1915,6 @@ http://114.55.10.96:11434/v1,"llama3.2:3b-instruct-q5_K_M, linux6200/bge-reranke
 http://114.244.234.197:11434/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:4b, gemma3:12b, deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:1.5b"
 http://101.201.39.79:11434/v1,"deepseek-r1:8b, linux6200/bge-reranker-v2-m3:latest, qwen3:8b, llama3.2:3b-instruct-q5_K_M, gemma3:4b, bge-m3:latest"
 http://1.119.147.57:11434/v1,qwen3:4b
+http://60.29.78.246:11434/v1,"qwen2.5:7b, qwen2.5:3b, deepseek-r1:1.5b, deepseek-r1:14b"
+http://47.97.255.119:11434/v1,"qwen3:latest, qwen2.5vl:latest, dengcao/Qwen3-Reranker-4B:Q5_K_M, dengcao/Qwen3-Embedding-4B:Q5_K_M, xitao/bge-reranker-v2-m3:latest, llava:latest, bge-m3:latest, deepseek-r1:7b"
+http://124.222.15.142:11434/v1,qwen2.5:0.5b
