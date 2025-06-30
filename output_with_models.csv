@@ -1990,3 +1990,13 @@ http://47.95.34.29:11434/v1,"qwen2.5vl:32b, qwen3:0.6b, qwen2.5:0.5b, qwen3:14b,
 http://43.143.218.227:11434/v1,"llama3-backup:latest, mario:latest, deepseek-r1:14b, deepseek-r1:1.5b, qwen2.5:32b, bge-m3:latest, qwen:7b, llama3.2:latest, smollm2:135m, deepseek-r1:32b, deepseek-r1:7b"
 http://183.3.158.108:11434/v1,"llama3.1:8b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, mzf70bq5:latest, bge-m3:latest, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:14b"
 http://223.113.234.154:11434/v1,"llama3.2:3b-instruct-q5_K_M, smollm2:135m, llama3.1:8b, qwq:32b, deepseek-r1:70b"
+http://120.107.144.231:11434/v1,"llama3-backup:latest, mario:latest, mattw/pygmalion:latest, llama3.2:latest, gemma3:27b, phi4:latest, llama4:latest, deepseek-r1:latest, gemma3:latest, mistral:latest"
+http://98.81.181.17:8080/v1,llama2:latest
+http://8.134.116.222:11434/v1,"smollm2:135m, qwq:latest, deepseek-r1:14b, linux6200/bge-reranker-v2-m3:latest, nomic-embed-text:latest, deepseek-r1:8b, bge-m3:latest, rjmalagon/gte-qwen2-7b-instruct:bf16, jeffh/intfloat-multilingual-e5-large-instruct:f16"
+http://94.154.114.133:11434/v1,"llama3-backup:latest, mario:latest, mattw/pygmalion:latest, llama3.2:latest, deepseek-r1:1.5b"
+http://173.208.243.154:11434/v1,"llama3.1:8b, mistral:latest, all-minilm:l12-v2"
+http://54.241.140.81:11434/v1,"llama3.1:8b, cogito:14b, gemma3:4b-it-qat, gemma3:1b, gemma3:latest, llama3.2:latest"
+http://49.158.216.180:11434/v1,"llama3:latest, dolphin-llama3:8b, qwen2:7b, yi:34b, gemma3:latest, openchat:7b, deepseek-r1:8b"
+http://114.224.133.234:11434/v1,"gemma3n:e4b, deepseek-r1:8b"
+http://115.231.236.153:11434/v1,"llama4:16x17b, qwen2.5vl:72b, mxbai-embed-large:latest, qwen3:32b, nomic-embed-text:latest, deepseek-r1:32b"
+http://49.158.216.180:11434/v1,"llama3:latest, dolphin-llama3:8b, qwen2:7b, yi:34b, gemma3:latest, openchat:7b, deepseek-r1:8b"
