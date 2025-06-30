@@ -2000,3 +2000,6 @@ http://49.158.216.180:11434/v1,"llama3:latest, dolphin-llama3:8b, qwen2:7b, yi:3
 http://114.224.133.234:11434/v1,"gemma3n:e4b, deepseek-r1:8b"
 http://115.231.236.153:11434/v1,"llama4:16x17b, qwen2.5vl:72b, mxbai-embed-large:latest, qwen3:32b, nomic-embed-text:latest, deepseek-r1:32b"
 http://49.158.216.180:11434/v1,"llama3:latest, dolphin-llama3:8b, qwen2:7b, yi:34b, gemma3:latest, openchat:7b, deepseek-r1:8b"
+http://106.75.3.64:11434/v1,"smollm2:135m, deepseek-r1:8b"
+http://175.9.32.130:11434/v1,"qwen3:0.6b, qwen3:30b-a3b-fp16, linux6200/bge-reranker-v2-m3:latest, deepseek-r1:70b, bge-m3:latest, qwq:32b-fp16"
+http://23.29.118.210:11434/v1,gemma3:1b
