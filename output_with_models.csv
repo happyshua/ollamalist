@@ -2016,3 +2016,8 @@ http://117.50.159.200:8080/v1,qwen2.5:14b
 http://180.102.166.241:11434/v1,"gemma3n:e4b-it-fp16, mistral-small3.2:latest, devstral:latest, bge-m3:latest"
 http://1.34.225.163:11434/v1,"qwen3:32b-q4_K_M, qwen3:30b-a3b, qwen3:32b, qwq:32b, qwq:32b-q4_K_M, qwq:32b-preview-q4_K_M, bge-m3:latest, nomic-embed-text:latest, deepseek-r1:70b, deepseek-r1:32b, deepseek-r1:14b"
 http://1.34.225.163:11434/v1,"qwen3:32b-q4_K_M, qwen3:30b-a3b, qwen3:32b, qwq:32b, qwq:32b-q4_K_M, qwq:32b-preview-q4_K_M, bge-m3:latest, nomic-embed-text:latest, deepseek-r1:70b, deepseek-r1:32b, deepseek-r1:14b"
+http://3.101.123.154:8080/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b, llama2:latest, deepseek-r1:latest"
+http://52.39.165.124:8080/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://13.221.213.97/v1,"deepseek-r1:latest, codellama:13b, llama3:latest, openchat:7b, llama2:latest"
+http://222.108.98.177:30005/v1,"llama3.2:3b, llama3:latest"
+http://18.143.186.74:11434/v1,"llama2-uncensored:latest, gemma3:12b, gemma3:latest, gemma3:4b, qwen2.5:3b, qwen2.5:0.5b, qwen2.5:1.5b, tinydolphin:latest, hermes3:3b, deepseek-r1:1.5b, snowflake-arctic-embed:latest, llama3.2:1b, nomic-embed-text:latest, llama3.2:latest, llama3.2-vision:11b, qwen2.5:32b, gemma2:2b, MFDoom/deepseek-r1-tool-calling:32b, ishumilin/deepseek-r1-coder-tools:7b, aya-expanse:latest, granite3-dense:2b, smollm2:135m, smollm2:latest, phi4:latest, tinyllama:latest, qwen2.5:latest"
