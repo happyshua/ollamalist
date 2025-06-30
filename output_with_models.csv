@@ -1973,3 +1973,8 @@ http://43.134.81.71:11434/v1,qwen3:32b
 http://180.141.237.233:11434/v1,deepseek-r1:32b
 http://39.89.206.183:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:7b"
 http://35.216.25.29/v1,"gemma3:27b-it-qat, gemma3:1b-it-qat, nomic-embed-text:latest, gemma3:4b-it-qat, gemma3:12b-it-qat"
+http://39.99.146.105:11434/v1,"llama3.2:latest, mario:latest, qwen3:14b, linux6200/bge-reranker-v2-m3:latest, lrs33/bce-embedding-base_v1:latest, glm4:latest, nomic-embed-text:latest, llama3.1:latest, qwen2.5:latest, mistral:latest, deepseek-r1:14b, deepseek-r1:8b, bge-m3:latest, MFDoom/deepseek-r1-tool-calling:14b"
+http://121.167.242.94:11434/v1,"deepseek-r1:14b, bge-m3:latest, deepseek-r1:latest, nomic-embed-text:latest, mxbai-embed-large:latest"
+http://3.112.5.237:8089/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://15.168.174.170:8089/v1,"llama3:latest, deepseek-r1:latest, llama2:latest"
+http://121.167.242.94:11434/v1,"deepseek-r1:14b, bge-m3:latest, deepseek-r1:latest, nomic-embed-text:latest, mxbai-embed-large:latest"
