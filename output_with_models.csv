@@ -1972,3 +1972,4 @@ http://121.131.104.147:11434/v1,"gemma3:27b, qwen3:32b"
 http://43.134.81.71:11434/v1,qwen3:32b
 http://180.141.237.233:11434/v1,deepseek-r1:32b
 http://39.89.206.183:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:7b"
+http://35.216.25.29/v1,"gemma3:27b-it-qat, gemma3:1b-it-qat, nomic-embed-text:latest, gemma3:4b-it-qat, gemma3:12b-it-qat"
