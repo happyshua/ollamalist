@@ -2051,3 +2051,7 @@ http://5.161.246.98:11434/v1,"qwen:0.5b, llama3:latest, all-minilm:latest, nomic
 http://13.231.169.76:8080/v1,llama2:latest
 http://23.158.72.63:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:8b, hf.co/mradermacher/Daredevil-8B-abliterated-dpomix-i1-GGUF:Q5_K_M, hf.co/Lewdiculous/L3-8B-Stheno-v3.2-GGUF-IQ-Imatrix:latest, hf.co/mradermacher/MN-12B-Lyra-v4-GGUF:Q8_0, hf.co/Undi95/MLewd-v2.4-13B-GGUF:Q6_K"
 http://175.7.199.182:11434/v1,"llama3.2:3b-instruct-q5_K_M, minicpm-v:latest, qwen2.5-coder:32b, qwq:latest, deepseek-r1:70b, shaw/dmeta-embedding-zh:latest, deepseek-r1:32b"
+http://api.caizhisoft.com/v1,"qwq:latest, llava:34b, llama3.3:latest, deepseek-r1:70b, mxbai-embed-large:latest, deepseek-coder-v2:latest, nomic-embed-text:latest, deepseek-r1:1.5b, deepseek-r1:32b, deepseek-r1:7b"
+http://117.72.64.4:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:latest, llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:32b"
+http://101.64.178.162:11434/v1,"qwen2.5:1.5b, qwen2.5:3b, phi4-mini:3.8b, qwen3:4b, deepseek-r1:7b"
+http://62.60.238.83:11434/v1,deepseek-r1:1.5b
