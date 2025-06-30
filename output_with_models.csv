@@ -2043,3 +2043,11 @@ http://61.172.167.50:11434/v1,deepseek-r1:7b
 http://154.44.26.179:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b, deepseek-r1:latest"
 http://115.195.38.154:11434/v1,"smollm2:135m, qwen3:32b, qwen3:14b, mxbai-embed-large:latest, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:14b"
 http://118.250.103.54:11434/v1,"deepseek-r1:7b, qwen2.5-7b:latest"
+http://8.135.239.145:11434/v1,"llama3.1:8b, erwan2/DeepSeek-Janus-Pro-7B:latest, erwan2/DeepSeek-Janus-Pro-7B-Vision-Encoder:latest, moondream:latest, 0ssamaak0/xtuner-llava:llama3-8b-v1.1-f16, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b"
+http://39.103.63.113:11434/v1,"deepseek-r1:32b, qwen3:32b, qwen3:14b"
+http://117.25.104.230:11434/v1,"deepseek-coder-v2:16b, deepseek-r1:8b, smollm2:135m, deepseek-r1:7b, deepseek-r1:14b"
+http://13.231.169.76:8080/v1,llama2:latest
+http://5.161.246.98:11434/v1,"qwen:0.5b, llama3:latest, all-minilm:latest, nomic-embed-text:latest, llama2:latest, qwen2:latest, mxbai-embed-large:latest"
+http://13.231.169.76:8080/v1,llama2:latest
+http://23.158.72.63:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:8b, hf.co/mradermacher/Daredevil-8B-abliterated-dpomix-i1-GGUF:Q5_K_M, hf.co/Lewdiculous/L3-8B-Stheno-v3.2-GGUF-IQ-Imatrix:latest, hf.co/mradermacher/MN-12B-Lyra-v4-GGUF:Q8_0, hf.co/Undi95/MLewd-v2.4-13B-GGUF:Q6_K"
+http://175.7.199.182:11434/v1,"llama3.2:3b-instruct-q5_K_M, minicpm-v:latest, qwen2.5-coder:32b, qwq:latest, deepseek-r1:70b, shaw/dmeta-embedding-zh:latest, deepseek-r1:32b"
