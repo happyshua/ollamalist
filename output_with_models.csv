@@ -1970,3 +1970,5 @@ http://61.144.68.104:11434/v1,"smollm2:135m, deepseek-r1:7b"
 http://210.90.113.84:11434/v1,"llama3.1:8b, mistral:7b-instruct-fp16, bge-m3:latest, deepseek-r1:14b, deepseek-r1:32b, gemma3:27b, gemma3:12b, llama3:8b-instruct-q8_0, phi3:latest, mistral:latest, nomic-embed-text:latest, EEVE-Korean-10.8B:latest, EEVE-Korean-f16:latest, gemma:latest"
 http://121.131.104.147:11434/v1,"gemma3:27b, qwen3:32b"
 http://43.134.81.71:11434/v1,qwen3:32b
+http://180.141.237.233:11434/v1,deepseek-r1:32b
+http://39.89.206.183:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:7b"
