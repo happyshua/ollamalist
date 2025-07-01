@@ -2004,3 +2004,14 @@ http://173.208.167.163:11434/v1,"smollm2:135m, gemma:7b, llama3:8b, qwen2.5-code
 http://47.237.172.173:11434/v1,deepseek-r1:14b
 http://119.12.169.161:11434/v1,deepseek-r1:14b
 http://162.218.115.13:11434/v1,"mario:latest, llama3-backup:latest, llama3.1:8b-instruct-q4_K_M, smollm2:135m, mistral:latest, llama3.2:latest, nomic-embed-text:latest, llama3.2-vision:latest"
+http://54.250.98.146/v1,"qwen2.5:1.5b, llama3:latest, codellama:13b, openchat:7b"
+http://74.121.148.66:11434/v1,"smollm2:135m, llama3.1:8b, qwen2:0.5b"
+http://111.74.155.237:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, llama3.2:latest, qwen2.5:latest, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:70b"
+http://183.10.99.82:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3.2-3b-steps-500-test-1:latest, qiuchen/qwen1.5-1.8b-chat:latest, llama3.2-11b-steps-120-test-1:latest, llama3.2-3b-steps-120-test-1:latest, llama3.2-vision-ms-test-1:latest, llama3.2-3b-test-1:latest, sef234y53gcj-ms-test-1:latest, sef234y53gcj-ms:latest, ms-380.gguf:latest, 174t25d4312wd5-spyx:latest, 174t25d4312wd2-spyx:latest, Qwen2.5-1.5B-450-steps-2-unsloth.F16.gguf:latest, Qwen2.5-1.5B-450-steps-unsloth.F16.gguf:latest, Qwen2.5-1.5B-500-steps-2-unsloth.F16.gguf:latest, Qwen2.5-1.5B-500-steps-unsloth.F16.gguf:latest, minicpm-v:latest-spyx-test, minicpm-v:latest, minicpm-v:latest-poe2, minicpm-v:latest-d4, qwen2.5:latest, lmstudio-Qwen2-VL-7B-Instruct-Q4_K_M.gguf:latest, Qwen2-VL-7B-Instruct-Q4_K_M.gguf:latest, llama3.2-vision:latest"
+http://18.188.92.81/v1,"qwen2.5:1.5b, codellama:13b"
+http://14.145.154.142:11434/v1,"qwen3:32b, deepseek-r1:32b, deepseek-r1:14b"
+http://3.36.92.178/v1,"llama2:latest, qwen2.5:1.5b, codellama:13b, llama3:latest, deepseek-r1:latest"
+http://119.236.230.128:11434/v1,"smollm2:135m, gemma3:1b"
+http://112.250.106.161:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b"
+http://81.70.182.224:11434/v1,deepseek-r1:1.5b
+http://1.34.225.163:11434/v1,"qwen3:32b-q4_K_M, qwen3:30b-a3b, qwen3:32b, qwq:32b, qwq:32b-q4_K_M, qwq:32b-preview-q4_K_M, bge-m3:latest, nomic-embed-text:latest, deepseek-r1:70b, deepseek-r1:32b, deepseek-r1:14b"
