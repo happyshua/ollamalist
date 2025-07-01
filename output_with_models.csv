@@ -2019,3 +2019,8 @@ http://140.128.109.97:11434/v1,llama3:latest
 http://13.208.175.21:7003/v1,codellama:13b
 http://8.155.9.26:11434/v1,"smollm2:135m, qllama/bge-reranker-large:latest, bge-m3:latest"
 http://115.199.45.4:11434/v1,"deepseek-r1:1.5b, deepseek-r1:8b, deepseek-r1:14b"
+http://206.119.110.133:11434/v1,"smollm2:135m, llama3.1:8b, deepseek-r1:70b"
+http://118.178.252.141:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, bge-m3:latest"
+http://47.99.80.190:11434/v1,"smollm2:135m, llama3.2:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, deepseek-r1:latest, deepseek-r1:1.5b"
+http://209.161.6.233:11434/v1,"Gemma3:latest, Llama-3.2-Inst:latest, Qwen2.5-Coder:latest, Qwen2.5-Inst:latest, Llama-3.1-8B-Inst:latest"
+http://118.37.132.188:11434/v1,"qwen3:8b, gemma3:12b-it-qat, MHKetbi/Unsloth_gemma3-4b-it:q6_K"
