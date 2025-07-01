@@ -2043,3 +2043,7 @@ http://121.157.61.50:11434/v1,"phi4-mini:latest, gemma3:12b-it-qat, phi4-mini-re
 http://45.250.185.95:11434/v1,"mistral-small3.1:24b, gemma3:12b-it-qat, gemma3:27b-it-qat, minicpm-v:latest, llava:34b, llama3.2-vision:11b, gemma3:27b, nomic-embed-text:latest, phi4:latest, llama3.1:8b, llama3.2:3b, gemma3:4b, deepseek-r1:32b, mistral:latest, QwQ:32b, gemma3:1b"
 http://120.107.167.126:11434/v1,"MFDoom/deepseek-r1-tool-calling:14b, nomic-embed-text:latest, deepseek-r1:1.5b, llama3.1:8b, breuerAI/llama-maverick:latest, mistral:7b, phi:latest, deepseek-r1:14b"
 http://59.6.136.175:11434/v1,"gemma3n:latest, gemma3n:e2b, mistral-small3.2:latest, deepseek-r1:8b, gemma3:12b-it-qat, hf.co/mradermacher/SmolVLM2-2.2B-Instruct-GGUF:Q4_K_M, smollm2:latest, phi4-mini-reasoning:latest, qwen3:1.7b, cogito:8b"
+http://120.48.122.253:11434/v1,"jwang580/medgemma_27b_text_it:latest, med-deepseek-llama-8b:0.04, med-deepseek-llama-8b:0.03, qwen2.5:7b, qwen2.5:14b, deepseek-r1:14b, deepseek-r1:8b"
+http://198.206.133.12:11434/v1,"llama3.1:8b, llama3.2-vision:latest, minicpm-v:latest"
+http://204.12.253.252:11434/v1,"mistral:latest, llama3.2:3b"
+http://221.144.153.64:11434/v1,"llama3.1:8b, gemma2:latest, gemma3:27b, gemma2:9b, qwq:latest, gemma2:27b, qwen2.5:32b, aya:35b, deepseek-r1:32b"
