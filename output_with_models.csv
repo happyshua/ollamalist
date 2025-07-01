@@ -2024,3 +2024,6 @@ http://118.178.252.141:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, bge-
 http://47.99.80.190:11434/v1,"smollm2:135m, llama3.2:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, deepseek-r1:latest, deepseek-r1:1.5b"
 http://209.161.6.233:11434/v1,"Gemma3:latest, Llama-3.2-Inst:latest, Qwen2.5-Coder:latest, Qwen2.5-Inst:latest, Llama-3.1-8B-Inst:latest"
 http://118.37.132.188:11434/v1,"qwen3:8b, gemma3:12b-it-qat, MHKetbi/Unsloth_gemma3-4b-it:q6_K"
+http://204.12.227.131:11434/v1,"WhiteRabbitNeo/WhiteRabbitNeo-V3-7B:latest, llama4:scout, mistral:latest, nomic-embed-text:latest, llama3.1:latest"
+http://220.196.217.194:3000/v1,"claude-3-5-sonnet:latest, claude-3-5-haiku:latest, claude-sonnet-4:latest"
+http://113.45.181.122:11434/v1,"deepseek-r1:1.5b, nomic-embed-text:latest"
