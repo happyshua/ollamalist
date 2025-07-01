@@ -1906,3 +1906,47 @@ http://130.215.52.43:11434/v1,"deepseek-r1:1.5b, llava:latest, gemma3:latest, ll
 http://218.189.20.204:11434/v1,"smollm2:135m, gemma3:latest"
 http://74.50.99.88:11434/v1,"smollm2:135m, llama3.2:1b"
 http://190.92.211.192:11434/v1,"deepseek-r1:14b, deepseek-r1:8b"
+http://195.42.233.68:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, qwen3:4b, gemma3:4b, nomic-embed-text:latest"
+http://43.198.98.189:7777/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://43.198.98.189:2052/v1,"deepseek-r1:latest, openchat:7b, llama2:latest, qwen2.5:1.5b"
+http://18.166.211.233:30/v1,"openchat:7b, codellama:13b, llama2:latest, deepseek-r1:latest"
+http://116.205.120.55:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepseek-r1:1.5b"
+http://101.201.148.65:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, bge-m3:latest"
+http://13.212.185.138:49151/v1,llama2:latest
+http://52.77.228.115:9001/v1,llama3:latest
+http://18.143.165.238:2086/v1,codellama:13b
+http://43.198.247.131:8983/v1,"openchat:7b, qwen2.5:1.5b"
+http://54.180.158.81:15779/v1,"codellama:13b, llama3:latest, llama2:latest, qwen2.5:1.5b"
+http://43.198.103.235:30005/v1,"openchat:7b, llama2:latest"
+http://16.163.95.130:5985/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest, codellama:13b"
+http://43.198.186.23:8080/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, qwen2.5:1.5b"
+http://54.199.113.82:8082/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest, llama2:latest"
+http://18.166.211.233:9006/v1,"qwen2.5:1.5b, codellama:13b"
+http://43.153.115.89:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepseek-r1:1.5b, deepseek-r1:7b"
+http://13.112.26.188:9100/v1,"llama3:latest, codellama:13b"
+http://142.171.30.245:11434/v1,"qwen3:1.7b, qwen3:0.6b"
+http://47.129.9.45:40000/v1,"codellama:13b, llama3:latest, openchat:7b, qwen2.5:1.5b, llama2:latest"
+http://54.169.92.92:4842/v1,"openchat:7b, llama3:latest"
+http://3.112.5.237:8089/v1,"llama3:latest, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://52.79.155.23:8983/v1,openchat:7b
+http://13.125.7.17:85/v1,"openchat:7b, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b"
+http://18.166.211.233:2096/v1,llama2:latest
+http://54.251.135.171:9100/v1,qwen2.5:1.5b
+http://43.198.205.199:7547/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://43.198.186.23/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, qwen2.5:1.5b"
+http://43.203.229.123:7676/v1,llama2:latest
+http://43.198.98.189:7547/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
+http://170.205.37.107:11434/v1,"smollm2:135m, qwen2.5-coder:7b"
+http://47.129.9.45:49155/v1,"openchat:7b, llama2:latest, llama3:latest, deepseek-r1:latest"
+http://18.166.211.233/v1,"openchat:7b, codellama:13b, llama2:latest, deepseek-r1:latest"
+http://143.198.196.49:11434/v1,"smollm2:135m, mario:latest, llama3-backup:latest, llama3.2:latest, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, llama2:latest, nomic-embed-text:latest"
+http://54.169.92.92:81/v1,"llama3:latest, deepseek-r1:latest"
+http://47.129.253.163:17654/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest"
+http://43.198.98.189:9200/v1,qwen2.5:1.5b
+http://13.112.101.98:1024/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest"
+http://43.198.247.131:8083/v1,"openchat:7b, qwen2.5:1.5b"
+http://34.234.70.126/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
+http://3.133.159.230/v1,"codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://3.136.26.73/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, openchat:7b"
+http://153.195.146.249:11434/v1,"llama3.2-vision:11b, deepseek-coder:6.7b, mychen76/qwen3_cline_roocode:14b, tom_himanen/deepseek-r1-roo-cline-tools:14b, mychen76/gemma3_cline_roocode_qat:27b, mychen76/gemma3_cline_roocode_qat:12b, nomic-embed-text:latest, deepseek-r1:14b, gemma3:12b, gemma3:27b, dsasai/llama3-elyza-jp-8b:latest"
+http://47.206.5.207:11434/v1,"llama3.2:latest, qwen2.5:latest, deepseek-r1:latest, MFDoom/deepseek-r1-tool-calling:8b, llama3.1:latest, nomic-embed-text:latest, dolphin3:8b, llama3:8b, dolphin-mistral:latest"
