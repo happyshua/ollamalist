@@ -2032,3 +2032,11 @@ http://135.180.99.182:11434/v1,"magistral:24b-small-2506-q8_0, qwen3:235b-a22b-q
 http://112.166.128.85:11434/v1,"gemma3:latest, llama3.2:3b-instruct-q5_K_M, llama3.2:3b"
 http://146.56.229.90:11434/v1,"smollm2:135m, qwen2.5vl:7b, bge-m3:latest, qwen2.5:7b"
 http://47.109.107.166:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:8b"
+http://24.233.3.156:11434/v1,deepseek-r1:1.5b
+http://112.91.137.194:11434/v1,"qwen2.5:32b, bge-m3:latest, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, qllama/bge-reranker-large:latest, quentinz/bge-large-zh-v1.5:latest, deepseek-r1:70b"
+http://125.122.33.218:11434/v1,deepseek-Qwen-32b:latest
+http://220.84.22.68:11434/v1,"llama-3.2-ypartners:latest, llama3.2:latest"
+http://183.15.174.68:11434/v1,"llama3.1:8b, erwan2/DeepSeek-Janus-Pro-7B:latest, erwan2/DeepSeek-Janus-Pro-7B-Vision-Encoder:latest, moondream:latest, 0ssamaak0/xtuner-llava:llama3-8b-v1.1-f16, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b"
+http://221.226.20.186:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b"
+http://203.255.56.94:11434/v1,"qwen2.5vl:7b, gemma3:12b, llama3.2-vision:latest, llama4:latest, llava:latest, gemma3:latest, deepseek-r1:70b"
+http://121.157.61.50:11434/v1,"phi4-mini:latest, gemma3:12b-it-qat, phi4-mini-reasoning:latest, qwen2.5-coder:latest, qwen3:4b, gemma3:4b, phi4-reasoning:latest, qwen3:8b, gemma3:12b"
