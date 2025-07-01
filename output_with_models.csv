@@ -1965,3 +1965,12 @@ http://47.129.9.45:30005/v1,"openchat:7b, llama2:latest, llama3:latest, deepseek
 http://54.180.246.225:50111/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b, codellama:13b"
 http://52.197.122.120/v1,"llama3.2:3b-instruct-q5_K_M, phi4:latest, llama3.2:latest, deepseek-r1:latest, llama3.1:latest"
 http://14.145.193.26:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, qwen2.5:7b, deepseek-r1:8b, deepseek-r1:7b"
+http://43.137.42.163:11434/v1,"deepseek-r1:7b, deepseek-r1:1.5b"
+http://13.208.191.58/v1,"llama2:latest, llama3:latest, codellama:13b, qwen2.5:1.5b"
+http://149.28.204.102:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:8b"
+http://47.99.166.51:11434/v1,qwen3:8b
+http://14.216.164.144:11434/v1,"deepseek-r1:1.5b, nomic-embed-text:latest, qwen2:latest, llama3:8b-instruct-fp16, starcoder2:latest, sqlcoder:latest, codellama:latest"
+http://115.198.159.199:11434/v1,"llama3:8b, deepseek-r1:32b, qwen2.5:32b, deepseek-r1:14b, qwen2.5:14b"
+http://218.161.50.56:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3:latest, llama3.1:8b"
+http://140.116.24.50:11434/v1,"llama3.1:8b, gemma3:12b"
+https://igroup-ollama.igroupnet.com/v1,"qwen3:4b, granite3.2-vision:2b, qwen2.5vl:7b, qwen2.5vl:3b, deepseek-r1:8b, qwen3:14b, qwen3:8b, gemma3:1b, gemma3:4b, bge-m3:567m, granite3.2:8b, phi4:14b, granite3-moe:3b, phi3:14b, llama3.2:3b"
