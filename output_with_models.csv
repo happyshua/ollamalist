@@ -1950,3 +1950,8 @@ http://3.133.159.230/v1,"codellama:13b, qwen2.5:1.5b, llama2:latest"
 http://3.136.26.73/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, openchat:7b"
 http://153.195.146.249:11434/v1,"llama3.2-vision:11b, deepseek-coder:6.7b, mychen76/qwen3_cline_roocode:14b, tom_himanen/deepseek-r1-roo-cline-tools:14b, mychen76/gemma3_cline_roocode_qat:27b, mychen76/gemma3_cline_roocode_qat:12b, nomic-embed-text:latest, deepseek-r1:14b, gemma3:12b, gemma3:27b, dsasai/llama3-elyza-jp-8b:latest"
 http://47.206.5.207:11434/v1,"llama3.2:latest, qwen2.5:latest, deepseek-r1:latest, MFDoom/deepseek-r1-tool-calling:8b, llama3.1:latest, nomic-embed-text:latest, dolphin3:8b, llama3:8b, dolphin-mistral:latest"
+http://50.35.180.57:11434/v1,"deepseek-r1:32b, qwen3:32b, devstral:24b, gemma3:27b"
+http://115.239.91.61:11434/v1,"smollm2:135m, qwen2.5:14b-instruct, aratan/GLM-4-32B-0414:latest, JollyLlama/GLM-4-32B-0414-Q4_K_M:latest, qwen3:30b, deepseek-r1:14b, gemma3:12b, gemma3:27b, adrianlab/deepseek-r1-goose-14b:latest, call518/deepseek-r1-tool-calling:7b, bge-m3:latest, mxbai-embed-large:latest, nomic-embed-text:latest, qwen2.5:32b, qwq:latest, qwen2.5:14b"
+http://18.166.71.247/v1,"sex-7b:f16, sex-14b:f16, sex-34b:v1, qwen-30b:v2"
+http://115.227.64.214:11434/v1,"mario:latest, llama3-backup:latest, phi:latest, llama3.2:latest, llama3.2:3b-instruct-fp16, llama3.2:3b, llama3.2:3b-instruct-q8_0, llama3.2-vision:latest, llama3.2:1b"
+http://165.246.193.182:11434/v1,qwen3:8b
