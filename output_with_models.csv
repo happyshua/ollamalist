@@ -1990,3 +1990,9 @@ http://47.122.73.199:11434/v1,"qwen3:14b, gemma3:27b, llama3.2:latest, granite3-
 http://220.95.208.150:11434/v1,"qwen2.5-coder:latest, dengcao/Qwen3-Embedding-0.6B:Q8_0, qwen3:30b, phi4:14b, qwen3:14b, qllama/bge-reranker-v2-m3:latest, exaone3.5:32b, deepseek-r1:32b-qwen-distill-q4_K_M, deepseek-r1:32b, bge-m3:latest, aya-expanse:32b, gemma3:27b-it-fp16, sqlcoder:latest, nomic-embed-text:latest, llama3.2:3b, Hudson/llama3.1-uncensored:8b, gemma3:4b"
 http://121.78.118.62:11434/v1,"airun-think:latest, gemma3:27b, gemma3:12b, airun-chat:latest, airun-vision:latest, devstral:latest, mistral-small3.1:latest, bge-m3:latest, hyperclova-1.5b:latest, llama3.2-vision:latest, qwen2.5vl:latest, deepseek-r1:latest"
 http://112.185.21.200:11434/v1,"kimjk/llama3.2-korean:latest, llama3:latest"
+http://34.226.31.49/v1,"mistral7b_32k:latest, mistral:7b, hf.co/ToastyPigeon/gemma-3-27b-medglitter-ero-Q4_K_S-GGUF:Q4_K_S, llama3.2:3b-instruct-q5_K_M, llama3.2:latest, mixtral:8x7b, mixtral:8x22b, mistral-nemo:latest, qwq:latest, openthinker:32b, granite3.3:latest, starling-lm:latest, gemma3:latest, microai/calm2-7b-chat:latest, phi3:latest, cyberuser42/DeepSeek-R1-Distill-Llama-8B:latest, mistral:latest, llama3:70b, phi4:latest, llama3.3:latest, qwen2.5:7b, deepseek-coder-v2:16b, deepseek-coder-v2:latest, deepseek-r1:1.5b, deepseek-r1:7b, deepseek-v2:latest"
+http://47.109.37.254:11434/v1,"smollm2:135m, deepseek-r1:1.5b, deepseek-r1:7b"
+http://128.168.134.1:11434/v1,"huihui_ai/deepseek-r1-abliterated:70b, deepseek-r1:70b"
+http://101.19.30.77:11434/v1,deepseek-r1:latest
+http://146.56.226.214:11434/v1,"deepseek-r1:1.5b, nomic-embed-text:latest"
+http://210.117.210.9:11434/v1,"eFORMA:latest, llama4:17b-scout-16e-instruct-q8_0"
