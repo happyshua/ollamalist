@@ -1996,3 +1996,11 @@ http://128.168.134.1:11434/v1,"huihui_ai/deepseek-r1-abliterated:70b, deepseek-r
 http://101.19.30.77:11434/v1,deepseek-r1:latest
 http://146.56.226.214:11434/v1,"deepseek-r1:1.5b, nomic-embed-text:latest"
 http://210.117.210.9:11434/v1,"eFORMA:latest, llama4:17b-scout-16e-instruct-q8_0"
+http://3.86.94.0/v1,"llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://89.36.33.58:11434/v1,"smollm2:135m, mistral:7b-instruct-q4_0, gemma:2b, mistral:7b-instruct-q4_K_M"
+http://107.192.155.20:11434/v1,"qwen2.5-coder:0.5b, deepseek-r1:1.5b"
+http://103.139.212.47:11434/v1,"llama3.1:8b, qwen2.5:latest, bge-m3:latest, qwq:latest, deepseek-r1:70b"
+http://173.208.167.163:11434/v1,"smollm2:135m, gemma:7b, llama3:8b, qwen2.5-coder:14b, qwen2.5:14b, granite3.2:8b, llama3:latest, mistral:7b-instruct-q4_K_M, llama3.2:latest, mistral:latest, granite3.2:latest, mxbai-embed-large:latest, gemma3:latest, nomic-embed-text:latest"
+http://47.237.172.173:11434/v1,deepseek-r1:14b
+http://119.12.169.161:11434/v1,deepseek-r1:14b
+http://162.218.115.13:11434/v1,"mario:latest, llama3-backup:latest, llama3.1:8b-instruct-q4_K_M, smollm2:135m, mistral:latest, llama3.2:latest, nomic-embed-text:latest, llama3.2-vision:latest"
