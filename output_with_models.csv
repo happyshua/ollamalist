@@ -2151,3 +2151,4 @@ http://154.12.225.194:11434/v1,"smollm2:135m, qwen3:4b, gemma3:latest, qwen3:lat
 http://54.205.177.123:11434/v1,"qwen2.5-coder:1.5b, qwen2.5-coder:3b, qwen2.5-coder:7b, qwen2.5-coder:14b"
 http://113.158.76.58:11434/v1,"llama3.1:8b, gemma-2-27b-it-Q5_K_M:latest, mistralai_Mistral-Small-3.1-24B-Instruct-2503-Q6_K:latest, gemma-3-27b-it-Q5_K_M:latest, gemma-2-27b-it-abliterated.Q5_K_M-seika:latest, gemma-2-27b-it-abliterated.Q5_K_M:latest"
 http://210.222.242.148:11434/v1,mistral:latest
+http://119.122.212.128:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M"
