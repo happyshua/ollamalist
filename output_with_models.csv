@@ -2065,3 +2065,11 @@ http://218.253.252.210:11434/v1,"gemma3n:e4b, deepseek-r1:8b, qwen3:8b, qwen3:14
 http://122.231.193.78:11434/v1,"benevolentjoker/nsfwvanessa:latest, lrs33/bce-embedding-base_v1:latest, bge-large:latest, huihui_ai/qwen2.5-abliterate:14b, huihui_ai/deepseek-r1-abliterated:14b, deepseek-r1:14b, nomic-embed-text:latest, bge-m3:latest, huihui_ai/deepseek-r1-abliterated:32b"
 http://43.134.78.219:11434/v1,"smollm2:135m, qwen2.5:0.5b"
 http://34.143.181.21:11434/v1,"hf.co/mradermacher/Qwen3-8B-192k-Context-6X-Josiefied-Uncensored-GGUF:Q4_K_M, llama3.1:8b, hf.co/mradermacher/Tifa-Deepsex-14b-CoT-GGUF:Q8_0, hf.co/mradermacher/The-Omega-Directive-Qwen3-14B-v1.1-GGUF:Q8_0, hf.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8:latest, nomic-embed-text:latest, hf.co/likewendy/Qwen2.5-14B-lora-sex-v2-q4_k_m:Q4_K_M, hf.co/bartowski/deepcogito_cogito-v1-preview-qwen-14B-GGUF:Q4_K_M, hf.co/mradermacher/Humanish-Roleplay-Llama-3.1-8B-i1-GGUF:Q5_K_M, hf.co/ReadyArt/Forgotten-Safeword-12B-v4.0-Q5_K_M-GGUF:latest, hf.co/bartowski/ReadyArt_The-Omega-Directive-M-12B-v1.0-GGUF:Q4_K_S"
+http://222.121.60.125:11434/v1,"smollm2:135m, bllossom-8b:latest, llama3.1:latest"
+http://49.4.62.154:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, deepseek-r1:1.5b, deepseek-r1:8b"
+http://115.197.157.113:11434/v1,deepseek-r1:14b
+http://175.195.189.214:11434/v1,"smollm2:135m, qwen3:4b, gemma3:latest, llama3.2:latest"
+http://36.134.129.50:11434/v1,"deepseek-r1:32b, qwen2.5vl:7b, bge-m3:latest, smollm2:135m, qwen2.5:32b, audit-7b-bf16:latest, audit-7b:latest"
+http://118.253.180.219:11434/v1,"smollm2:135m, qwen3:235b-a22b, qwen3:30b-a3b, deepseek-r1:70b, qwen3:32b"
+http://47.122.124.76:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M"
+http://66.23.224.45:11434/v1,"smollm2:135m, llama3.2:1b"
