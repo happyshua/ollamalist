@@ -2134,3 +2134,5 @@ http://35.88.136.154:8983/v1,"openchat:7b, llama2:latest, codellama:13b"
 http://98.81.173.255:8983/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
 http://43.203.200.128:8983/v1,llama2:latest
 http://13.124.160.152:8983/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b, llama2:latest"
+http://221.228.118.116/v1,unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest
+http://86.48.21.154:11434/v1,"phi3:latest, mistral:latest, nomic-embed-text:latest"
