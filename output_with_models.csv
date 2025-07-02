@@ -2098,3 +2098,5 @@ http://144.202.6.199:11434/v1,"llama3.1:8b, ibl:latest"
 http://36.111.204.38:11434/v1,deepseek-r1:14b-qwen-distill-fp16
 http://120.211.112.121:11434/v1,"llama3.2:latest, deepseek-r1:70b"
 http://155.248.169.48:11434/v1,"goekdenizguelmez/JOSIEFIED-Qwen3:8b-deepseek-r1-0528, llama3.2:latest, llama3-backup:latest, mario:latest, qwq:latest, deepseek:latest, deepsex:latest, huihui_ai/deepseek-r1-abliterated:8b, hhao/qwen2.5-coder-tools:7b-q8_0, qwen2.5-coder:latest, codegemma:latest, llava:7b, llava-llama3:latest, deepseek-coder-v2:latest, llama3.2:3b, qwen2.5:latest, gemma2:latest, llama3.1:8b"
+http://44.201.180.47:50075/v1,"deepseek-r1:latest, codellama:13b, llama2:latest, llama3:latest, qwen2.5:1.5b"
+http://117.50.197.100:11434/v1,"qwen2.5:7b, bge-m3:567m, qwen2.5vl:7b"
