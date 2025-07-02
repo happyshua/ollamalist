@@ -2124,3 +2124,6 @@ http://3.35.166.30:8983/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, qwen
 http://58.49.144.25:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwq:latest, deepseek-r1:14b, deepseek-r1:32b, bge-m3:latest"
 http://159.223.196.244:11434/v1,"smollm2:135m, llama3.2:latest"
 http://222.121.56.6:11434/v1,"llama3.2:3b-instruct-q5_K_M, mistral:latest"
+http://54.172.195.215:8983/v1,"codellama:13b, llama3:latest"
+http://54.219.164.208:8983/v1,"llama2:latest, deepseek-r1:latest"
+http://56.124.35.148:8983/v1,codellama:13b
