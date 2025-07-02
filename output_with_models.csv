@@ -2106,3 +2106,13 @@ http://44.251.126.58:51106/v1,"codellama:13b, llama3:latest, llama2:latest, deep
 http://56.228.82.159:8983/v1,"deepseek-r1:latest, codellama:13b"
 https://chat.w3mcp.com/v1,qwen3:14b
 http://api.deepseek.nexposhk.com/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:8b, deepseek-r1:1.5b"
+http://159.89.92.29:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3.2:latest, llama3:latest, huihui_ai/deepseek-r1-abliterated:latest, nomic-embed-text:latest"
+http://144.24.85.35:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, deepseek-r1:7b"
+http://138.2.47.126:11434/v1,"smollm2:135m, llama3.1:8b, nomic-embed-text:latest"
+http://180.218.244.69:11434/v1,"smollm2:135m, bge-m3:latest, codellama:latest, deepseek-r1:32b, llama3.1:8b"
+http://141.98.155.213:11434/v1,"gemma3:4b, sam860/phi4-mini:3.8b, gemma3:1b, steamdj/llama3.1-cpu-only:latest"
+http://123.60.185.4:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, tinyllama:1.1b"
+http://34.60.196.36:11434/v1,"smollm2:135m, portfolio-gemma:latest, gemma:2b-instruct-q4_0, tinyllama:latest"
+http://120.46.17.116:11434/v1,"smollm2:135m, llama3.1:8b, llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, deepseek-r1:1.5b"
+http://18.204.206.74:8983/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest, openchat:7b"
+http://78.13.105.119:8983/v1,"deepseek-r1:latest, codellama:13b, llama2:latest, openchat:7b"
