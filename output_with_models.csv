@@ -2159,3 +2159,7 @@ http://113.108.60.27:11434/v1,deepseek-r1:70b
 http://121.4.176.104:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, DeepSeek-R1:latest"
 http://36.213.205.10:11434/v1,deepseek-r1:7b
 https://mbp.jonathanflower.com/v1,"qwen3:8b-q4_K_M, type32/eva-qwen-2.5-14b:latest, gemma3-long-context:latest, llama3.2:3b-instruct-q4_K_M, Qwen2.5:3b-instruct, deepseek-long-context:latest, llama3.1:8b, nomic-embed-text:latest, qwen2.5-coder:1.5b-base, deepcoder:1.5b, deepcoder:latest, gemma3:4b-it-q4_K_M, linux6200/bge-reranker-v2-m3:latest, gemma3:12b, llama3.2-vision:11b-instruct-q4_K_M, mxbai-embed-large:latest, llama3.2:1b-instruct-q4_K_S, mistral-small:22b-instruct-2409-q4_K_M, deepseek-r1:8b, llama3.1:8b-instruct-q5_K_M, llama3.2:latest"
+http://62.234.96.153:11434/v1,"smollm2:135m, bge-large:latest, bge-m3:latest, qwen3:32b"
+http://38.55.178.242:11434/v1,"smollm2:135m, hermes3:8b"
+http://1.203.77.40:11434/v1,"smollm2:135m, deepseek-r1:7b, deepseek-r1:1.5b"
+http://34.121.124.21:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, nomic-embed-text:latest, qwen3:14b, gemma3:27b"
