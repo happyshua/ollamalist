@@ -2185,3 +2185,4 @@ http://49.233.173.198:11434/v1,"smollm2:135m, bge-m3:567m, deepseek-r1:1.5b"
 http://202.111.183.26:11434/v1,"qwen2.5vl:7b, bge-m3:latest, deepseek-r1:32b, deepseek-r1:14b, codeqwen:latest, qwen2.5-coder:latest, llama3.2:3b-instruct-q5_K_M, sf:sf32bv2, nomic-embed-text:latest, qwq:latest, qwq:32b, deepseek-r1:sfdmx, sf:32b"
 http://35.88.141.24:50070/v1,"openchat:7b, llama2:latest"
 http://180.112.241.12:11434/v1,"gemma3n:e4b, deepseek-r1:8b"
+http://dns2.akbxr.com/v1,qwen2.5-coder:0.5b
