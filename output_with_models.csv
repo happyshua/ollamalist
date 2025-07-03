@@ -2163,3 +2163,4 @@ http://62.234.96.153:11434/v1,"smollm2:135m, bge-large:latest, bge-m3:latest, qw
 http://38.55.178.242:11434/v1,"smollm2:135m, hermes3:8b"
 http://1.203.77.40:11434/v1,"smollm2:135m, deepseek-r1:7b, deepseek-r1:1.5b"
 http://34.121.124.21:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, nomic-embed-text:latest, qwen3:14b, gemma3:27b"
+http://38.143.59.76:11434/v1,"llava:7b, gemma2:9b, gemma3:12b"
