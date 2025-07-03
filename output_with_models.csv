@@ -2186,3 +2186,6 @@ http://202.111.183.26:11434/v1,"qwen2.5vl:7b, bge-m3:latest, deepseek-r1:32b, de
 http://35.88.141.24:50070/v1,"openchat:7b, llama2:latest"
 http://180.112.241.12:11434/v1,"gemma3n:e4b, deepseek-r1:8b"
 http://dns2.akbxr.com/v1,qwen2.5-coder:0.5b
+http://113.44.201.251:11434/v1,"qwen3:30b-a3b, qwen3:235b-a22b"
+http://221.14.215.34:11434/v1,"deepseek-r1:32b, deepseek-r1:70b"
+http://221.138.27.68:11434/v1,"gemma3:4b, llama3.2:latest, llama3.1:latest, llama3:latest, wizardlm2:latest, gemma:latest, llama2:13b, orca-mini:7b, llava:latest, mistral:latest, codellama:latest, orca-mini:latest, phi:latest, llama3:8b, Ko-Llama3-Luxia-8B.Q5_K_M:latest, Meta-Llama-3-8B-Instruct-Q5_K_M:latest, hub/dotslashgabut/artisticprompt:latest, hub/sagist/adam-musical-genius:latest, EEVE-Korean-Instruct-10.8B-v1.0-GGUF:latest"
