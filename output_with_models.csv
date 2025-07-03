@@ -2173,3 +2173,4 @@ http://68.109.103.45:11434/v1,"llama3.1:8b, llama3.2:latest"
 http://182.155.162.27:11434/v1,"llama3.1:8b, llama3.2:3b-instruct-q5_K_M, gemma3:1b, cwchang/llama3-taide-lx-8b-chat-alpha1:latest, deepseek-r1:1.5b, llama3.2:latest"
 http://182.155.162.27:11434/v1,"llama3.1:8b, llama3.2:3b-instruct-q5_K_M, gemma3:1b, cwchang/llama3-taide-lx-8b-chat-alpha1:latest, deepseek-r1:1.5b, llama3.2:latest"
 http://122.247.121.36:11434/v1,deepseek-r1:14b
+http://121.4.90.175:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepseek-r1:1.5b"
