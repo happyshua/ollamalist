@@ -2198,3 +2198,5 @@ http://121.36.201.189:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deeps
 http://67.21.114.83:11434/v1,"smollm2:135m, deepseek-r1:8b, tinyllama:latest, qwen3:1.7b, gemma:2b, mistral:latest"
 http://223.156.137.91:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, deepseek-r1:1.5b"
 http://13.62.52.203:51106/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, openchat:7b"
+http://36.138.229.210:11434/v1,"smollm2:135m, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, mxbai-embed-large:latest, deepseek-r1:32b, nvjob/DeepSeek-R1-32B-Cline:latest, deepseek-coder-v2:latest"
+http://110.42.38.94:12345/v1,deepseek-r1:8B
