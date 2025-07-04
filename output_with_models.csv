@@ -2203,3 +2203,4 @@ http://110.42.38.94:12345/v1,deepseek-r1:8B
 http://47.74.33.233:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, llama3.2:latest, llama3.1:8b"
 http://223.244.7.73:11434/v1,"smollm2:135m, bge-m3:latest, deepseek-r1:14b, deepseek-r1:7b, deepseek-r1:latest"
 http://222.128.1.152:3280/v1,"granite3.2-vision:latest, huihui_ai/qwen3-abliterated:30b, qwen2.5-abliterate_16K:14b, huihui_ai/qwen3-abliterated:14b"
+http://14.52.70.210:8888/v1,"conandoyle247/jan-nano-4b-gguf:latest, milkey/Kalomaze-Qwen3-16B-A3B:latest, rhundt/qwen3-64k:30b, qwen3:30b-a3b, PetrosStav/gemma3-tools:27b, aya-expanse:32b, gemma3:27b, gemma3:12b"
