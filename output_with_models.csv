@@ -2225,3 +2225,4 @@ http://115.224.86.214:11434/v1,"llama3.2:1b, llama3.2-vision:latest, gemma3:late
 http://182.92.142.192:8085/v1,deepseek-r1:1.5b
 http://54.245.204.76:8085/v1,"llama2:latest, codellama:13b"
 http://43.198.111.20:50075/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://56.228.10.225:8085/v1,"llama2:latest, llama3:latest"
