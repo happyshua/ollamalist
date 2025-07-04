@@ -2235,3 +2235,4 @@ http://56.155.1.132:9090/v1,"codellama:13b, qwen2.5:1.5b, llama2:latest, opencha
 http://98.84.119.15:50050/v1,"llama2:latest, qwen2.5:1.5b"
 http://98.81.82.183:8085/v1,"llama3:latest, openchat:7b, llama2:latest"
 http://56.155.1.132:9090/v1,"codellama:13b, qwen2.5:1.5b, llama2:latest, openchat:7b"
+http://219.128.48.10:11434/v1,"deepseek-r1:32b, deepseek-r1:70b"
