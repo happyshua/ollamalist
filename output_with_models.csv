@@ -1970,3 +1970,4 @@ http://13.221.226.147:28017/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b, llama3
 http://13.212.10.88:28017/v1,llama2:latest
 http://47.129.9.45:40000/v1,"llama3:latest, codellama:13b, llama2:latest, openchat:7b"
 http://117.148.167.109:11434/v1,"qwen2.5:32b, bge-m3:latest, nomic-embed-text:latest, bge-large:latest, deepseek-r1:32b"
+http://218.56.60.126:11434/v1,"qwen2.5:3b, qwen:0.5b, bge-m3:latest, deepseek-r1:14b, deepseek-r1:latest"
