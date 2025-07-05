@@ -1971,3 +1971,9 @@ http://13.212.10.88:28017/v1,llama2:latest
 http://47.129.9.45:40000/v1,"llama3:latest, codellama:13b, llama2:latest, openchat:7b"
 http://117.148.167.109:11434/v1,"qwen2.5:32b, bge-m3:latest, nomic-embed-text:latest, bge-large:latest, deepseek-r1:32b"
 http://218.56.60.126:11434/v1,"qwen2.5:3b, qwen:0.5b, bge-m3:latest, deepseek-r1:14b, deepseek-r1:latest"
+http://43.198.183.183:28017/v1,"qwen2.5:1.5b, openchat:7b"
+http://52.207.226.13:28017/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, llama2:latest"
+http://54.95.20.107:28017/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://3.38.210.157:28017/v1,"qwen2.5:1.5b, llama2:latest, codellama:13b, llama3:latest, openchat:7b"
+http://18.167.165.40:28017/v1,llama2:latest
+https://fiontu-ai.work/v1,"deepseek-r1:14b, qwen3:14b, qwen2.5vl:7b, bge-m3:latest"
