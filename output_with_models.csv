@@ -1947,3 +1947,4 @@ http://78.12.249.42:52869/v1,"openchat:7b, qwen2.5:1.5b"
 http://47.96.189.222:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest"
 http://60.208.173.152:11434/v1,"qwen2.5vl:7b, gemma3:27b, gemma3:12b"
 http://14.103.198.49:11434/v1,qwen3:0.6b
+http://114.35.115.19:11434/v1,"hf.co/SakuraLLM/Sakura-GalTransl-7B-v3:Q6_K, bge-m3:latest, gemma3:12b, huihui_ai/deepseek-r1-abliterated:14b, llama3:latest, hf.co/SakuraLLM/Sakura-7B-Qwen2.5-v1.0-GGUF:latest, onekuma/sakura-13b-lnovel-v0.9b-q2_k:latest, crosery/sakura-14b-qwen2.5-v1.0-q6k:latest, deepseek-r1:14b, deepseek-r1:7b"
