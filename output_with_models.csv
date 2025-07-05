@@ -1968,3 +1968,4 @@ http://78.12.82.255:28017/v1,"llama3:latest, deepseek-r1:latest, codellama:13b, 
 http://157.245.127.174:11434/v1,"smollm2:135m, llama3.2:3b-instruct-fp16, nomic-embed-text:latest, llama3.2:latest"
 http://13.221.226.147:28017/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b, llama3:latest"
 http://13.212.10.88:28017/v1,llama2:latest
+http://47.129.9.45:40000/v1,"llama3:latest, codellama:13b, llama2:latest, openchat:7b"
