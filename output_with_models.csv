@@ -1942,3 +1942,8 @@ http://54.251.135.171:9100/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, l
 http://52.77.228.115:9001/v1,"codellama:13b, llama2:latest, deepseek-r1:latest"
 http://18.143.165.238:2086/v1,"openchat:7b, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
 http://175.0.134.155:11434/v1,"qwen3:8b, qwen3:latest, deepseek-r1:7b, nomic-embed-text:latest, codegeex4:latest, reader-lm:latest, deepseek-r1:8b"
+http://36.24.102.29:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:14b"
+http://78.12.249.42:52869/v1,"openchat:7b, qwen2.5:1.5b"
+http://47.96.189.222:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest"
+http://60.208.173.152:11434/v1,"qwen2.5vl:7b, gemma3:27b, gemma3:12b"
+http://14.103.198.49:11434/v1,qwen3:0.6b
