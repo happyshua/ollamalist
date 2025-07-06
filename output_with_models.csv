@@ -2030,3 +2030,5 @@ http://18.191.135.204:7547/v1,openchat:7b
 http://56.228.9.148:7547/v1,"codellama:13b, llama2:latest, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
 http://43.207.139.98:7547/v1,"deepseek-r1:latest, llama2:latest, openchat:7b"
 http://52.68.102.71:11434/v1,"test_qwen3:latest, bge-m3:latest, qwen2.5vl:7b, qwen2.5:14b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, qwen2.5:latest, all-minilm:33m, chroma/all-minilm-l6-v2-f32:latest, mxbai-embed-large:latest, linux6200/bge-reranker-v2-m3:latest, deepseek-r1:7b, qwen2.5:7b"
+http://54.218.234.54:9200/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest, llama2:latest"
+http://56.124.51.101:9200/v1,"qwen2.5:1.5b, deepseek-r1:latest"
