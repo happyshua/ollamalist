@@ -1984,3 +1984,5 @@ http://40.89.209.104:11434/v1,"smollm2:135m, phi3:latest"
 http://218.60.70.231:11434/v1,"deepseek-r1:32b, bge-m3:latest, mxbai-embed-large:latest, dsasai/llama3-elyza-jp-8b:latest, nomic-embed-text:latest, hangyang/rakutenai-7b-chat:latest"
 http://125.118.93.131:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, hf.co/roleplaiapp/DeepSeek-R1-Distill-Qwen-14B-Q8_0-GGUF:latest, hf.co/mradermacher/DeepSeek-R1-Distill-Qwen-32B-Uncensored-GGUF:Q4_K_S, hf.co/mradermacher/DeepSeek-R1-Distill-Qwen-14B-Uncensored-GGUF:Q8_0, hf.co/lmstudio-community/Mistral-Small-24B-Instruct-2501-GGUF:Q6_K, deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:32b"
 http://116.207.109.112:12345/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:32b, deepseek-r1:1.5b"
+http://13.229.111.233:11434/v1,llama3.2-vision:latest
+http://122.245.148.192:11434/v1,"llama3.2:3b-instruct-q5_K_M, smollm2:135m, deepseek-r1:32b, deepseek-r1:7b, qwen2:7b-instruct-q8_0, glm4:latest, llama3.1:latest"
