@@ -1979,3 +1979,6 @@ http://18.167.165.40:28017/v1,llama2:latest
 https://fiontu-ai.work/v1,"deepseek-r1:14b, qwen3:14b, qwen2.5vl:7b, bge-m3:latest"
 http://13.208.212.11:28017/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b"
 http://58.49.144.12:11434/v1,"qwen2.5vl:3b, llava:7b, devstral:latest, qwen3:1.7b, qwen2.5:14b, qwen2.5:7b, qllama/bge-reranker-large:latest, gemma3:27B, qwq:latest, deepseek-r1:70b, qwen2.5:latest, llama3.1:latest, deepseek-r1:32b, deepseek-r1:14b"
+http://54.176.251.100:8080/v1,"llama2:latest, openchat:7b, codellama:13b, deepseek-r1:latest, llama3:latest"
+http://40.89.209.104:11434/v1,"smollm2:135m, phi3:latest"
+http://218.60.70.231:11434/v1,"deepseek-r1:32b, bge-m3:latest, mxbai-embed-large:latest, dsasai/llama3-elyza-jp-8b:latest, nomic-embed-text:latest, hangyang/rakutenai-7b-chat:latest"
