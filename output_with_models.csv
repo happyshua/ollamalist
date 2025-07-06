@@ -2026,3 +2026,5 @@ http://222.234.38.97:11434/v1,"gemma3:27b, gemma3:12b, jinbora/deepseek-r1-Bllos
 http://15.152.45.17:7547/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, deepseek-r1:latest"
 http://118.250.110.231:11434/v1,"mollysama/rwkv-7-g1:2.9b, devstral:24b, qwen3:14b, gemma3:12b, deepseek-r1:14b, deepseek-coder:6.7b, llama3.2:3b, qwen2.5-coder:32b, qwen2.5-coder:14b, codegemma:latest, aya:latest, command-r:35b-v0.1-q2_K, codegemma:7b-instruct-fp16, codegemma:7b, starcoder2:15b, sqlcoder:7b, brxce/stable-diffusion-prompt-generator:latest, llava:latest, wizardcoder:latest, llava:13b-v1.6, llama2:13b, stable-code:3b-code-fp16"
 http://121.37.109.196:11434/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest, llava:latest, deepseek-r1:32b"
+http://18.191.135.204:7547/v1,openchat:7b
+http://56.228.9.148:7547/v1,"codellama:13b, llama2:latest, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
