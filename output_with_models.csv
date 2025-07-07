@@ -2072,3 +2072,7 @@ http://120.24.168.78:7000/v1,deepseek-llm-7B-chat.Q5_K_M:latest
 http://124.70.182.112:8000/v1,"llama3.2:latest, mario:latest, deepseek-r1:7b"
 http://120.79.209.40:11434/v1,"qwen3:14b, deepseek-r1:8b, qwen3:8b, qwen3:1.7b"
 http://124.70.1.73:9999/v1,"llama3.2-vision:latest, qwen2.5vl:latest, llama3.2-vision:90b, qwen3:32b, deepseek-r1:671b, deepseek-r1:32b, deepseek-r1:70b"
+http://180.158.70.134:9876/v1,"qwq:32b, qwen2.5-coder:32b, deepseek-r1:32b"
+http://13.60.223.68:449/v1,openchat:7b
+http://124.71.142.138:11434/v1,"qwen3_0-2_I:latest, llama3.2:3b-instruct-q5_K_M, gemma3:12b, herald/dmeta-embedding-zh:latest, deepseek-r1:14b, aerok/xiaobu-embedding-v2:latest"
+http://218.45.244.235:443/v1,phi4:latest
