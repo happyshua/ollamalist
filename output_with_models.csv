@@ -2054,3 +2054,5 @@ http://3.146.161.6:11434/v1,"llama3.2:3b, gemma3:12b"
 http://58.148.4.211:11434/v1,"llama2:latest, exaone3.5:latest, deepseek-r1:7b, llama3.2:latest"
 http://13.208.182.34:9200/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest, codellama:13b"
 http://139.186.154.232:11434/v1,qwen3:0.6b
+http://43.199.157.62:9200/v1,"deepseek-r1:latest, qwen2.5:1.5b"
+http://52.78.159.32:9200/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b"
