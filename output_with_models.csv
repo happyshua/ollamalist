@@ -2084,3 +2084,4 @@ http://54.85.223.78:3689/v1,llama2:latest
 http://47.111.155.212:11434/v1,"gemma3:1b, gemma3:4b"
 http://220.73.8.190:13333/v1,hf.co/bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF:IQ4_XS
 http://211.159.148.197:11434/v1,qwen3:1.7b
+http://1.30.80.241:11434/v1,llama3.2:3b-instruct-q5_K_M
