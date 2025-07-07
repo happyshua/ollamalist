@@ -2076,3 +2076,6 @@ http://180.158.70.134:9876/v1,"qwq:32b, qwen2.5-coder:32b, deepseek-r1:32b"
 http://13.60.223.68:449/v1,openchat:7b
 http://124.71.142.138:11434/v1,"qwen3_0-2_I:latest, llama3.2:3b-instruct-q5_K_M, gemma3:12b, herald/dmeta-embedding-zh:latest, deepseek-r1:14b, aerok/xiaobu-embedding-v2:latest"
 http://218.45.244.235:443/v1,phi4:latest
+http://34.207.129.137:7288/v1,llama2:latest
+http://3.133.139.252:7100/v1,openchat:7b
+http://114.240.151.81:8000/v1,"qwen3:30b-a3b, qwen3:14b, qwen2.5:14b, gemma3:12b-it-q8_0"
