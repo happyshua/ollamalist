@@ -2068,3 +2068,6 @@ http://112.44.231.31:11434/v1,"gemma3:27b, deepseek-r1:32b"
 http://thepowerbrains.vpnplus.to/v1,gemma3:4b
 http://nas.thepowerbrains.com/v1,gemma3:4b
 http://106.53.103.249:8000/v1,qwen3:32B
+http://120.24.168.78:7000/v1,deepseek-llm-7B-chat.Q5_K_M:latest
+http://124.70.182.112:8000/v1,"llama3.2:latest, mario:latest, deepseek-r1:7b"
+http://120.79.209.40:11434/v1,"qwen3:14b, deepseek-r1:8b, qwen3:8b, qwen3:1.7b"
