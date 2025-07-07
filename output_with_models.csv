@@ -2062,3 +2062,9 @@ http://34.209.235.122:51/v1,"deepseek-r1:latest, openchat:7b, qwen2.5:1.5b, llam
 http://111.172.11.176:11434/v1,"gemma3:4b, gemma3n:e4b, huihui_ai/qwen2.5-1m-abliterated:latest, huihui_ai/deepseek-r1-abliterated:latest, hf-mirror.com/legraphista/glm-4-9b-chat-GGUF:Q4_K_S, deepseek-r1:8b, qwen3_8b_abliterated_think:latest, qwen3:latest, qwen3:8b, qwen2.5:latest, granite3.2-vision:latest, qwen3:0.6b"
 http://34.222.122.151:8899/v1,deepseek-r1:latest
 http://56.155.1.42:50075/v1,qwen2.5:1.5b
+http://120.197.72.42:11434/v1,"llama3.2:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, linux6200/bge-reranker-v2-m3:latest, llama3.1:8b, qwen3:4b, bge-m3:latest"
+http://220.94.177.208:10001/v1,"exaone3.5:7.8b, deepseek-r1:7b, nomic-embed-text:latest, llama3.2:3b-text-q4_0, zylonai/multilingual-e5-large:latest, mistral:latest, llama3.2:3b, deepseek-r1:14b"
+http://112.44.231.31:11434/v1,"gemma3:27b, deepseek-r1:32b"
+http://thepowerbrains.vpnplus.to/v1,gemma3:4b
+http://nas.thepowerbrains.com/v1,gemma3:4b
+http://106.53.103.249:8000/v1,qwen3:32B
