@@ -2071,3 +2071,4 @@ http://106.53.103.249:8000/v1,qwen3:32B
 http://120.24.168.78:7000/v1,deepseek-llm-7B-chat.Q5_K_M:latest
 http://124.70.182.112:8000/v1,"llama3.2:latest, mario:latest, deepseek-r1:7b"
 http://120.79.209.40:11434/v1,"qwen3:14b, deepseek-r1:8b, qwen3:8b, qwen3:1.7b"
+http://124.70.1.73:9999/v1,"llama3.2-vision:latest, qwen2.5vl:latest, llama3.2-vision:90b, qwen3:32b, deepseek-r1:671b, deepseek-r1:32b, deepseek-r1:70b"
