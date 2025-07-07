@@ -2080,3 +2080,7 @@ http://34.207.129.137:7288/v1,llama2:latest
 http://3.133.139.252:7100/v1,openchat:7b
 http://114.240.151.81:8000/v1,"qwen3:30b-a3b, qwen3:14b, qwen2.5:14b, gemma3:12b-it-q8_0"
 http://13.56.164.222:6003/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, openchat:7b, llama2:latest"
+http://54.85.223.78:3689/v1,llama2:latest
+http://47.111.155.212:11434/v1,"gemma3:1b, gemma3:4b"
+http://220.73.8.190:13333/v1,hf.co/bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF:IQ4_XS
+http://211.159.148.197:11434/v1,qwen3:1.7b
