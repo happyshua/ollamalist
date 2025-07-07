@@ -2079,3 +2079,4 @@ http://218.45.244.235:443/v1,phi4:latest
 http://34.207.129.137:7288/v1,llama2:latest
 http://3.133.139.252:7100/v1,openchat:7b
 http://114.240.151.81:8000/v1,"qwen3:30b-a3b, qwen3:14b, qwen2.5:14b, gemma3:12b-it-q8_0"
+http://13.56.164.222:6003/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, openchat:7b, llama2:latest"
