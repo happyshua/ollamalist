@@ -2105,3 +2105,8 @@ http://15.168.140.48:23424/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b"
 http://3.219.27.211:11434/v1,"llama2:latest, llama3.2:latest, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, mistral:latest, qwen2.5-coder:7b, deepseek-r1:7b"
 http://113.206.202.58:11434/v1,"gemma3:12b, FallenGemma:latest, Qwen-embedding:latest"
 http://35.189.133.143:11434/v1,"llama3.1:8b, qwen2.5:32b-instruct, qwen2.5:32b, qwen:32b"
+http://35.171.153.243:8030/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, codellama:13b"
+http://3.145.108.103:5051/v1,qwen2.5:1.5b
+http://54.193.170.62:620/v1,openchat:7b
+http://56.124.101.185:2055/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
+http://15.168.39.119:9008/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b, llama2:latest"
