@@ -2179,3 +2179,12 @@ http://110.191.244.131:11434/v1,"smollm2:135m, anagram/whispertiny:latest, dimav
 http://13.208.120.171:8089/v1,codellama:13b
 http://111.2.190.83/v1,unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest
 http://121.7.137.20:11434/v1,llama3.2:3b
+http://13.212.20.6:9007/v1,"llama2:latest, qwen2.5:1.5b"
+http://13.212.36.237:7778/v1,"llama2:latest, qwen2.5:1.5b"
+http://18.162.39.195:9006/v1,"qwen2.5:1.5b, openchat:7b"
+http://3.138.67.51/v1,"llama3:latest, deepseek-r1:latest"
+http://13.208.58.180:3052/v1,"llama2:latest, llama3:latest"
+http://13.208.186.173:9005/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b"
+http://18.162.39.195:9006/v1,"qwen2.5:1.5b, openchat:7b"
+http://13.212.20.6:9007/v1,"llama2:latest, qwen2.5:1.5b"
+http://13.212.36.237:7778/v1,"llama2:latest, qwen2.5:1.5b"
