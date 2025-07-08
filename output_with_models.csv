@@ -2143,3 +2143,10 @@ http://171.221.219.14:11434/v1,"deepseek-r1:7b, nomic-embed-text:latest, twwch/m
 http://117.44.212.14:18000/v1,huihui_ai/deepseek-r1-abliterated:14b
 http://3.148.239.1:32/v1,"openchat:7b, llama2:latest"
 http://52.89.241.234:5051/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama2:latest, openchat:7b"
+http://34.209.235.122:40001/v1,"deepseek-r1:latest, openchat:7b, qwen2.5:1.5b, llama2:latest, llama3:latest"
+http://34.209.235.122:1471/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b, codellama:13b"
+http://18.204.209.130:19888/v1,"qwen2.5:1.5b, openchat:7b"
+http://78.12.17.20:11965/v1,"deepseek-r1:latest, llama2:latest"
+http://119.165.240.59:11434/v1,deepseek-r1:7b
+http://43.203.203.40:1400/v1,"qwen2.5:1.5b, llama3:latest"
+http://47.128.245.105:3052/v1,"deepseek-r1:latest, llama2:latest"
