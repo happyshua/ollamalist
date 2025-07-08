@@ -2166,3 +2166,5 @@ http://54.255.209.205:1610/v1,deepseek-r1:latest
 http://222.139.28.116:3389/v1,"qwen3:0.6b, deepseek-r1:14b, deepseek-r1:7b"
 http://116.147.56.26:11434/v1,llama3.1:8b
 http://101.43.247.181:11434/v1,qwen3:8b
+http://3.80.29.65:8092/v1,"llama2:latest, codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
+http://43.203.224.114:9418/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
