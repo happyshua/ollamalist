@@ -2110,3 +2110,4 @@ http://3.145.108.103:5051/v1,qwen2.5:1.5b
 http://54.193.170.62:620/v1,openchat:7b
 http://56.124.101.185:2055/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
 http://15.168.39.119:9008/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b, llama2:latest"
+http://101.126.93.178:11434/v1,"llava:34b, llava:latest, llama3:8b-instruct-q5_K_M, llama3:latest"
