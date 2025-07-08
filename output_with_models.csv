@@ -2139,3 +2139,5 @@ http://52.194.250.32:631/v1,"codellama:13b, llama3:latest"
 http://18.143.94.205:1314/v1,codellama:13b
 http://54.254.250.66:3689/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
 http://175.41.151.245:31337/v1,"codellama:13b, llama3:latest"
+http://171.221.219.14:11434/v1,"deepseek-r1:7b, nomic-embed-text:latest, twwch/m3e-base:latest"
+http://117.44.212.14:18000/v1,huihui_ai/deepseek-r1-abliterated:14b
