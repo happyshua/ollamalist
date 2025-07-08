@@ -2141,3 +2141,5 @@ http://54.254.250.66:3689/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
 http://175.41.151.245:31337/v1,"codellama:13b, llama3:latest"
 http://171.221.219.14:11434/v1,"deepseek-r1:7b, nomic-embed-text:latest, twwch/m3e-base:latest"
 http://117.44.212.14:18000/v1,huihui_ai/deepseek-r1-abliterated:14b
+http://3.148.239.1:32/v1,"openchat:7b, llama2:latest"
+http://52.89.241.234:5051/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama2:latest, openchat:7b"
