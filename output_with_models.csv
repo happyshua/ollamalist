@@ -2201,3 +2201,13 @@ http://119.147.117.80/v1,unsloth/Qwen3-0.6B-GGUF:latest
 http://1.236.245.108:4000/v1,"llama3.1:8b, deepseek-coder-v2:latest, qwen3:8b, llama4:16x17b, gemma3:12b, qwen3:14b"
 http://35.72.7.136:4200/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, codellama:13b"
 http://43.199.207.58:7070/v1,"llama2:latest, codellama:13b, deepseek-r1:latest, openchat:7b"
+http://43.208.240.53:4848/v1,"llama2:latest, codellama:13b"
+http://54.193.209.249:4369/v1,qwen2.5:1.5b
+http://52.24.38.19:2715/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b, deepseek-r1:latest, llama3:latest"
+http://18.236.102.215/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, codellama:13b"
+http://78.12.71.191:2160/v1,qwen2.5:1.5b
+http://18.212.176.201:3005/v1,"llama2:latest, qwen2.5:1.5b"
+http://13.208.44.155:8334/v1,"qwen2.5:1.5b, openchat:7b, llama3:latest, codellama:13b"
+http://13.208.215.107:8377/v1,qwen2.5:1.5b
+http://13.125.230.46:28017/v1,"codellama:13b, llama2:latest"
+http://78.12.9.3:17988/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
