@@ -1970,3 +1970,7 @@ http://3.82.194.54:49151/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b, codellama
 http://54.167.1.89:8194/v1,codellama:13b
 http://35.153.53.108:3312/v1,codellama:13b
 http://13.62.50.168:7145/v1,llama2:latest
+http://52.194.220.224:8899/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, llama2:latest, openchat:7b"
+http://15.152.37.213:5197/v1,codellama:13b
+http://39.107.122.40:11434/v1,"qwen2.5-coder:0.5b, gemma3:1b, qwen:0.5b, deepseek-r1:1.5b"
+http://112.255.43.225:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:7b"
