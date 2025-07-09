@@ -1974,3 +1974,12 @@ http://52.194.220.224:8899/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, 
 http://15.152.37.213:5197/v1,codellama:13b
 http://39.107.122.40:11434/v1,"qwen2.5-coder:0.5b, gemma3:1b, qwen:0.5b, deepseek-r1:1.5b"
 http://112.255.43.225:11434/v1,"deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:7b"
+http://13.212.240.254:6103/v1,"deepseek-r1:latest, llama2:latest, llama3:latest, codellama:13b, openchat:7b"
+http://52.79.177.224:55442/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://117.50.192.84:11434/v1,"deepseek-v2:16b, qwq:latest, deepseek-r1:7b, deepseek-r1:1.5b, bge-m3:latest, deepseek-r1:70b"
+http://54.215.78.237:8480/v1,"llama2:latest, codellama:13b"
+http://52.79.177.224:55442/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://3.38.116.243:6002/v1,llama2:latest
+http://13.212.234.101:50090/v1,llama3:latest
+http://13.212.240.254:6103/v1,"deepseek-r1:latest, llama2:latest, llama3:latest, codellama:13b, openchat:7b"
+http://218.212.24.243:11434/v1,"smollm2:135m, hhao/openbmb-minicpm-llama3-v-2_5:latest, llava-llama3:8b, llama3.1:latest, qwen2:7b"
