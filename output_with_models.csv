@@ -2043,3 +2043,7 @@ http://211.115.91.141:11434/v1,llama3.2:3b-instruct-q5_K_M
 http://13.124.238.35:11965/v1,"llama2:latest, openchat:7b"
 http://20.197.89.250:11434/v1,"qwen2.5:0.5b, gemma2:2b, qwen2.5:1.5b, phi3:mini, qwen2.5:7b, llama3.2:3b"
 http://14.145.222.180:11434/v1,"qwen3:8b, deepseek-r1:1.5b, gemma3:12b, gemma3:4b, gemma3:1b, gemma3:27b, qwq:latest, llama3.2-vision:latest, minicpm-v:latest, bge-m3:latest, mxbai-embed-large:latest, nomic-embed-text:latest, phi4:latest, deepseek-r1:70b, deepseek-r1:32b, deepseek-r1:14b, qwen2.5:14b"
+http://47.129.99.54:1880/v1,openchat:7b
+http://78.13.3.243:32773/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, openchat:7b, deepseek-r1:latest"
+http://47.129.99.54:1880/v1,openchat:7b
+http://54.169.232.87:31337/v1,deepseek-r1:latest
