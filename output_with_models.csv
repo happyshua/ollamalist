@@ -2139,3 +2139,7 @@ http://3.34.189.142:2051/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
 http://43.198.90.67:5004/v1,"llama2:latest, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b, codellama:13b"
 http://39.96.180.253:11434/v1,deepseek-r1:32b
 http://175.16.255.15:11434/v1,"deepseek-r1:8b, deepseek-r1:7b, shaw/dmeta-embedding-zh:latest, deepseek-r1:14b"
+http://23.132.24.72:11434/v1,"deepseek-r1:latest, llama3.1:8b, llama3.1:8b-instruct-q4_K_M, gemma3:4b, gemma3:12b"
+http://52.91.253.217:8140/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
+http://54.92.213.188:5598/v1,"codellama:13b, llama2:latest"
+http://3.22.242.170:3075/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b"
