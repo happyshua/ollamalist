@@ -2115,3 +2115,7 @@ http://59.174.148.31:11434/v1,"deepseek-r1:1.5b, deepseek-r1:8b"
 http://36.133.234.211:11434/v1,deepseek-r1:14b
 http://71.105.71.225:11434/v1,"smollm2:135m, codegemma:7b, mxbai-embed-large:latest, gemma3:4b, gemma3:12b, deepseek-r1:1.5b, deepseek-r1:latest, llama3.3:latest, llama3.2:latest, gemma2:latest, llama3.1:latest"
 http://44.218.103.63/v1,"mistral7b_32k:latest, mistral:7b, hf.co/ToastyPigeon/gemma-3-27b-medglitter-ero-Q4_K_S-GGUF:Q4_K_S, llama3.2:3b-instruct-q5_K_M, llama3.2:latest, mixtral:8x7b, mixtral:8x22b, mistral-nemo:latest, qwq:latest, openthinker:32b, granite3.3:latest, starling-lm:latest, gemma3:latest, microai/calm2-7b-chat:latest, phi3:latest, cyberuser42/DeepSeek-R1-Distill-Llama-8B:latest, mistral:latest, llama3:70b, phi4:latest, llama3.3:latest, qwen2.5:7b, deepseek-coder-v2:16b, deepseek-coder-v2:latest, deepseek-r1:1.5b, deepseek-r1:7b, deepseek-v2:latest"
+http://14.216.159.34:11434/v1,modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest
+http://18.144.48.112:9981/v1,"qwen2.5:1.5b, llama2:latest, llama3:latest, codellama:13b"
+http://54.235.238.152:5005/v1,"llama2:latest, qwen2.5:1.5b"
+http://56.124.111.160:12000/v1,"llama3:latest, openchat:7b"
