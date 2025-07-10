@@ -2060,3 +2060,5 @@ http://13.125.129.251:8885/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest, codel
 http://13.125.226.14:6998/v1,"codellama:13b, qwen2.5:1.5b, deepseek-r1:latest"
 http://43.198.204.7:6346/v1,"codellama:13b, openchat:7b"
 http://58.152.203.28:11434/v1,"huihui_ai/qwen3-abliterated:14b, gemma3:12b-it-qat, nomic-embed-text:latest"
+http://57.180.53.211:26214/v1,"llama2:latest, openchat:7b"
+http://185.236.24.26:11434/v1,"smollm2:135m, gemma3:1b, deepseek-r1:1.5b, qwen3:1.7b, mix_77/gemma3-qat-tools:4b, qwen3:4b"
