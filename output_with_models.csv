@@ -2074,3 +2074,4 @@ http://154.204.184.185:11434/v1,deepseek-r1:1.5b
 http://78.12.121.63:631/v1,"openchat:7b, codellama:13b, llama3:latest, llama2:latest"
 http://117.50.187.103:11434/v1,deepseek-r1:7b
 http://13.212.80.10:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, qwq:latest, gemma3:4b, deepseek-r1:1.5b, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:7b, codegemma:latest, codestral:latest, llama3.1:8b, nomic-embed-text:latest, llama3.2:latest, mistral:latest, llama3.1:latest, gemma:7b, llama3:latest"
+http://162.43.30.35:11434/v1,"smollm2:135m, llama2:latest, nomic-embed-text:latest, gemma2:2b, mxbai-embed-large:latest, dsasai/llama3-elyza-jp-8b:latest, gemma2:latest"
