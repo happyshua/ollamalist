@@ -2166,3 +2166,8 @@ http://14.155.244.24:11434/v1,"llama3.2:latest, mario:latest, OxW/Saiga_Gemma3_1
 http://114.255.80.130:6009/v1,"qwq8k:32b, qwq40k:32b, qwq20k:32b, qwq10k:32b, qwq:32b, llama3.2:3b-instruct-q5_K_M, wise:7b, deepseek-r1:32b-qwen-distill-q4_K_M"
 http://47.100.229.164:11434/v1,"smollm2:135m, deepseek-r1:7b"
 http://27.17.252.150:11434/v1,"codellama:34b, deepseek-r1:32b, qwq:latest"
+http://18.232.136.255:50111/v1,"llama2:latest, openchat:7b, llama3:latest"
+http://3.145.84.109:2064/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
+http://54.249.19.196:3542/v1,openchat:7b
+http://52.196.132.9:2480/v1,"deepseek-r1:latest, codellama:13b, llama2:latest"
+http://13.208.208.204:2080/v1,qwen2.5:1.5b
