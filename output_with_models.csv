@@ -2171,3 +2171,10 @@ http://3.145.84.109:2064/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b, deepsee
 http://54.249.19.196:3542/v1,openchat:7b
 http://52.196.132.9:2480/v1,"deepseek-r1:latest, codellama:13b, llama2:latest"
 http://13.208.208.204:2080/v1,qwen2.5:1.5b
+http://54.164.107.28:28017/v1,"llama2:latest, codellama:13b, deepseek-r1:latest, llama3:latest"
+http://34.236.158.10:3337/v1,"llama3:latest, openchat:7b"
+http://78.12.127.24:40001/v1,"qwen2.5:1.5b, codellama:13b"
+http://54.218.88.180:5801/v1,"llama2:latest, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, openchat:7b"
+http://13.208.193.62:6103/v1,"qwen2.5:1.5b, openchat:7b"
+http://207.244.255.196:11434/v1,"huggingface.co/allenai/OLMo-2-0425-1B-Instruct-GGUF:OLMo-2-0425-1B-Instruct-Q5_0.gguf, olmo2:7b, deepseek-r1:1.5b, snowflake-arctic-embed:latest, snowflake-arctic-embed2:latest, llama3.2:1b"
+http://36.103.203.75:11434/v1,huanhuan:latest
