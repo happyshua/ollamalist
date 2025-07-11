@@ -2184,3 +2184,7 @@ http://183.162.104.171:11434/v1,"Godmoded/llama3-lexi-uncensored:latest, dolphin
 http://3.147.44.228:2052/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, codellama:13b"
 http://3.86.206.5:17988/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, llama2:latest"
 http://183.162.104.171:11434/v1,"Godmoded/llama3-lexi-uncensored:latest, dolphin-mistral:latest, mannix/llama3.1-8b-abliterated:latest, qwen2.5vl:7b, qwen3:8b, gurubot/VaryTales:latest, gemma3:12b, qwq:32b, deepseek-r1:7b, qwen2.5-coder:7b, qwen2.5:7b, llama3.2:3b"
+http://50.19.16.241:6590/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://54.85.215.231:8351/v1,"llama3:latest, codellama:13b, openchat:7b"
+http://54.67.57.12:11371/v1,"qwen2.5:1.5b, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://60.216.170.82:11434/v1,"deepseek-r1:7b, qwen2.5:14b, phi4:latest, qwen2.5:latest, qwen2.5-coder:14b, qwen2.5-coder:7b, cas/yi-1.5-9b-chat:latest, mistral:latest"
