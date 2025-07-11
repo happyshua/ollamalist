@@ -2210,3 +2210,6 @@ http://13.230.150.77:8887/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b, llama3:l
 http://54.249.125.103:5003/v1,"codellama:13b, llama3:latest"
 http://8.219.242.108:11434/v1,"minicpm-v:latest, gemma3:27b, gemma3:12b, huihui_ai/qwen2.5-1m-abliterated:14b"
 http://18.116.69.123:6007/v1,"openchat:7b, llama3:latest, deepseek-r1:latest"
+http://108.235.60.69:11434/v1,"aya-expanse:latest, qwen3:14b, paraphrase-multilingual:278m-mpnet-base-v2-fp16, llama3.1:latest"
+http://184.72.176.247:22335/v1,"llama2:latest, openchat:7b"
+http://54.176.35.30:8097/v1,"llama2:latest, openchat:7b"
