@@ -2213,3 +2213,7 @@ http://18.116.69.123:6007/v1,"openchat:7b, llama3:latest, deepseek-r1:latest"
 http://108.235.60.69:11434/v1,"aya-expanse:latest, qwen3:14b, paraphrase-multilingual:278m-mpnet-base-v2-fp16, llama3.1:latest"
 http://184.72.176.247:22335/v1,"llama2:latest, openchat:7b"
 http://54.176.35.30:8097/v1,"llama2:latest, openchat:7b"
+http://44.204.238.119:8983/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b, codellama:13b, openchat:7b"
+http://3.88.12.46:9200/v1,qwen2.5:1.5b
+http://44.251.176.235:2082/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b"
+http://120.236.35.58:8000/v1,"qwen3:0.6b, qwen3:30b-a3b-q4_K_M, deepseek-r1:32b, devstral:24b-small-2505-q8_0, qwen2.5-coder:32b-instruct-q5_K_M, qwen3:32b-q4_K_M, yxl/m3e:latest, ishumilin/deepseek-r1-coder-tools:32b, mxbai-embed-large:latest"
