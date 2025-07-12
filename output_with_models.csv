@@ -2335,3 +2335,6 @@ http://154.26.128.219:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deeps
 http://43.163.208.132:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, dolphincoder:15b-starcoder2"
 http://152.70.38.199:11434/v1,deepseek-r1:1.5b
 http://220.117.211.140:11434/v1,"nexus-raven-tool-user:latest, eeve-korean:latest, glm4:latest, deepseek-r1:latest, qwen3:latest, mistral:latest, gemma3:latest, MyTutor:latest"
+http://20.246.168.163:11434/v1,llama2:7b
+http://183.97.14.157:11434/v1,"exaone-deep:32b, exaone3.5:latest, cogito:32b, deepseek-r1:32b"
+http://112.193.57.248:11434/v1,"qwen2.5:7b, Qwen3:0.6b, qwen2.5:3b, qwen2.5:0.5b, deepseek-r1:1.5b"
