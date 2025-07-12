@@ -2375,3 +2375,5 @@ http://223.194.44.43:11434/v1,"deepseek-R1:1.5b, llama3.2:3b-instruct-q5_K_M, sm
 http://138.197.113.200:11434/v1,"starcoder2:15b, deepseek-r1:latest, qwen3:4b, phi4-mini:3.8b, phi4:14b"
 http://111.53.147.114:11434/v1,"llava:7b, qwen2.5:7b-instruct, deepseek-r1:8b, qwen2.5:7b"
 http://121.136.34.81:11434/v1,"huihui_ai/kanana-nano-abliterated:latest, gemma3:4b"
+http://223.85.99.47:11434/v1,deepseek-r1:1.5b
+http://128.199.113.206:11434/v1,"deepseek-r1:1.5b, deepseek-r1:latest"
