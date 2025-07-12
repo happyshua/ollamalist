@@ -2348,3 +2348,11 @@ http://1.95.42.33:9100/v1,"qwen3:8b, bge-m3:latest, deepseek-r1:7b, llava:7b, no
 http://43.155.154.35:11434/v1,"qwen3:14b, qwen:14b, deepseek-r1:14b, deepseek-r1:32b, deepseek-r1:7b"
 http://125.126.67.14:11434/v1,"gemma3:12b, qwen3:8b, nomic-embed-text:latest, mxbai-embed-large:latest, deepseek-coder:latest, deepseek-r1:32b, deepseek-r1:1.5b"
 http://112.12.105.11:11434/v1,"megadolphin:latest, qwwqqnvd:latest, qwen2.5:7b, zhuguoku/ModelFuture-DeepSeek-R1-Distill-Qwen-7B:latest, zhuguoku/qwen2.5-32b-chinagoods-sft-v1-q4_k_m:latest, zhuguoku/qwen2.5-7b-chinagoods-sft-v1-q2_k:latest, zhuguoku/qwen2.5-7b-chinagoods-sft-v1-q4_k_m:latest, zhuguoku/qwen2.5-7b-chinagoods-sft-v1-q8_0:latest, zhuguoku/qwen2.5-7b-chinagoods-sft-v1-q4_0:latest, deepseek-r1:7b, deepseek-r1:671b"
+http://38.55.183.233:11434/v1,"smollm2:135m, hermes3:8b"
+http://204.236.215.205:6007/v1,"llama3:latest, qwen2.5:1.5b"
+http://20.242.123.231:11434/v1,"llama3-groq-tool-use:latest, llama3.1:8b-instruct-q4_K_M, deepseek-r1:latest, llama3.2:3b"
+http://34.47.200.223:11434/v1,mistral-nemo:12b
+http://210.109.81.254:11434/v1,"llama4:17b-maverick-128e-instruct-q8_0, qwen2.5vl:72b-fp16, gemma3:27b-it-fp16, gemma3:latest"
+http://51.79.165.213:11434/v1,"smollm2:135m, deepseek-r1:latest"
+http://118.217.203.173:11434/v1,"mario:latest, llama3-backup:latest, llama3.1:8b-instruct-q4_K_M, PCN_sLLM:latest, gemma3:12b, pcn-interview:latest, qwen2.5:7b, bge-m3:latest, llama3.2:latest, llama3.1:latest"
+http://13.76.121.111:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:8b, llama2:latest, deepseek-r1:1.5b"
