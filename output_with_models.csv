@@ -2363,3 +2363,15 @@ http://104.238.135.124:11434/v1,llama3.2:latest
 http://183.156.117.218:11434/v1,deepseek-r1:1.5b
 http://117.72.92.10:11434/v1,deepseek-r1:1.5b
 http://220.133.34.251:11434/v1,"smollm2:135m, deepseek-r1:7b, deepseek-coder-v2:16b"
+http://161.115.58.252:11434/v1,"gemma3:4b, mistral:7b, qwen3:8b"
+http://56.155.21.225:800/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b"
+http://56.155.131.86:8334/v1,codellama:13b
+http://104.138.226.95:11434/v1,"smollm2:135m, coder2.5-6:latest, qwen2.5-5:latest, Qwen2.5-6:latest, Qwen2.5-8:latest, gemma327:latest, gemma312:latest, QwQ-32b:latest, gemma-2:latest, mistral-small-24b-q4:latest"
+http://12.221.142.206:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama2:latest, deepseek-r1:7b"
+http://209.126.106.154:11434/v1,"smollm2:135m, all-minilm:latest"
+http://15.152.36.124:5986/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://115.171.17.10:11434/v1,"llama3.1:8b, deepseek-v2:latest, deepseek-r1:8b, deepseek-r1:14b, deepseek-r1:70b"
+http://223.194.44.43:11434/v1,"deepseek-R1:1.5b, llama3.2:3b-instruct-q5_K_M, smollm2:135m, camel-R1:latest, deepseek-R1:7b"
+http://138.197.113.200:11434/v1,"starcoder2:15b, deepseek-r1:latest, qwen3:4b, phi4-mini:3.8b, phi4:14b"
+http://111.53.147.114:11434/v1,"llava:7b, qwen2.5:7b-instruct, deepseek-r1:8b, qwen2.5:7b"
+http://121.136.34.81:11434/v1,"huihui_ai/kanana-nano-abliterated:latest, gemma3:4b"
