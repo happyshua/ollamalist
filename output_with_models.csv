@@ -2302,3 +2302,15 @@ http://203.121.254.82:11434/v1,"smollm2:135m, deepseek-r1:8b, llama3.1:8b, deeps
 http://118.166.22.213:11434/v1,"qwen2:7b-instruct, my-custom-model:latest, hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4:latest, dolphin-long-writer:latest, nomic-embed-text:latest, huihui_ai/llama3.3-abliterated:70b-instruct-q4_K_M, hf.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B-GGUF:Q4_0, huihui_ai/qwen2.5-abliterate:14b, mollysama/rwkv-6-world:1.6b, reefer/monica:latest, rzline/Tifa-Deepsex-14b-CoT-Chat-Q8.gguf:latest, hf.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8:latest, hf.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-F16:latest, mistral:latest, bge-m3:latest, hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4:IQ4_NL"
 http://211.21.244.216:11434/v1,"mario:latest, llama3-backup:latest, llama3.2:latest, llama3.2:3b-instruct-q5_K_M, gemma3:12b"
 http://118.168.222.90:11434/v1,"Qwen2.5-Coder:7b, phi3:3.8b, mistral:7b, qwen2:7b, gemma:7b, llama3.1:8b, deepseek-r1:7b"
+http://152.136.210.166:9090/v1,"qwen3:235b-a22b, qwen2.5vl:72b, qwen3:235b, deepseek-r1:671b, llama4:128x17b, bge-m3:latest"
+http://13.208.60.115:50050/v1,"qwen2.5:1.5b, llama2:latest"
+http://104.238.222.228:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, deepseek-r1:7b, bge-m3:latest, linux6200/bge-reranker-v2-m3:latest, quentinz/bge-large-zh-v1.5:latest, deepseek-r1:1.5b"
+http://219.77.249.97:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, qwen3:latest, qwen3:32b, deepseek-r1:latest, gemma3:12b, llama3.3:latest, deepseek-r1:14b"
+http://222.90.31.117:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, huihui_ai/qwen2.5-coder-abliterate:1.5b, huihui_ai/qwen2.5-coder-abliterate:14b, deepseek-r1:14b"
+http://34.124.182.3:11434/v1,"smollm2:135m, deepseek-r1:14b, gemma3:12b"
+http://96.125.238.10:11434/v1,mistral:latest
+http://47.122.70.196:11434/v1,"qwen2.5vl:latest, qwq:latest, deepseek-r1:32b, glm4:latest, phi4:latest, phi3:latest, qwen2.5:latest, llama3.2:latest, phi3:medium-128k, qwen2:latest, gemma2:latest, llama3.1:latest, llama3.1:8b"
+http://39.98.107.26:11434/v1,"llama3.2:3b-instruct-q5_K_M, wizardlm2:latest, quentinz/bge-large-zh-v1.5:latest, deepseek-r1:1.5b, nomic-embed-text:latest, bge-m3:latest, deepseek-r1:7b"
+http://194.233.73.203:11434/v1,llama3.2:latest
+http://188.166.254.116:11434/v1,"smollm2:135m, tinyllama:latest"
+http://96.9.211.154:11434/v1,deepseek-r1:1.5b
