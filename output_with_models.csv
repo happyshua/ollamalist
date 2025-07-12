@@ -2399,3 +2399,12 @@ http://141.223.121.58:11434/v1,"gemma3:1b, qwen3:0.6b, qwen3:32b, deepseek-r1:8b
 http://183.111.230.238:11434/v1,llama3:latest
 http://175.212.216.130:11434/v1,"gemma3:latest, gemma3n:latest, llama3.2:latest"
 http://211.47.68.153:11434/v1,"smollm2:135m, llama3.2:latest"
+http://18.183.79.31:1741/v1,"llama3:latest, codellama:13b"
+http://13.125.58.171:4711/v1,"openchat:7b, llama2:latest"
+http://111.230.99.232:11434/v1,"smollm2:135m, test123:latest"
+http://220.128.95.130:11434/v1,"mistral-small_24b_finetuned:latest, qwen3:32b, bogdancsn/Foundation-Sec-8B:latest, llama4:scout, deepseek-r1:latest, ALIENTELLIGENCE/telecommunicationsengineer:latest, llama3.3:latest, llama3.2:3b, mistral-small:24b, gemma3:27b, internlm/internlm3-8b-instruct:latest"
+http://220.128.95.130:11434/v1,"mistral-small_24b_finetuned:latest, qwen3:32b, bogdancsn/Foundation-Sec-8B:latest, llama4:scout, deepseek-r1:latest, ALIENTELLIGENCE/telecommunicationsengineer:latest, llama3.3:latest, llama3.2:3b, mistral-small:24b, gemma3:27b, internlm/internlm3-8b-instruct:latest"
+http://220.141.215.138:11434/v1,"gemma3:27b, deepseek-r1:70b"
+http://68.183.179.37:11434/v1,"phi3:latest, gemma2:latest"
+http://117.72.117.174:11434/v1,"qwen3:1.7b, qwen3:4b"
+http://160.13.80.72:11434/v1,"gemma3n:latest, deepseek-r1:latest, aya:latest, command-r:latest, smollm2:135m, gemma3n:e4b, gemma3:27b, deepseek-r1:8b"
