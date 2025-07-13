@@ -2053,3 +2053,9 @@ http://122.116.228.57:11434/v1,"gemma:2b, gemma3:27b"
 http://139.162.52.170:11434/v1,"gemma3:latest, llama2:latest"
 http://36.232.82.37:11434/v1,"qwen3:latest, qwen3:0.6b, mistral-small3.1:24b, cogito:14b, granite3.2:8b, phi4-mini:latest, qwq:latest, phi4:latest, GandalfBaum/deepseek_r1-claude3.7:latest, deepseek-r1:14b, gemma3:27b, mistral:latest, deepseek-r1:32b, gemma3:4b, deepseek-r1:8b, llama3.2:latest, llama3.2:1b, llama3.1:latest"
 http://67.170.23.185:11434/v1,qwen3:30b
+http://13.208.191.186:9030/v1,"llama3:latest, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://141.223.124.63:11434/v1,"llama3.2:latest, mistral:latest, phi4:latest, deepseek-r1:8b, smollm:135m, qwen2.5:3b, gemma2:latest, qwen2.5:1.5b"
+http://152.70.236.77:11434/v1,"smollm2:135m, neural-chat:latest, tinyllama:latest, mistral:instruct"
+http://120.25.161.25:11434/v1,DeepSeek-R1:7b
+http://ai.gclxyl.com:11434/v1,"deepseek-r1:1.5b, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, deepseek-r1:7b, llama3.1:8b-instruct-q4_K_M"
+http://video.gclxyl.cn:11434/v1,"deepseek-r1:1.5b, deepseek-r1:7b, llama3.1:8b-instruct-q4_K_M, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest"
