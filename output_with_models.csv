@@ -2170,3 +2170,7 @@ http://52.79.129.199/v1,"openchat:7b, deepseek-r1:latest, llama2:latest"
 http://43.202.57.8:8001/v1,"llama3:latest, openchat:7b, codellama:13b, llama2:latest, qwen2.5:1.5b"
 http://3.39.225.23:898/v1,llama2:latest
 http://13.250.6.191:50060/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, llama3:latest, llama2:latest"
+http://3.15.168.214:28017/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest"
+http://3.148.213.72:7443/v1,"deepseek-r1:latest, llama3:latest, llama2:latest"
+http://173.62.255.159:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, llama3:latest, falcon:latest, mixtral:latest"
+http://35.225.151.141:8080/v1,"openthinker:latest, mistral:latest, mistral-small3.1:latest, mistral-nemo:latest, llama3.2:latest, gemma3:1b, gemma3:latest, deepseek-r1:14b, deepseek-llm:latest, mario:latest, llama3-backup:latest"
