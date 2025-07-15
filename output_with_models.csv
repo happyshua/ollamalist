@@ -2456,3 +2456,4 @@ http://52.90.223.247:5985/v1,openchat:7b
 http://3.39.0.29:7548/v1,"llama3:latest, qwen2.5:1.5b"
 http://3.34.138.174:6560/v1,codellama:13b
 http://18.143.167.190:5357/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, llama3:latest"
+http://108.181.166.47:11434/v1,phi3:mini
