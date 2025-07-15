@@ -2457,3 +2457,6 @@ http://3.39.0.29:7548/v1,"llama3:latest, qwen2.5:1.5b"
 http://3.34.138.174:6560/v1,codellama:13b
 http://18.143.167.190:5357/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, llama3:latest"
 http://108.181.166.47:11434/v1,phi3:mini
+http://15.168.140.118:5001/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest, deepseek-r1:latest"
+http://13.250.25.177:7144/v1,"openchat:7b, llama3:latest"
+http://180.214.179.92:5050/v1,"llava:latest, nomic-embed-text:latest, starcoder2:latest, codellama:latest, deepseek-r1:8b, qwen2.5-coder:latest, llama3.2:latest, llama3.1:latest"
