@@ -2394,3 +2394,8 @@ http://222.78.79.59:11434/v1,"qwen2.5:7b, bge-m3:latest"
 http://123.121.0.160:11434/v1,"qwen2.5vl:7b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:8b"
 http://121.144.224.164:11434/v1,llama3:latest
 http://52.194.188.198:98/v1,deepseek-r1:latest
+http://124.221.8.97:11434/v1,"deepseek-r1:1.5b, deepseek-r1:8b"
+http://34.60.57.7:11434/v1,"deepseek-r1:7b, deepseek-r1:latest"
+http://54.234.212.172:8081/v1,"llama2:latest, openchat:7b, qwen2.5:1.5b, llama3:latest, codellama:13b"
+http://18.206.236.67:7170/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, llama2:latest, openchat:7b"
+http://44.251.176.235:3002/v1,"openchat:7b, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b"
