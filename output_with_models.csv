@@ -2613,3 +2613,10 @@ http://35.92.146.183:8089/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b"
 http://44.243.8.80:86/v1,qwen2.5:1.5b
 http://56.155.106.221:52869/v1,llama3:latest
 http://13.229.203.134:7170/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, qwen2.5:1.5b, openchat:7b"
+http://18.216.60.22:7071/v1,"deepseek-r1:latest, openchat:7b"
+http://3.147.60.58:8089/v1,"codellama:13b, llama3:latest"
+http://3.137.187.92:8089/v1,"openchat:7b, codellama:13b"
+http://18.162.156.11:8089/v1,"llama3:latest, deepseek-r1:latest, openchat:7b, llama2:latest, codellama:13b"
+http://43.199.204.164:18080/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, llama2:latest, qwen2.5:1.5b"
+http://60.188.200.40:8089/v1,"codegemma:7b, mattw/pygmalion:latest, llama3.2:latest, mario:latest, granite-embedding:278m, EntropyYue/jina-embeddings-v2-base-zh:latest, nomic-embed-text:latest, bsahane/Qwen2.5-VL-7B-Instruct:Q4_K_M_benxh, llama3.2-vision:11b, deepseek-r1:14b, deepseek-r1:8b, deepseek-coder-v2:latest, llama3.2:3b, smollm2:135m, TheAzazel/qwen2.5-coder-32b-instruct-abliterated-rombo-ties-v1.0.i1-q4k_m:latest, huihui_ai/llama3.3-abliterated-ft:latest, huihui_ai/llama3.2-abliterate:latest, huihui_ai/granite3.1-dense-abliterated:latest, huihui_ai/falcon3-abliterated:10b, gemma2:2b, llama2:latest, mxbai-embed-large:latest, gemma2:27b, qwen:32b, mistral:latest"
+http://47.106.74.86:11434/v1,"llama3.1:8b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:8b"
