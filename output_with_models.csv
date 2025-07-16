@@ -2602,3 +2602,8 @@ http://52.77.211.194:8000/v1,codellama:13b
 http://13.208.174.251:49151/v1,"openchat:7b, llama2:latest"
 http://121.43.98.161:11434/v1,"smollm2:135m, llama3:8b"
 http://36.134.143.180:11434/v1,"llama3.2:latest, qwen3:8b, deepseek-r1:8b"
+http://13.229.199.135:1900/v1,"llama2:latest, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://43.202.51.238:18080/v1,"llama3:latest, codellama:13b, openchat:7b, llama2:latest, deepseek-r1:latest"
+http://3.17.166.214:7779/v1,llama3:latest
+http://52.15.161.54:7777/v1,"codellama:13b, llama3:latest, openchat:7b, deepseek-r1:latest"
+http://54.152.39.116:9999/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b, codellama:13b"
