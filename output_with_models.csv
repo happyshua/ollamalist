@@ -2522,3 +2522,7 @@ http://3.112.230.49:8080/v1,openchat:7b
 http://13.115.60.15:1314/v1,"qwen2.5:1.5b, codellama:13b, llama2:latest"
 http://175.6.27.230:11434/v1,"smollm2:135m, qwen2.5-coder:32b, qwq:latest, rjmalagon/gte-qwen2-7b-instruct:bf16, qllama/bge-small-en-v1.5:latest, qwen2.5-0.5b-instruct:latest, bge-m3:latest, shaw/dmeta-embedding-zh:latest, nomic-embed-text:latest, deepseek-r1:32b, llama3.3:70b-instruct-q2_K, llama3.3:70b-instruct-q3_K_S, llama3.3:70b, llama3.2-vision:90b"
 http://43.201.82.244:8983/v1,"llama2:latest, codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
+http://54.219.182.240:8885/v1,codellama:13b
+http://35.93.133.116:8529/v1,"llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://34.215.128.53:5357/v1,openchat:7b
+http://15.168.3.213:7170/v1,openchat:7b
