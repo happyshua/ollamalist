@@ -2505,3 +2505,7 @@ http://34.217.15.77:5051/v1,"openchat:7b, codellama:13b, deepseek-r1:latest"
 http://18.246.228.180:12300/v1,codellama:13b
 http://3.35.168.195:10443/v1,"deepseek-r1:latest, llama2:latest"
 http://14.47.20.205:10001/v1,"gemma3n:e2b, llama3.2:3b, deepseek-r1:7b, nomic-embed-text:latest"
+http://56.155.140.16:9997/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest"
+http://78.12.193.120:9870/v1,"llama2:latest, codellama:13b, llama3:latest"
+http://54.153.58.183:4567/v1,openchat:7b
+http://34.215.66.236:8000/v1,"deepseek-r1:latest, openchat:7b, codellama:13b"
