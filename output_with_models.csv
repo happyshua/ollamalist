@@ -2190,3 +2190,15 @@ http://54.250.49.99:8080/v1,"llama2:latest, codellama:13b, qwen2.5:1.5b, opencha
 http://15.152.30.52:9007/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
 http://3.36.124.12:8098/v1,codellama:13b
 http://13.229.111.31:8080/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest"
+http://175.41.155.180:8030/v1,"llama3:latest, codellama:13b"
+http://54.179.64.53/v1,openchat:7b
+http://54.179.64.53:8080/v1,openchat:7b
+http://54.254.244.163:8888/v1,"qwen2.5:1.5b, llama3:latest"
+https://api.isonar.io/v1,gemma3:1b
+http://54.238.35.31:8080/v1,"qwen2.5:1.5b, llama2:latest, llama3:latest, codellama:13b"
+http://43.198.244.81:8546/v1,"llama3:latest, codellama:13b, openchat:7b"
+http://54.179.64.53/v1,openchat:7b
+http://54.179.64.53:8080/v1,openchat:7b
+http://120.126.124.3:11434/v1,"llama3:8b, llama3:latest, gemma3:latest"
+http://120.126.124.3:11434/v1,"llama3:8b, llama3:latest, gemma3:latest"
+http://36.228.212.94:11434/v1,"mistral-small3.2:24b, deepseek-r1:latest, andy-4:latest, qwen3:8b, gemma3n:e4b-it-q8_0, deepseek-r1:32b, qwen3:32b, qwen3:4b, qwen3:30b-a3b, gemma3:4b-it-qat, nomic-embed-text:latest"
