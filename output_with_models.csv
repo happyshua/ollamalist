@@ -2159,3 +2159,4 @@ http://44.243.32.83:7004/v1,"deepseek-r1:latest, qwen2.5:1.5b, openchat:7b, llam
 http://52.40.134.74:7780/v1,"qwen2.5:1.5b, openchat:7b, llama3:latest"
 http://56.124.22.247:7788/v1,"deepseek-r1:latest, llama3:latest, codellama:13b"
 http://223.199.179.209:11434/v1,"llama3.2:latest, mario:latest, mattw/pygmalion:latest, llama3.1:latest, codegeex4:latest, nomic-embed-text:latest, deepseek-r1:32b, smollm2:135m, llama3.1:8b"
+http://52.53.126.140:7288/v1,"codellama:13b, deepseek-r1:latest, llama2:latest, llama3:latest, openchat:7b"
