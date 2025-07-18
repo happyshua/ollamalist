@@ -2287,3 +2287,7 @@ http://107.22.146.50:6080/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b"
 http://202.107.237.182:9010/v1,"deepseek-r1:14b, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, deepseek-r1:32b, qwen3:14b"
 http://47.108.159.147:11434/v1,"smollm2:135m, bge-m3:latest, deepseek-r1:1.5b"
 http://61.178.108.82:11434/v1,deepseek-r1:8b
+http://18.118.162.239:8069/v1,"codellama:13b, openchat:7b"
+http://18.183.139.195:1588/v1,"llama2:latest, qwen2.5:1.5b"
+http://114.32.164.8:11434/v1,qwen3:30b
+http://114.32.164.8:11434/v1,qwen3:30b
