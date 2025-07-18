@@ -2252,3 +2252,4 @@ http://3.101.75.95:8194/v1,llama2:latest
 http://35.92.37.94:7547/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, llama2:latest, openchat:7b"
 http://78.13.150.172:880/v1,"openchat:7b, deepseek-r1:latest, llama2:latest, llama3:latest"
 http://3.148.168.21:7547/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, codellama:13b"
+http://58.33.82.130:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, gemma3:12b, deepseek-r1:14b"
