@@ -2295,3 +2295,8 @@ http://78.13.106.47:9012/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, deepseek-
 http://13.56.210.120:40000/v1,"llama3:latest, openchat:7b, llama2:latest, deepseek-r1:latest, codellama:13b"
 http://ollama.nuworld.cloud/v1,llama3.2:latest
 http://121.31.16.86:11434/v1,"gemma3:4b, gemma3:12b, deepseek-r1:14b"
+http://18.141.234.153:25105/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, openchat:7b, llama3:latest"
+http://43.198.88.37:2080/v1,llama2:latest
+http://120.107.144.231:11434/v1,"mario:latest, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:latest, gemma3:27b, phi4:latest, llama4:latest, deepseek-r1:latest, gemma3:latest, mistral:latest"
+http://54.254.158.125:7547/v1,"llama2:latest, llama3:latest, deepseek-r1:latest, codellama:13b"
+http://43.202.65.10:7547/v1,"llama3:latest, deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
