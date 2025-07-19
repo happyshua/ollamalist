@@ -2336,3 +2336,4 @@ http://15.168.9.50:7547/v1,"openchat:7b, qwen2.5:1.5b"
 http://15.168.39.123:55555/v1,"llama2:latest, llama3:latest, openchat:7b, codellama:13b"
 http://15.168.9.50:8089/v1,llama3:latest
 http://13.124.130.62:7002/v1,qwen2.5:1.5b
+http://54.179.5.139:7144/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b, llama3:latest, openchat:7b"
