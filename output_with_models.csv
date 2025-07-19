@@ -2314,3 +2314,4 @@ http://125.123.64.16:11434/v1,deepseek-r1:7b
 http://61.187.98.27:11434/v1,"qwen:1.8b, qwen3:0.6b"
 http://43.252.230.213:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepseek-r1:1.5b"
 http://14.198.46.213:11434/v1,llama3.2:3b
+http://202.79.172.117:11434/v1,"gemma:2b, llama3:latest, qwen3:1.7b-q4_K_M, gemma3:latest"
