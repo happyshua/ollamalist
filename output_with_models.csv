@@ -2322,3 +2322,4 @@ http://13.208.110.63:10443/v1,deepseek-r1:latest
 http://13.208.174.251:2086/v1,llama3:latest
 http://13.208.240.186:2086/v1,"deepseek-r1:latest, codellama:13b"
 http://13.208.110.63:2086/v1,"deepseek-r1:latest, openchat:7b, llama3:latest"
+http://56.155.116.136:8096/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, llama2:latest"
