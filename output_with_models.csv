@@ -2323,3 +2323,12 @@ http://13.208.174.251:2086/v1,llama3:latest
 http://13.208.240.186:2086/v1,"deepseek-r1:latest, codellama:13b"
 http://13.208.110.63:2086/v1,"deepseek-r1:latest, openchat:7b, llama3:latest"
 http://56.155.116.136:8096/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, llama2:latest"
+http://54.177.132.188:7100/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, llama3:latest, openchat:7b"
+http://34.213.93.57:5938/v1,"llama3:latest, openchat:7b, codellama:13b, llama2:latest"
+http://34.219.59.199:13666/v1,llama3:latest
+http://18.183.139.195:9870/v1,"llama3:latest, deepseek-r1:latest"
+http://15.168.173.122:7071/v1,"codellama:13b, openchat:7b"
+http://113.44.154.85:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
+http://180.154.12.206:11434/v1,"brxce/stable-diffusion-prompt-generator:latest, deepseek-r1:8b"
+http://122.117.165.8:3479/v1,"gemma3n:e2b, deepseek-r1:8b, gemma3:12b, devstral:latest, llama3.2-vision:11b, qwen3:8b, gemma3:4b, llava:latest, llama3:latest, exaone-deep:7.8b, mistral:7b"
+http://122.117.165.8:3479/v1,"gemma3n:e2b, deepseek-r1:8b, gemma3:12b, devstral:latest, llama3.2-vision:11b, qwen3:8b, gemma3:4b, llava:latest, llama3:latest, exaone-deep:7.8b, mistral:7b"
