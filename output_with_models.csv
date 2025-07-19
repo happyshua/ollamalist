@@ -2300,3 +2300,4 @@ http://43.198.88.37:2080/v1,llama2:latest
 http://120.107.144.231:11434/v1,"mario:latest, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:latest, gemma3:27b, phi4:latest, llama4:latest, deepseek-r1:latest, gemma3:latest, mistral:latest"
 http://54.254.158.125:7547/v1,"llama2:latest, llama3:latest, deepseek-r1:latest, codellama:13b"
 http://43.202.65.10:7547/v1,"llama3:latest, deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
+http://117.50.205.254:11434/v1,qwen3:latest
