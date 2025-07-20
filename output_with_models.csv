@@ -2348,3 +2348,8 @@ http://122.156.199.92:11434/v1,deepseek-r1:8b
 http://43.199.187.37:28017/v1,"llama2:latest, deepseek-r1:latest"
 http://13.212.253.228:8085/v1,"qwen2.5:1.5b, llama2:latest, llama3:latest"
 http://13.228.70.177:1741/v1,"openchat:7b, llama2:latest, qwen2.5:1.5b, codellama:13b, deepseek-r1:latest"
+http://34.207.153.19:7443/v1,"llama2:latest, llama3:latest, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b"
+http://54.176.238.228:49153/v1,"deepseek-r1:latest, llama3:latest"
+http://34.216.224.9:3075/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://54.196.5.141:8092/v1,hf.co/RichardErkhov/Nitral-AI_-_Poppy_Porpoise-0.72-L3-8B-gguf:Q8_0
+http://118.168.57.98/v1,"gemma3:12b, deepseek-coder:6.7b-instruct"
