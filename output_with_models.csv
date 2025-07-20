@@ -2353,3 +2353,5 @@ http://54.176.238.228:49153/v1,"deepseek-r1:latest, llama3:latest"
 http://34.216.224.9:3075/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
 http://54.196.5.141:8092/v1,hf.co/RichardErkhov/Nitral-AI_-_Poppy_Porpoise-0.72-L3-8B-gguf:Q8_0
 http://118.168.57.98/v1,"gemma3:12b, deepseek-coder:6.7b-instruct"
+http://43.201.97.200/v1,"llama3:latest, qwen2.5:1.5b, codellama:13b, llama2:latest"
+http://59.125.44.127:11434/v1,"qwen3:32b, bsahane/gemma3:27b, qwen2.5vl:32b, qwen2.5vl:72b, llama3.3:latest, nomic-embed-text:latest, deepseek-r1:70b, gemma3:27b"
