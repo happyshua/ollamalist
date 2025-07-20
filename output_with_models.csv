@@ -2388,3 +2388,10 @@ http://15.152.34.58:8086/v1,"llama2:latest, qwen2.5:1.5b, codellama:13b, opencha
 http://125.118.85.4:11434/v1,"smollm2:135m, nomic-embed-text:latest, quentinz/bge-base-zh-v1.5:latest, deepseek-r1:14b"
 http://47.99.43.43:11434/v1,deepseek-r1:14b
 http://183.61.5.17:11434/v1,"qwen2.5:32b, llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, deepseek-r1:70b, deepseek-r1:1.5b, deepseek-r1:32b"
+http://13.250.24.61:2379/v1,"codellama:13b, llama2:latest"
+http://18.143.167.190:6488/v1,"llama2:latest, qwen2.5:1.5b"
+http://16.162.254.218:8069/v1,"llama2:latest, codellama:13b, qwen2.5:1.5b"
+http://18.143.167.190:6488/v1,"llama2:latest, qwen2.5:1.5b"
+http://13.250.24.61:2379/v1,"codellama:13b, llama2:latest"
+http://119.45.95.64:11434/v1,deepseek-r1:1.5b
+http://175.0.104.96:11434/v1,"qwen3:0.6b, qwen3:30b-a3b-fp16, linux6200/bge-reranker-v2-m3:latest, deepseek-r1:70b, bge-m3:latest, qwq:32b-fp16"
