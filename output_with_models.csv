@@ -2021,3 +2021,10 @@ http://54.254.244.163:9010/v1,deepseek-r1:latest
 http://54.254.232.157:9999/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, llama2:latest"
 http://54.254.165.29:7000/v1,"codellama:13b, llama3:latest, llama2:latest, qwen2.5:1.5b, openchat:7b"
 http://43.199.187.37:28017/v1,"llama2:latest, codellama:13b, llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://3.94.55.204:5005/v1,codellama:13b
+http://78.12.147.67:6868/v1,"openchat:7b, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://78.12.9.157:8983/v1,"llama2:latest, openchat:7b, llama3:latest"
+http://13.62.45.86:2306/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://112.3.63.222:11434/v1,"llama3.1:8b, deepseek-r1:14b"
+http://118.145.200.164:11434/v1,"gemma3:27b, gemma3:4b"
+http://112.4.115.203:11434/v1,"qwen3:14b-q8_0, gemma3:27b-it-qat, qwen3:8b-q8_0, deepseek-r1:8b-0528-qwen3-q8_0, qwen3:32b-q8_0, qwen3:0.6b, mxbai-embed-large:latest, autumnzsd/nlp_gte_sentence-embedding_chinese-large:latest, lsm03624/GLM-Z1-32B-0414-Q8_0:latest"
