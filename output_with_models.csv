@@ -2058,3 +2058,12 @@ http://3.38.98.182:5005/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, qwen
 http://54.212.20.95:88/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b, deepseek-r1:latest, codellama:13b"
 http://56.155.36.152:3312/v1,"codellama:13b, llama2:latest, llama3:latest"
 http://47.128.216.222:7401/v1,"openchat:7b, llama2:latest, codellama:13b"
+http://35.92.36.78:8089/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://13.231.188.68:55555/v1,"codellama:13b, llama3:latest"
+http://13.114.106.169:1212/v1,"deepseek-r1:latest, codellama:13b, openchat:7b, qwen2.5:1.5b"
+http://13.231.188.68:3128/v1,"codellama:13b, openchat:7b"
+http://3.38.98.182:5555/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://52.78.65.137:55442/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b"
+http://43.198.210.248:83/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, llama3:latest"
+http://175.127.42.147:3000/v1,llama3:latest
+http://112.218.161.107:11434/v1,"qwen2.5vl:32b-q4_K_M, qwen2.5vl:32b, llama4:latest, qwen3:32b, gemma3:27b, llama3.2:3b-instruct-fp16, gemma3:12b, deepseek-r1:32b, qwq:32b"
