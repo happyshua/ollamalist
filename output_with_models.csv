@@ -2067,3 +2067,4 @@ http://52.78.65.137:55442/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b"
 http://43.198.210.248:83/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, llama3:latest"
 http://175.127.42.147:3000/v1,llama3:latest
 http://112.218.161.107:11434/v1,"qwen2.5vl:32b-q4_K_M, qwen2.5vl:32b, llama4:latest, qwen3:32b, gemma3:27b, llama3.2:3b-instruct-fp16, gemma3:12b, deepseek-r1:32b, qwq:32b"
+http://101.42.36.220:11434/v1,"smollm2:135m, deepseek-r1:7b"
