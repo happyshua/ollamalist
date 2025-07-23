@@ -2240,3 +2240,4 @@ http://44.212.66.8:8098/v1,"codellama:13b, llama3:latest, deepseek-r1:latest, ll
 http://18.221.254.211:1900/v1,deepseek-r1:latest
 http://35.89.243.30:8085/v1,"llama2:latest, qwen2.5:1.5b, codellama:13b, openchat:7b"
 http://82.157.194.218:6080/v1,"deepseek-r1:7b, deepseek-r1:1.5b, llama3.2:1b-instruct-q4_K_M, llama3.2:3b-instruct-q5_K_M, znbang/bge:large-zh-v1.5-f16, lgkt/llama3-chinese-alpaca:latest, llama3.2-vision:90b, qllama/bge-reranker-large:latest, qwq:32b-fp16, qwq:latest, qwen2.5:72b, nomic-embed-text:latest, Tifa-Deepsex-14b-CoT-Chat-Q8:latest, deepseek-r1:14b, Tifa-Deepsex-14b-CoT-Crazy-Q8:latest, deepseek-r1:70b, glm4:9b-chat-fp16, llama3.3:70b"
+http://110.80.146.162:8081/v1,"llama3.2:3b-instruct-q5_K_M, quentinz/bge-large-zh-v1.5:latest, Qwen2.5:32b"
