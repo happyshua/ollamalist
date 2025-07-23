@@ -2197,3 +2197,14 @@ http://15.168.143.46/v1,"llama2:latest, llama3:latest, openchat:7b, deepseek-r1:
 http://3.84.101.134:5004/v1,qwen2.5:1.5b
 http://56.155.104.28:5005/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
 http://117.50.175.121:11434/v1,"changji_medical_deepseek_r1:32b, changji_medical_deepseek_r1:14b"
+http://16.162.19.211:9091/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, codellama:13b"
+http://13.212.21.25:1311/v1,openchat:7b
+http://47.128.76.175:55555/v1,"openchat:7b, deepseek-r1:latest, llama2:latest, codellama:13b, llama3:latest"
+http://43.198.203.189:2080/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b"
+http://35.166.157.112:9668/v1,"llama2:latest, codellama:13b, llama3:latest"
+http://54.200.14.24:5560/v1,llama2:latest
+http://35.93.146.200:32773/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://3.39.251.193:7788/v1,"llama2:latest, deepseek-r1:latest"
+http://3.38.98.182:3052/v1,"llama3:latest, deepseek-r1:latest, codellama:13b"
+http://3.38.212.127:2052/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://43.203.141.154:3520/v1,"openchat:7b, deepseek-r1:latest"
