@@ -2173,3 +2173,10 @@ http://18.143.163.177:8194/v1,"llama2:latest, openchat:7b, deepseek-r1:latest, c
 http://47.108.14.42:11434/v1,"qwen:0.5b, qwen:1.8b"
 http://112.124.51.176:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, gemma3:27b, linux6200/bge-reranker-v2-m3:latest, bge-m3:latest, deepseek-r1:32b, deepseek-r1:70b"
 http://54.151.171.145:9292/v1,"codellama:13b, llama2:latest, openchat:7b, llama3:latest, deepseek-r1:latest"
+http://202.5.255.49:11434/v1,"cwchang/llama-3-taiwan-8b-instruct-128k:latest, willqiu/Llama-Breeze2-8B-Instruct:latest, cwchang/llama3-taide-lx-8b-chat-alpha1:latest, deepseek-r1:8b, gemma3:4b, ebdm/gemma3-enhanced:12b, cwchang/llama-3-taiwan-8b-instruct:latest, gemma3:12b"
+http://219.135.169.199:11434/v1,deepseek-r1:32b
+http://13.57.7.193:9091/v1,"llama2:latest, qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://13.60.9.46:3052/v1,"llama3:latest, deepseek-r1:latest"
+http://czy-live.whlyw.net:11434/v1,"smollm2:135m, deepseek-r1:8b"
+http://60.178.228.238:11434/v1,"qwen3:8b, SIGJNF/deepseek-r1-671b-1.58bit:latest, deepseek-r1:70b"
+http://202.5.255.49:11434/v1,"cwchang/llama-3-taiwan-8b-instruct-128k:latest, willqiu/Llama-Breeze2-8B-Instruct:latest, cwchang/llama3-taide-lx-8b-chat-alpha1:latest, gemma3:4b, deepseek-r1:8b, ebdm/gemma3-enhanced:12b, cwchang/llama-3-taiwan-8b-instruct:latest, gemma3:12b"
