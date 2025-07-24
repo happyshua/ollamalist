@@ -2270,3 +2270,4 @@ http://15.168.241.128:16992/v1,deepseek-r1:latest
 http://13.125.215.199:5986/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
 http://52.78.223.109:8080/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b"
 http://3.35.235.76:1900/v1,openchat:7b
+http://18.143.173.102:3311/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, openchat:7b, qwen2.5:1.5b"
