@@ -2292,3 +2292,5 @@ http://124.220.48.38:11434/v1,qwen3:8b
 http://60.13.245.88:9000/v1,"deepseek-r1:32b, deepseek-r1:70b, deepseek-r1:14b, deepseek-r1:671b, nomic-embed-text:latest, deepseek-r1:1.5b, bge-m3:latest"
 http://221.219.236.221:11434/v1,"qwen2.5-coder:latest, deepseek-r1:8b, qwen3:32b, mistral-small:24b, gemma3:27b, gemma3:12b, bge-m3:latest, qwq:latest, smollm2:135m, qwen2.5:32b, qwen2.5:14b, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:7b, deepseek-r1:1.5b"
 http://113.116.40.74:10002/v1,"llama3.1:70b, deepseek-coder-v2:latest, deepseek-r1:14b, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:70b-llama-distill-q8_0, deepseek-r1:70b"
+http://174.129.162.243:31/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://110.40.44.15:10002/v1,"qwen3:8b, bge-m3:latest, nomic-embed-text:latest"
