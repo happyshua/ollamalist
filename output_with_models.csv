@@ -2261,3 +2261,5 @@ http://121.229.202.27:11434/v1,"mistral:v0.3, qwen3:32b, gemma3:27b"
 http://3.38.98.182:8089/v1,codellama:13b
 http://122.116.180.1:11434/v1,"deepseek-r1:latest, qwen3:latest, gemma3:latest"
 http://122.116.180.1:11434/v1,"deepseek-r1:latest, qwen3:latest, gemma3:latest"
+http://52.78.153.203:8089/v1,"deepseek-r1:latest, codellama:13b"
+http://43.203.170.157:8089/v1,"deepseek-r1:latest, openchat:7b"
