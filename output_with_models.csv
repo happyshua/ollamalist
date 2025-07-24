@@ -2278,3 +2278,4 @@ http://44.242.221.146:8025/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, llama
 http://202.110.158.75:11434/v1,"smollm2:135m, deepseek-r1:8b-0528-qwen3-fp16, llama3.2:3b-instruct-q5_K_M, qwen2.5:3b, qwen2.5vl:latest, qwen2.5:7b, qwen3:4b, qwen3:14b, GFalcon-UA/ReaderLM-v2:Q8, rjmalagon/gte-qwen2-7b-instruct-embed-f16:latest"
 http://116.204.3.213:11434/v1,"gemma:2b, qwen:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, bge-m3:latest"
 http://36.151.86.124:60000/v1,"deepseek-r1:8b, qwen2.5:7b"
+http://123.57.78.1:11434/v1,"deepseek-r1:1.5b, bge-m3:567m, gemma3:4b, qwen2.5vl:3b"
