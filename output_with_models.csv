@@ -2289,3 +2289,4 @@ http://34.209.221.117:7547/v1,"codellama:13b, deepseek-r1:latest, openchat:7b"
 http://13.230.172.66:7547/v1,"openchat:7b, deepseek-r1:latest"
 http://35.72.3.161:10332/v1,"codellama:13b, llama2:latest"
 http://124.220.48.38:11434/v1,qwen3:8b
+http://60.13.245.88:9000/v1,"deepseek-r1:32b, deepseek-r1:70b, deepseek-r1:14b, deepseek-r1:671b, nomic-embed-text:latest, deepseek-r1:1.5b, bge-m3:latest"
