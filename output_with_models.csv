@@ -1983,3 +1983,6 @@ http://13.229.235.205:2252/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, 
 http://43.199.187.37:28017/v1,"deepseek-r1:latest, openchat:7b"
 http://18.166.213.177:5222/v1,"deepseek-r1:latest, llama3:latest"
 http://18.143.173.102:3311/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://35.86.117.228:5938/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, openchat:7b, llama2:latest"
+http://125.227.90.5:9000/v1,"llama3.1:8b, qwen3:8b, deepseek-r1:8b, qwen2.5:latest"
+http://140.119.163.219:11434/v1,"Llama-3.1-TAIDE-LX-8B-Chat:latest, gemma3:27b-it-fp16, qwen3:32b-q8_0, gemma3:27b-it-qat, gemma2:27b, mistral-large:123b-instruct-2411-q4_K_M, mistral-small3.1:24b-instruct-2503-q8_0, gemma3:27b-instruct-q8_0, deepseek-r1:70b-llama-distill-q8_0, qwq:32b-q8_0, gemma2:27b-instruct-q8_0, deepseek-r1:32b-qwen-distill-q8_0"
