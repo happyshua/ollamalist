@@ -2039,3 +2039,13 @@ http://121.37.200.102:11434/v1,"qwen2.5vl:32b, qwen3:32b, qwen2.5:32b, nomic-emb
 http://18.179.7.154:81/v1,"deepseek-r1:latest, openchat:7b, llama2:latest"
 http://203.255.78.58:9001/v1,"llama3-backup:latest, mario:latest, llama4:scout, llama3.2:3b-instruct-q5_K_M, deepseek-r1:14b, nomic-embed-text:latest, qwq:latest, llama3.3:latest, gemma3:latest, gemma3:27b, deepseek-r1:8b"
 http://www.ikkids.cn:11434/v1,llama3.1:8b
+http://3.36.124.12:8888/v1,"openchat:7b, qwen2.5:1.5b"
+http://43.198.203.189:16922/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, codellama:13b, llama2:latest"
+http://13.208.251.218:28017/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, llama2:latest"
+http://3.34.123.84:82/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b"
+http://13.125.17.21:28017/v1,"llama3:latest, codellama:13b"
+http://16.162.253.22:8800/v1,"deepseek-r1:latest, llama3:latest, codellama:13b"
+http://13.208.251.218:28017/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, llama2:latest"
+http://54.180.135.57:81/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest, llama3:latest, llama2:latest"
+http://58.20.44.210:11434/v1,"qwen3:30b, qwen3:32b, qwen2.5:32b, deepseek-r1:1.5b, qwq:latest, deepseek-r1:32b"
+http://13.125.17.21:28017/v1,"llama3:latest, codellama:13b"
