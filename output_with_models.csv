@@ -2092,3 +2092,12 @@ http://15.168.189.55:81/v1,"deepseek-r1:latest, llama2:latest, openchat:7b, code
 http://3.34.123.84:8032/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b"
 http://13.124.50.217:8008/v1,qwen2.5:1.5b
 http://118.168.46.41/v1,"gemma3:12b, deepseek-coder:6.7b-instruct"
+http://34.224.21.116:8000/v1,"deepseek-r1:latest, openchat:7b, llama3:latest"
+http://13.56.252.220:8090/v1,"llama3:latest, codellama:13b"
+http://34.221.254.30:81/v1,"llama3:latest, openchat:7b, llama2:latest"
+http://13.60.212.46:9200/v1,qwen2.5:1.5b
+http://54.64.68.162:8001/v1,"deepseek-r1:latest, llama2:latest, llama3:latest"
+http://43.207.147.162:8002/v1,"llama2:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://15.152.44.224:9200/v1,"deepseek-r1:latest, openchat:7b"
+http://15.152.47.2:9200/v1,"codellama:13b, openchat:7b"
+http://223.72.104.19:6502/v1,"deepseek-r1:14b-qwen-distill-q8_0, qwen3:14b-q8_0, qwen3:30b, jeffh/intfloat-multilingual-e5-large-instruct:f16, shaw/dmeta-embedding-zh:latest, qwq:latest, deepseek-r1:32b, deepseek-r1:14b"
