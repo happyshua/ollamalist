@@ -2077,3 +2077,7 @@ http://14.19.196.197:11434/v1,"hf.co/bartowski/mlabonne_Qwen3-14B-abliterated-GG
 http://13.114.40.207:85/v1,"openchat:7b, llama3:latest, deepseek-r1:latest"
 http://54.180.9.173:8983/v1,"openchat:7b, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
 http://54.180.148.120:8088/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
+http://54.205.126.145:8983/v1,deepseek-r1:latest
+http://34.222.153.153:81/v1,"llama3:latest, llama2:latest, deepseek-r1:latest"
+http://52.35.248.224:7548/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest"
+http://56.155.133.138:8008/v1,"codellama:13b, openchat:7b, llama3:latest, llama2:latest, deepseek-r1:latest"
