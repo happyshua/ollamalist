@@ -2133,3 +2133,10 @@ http://57.180.26.36:81/v1,"llama2:latest, qwen2.5:1.5b"
 http://52.197.63.251:8002/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest, llama2:latest"
 http://3.112.220.174:82/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b"
 http://43.207.233.57:9093/v1,qwen2.5:1.5b
+http://3.137.166.251:6565/v1,deepseek-r1:latest
+http://52.91.43.51:8181/v1,"llama2:latest, qwen2.5:1.5b"
+http://3.36.86.203:8008/v1,openchat:7b
+http://3.36.26.68:8181/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://13.209.18.162:7288/v1,"llama2:latest, qwen2.5:1.5b"
+http://passionguy.net:11434/v1,"qwen2.5-coder:latest, deepseek-r1:8b, qwen3:32b, mistral-small:24b, gemma3:27b, gemma3:12b, bge-m3:latest, qwq:latest, smollm2:135m, qwen2.5:32b, qwen2.5:14b, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:7b, deepseek-r1:1.5b"
+http://www.passionguy.net:11434/v1,"qwen2.5-coder:latest, deepseek-r1:8b, qwen3:32b, mistral-small:24b, gemma3:27b, gemma3:12b, bge-m3:latest, qwq:latest, smollm2:135m, qwen2.5:32b, qwen2.5:14b, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:7b, deepseek-r1:1.5b"
