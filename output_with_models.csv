@@ -2028,3 +2028,6 @@ http://107.23.70.144/v1,llama3:latest
 http://35.86.252.157:9100/v1,"deepseek-r1:latest, llama2:latest, openchat:7b, llama3:latest, codellama:13b"
 http://121.236.113.137:11434/v1,"smollm2:135m, deepseek-r1:32B, deepseek-r1:7b, deepseek-r1:14b, modelscope2ollama-registry.azurewebsites.net/deepseek-ai/DeepSeek-R1-Distill-Qwen-14B:latest, deepseek-r1:8b"
 http://116.132.66.54:11434/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, qwen2.5:14b, deepseek-r1:14b, deepseek-r1:7b, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:8b"
+http://44.210.136.36:6006/v1,"qwen2.5:1.5b, llama3:latest"
+http://211.44.36.5:11434/v1,"gemma3:4b, gemma3:1b, gemma3:27b-it-q4_K_M, qwen3:4b-q4_K_M, qwen3:14b-q4_K_M, qwen3:32b-q4_K_M, qwen2.5vl:32b-q4_K_M, bge-m3:latest, qwen2.5:32b"
+http://58.214.191.190:11434/v1,"llama3.1:8b, nomic-embed-text:latest, qwen2.5:14b, qwen2.5:1.5b, qwen2.5:7b, deepseek-r1:8b"
