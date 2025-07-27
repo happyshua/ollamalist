@@ -2143,3 +2143,5 @@ http://www.passionguy.net:11434/v1,"qwen2.5-coder:latest, deepseek-r1:8b, qwen3:
 http://43.199.203.105:85/v1,qwen2.5:1.5b
 http://18.166.211.140:8088/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b"
 http://194.233.95.242:8008/v1,llama3.2:1b
+http://74.50.127.165:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, deepseek-r1:8b, deepseek-coder:6.7b-instruct, llama3:8b"
+http://38.34.175.110:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
