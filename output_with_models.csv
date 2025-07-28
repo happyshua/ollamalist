@@ -2263,3 +2263,8 @@ http://54.169.221.91:2055/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, codellam
 http://54.254.55.233:5001/v1,"qwen2.5:1.5b, llama2:latest"
 http://108.187.251.6:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
 http://108.187.250.190:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
+http://60.165.238.82:11434/v1,"smollm2:135m, bge-m3:latest, qwen3:32b, deepseek-r1:70b, deepseek-r1:32b, deepseek-r1:latest"
+http://4.194.233.251:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3.2:latest, llama3.2:1b"
+http://43.153.177.74:11434/v1,"smollm2:135m, qwen3:0.6b, qwen3:1.7b"
+http://34.30.138.95:11434/v1,"smollm2:135m, phi3:mini, nemotron-mini:4b, hermes3:3b"
+http://124.70.88.238:11434/v1,"smollm2:135m, bge-m3:latest, deepseek-r1:1.5b"
