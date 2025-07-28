@@ -2289,3 +2289,4 @@ http://15.168.143.46:5985/v1,"codellama:13b, llama2:latest, openchat:7b, deepsee
 http://120.195.115.10:8000/v1,deepseek-r1:8b
 http://47.108.203.104:11434/v1,"qwen3:8b, qwen3:0.6b, qwen3:1.7b, qwen3:4b, deepseek-r1:7b, deepseek-r1:14b, bge-large:latest, phi4:latest, nomic-embed-text:latest, llava:latest, mistral:latest, llama3.1:latest, phi3.5:latest, llama3.2-vision:latest, gemma2:latest, qwen2.5:7b"
 http://183.16.24.184:11434/v1,deepseek-r1:8b
+http://52.197.35.23:7547/v1,"llama3:latest, openchat:7b, codellama:13b, llama2:latest"
