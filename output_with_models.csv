@@ -2290,3 +2290,21 @@ http://120.195.115.10:8000/v1,deepseek-r1:8b
 http://47.108.203.104:11434/v1,"qwen3:8b, qwen3:0.6b, qwen3:1.7b, qwen3:4b, deepseek-r1:7b, deepseek-r1:14b, bge-large:latest, phi4:latest, nomic-embed-text:latest, llava:latest, mistral:latest, llama3.1:latest, phi3.5:latest, llama3.2-vision:latest, gemma2:latest, qwen2.5:7b"
 http://183.16.24.184:11434/v1,deepseek-r1:8b
 http://52.197.35.23:7547/v1,"llama3:latest, openchat:7b, codellama:13b, llama2:latest"
+http://54.255.166.218:4440/v1,"llama2:latest, deepseek-r1:latest"
+http://18.166.27.185:9999/v1,"qwen2.5:1.5b, openchat:7b, llama3:latest, codellama:13b, deepseek-r1:latest"
+http://13.228.72.115:8000/v1,openchat:7b
+http://54.179.144.173:7547/v1,deepseek-r1:latest
+http://54.183.194.100:7070/v1,"deepseek-r1:latest, llama3:latest, openchat:7b"
+http://35.161.108.86:3541/v1,codellama:13b
+http://78.12.216.134:16922/v1,"deepseek-r1:latest, llama3:latest, codellama:13b"
+http://13.208.106.66:2055/v1,"openchat:7b, llama2:latest, codellama:13b, qwen2.5:1.5b, llama3:latest"
+http://56.228.19.107:2051/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest"
+http://13.61.155.112:8000/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://39.107.53.232:11434/v1,"smollm2:135m, mattw/pygmalion:latest, deepseek-r1:7b, deepseek-r1:1.5b"
+http://117.72.53.149:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://58.37.243.89:8001/v1,"deepseek-r1:14b, shejiguifan-x:latest, shejiguifan:latest, ll3cs:latest, ollama_7b_chinese_q4_0_test:latest, llamafamily/llama3-chinese-8b-instruct:latest, qwen2:latest, llama3:latest, llama2:latest, codellama:13b, llama3:8b, gemma:latest"
+http://13.124.114.248:7547/v1,"openchat:7b, llama2:latest"
+http://13.124.150.199:19530/v1,codellama:13b
+http://54.255.166.218:4440/v1,"llama2:latest, deepseek-r1:latest"
+http://54.179.144.173:7547/v1,deepseek-r1:latest
+http://1.209.229.179:11434/v1,"llava:latest, deepseek-r1:8b, gemma3:12b, qwen3:8b, llama3.2:3b, qwen3:4b, EEVE-Korean-10.8B:latest, llama3.2-korean:latest, qwen2.5-7b-instruct-kowiki:latest, deepseek-r1:latest, qwen2.5:latest, solar:latest, llama3.1:latest, gemma2:latest"
