@@ -2268,3 +2268,12 @@ http://4.194.233.251:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:lates
 http://43.153.177.74:11434/v1,"smollm2:135m, qwen3:0.6b, qwen3:1.7b"
 http://34.30.138.95:11434/v1,"smollm2:135m, phi3:mini, nemotron-mini:4b, hermes3:3b"
 http://124.70.88.238:11434/v1,"smollm2:135m, bge-m3:latest, deepseek-r1:1.5b"
+http://13.208.181.95:5985/v1,codellama:13b
+http://13.208.182.176:4567/v1,"deepseek-r1:latest, openchat:7b, llama3:latest, codellama:13b, qwen2.5:1.5b"
+http://221.2.158.144:11434/v1,"llava:latest, qwen3:32b, qwen2.5:32b"
+http://183.221.122.167:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, bge-m3:latest"
+http://120.105.80.68:11434/v1,"qwen3:8b, llama3.1:latest, gemma3:12b"
+http://115.171.59.3:11434/v1,"jaahas/qwen3-abliterated:14b, deepseek-r1:1.5b, nomic-embed-text:latest"
+http://139.226.106.74:11434/v1,"qwen3:30b-a3b, deepseek-r1:32b, qwen2.5:32b, qwen3:32b, dengcao/Qwen3-Embedding-8B:Q8_0, qwen2.5vl:32b, dengcao/Qwen3-Reranker-4B:Q5_K_M, dengcao/Qwen3-Embedding-4B:Q5_K_M, nomic-embed-text:latest"
+http://43.200.93.157:11434/v1,"deepseek-r1:1.5b, llama3.2:latest"
+http://120.105.80.68:11434/v1,"qwen3:8b, llama3.1:latest, gemma3:12b"
