@@ -2359,3 +2359,6 @@ http://43.201.84.72:8087/v1,"openchat:7b, deepseek-r1:latest"
 http://13.124.78.32:7443/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b, codellama:13b, deepseek-r1:latest"
 http://118.168.15.202/v1,"gemma3:12b, deepseek-coder:6.7b-instruct"
 http://59.125.88.45:11434/v1,"qwen2.5:32b, mistral:7b, mario:latest, llama3-backup:latest, mattw/pygmalion:latest, qwen2.5-coder:32b, mistral-large:123b, codellama:70b, bge-large:latest, llama3.2:latest, llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, qwen3:235b, llama4:latest, llama3.2:3b-instruct-q5_K_M, qwen3:30b, hf.co/unsloth/Llama-4-Scout-17B-16E-Instruct-GGUF:Q2_K_XL, aravhawk/llama4:latest, nomic-embed-text:latest, llama2:latest, gemma3:27b, qwq:32b, llama3.1:8b, llama3:8b, llama3.2:3b, llama3.2:1b, qwen2.5:7b, phi4:14b, deepseek-r1:8b, xLAM-7b-fc-r:latest, deepseek-coder-v2:16b, gemma2:27b, gemma2:9b, llama3.2:3b-instruct-fp16, deepseek-r1:70b, llama3.3:70b"
+http://54.64.127.238:7443/v1,"deepseek-r1:latest, codellama:13b, llama2:latest, qwen2.5:1.5b, llama3:latest"
+http://43.200.253.11:8025/v1,qwen2.5:1.5b
+http://13.125.139.26:7443/v1,"llama3:latest, llama2:latest, openchat:7b, codellama:13b, deepseek-r1:latest"
