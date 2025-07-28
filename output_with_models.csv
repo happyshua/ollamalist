@@ -2317,3 +2317,5 @@ http://206.189.159.175/v1,"smollm2:135m, mario:latest, mattw/pygmalion:latest, l
 http://171.213.244.24:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M"
 http://180.184.64.73:11434/v1,"gemma:2b, qwen:latest, deepseek-r1:1.5b, quentinz/bge-large-zh-v1.5:latest, qwen2.5:7b"
 http://58.211.132.51:11434/v1,"qwq:32b, bge-m3:latest, nomic-embed-text:latest, llama3.2:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, qwen2.5:14b"
+http://16.162.253.22:8092/v1,"deepseek-r1:latest, llama2:latest, openchat:7b"
+http://18.162.153.206:9091/v1,"deepseek-r1:latest, openchat:7b, codellama:13b"
