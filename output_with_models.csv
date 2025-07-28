@@ -2278,3 +2278,5 @@ http://139.226.106.74:11434/v1,"qwen3:30b-a3b, deepseek-r1:32b, qwen2.5:32b, qwe
 http://43.200.93.157:11434/v1,"deepseek-r1:1.5b, llama3.2:latest"
 http://120.105.80.68:11434/v1,"qwen3:8b, llama3.1:latest, gemma3:12b"
 http://3.38.117.214:8000/v1,"llama3:latest, deepseek-r1:latest"
+http://117.72.53.194:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, gemma3:1b, qwen2.5:0.5b, qwen2.5:3b, bge-m3:latest, deepseek-r1:1.5b"
+http://133.18.163.234:11434/v1,"smollm2:135m, granite-embedding:278m, gemma3:1b, kun432/cl-nagoya-ruri-large:latest, kun432/cl-nagoya-ruri-base:latest"
