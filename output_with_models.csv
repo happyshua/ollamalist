@@ -2277,3 +2277,4 @@ http://115.171.59.3:11434/v1,"jaahas/qwen3-abliterated:14b, deepseek-r1:1.5b, no
 http://139.226.106.74:11434/v1,"qwen3:30b-a3b, deepseek-r1:32b, qwen2.5:32b, qwen3:32b, dengcao/Qwen3-Embedding-8B:Q8_0, qwen2.5vl:32b, dengcao/Qwen3-Reranker-4B:Q5_K_M, dengcao/Qwen3-Embedding-4B:Q5_K_M, nomic-embed-text:latest"
 http://43.200.93.157:11434/v1,"deepseek-r1:1.5b, llama3.2:latest"
 http://120.105.80.68:11434/v1,"qwen3:8b, llama3.1:latest, gemma3:12b"
+http://3.38.117.214:8000/v1,"llama3:latest, deepseek-r1:latest"
