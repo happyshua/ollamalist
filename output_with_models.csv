@@ -2319,3 +2319,5 @@ http://180.184.64.73:11434/v1,"gemma:2b, qwen:latest, deepseek-r1:1.5b, quentinz
 http://58.211.132.51:11434/v1,"qwq:32b, bge-m3:latest, nomic-embed-text:latest, llama3.2:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, qwen2.5:14b"
 http://16.162.253.22:8092/v1,"deepseek-r1:latest, llama2:latest, openchat:7b"
 http://18.162.153.206:9091/v1,"deepseek-r1:latest, openchat:7b, codellama:13b"
+http://114.66.47.246:8082/v1,"deepseek-r1:1.5b, qwen2.5-coder:0.5b, qwen2.5:0.5b"
+http://34.124.244.177/v1,mistral:latest
