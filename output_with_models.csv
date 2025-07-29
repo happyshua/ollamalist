@@ -2130,3 +2130,13 @@ http://34.143.226.212:11434/v1,"smollm2:135m, llama3.1:8b, bge-m3:latest"
 http://129.213.86.120:11434/v1,"smollm2:135m, qwen3:4b, qwen3:0.6b"
 http://123.57.17.63:11434/v1,"smollm2:135m, nomic-embed-text:latest"
 http://47.108.65.220:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b, deepseek-r1:14b"
+http://3.144.102.148:6060/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, llama2:latest"
+http://54.196.147.194:6060/v1,"llama3:latest, llama2:latest, openchat:7b, qwen2.5:1.5b"
+http://35.86.149.102:40000/v1,openchat:7b
+http://13.57.52.114:8087/v1,"openchat:7b, codellama:13b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://3.112.250.156:49153/v1,"llama3:latest, llama2:latest"
+http://54.248.176.206:3000/v1,qwen2.5:1.5b
+http://15.152.49.190:49152/v1,qwen2.5:1.5b
+http://43.202.54.223:3000/v1,"qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
+http://121.229.204.168:11434/v1,"qwen2.5vl:7b, sam860/deepseek-r1-0528-qwen3:8b, llama3.2:3b-instruct-q5_K_M, bge-m3:latest, nomic-embed-text:v1.5, plutonioumguy/bge-m3:latest, tazarov/all-minilm-l6-v2-f32:latest, qwen3:4b, deepseek-r1:1.5b, deepseek-r1:7b"
+http://121.202.93.67:11434/v1,"qwen2.5-coder:32b, qwen2.5vl:7b, deepseek-r1:70b, deepseek-r1:14b, llama3.2:3b-instruct-q5_K_M, sam860/qwen3:8b, llama3.1:8b, qwen3:0.6b, qwen3:32b, deepseek-r1:32b, qwen2.5:latest, qwen2.5:32b, qwen2.5:14b, gemma3:27b, qwen2.5:7b"
