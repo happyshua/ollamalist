@@ -2105,3 +2105,5 @@ http://223.240.183.227:11434/v1,"deepseek-r1:1.5b, gemma3:4b, llava:7b, llama3.2
 http://52.195.232.228:5051/v1,"qwen2.5:1.5b, llama3:latest"
 http://54.249.213.192:9864/v1,llama2:latest
 http://42.200.85.96:8010/v1,"qwen3:14b, bestmodel:latest"
+http://13.230.166.164:8098/v1,"deepseek-r1:latest, openchat:7b, codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://47.117.182.44:11434/v1,deepseek-r1:32b
