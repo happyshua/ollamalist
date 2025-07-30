@@ -2185,3 +2185,18 @@ http://168.138.165.32:11434/v1,"smollm2:135m, llama3.1:8b, deepseek-r1:1.5b, dee
 http://150.230.101.118:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:7b"
 http://128.199.175.164:11434/v1,"smollm2:135m, llama3.1:8b"
 http://109.205.61.215:11434/v1,"smollm2:135m, llama2:latest"
+http://78.13.141.175:7700/v1,"deepseek-r1:latest, codellama:13b, llama2:latest, openchat:7b, qwen2.5:1.5b"
+http://108.187.251.103:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
+http://108.187.251.146:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
+http://108.187.251.243:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
+http://13.231.210.123:6060/v1,"llama3:latest, qwen2.5:1.5b, openchat:7b"
+http://3.112.47.12:3128/v1,llama3:latest
+http://43.207.203.78:2082/v1,"openchat:7b, qwen2.5:1.5b, codellama:13b, deepseek-r1:latest, llama2:latest"
+http://3.35.216.70:8000/v1,"llama2:latest, codellama:13b, llama3:latest, qwen2.5:1.5b, openchat:7b"
+http://3.38.117.192:10000/v1,"qwen2.5:1.5b, llama3:latest"
+http://3.38.193.242:3000/v1,deepseek-r1:latest
+http://3.35.216.70:9100/v1,"llama2:latest, codellama:13b, llama3:latest, qwen2.5:1.5b, openchat:7b"
+http://43.203.214.130:2082/v1,"qwen2.5:1.5b, openchat:7b"
+http://3.38.193.242:8000/v1,deepseek-r1:latest
+http://108.187.251.254:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
+http://140.210.209.219:10022/v1,"dengcao/Qwen3-Reranker-0.6B:F16, dengcao/Qwen3-Embedding-0.6B:F16, qwen3:32b-fp16, dengcao/Qwen3-Embedding-8B:Q5_K_M, deepseek-r1:70b, qwen2.5-coder:14b-base-fp16, qwen2.5-coder:7b-instruct-fp16, qwen3:14b-fp16, armanibadboy/qwen2.5_7b_text2sql:latest, codegeex4:latest, qwen3:8b, qwen3:4b, qwen3:14b, codegeex4:9b-all-fp16, qwen2.5:14b, qwen:7b, tharunreddy/text2sql-mistral:latest, sqlcoder:15b, phi4:14b, mxbai-embed-large:latest, qwq:latest, minicpm-v:latest, llama3.2-vision:latest, llama3.1:latest, bsahane/Qwen2.5-VL-7B-Instruct:Q4_K_M_benxh, deepseek-r1:1.5b, deepseek-r1:8b, bge-m3:latest, glm4:latest, nomic-embed-text:latest, deepseek-r1:32b, qwen2.5:0.5b"
