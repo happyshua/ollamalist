@@ -2169,3 +2169,8 @@ http://18.166.68.130:36/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, lla
 http://43.199.162.99:2086/v1,"qwen2.5:1.5b, codellama:13b"
 http://113.108.204.238:11434/v1,"smollm2:135m, mario:latest, bge-large:latest, deepseek-r1:7b"
 http://112.167.168.109:11434/v1,"huihui_ai/qwen3-abliterated:32b, bona/bge-m3-korean:latest, gemma3:27b, qwq:32b, smollm2:135m, aya-expanse:32b, huihui_ai/exaone3.5-abliterated:32b, qwen2.5-coder:32b, exaone3.5:32b"
+http://52.128.225.245:11434/v1,"smollm2:135m, deepseek-r1:latest, bge-m3:latest, nomic-embed-text:latest"
+http://139.224.14.181:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:7b"
+http://78.12.227.53:5280/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b"
+http://223.16.145.107:11434/v1,"smollm2:135m, deepseek-r1:7b, deepseek-r1:1.5b"
+http://8.147.132.105:11434/v1,"smollm2:135m, quentinz/bge-large-zh-v1.5:latest"
