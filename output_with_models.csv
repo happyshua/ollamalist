@@ -2285,3 +2285,6 @@ http://15.152.49.23:8880/v1,"llama3:latest, deepseek-r1:latest, llama2:latest"
 http://15.168.61.236:8880/v1,openchat:7b
 http://15.152.49.23:2080/v1,"llama3:latest, deepseek-r1:latest, llama2:latest"
 http://120.107.167.126:11434/v1,"MFDoom/deepseek-r1-tool-calling:14b, nomic-embed-text:latest, deepseek-r1:1.5b, llama3.1:8b, breuerAI/llama-maverick:latest, mistral:7b, phi:latest, deepseek-r1:14b"
+http://56.124.91.83:7788/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, codellama:13b"
+http://52.195.195.156:8880/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, codellama:13b"
+http://108.187.250.108:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
