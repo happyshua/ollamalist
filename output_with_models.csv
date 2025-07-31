@@ -2249,3 +2249,6 @@ http://54.180.243.48:9595/v1,"llama3:latest, deepseek-r1:latest, llama2:latest, 
 http://13.124.125.120:2052/v1,codellama:13b
 http://51.79.231.74:11434/v1,"smollm2:135m, llama3.1:8b, qwen3:1.7b, qwen3:0.6b, deepseek-llm:7b"
 http://91.216.169.49:11434/v1,deepseek-r1:1.5b
+http://18.179.84.183:11434/v1,"llama3.1:8b, llama3.2:latest, qwen2.5:latest, qwen:7b, phi4:latest, llama3.2-vision:latest"
+http://35.93.131.39:2077/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b, llama3:latest"
+http://56.155.32.133:2638/v1,llama3:latest
