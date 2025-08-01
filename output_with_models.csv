@@ -2048,3 +2048,4 @@ http://61.171.99.107:11434/v1,"smollm2:135m, modelscope.cn/Qwen/Qwen2-7B-Instruc
 http://154.38.178.62:11434/v1,deepseek-r1:1.5b
 http://159.138.157.192:11434/v1,"smollm2:135m, llava:latest, llama3:latest"
 http://47.108.162.233:11434/v1,"smollm2:135m, deepseek-r1:latest, llama3.2:3b-instruct-q5_K_M"
+http://81.70.179.10:11434/v1,"smollm2:135m, llama2:latest"
