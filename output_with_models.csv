@@ -2077,3 +2077,18 @@ http://13.209.81.112/v1,"openchat:7b, llama2:latest, llama3:latest, codellama:13
 http://203.170.59.221:11000/v1,deepseek-r1:70b
 http://18.163.2.105:5222/v1,"qwen2.5:1.5b, openchat:7b, codellama:13b, deepseek-r1:latest"
 http://218.158.89.101:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, bge-m3:latest, gemma3:27b, gemma3:12b"
+http://128.199.193.0:11434/v1,"smollm2:135m, llama3.1:latest"
+http://203.142.91.26:11434/v1,"smollm2:135m, gemma3n:e2b, nomic-embed-text:latest, deepseek-r1:1.5b, qwen3:1.7b, gemma3:1b, llama3.2:1b, gemma3:4b, llama3.2:latest, deepseek-r1:7b, qwen3:4b"
+http://116.237.220.53:11434/v1,"smollm2:135m, deepseek-r1:7b, deepseek-r1:14b, deepseek-r1:1.5b"
+http://112.170.95.224/v1,"qwen2.5-coder:32b-instruct-q4_K_M, phi4:14b-q4_K_M, llama3.1:8b-instruct-q4_K_M, deepseek-r1:1.5b-qwen-distill-q4_K_M, phi3:3.8b-mini-128k-instruct-q4_0, mistral:7b-instruct-v0.3-q4_K_M, gemma3n:e4b-it-q4_K_M, exaone3.5:32b-instruct-q4_K_M, exaone3.5:7.8b-instruct-q4_K_M, qwen2.5vl:32b, granite-embedding:278m, hf.co/mradermacher/text-to-cypher-Gemma-3-27B-Instruct-2025.04.0-i1-GGUF:Q4_K_M, gemma3:4b, granite-embedding:30m, qllama/bge-reranker-v2-m3:latest, qwen3:30b-a3b, gemma3:27b-it-q4_K_M, deepseek-r1:32b-qwen-distill-q4_K_M, qwq:32b-q4_K_M"
+http://174.138.19.31:11434/v1,"smollm2:135m, deepseek-r1:1.5b, llama3.2:latest"
+http://3.148.113.110:1212/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, openchat:7b"
+http://52.53.184.130:8086/v1,"qwen2.5:1.5b, openchat:7b"
+http://54.176.153.136:5004/v1,qwen2.5:1.5b
+http://54.201.216.44:7443/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://54.213.252.146:9870/v1,"llama3:latest, llama2:latest"
+http://13.62.52.125:7443/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, codellama:13b, qwen2.5:1.5b"
+http://54.199.35.225:7443/v1,openchat:7b
+http://13.208.175.121:6009/v1,qwen2.5:1.5b
+http://57.180.28.168:7443/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, openchat:7b"
+http://112.170.95.224/v1,"qwen2.5-coder:32b-instruct-q4_K_M, phi4:14b-q4_K_M, llama3.1:8b-instruct-q4_K_M, deepseek-r1:1.5b-qwen-distill-q4_K_M, phi3:3.8b-mini-128k-instruct-q4_0, mistral:7b-instruct-v0.3-q4_K_M, gemma3n:e4b-it-q4_K_M, exaone3.5:32b-instruct-q4_K_M, exaone3.5:7.8b-instruct-q4_K_M, qwen2.5vl:32b, granite-embedding:278m, hf.co/mradermacher/text-to-cypher-Gemma-3-27B-Instruct-2025.04.0-i1-GGUF:Q4_K_M, gemma3:4b, granite-embedding:30m, qllama/bge-reranker-v2-m3:latest, qwen3:30b-a3b, gemma3:27b-it-q4_K_M, deepseek-r1:32b-qwen-distill-q4_K_M, qwq:32b-q4_K_M"
