@@ -2151,3 +2151,10 @@ http://15.168.16.216:9091/v1,"codellama:13b, llama2:latest, llama3:latest, deeps
 http://140.116.154.86:11434/v1,"smollm2:135m, jcai/llama3-taide-lx-8b-chat-alpha1:Q4_K_M, llama3:latest"
 http://58.48.42.245:11434/v1,"qwen2.5:72b, deepseek-r1:70b, deepseek-r1:32b"
 http://58.49.146.15:11434/v1,"deepseek-r1:1.5b, qwen2:latest, nomic-embed-text:latest"
+http://39.98.238.115:11434/v1,"smollm2:135m, deepseek-r1:1.5b, deepseek-r1:7b, deepseek-r1:8b"
+http://117.72.162.58:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://59.15.113.164:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, codellama:7b, llama3.1:latest"
+http://117.72.215.191:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://54.159.41.52:9090/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
+http://15.168.3.240:13666/v1,"openchat:7b, llama2:latest, codellama:13b"
+http://111.10.184.219:11434/v1,qwen3:0.6b
