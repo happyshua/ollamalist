@@ -2045,3 +2045,4 @@ http://54.179.84.81:8032/v1,"llama3:latest, deepseek-r1:latest"
 http://13.212.61.5:8888/v1,"codellama:13b, llama2:latest, llama3:latest"
 http://129.226.209.111:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, llama3.2:latest, deepseek-r1:1.5b"
 http://61.171.99.107:11434/v1,"smollm2:135m, modelscope.cn/Qwen/Qwen2-7B-Instruct-GGUF:q6_k, modelscope.cn/gpustack/bge-reranker-v2-m3-GGUF:FP16, modelscope.cn/Qwen/Qwen2.5-3B-Instruct-GGUF:latest, linux6200/bge-reranker-v2-m3:latest, deepseek-r1:1.5b, bge-m3:latest, deepseek-r1:7b, gemma3:4b"
+http://154.38.178.62:11434/v1,deepseek-r1:1.5b
