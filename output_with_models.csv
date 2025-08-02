@@ -2186,3 +2186,5 @@ http://15.165.237.12:28017/v1,"deepseek-r1:latest, llama2:latest"
 http://18.207.210.172:8834/v1,"llama2:latest, qwen2.5:1.5b"
 http://18.207.187.62:2443/v1,deepseek-r1:latest
 http://108.187.250.219:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
+http://13.250.15.121:82/v1,"openchat:7b, deepseek-r1:latest"
+http://13.229.234.130:888/v1,openchat:7b
