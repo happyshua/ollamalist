@@ -2162,3 +2162,10 @@ http://120.246.53.194:11434/v1,"qwen2.5:72b, qwen2.5vl:32b, qwen2.5:14b, qwen3:1
 http://54.179.144.173:9090/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
 http://18.143.94.42:8888/v1,"deepseek-r1:latest, openchat:7b, llama2:latest, llama3:latest, codellama:13b"
 http://54.254.153.82:9091/v1,"llama3:latest, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, codellama:13b"
+http://18.208.211.69:13579/v1,"deepseek-r1:latest, openchat:7b"
+http://35.86.164.237:9080/v1,openchat:7b
+http://44.246.121.220:8800/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://34.142.202.136:11434/v1,"gemma3:4b, smollm2:1.7b, tinyllama:latest, smollm2:135m, smollm2:360m, llama3.2:3b"
+http://65.181.112.89:443/v1,"gemma3:latest, LLaVA:latest, llama3.2:latest, CoachArmin:latest, gemma3:1b"
+http://114.32.159.194:11434/v1,"smollm2:135m, jeffh/intfloat-multilingual-e5-large-instruct:f32, nomic-embed-text:latest, gemma3:4b"
+http://218.32.15.226:11434/v1,"designLlama:latest, gemma2:9b, deepseek-r1:32b, Llama3.1-8B-air030:latest, Llama-3.1-8B-AIR030:latest, AIRDataLoRa:latest, gemma3:27b-it-qat, gemma3:27b-it-q4_K_M, bge-m3:latest, mistral-nemo:latest, phi3.5:latest, wadetest:latest, r1-1776:latest, ADVDocsJapan:latest, test:latest"
