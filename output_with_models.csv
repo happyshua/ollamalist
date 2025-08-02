@@ -2188,3 +2188,10 @@ http://18.207.187.62:2443/v1,deepseek-r1:latest
 http://108.187.250.219:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
 http://13.250.15.121:82/v1,"openchat:7b, deepseek-r1:latest"
 http://13.229.234.130:888/v1,openchat:7b
+http://13.221.88.176:8983/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://98.81.238.56:81/v1,"codellama:13b, deepseek-r1:latest, llama3:latest"
+http://54.188.102.130:8983/v1,codellama:13b
+http://56.155.21.86:7657/v1,llama3:latest
+http://27.19.20.142:11434/v1,"llama3.2:3b-instruct-q5_K_M, shaw/dmeta-embedding-zh:latest, nomic-embed-text:latest, deepseek-r1:14b, qwen:7b"
+http://35.233.160.144:11434/v1,"smollm2:135m, qwen2.5:7b, qwen3:8b"
+http://183.6.114.219:11434/v1,"llama3.2:3b-instruct-q5_K_M, avr/sfr-embedding-mistral:latest, yxchia/multilingual-e5-large-instruct:latest, ordis/gte-Qwen2-7B-instruct-Q5_K_M-GGUF-8k:latest, bge-m3:latest, milkey/QwQ-32B-0305:q4_K_M, modelscope.cn/Qwen/QwQ-32B-GGUF:latest, qwen2.5:14b, mistral:latest, gemma:latest, nomic-embed-text:latest, deepseek-r1:14b, openchat:latest, llama3.1:latest"
