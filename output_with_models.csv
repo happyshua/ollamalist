@@ -2265,3 +2265,11 @@ http://222.112.49.60:11434/v1,llama3:latest
 http://60.161.85.226:11434/v1,"minicpm-v:8b, unitythemaker/llama3.2-vision-tools:latest, myaniu/OCRFlux-3B:Q8_0, benhaotang/Nanonets-OCR-s:latest, llama3.2-vision:11b, qwen3:14b, qwen3:8b, codellama:7b, codellama:13b, bge-m3:567m, deepseek-r1:32b, deepseek-r1:14b, mistral-small3.1:24b"
 http://39.125.243.110:11434/v1,"llama3.2:latest, exaone3.5:7.8b, exaone3.5:32b"
 http://13.124.196.136:8001/v1,"codellama:13b, deepseek-r1:latest"
+http://3.84.185.217:8084/v1,deepseek-r1:latest
+http://3.14.247.68:4155/v1,"codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, llama3:latest"
+http://3.148.193.196:8020/v1,"llama2:latest, deepseek-r1:latest"
+http://54.201.120.179:8020/v1,"codellama:13b, llama3:latest, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://54.185.210.171:8008/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b, llama2:latest, codellama:13b"
+http://44.251.98.211:82/v1,openchat:7b
+http://113.108.20.4:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwq:32b, bge-m3:latest, hengwen/DeepSeek-R1-Distill-Qwen-32B:q4_k_m, deepseek-r1:14b"
+http://52.69.181.27:8001/v1,"llama2:latest, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b"
