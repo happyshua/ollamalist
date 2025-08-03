@@ -2263,3 +2263,5 @@ http://3.36.94.248:31337/v1,"openchat:7b, qwen2.5:1.5b, codellama:13b"
 http://59.120.188.248:11434/v1,"smollm2:135m, llama3.1:8b, gemma3:4b"
 http://222.112.49.60:11434/v1,llama3:latest
 http://60.161.85.226:11434/v1,"minicpm-v:8b, unitythemaker/llama3.2-vision-tools:latest, myaniu/OCRFlux-3B:Q8_0, benhaotang/Nanonets-OCR-s:latest, llama3.2-vision:11b, qwen3:14b, qwen3:8b, codellama:7b, codellama:13b, bge-m3:567m, deepseek-r1:32b, deepseek-r1:14b, mistral-small3.1:24b"
+http://39.125.243.110:11434/v1,"llama3.2:latest, exaone3.5:7.8b, exaone3.5:32b"
+http://13.124.196.136:8001/v1,"codellama:13b, deepseek-r1:latest"
