@@ -2252,3 +2252,4 @@ http://47.129.202.124:8088/v1,"llama3:latest, codellama:13b, llama2:latest, open
 http://13.125.173.58:85/v1,"llama3:latest, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b, llama2:latest"
 http://43.200.254.50:8083/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b"
 http://43.200.254.50:898/v1,llama2:latest
+http://139.224.31.229:11434/v1,"deepseek-r1:1.5b, qwen3:0.6b"
