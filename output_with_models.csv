@@ -2312,3 +2312,15 @@ http://221.217.50.81:11434/v1,"gemma3:12b, qwen2.5-coder:14b, huihui_ai/deepseek
 http://140.112.91.209:8080/v1,llama3.1-8b-q8:latest
 http://140.112.91.209:8080/v1,llama3.1-8b-q8:latest
 http://59.34.28.61:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3.2-3b-steps-500-test-1:latest, qiuchen/qwen1.5-1.8b-chat:latest, llama3.2-11b-steps-120-test-1:latest, llama3.2-3b-steps-120-test-1:latest, llama3.2-vision-ms-test-1:latest, llama3.2-3b-test-1:latest, sef234y53gcj-ms-test-1:latest, sef234y53gcj-ms:latest, ms-380.gguf:latest, 174t25d4312wd5-spyx:latest, 174t25d4312wd2-spyx:latest, Qwen2.5-1.5B-450-steps-2-unsloth.F16.gguf:latest, Qwen2.5-1.5B-450-steps-unsloth.F16.gguf:latest, Qwen2.5-1.5B-500-steps-2-unsloth.F16.gguf:latest, Qwen2.5-1.5B-500-steps-unsloth.F16.gguf:latest, minicpm-v:latest-spyx-test, minicpm-v:latest, minicpm-v:latest-poe2, minicpm-v:latest-d4, qwen2.5:latest, lmstudio-Qwen2-VL-7B-Instruct-Q4_K_M.gguf:latest, Qwen2-VL-7B-Instruct-Q4_K_M.gguf:latest, llama3.2-vision:latest"
+http://140.238.27.195:11434/v1,"smollm2:135m, llama3.1:8b, llama3.1:8b-instruct-q4_K_M"
+http://54.90.136.230:3528/v1,"llama2:latest, llama3:latest, codellama:13b, openchat:7b, deepseek-r1:latest"
+http://184.72.200.100:16010/v1,"llama3:latest, openchat:7b, codellama:13b, deepseek-r1:latest"
+http://3.148.244.254:8000/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, openchat:7b"
+http://78.12.24.103:8890/v1,openchat:7b
+http://52.53.245.217:7777/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b"
+http://34.216.220.212:2051/v1,"llama2:latest, openchat:7b, qwen2.5:1.5b, codellama:13b"
+http://13.60.69.160:1901/v1,"openchat:7b, qwen2.5:1.5b, codellama:13b"
+http://15.168.174.206:8085/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://117.72.9.172:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://183.159.122.210:11434/v1,"deepseek-r1:7b, deepseek-r1:14b"
+http://116.234.68.73:11434/v1,"deepseek-r1:latest, nomic-embed-text:latest, shaw/dmeta-embedding-zh:latest, deepseek-r1:32b"
