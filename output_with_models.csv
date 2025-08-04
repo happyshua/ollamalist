@@ -2351,3 +2351,6 @@ http://16.163.31.69:8008/v1,openchat:7b
 http://13.229.95.50:5001/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, openchat:7b"
 http://59.28.120.69:11434/v1,"llama3:latest, llama2:latest, kimjk/llama3.2-korean:latest"
 http://1.116.122.215:11434/v1,"SYZD_V2:latest, SYZD_V1:nothink, SYZD_V1:latest"
+http://3.148.185.211:7000/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, codellama:13b, llama2:latest"
+http://106.122.208.31:11434/v1,"smollm2:135m, moondream:latest, gemma3:1b, gemma3:1b-it-q4_K_M, llama3.2:1b, qwen2.5:0.5b, zailiang/bge-large-zh-v1.5:latest, qwen2.5:7b, qwen:7b, qwen:1.8b"
+http://52.79.95.238:8020/v1,qwen2.5:1.5b
