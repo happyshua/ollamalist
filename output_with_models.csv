@@ -2384,3 +2384,9 @@ http://219.151.188.156:11434/v1,"smollm2:135m, deepseek-r1:7b"
 http://118.50.17.58:6009/v1,"llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, huihui_ai/qwen2.5-abliterate:32b, llama3.2:1b"
 http://222.100.27.102:11434/v1,deepseek-r1:1.5b
 http://180.107.108.82:11434/v1,"qwen2.5:3b, qwen2.5:1.5b, qwen2.5:0.5b, nomic-embed-text:latest"
+http://34.219.40.227:7002/v1,"llama3:latest, codellama:13b"
+http://56.124.118.174:8083/v1,"llama3:latest, llama2:latest, deepseek-r1:latest"
+http://56.155.124.107:5001/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b"
+http://3.34.142.243:8083/v1,deepseek-r1:latest
+http://3.34.50.230:7777/v1,"openchat:7b, deepseek-r1:latest, llama2:latest, codellama:13b"
+http://182.92.181.28:11434/v1,deepseek-r1:14b
