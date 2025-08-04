@@ -2402,3 +2402,4 @@ http://3.80.92.236:1900/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, openchat
 http://34.226.196.161:3790/v1,"llama3:latest, codellama:13b"
 http://3.138.36.80:7777/v1,deepseek-r1:latest
 http://78.12.190.10:8112/v1,openchat:7b
+http://58.227.75.76:32768/v1,"qwen2.5:1.5b, nomic-embed-text:latest, mistral:latest, phi3:mini"
