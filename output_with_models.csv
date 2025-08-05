@@ -2056,3 +2056,14 @@ http://163.13.132.67:11434/v1,"llama3.2:latest, nomic-embed-text:latest, llama3.
 http://175.211.27.121:11434/v1,"qwen2.5-coder:7b, qwen2.5-coder:3b, zeta-f16:latest"
 http://175.41.152.105:11434/v1,llama3.1:8b
 http://47.120.48.245:11434/v1,"qwen3:8b, deepseek-r1:8b"
+http://43.203.220.129:2095/v1,deepseek-r1:latest
+http://52.55.12.205:7199/v1,"llama3:latest, qwen2.5:1.5b, llama2:latest, codellama:13b"
+http://13.231.214.169:32771/v1,"llama3:latest, llama2:latest, openchat:7b, deepseek-r1:latest, codellama:13b"
+http://15.168.11.205:3528/v1,"openchat:7b, llama2:latest"
+http://56.155.136.111:8881/v1,"openchat:7b, deepseek-r1:latest"
+http://15.168.11.205:3128/v1,"openchat:7b, llama2:latest"
+http://108.187.250.6:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
+http://108.187.250.10:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
+http://222.71.120.2:11434/v1,deepseek-r1:14b
+http://125.88.164.167:11434/v1,"codegeex4:latest, mxbai-embed-large:latest"
+http://183.62.65.164:11434/v1,"qwen2.5vl:7b, qwen3:14b, qwen3:30b-a3b, qwen3:latest, deepseek-r1:latest, gemma3:4b, bge-m3:567m, gemma3:12b, gemma3:1b"
