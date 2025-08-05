@@ -2067,3 +2067,9 @@ http://108.187.250.10:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1
 http://222.71.120.2:11434/v1,deepseek-r1:14b
 http://125.88.164.167:11434/v1,"codegeex4:latest, mxbai-embed-large:latest"
 http://183.62.65.164:11434/v1,"qwen2.5vl:7b, qwen3:14b, qwen3:30b-a3b, qwen3:latest, deepseek-r1:latest, gemma3:4b, bge-m3:567m, gemma3:12b, gemma3:1b"
+http://78.12.214.164:6998/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, deepseek-r1:latest"
+http://13.56.157.48:10000/v1,"codellama:13b, openchat:7b, deepseek-r1:latest"
+http://43.200.7.223:2086/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
+http://108.187.250.32:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
+http://221.151.211.124:11434/v1,gemma3:4b
+http://124.71.157.127:11434/v1,"smollm2:135m, gemma3:latest, deepseek-r1:1.5b"
