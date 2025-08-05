@@ -2045,3 +2045,14 @@ http://140.116.72.57:11434/v1,"smollm2:135m, mistral-small3.2:latest, gemma3:12b
 http://183.96.239.232:11434/v1,"qwen3-coder:30b, deepseek-r1:14b, llama3.2-vision:11b, qwen2.5vl:32b, qwen2.5vl:7b, deepseek-r1:8b, qwen3:30b-a3b-q4_K_M, qwen3:30b, bnksys/kullm3-11b:latest"
 http://125.229.218.59:11434/v1,"qwen3-coder-tool:30b, smollm2:135m, hellord/mxbai-embed-large-v1:f16, llama3.2:3b-instruct-q5_K_M, qwen3:14b, qwen3:8b, gemma3:12b, deepseek-r1:14b, cwchang/jina-embeddings-v2-base-zh:latest, phi4:latest, snowflake-arctic-embed2:latest"
 http://140.112.91.212:8000/v1,"llama3.1:8b-instruct-fp16, llama3.3:70b-instruct-q8_0, qwen3:32b, qwq_32b:latest"
+http://18.144.71.127:3000/v1,"llama2:latest, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b, codellama:13b"
+http://13.89.46.214:11434/v1,"smollm2:135m, mario:latest, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:latest, mistral:latest"
+http://108.187.250.11:11434/v1,"smollm2:135m, deepseek-v3:671b-q8_0, deepseek-r1:671b-q4_K_M, MartinRizzo/Ayla-Light-v2:12b-q4_K_M, qwen2.5:latest, mistral:latest, hermes3:8b"
+http://125.119.188.53:11434/v1,"deepseek-r1:7b, deepseek-r1:14b"
+http://113.65.22.84:11434/v1,"llama3.2:1b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:latest, smollm2:135m, qwen:14b, qwen:7b, qwen:4b"
+http://18.177.143.83:4782/v1,codellama:13b
+http://43.200.255.135:3128/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest"
+http://163.13.132.67:11434/v1,"llama3.2:latest, nomic-embed-text:latest, llama3.3:latest"
+http://175.211.27.121:11434/v1,"qwen2.5-coder:7b, qwen2.5-coder:3b, zeta-f16:latest"
+http://175.41.152.105:11434/v1,llama3.1:8b
+http://47.120.48.245:11434/v1,"qwen3:8b, deepseek-r1:8b"
