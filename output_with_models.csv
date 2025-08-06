@@ -2111,3 +2111,6 @@ http://116.171.167.23:11434/v1,"llama3.1:8b-instruct-q4_K_M, deepseek-r1:14b, de
 http://175.181.180.131:10001/v1,"gpt-oss:20b, mattw/pygmalion:latest, llama3.2:latest, mario:latest, deepseek-r1:latest, llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, deepseek-r1:1.5b, qwen3:32b, llama3.2:3b-instruct-q5_K_M, qwen3:30b-a3b, deepcoder:latest, qwq:latest, phi4:latest, deepseek-coder-v2:16b, deepseek-r1:32b, gemma3:27b"
 http://125.228.189.226:11434/v1,"gpt-oss:20b, Steelskull_L3.3-Shakudo-70b:ngpu-22, Anubis-70B-v1.1-Q4:ngpu-22"
 http://13.212.185.224:10000/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://110.42.32.97:11434/v1,"smollm2:135m, deepcoder:14b, opencoder:8b, qwen2.5-coder:14b, qwen2.5-coder:7b"
+http://116.234.39.4:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-v3:671b-q8_0, myqwen2.5:latest, qwen2.5:latest, mine-deepseek-r1-8b:latest, deepseek-r1:8b, deepseek-r1:1.5b, mine-qwen2.5:latest, qwen2:latest, llama2-chinese:latest"
+http://115.159.210.197:11434/v1,deepseek-r1:32b
