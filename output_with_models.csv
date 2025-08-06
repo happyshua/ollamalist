@@ -2150,3 +2150,4 @@ http://1.236.245.110:11434/v1,"codellama:13b-python, nomic-embed-text:latest, ll
 http://118.176.17.45:11434/v1,llama3.2:3b-instruct-q5_K_M
 http://121.133.223.135:11434/v1,"hf.co/mradermacher/MN-Violet-Lotus-12B-GGUF:Q8_0, reader-lm:latest, smollm2:135m, EEVE-Korean-NER:latest"
 http://118.42.106.180:11434/v1,"huihui_ai/qwen3-abliterated:32b, bona/bge-m3-korean:latest, gemma3:27b, qwq:32b, smollm2:135m, aya-expanse:32b, huihui_ai/exaone3.5-abliterated:32b, qwen2.5-coder:32b, exaone3.5:32b"
+http://43.202.44.199:40000/v1,codellama:13b
