@@ -2101,3 +2101,4 @@ http://59.52.24.184:11434/v1,"qwen3:14b, gemma3:12b, bge-m3:latest, qwq:32b"
 http://117.72.100.62:11434/v1,"qwen3:4b, smollm2:135m, lrs33/bce-embedding-base_v1:latest, bge-m3:latest, deepseek-r1:latest"
 http://220.137.184.58:11434/v1,"gemma3:27b, deepseek-r1:70b"
 http://123.192.146.51:11434/v1,gemma3:4b
+http://210.126.25.105:11434/v1,"gpt-oss:20b, qwq:latest, phi4:latest, phi4-mini:latest, mistral:7b, llama4:latest, llama3.3:latest, gemma3:4b, gemma3:27b, gemma3:1b, gemma3:12b, deepseek-r1:8b, deepseek-r1:32b, deepseek-r1:14b"
