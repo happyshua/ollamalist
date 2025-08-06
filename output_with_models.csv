@@ -2167,3 +2167,20 @@ http://59.15.58.157:11434/v1,"gpt-oss:20b, PetrosStav/gemma3-tools:12b, benedict
 http://128.199.129.151:11434/v1,"smollm2:135m, gemma3:1b-it-qat, gemma:2b-instruct"
 http://1.230.202.15:11434/v1,"exaone-deep:2.4b, exaone-deep:7.8b, llama3.1:8b-instruct-q4_K_M, phi4-mini:3.8b, starcoder2:15b, deepseek-r1:latest, qwen3:8b, qwen3:14b"
 http://114.205.88.220:11434/v1,qwen3:4b
+http://54.238.154.107:49152/v1,openchat:7b
+http://15.152.34.85:49152/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b, deepseek-r1:latest"
+http://178.156.158.83:11434/v1,"smollm2:135m, mxbai-embed-large:latest, nomic-embed-text:latest, llama3.2:3b, llama3:latest, llama2:latest"
+http://104.59.134.202:11434/v1,"smollm2:135m, llama3.1:8b, llama_tech_support:latest, llama3:latest"
+http://116.54.75.12:11434/v1,"llama3-backup:latest, mario:latest, llama3.2:latest, deepseek-r1:8b"
+http://116.169.58.199:11434/v1,"huihui_ai/qwenlong-abliterated:latest, huihui_ai/qwen3-abliterated:30b, qwen3:235b, bge-m3:latest, gemma3:27b, deepseek-r1:7b, deepseek-r1:70b, qwen3:1.7b, deepseek-r1:1.5b, nomic-embed-text:latest, deepseek-r1:32b"
+http://182.43.87.173:11434/v1,deepseek-r1:7b
+http://116.237.245.16:11434/v1,"qwen3:30b, gemma3:4b"
+http://140.135.11.232:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwen3:32b, dolphincoder:15b, smollm2:135m, gemma3:27b, deepseek-r1:32b, codellama:34b, codestral:latest, gemma2:27b, mistral:latest, llama3.1:latest, gemma:latest, qwq:latest, phi4:latest, qwen2.5:32b"
+http://94.74.85.152:11434/v1,"smollm2:135m, llama3.1:8b"
+http://36.228.211.250:11434/v1,"mistral-small3.2:24b, deepseek-r1:latest, andy-4:latest, qwen3:8b, gemma3n:e4b-it-q8_0, deepseek-r1:32b, qwen3:32b, qwen3:4b, qwen3:30b-a3b, gemma3:4b-it-qat, nomic-embed-text:latest"
+http://211.110.82.12:11434/v1,"smollm2:135m, MFDoom/deepseek-r1-tool-calling:8b, llama3.1:8b, llama3.2:latest"
+http://14.34.28.197:11434/v1,llama3.2:latest
+http://35.206.241.15:11434/v1,llama3.2:3b-instruct-q5_K_M
+http://203.64.38.181:11434/v1,"gemma3:12b-it-q4_K_M, smollm2:135m"
+http://118.220.249.202:11434/v1,"llama3.1:8b, qwen2.5-coder:1.5b-base, deepseek-r1:latest"
+http://211.202.159.200:11434/v1,"qwen3:32b, gemma3:27b, solar-pro:latest, joonoh/HyperCLOVAX-SEED-Text-Instruct-1.5B:latest, gemma3:latest, qwen2.5vl:latest, deepseek-r1:latest, qwen3:latest, llava:latest"
