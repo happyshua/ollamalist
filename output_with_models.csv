@@ -2198,3 +2198,21 @@ http://202.110.157.245:11434/v1,"qwen3-coder:latest, qwen3:30b-a3b-thinking-2507
 http://103.214.109.134:11434/v1,"qwen3:1.7b, smollm2:135m"
 http://210.113.62.6:11434/v1,gemma3n:e4b
 http://1.229.157.70:11434/v1,"qwen3:14b, nomic-embed-text:latest, gemma3:4b, all-minilm:l6-v2, gemma3:1b, llama3.1:latest, gemma3:12b, llama3.2:latest, test-l4-5-phi-4:latest, phi-4-test-2025-02-13:latest, llama3_herss_11_20:latest, hf.co/MLP-KTLim/llama-3-Korean-Bllossom-8B-gguf-Q4_K_M:latest, llama_3_herss_11_12:latest"
+http://103.214.109.133:11434/v1,"qwen3:1.7b, smollm2:135m"
+http://103.214.109.132:11434/v1,"qwen3:1.7b, smollm2:135m"
+http://182.136.166.99:11434/v1,"deepseek-r1:14b, llama2-chinese:13b"
+http://13.56.223.104:8983/v1,"openchat:7b, llama2:latest"
+http://56.155.132.53:49155/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, openchat:7b"
+http://43.201.47.148:7070/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://178.128.117.159:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3-backup:latest, mario:latest, llama3.2:latest, gemma2:2b, gemma3:1b, bge-m3:567m, llama3.2:1b, llama3.2:3b, deepseek-r1:8b, mxbai-embed-large:latest"
+http://67.231.46.197:11434/v1,"smollm2:135m, mistral-small3.2:24b, magistral:24b, llama3.2:latest, llama3.2-vision:11b-instruct-q8_0, llama3.1:8b, InfoForge/openforge:q8, InfoForge/forge-8b:q8, InfoForge/forge-8b:q6, InfoForge/forge-3b:q8, InfoForge/forge-70b:q4, InfoForge/deepforge-8b:q8, InfoForge/deepforge-32b:q4, InfoForge/deepforge-14b:q8, InfoForge/codeforge-14b:q8, InfoForge/codeforge-14b:q4, InfoForge/alphaforge-14b:q8, huihui_ai/deephermes3-abliterated:8b-preview-q8_0, gemma3:12b-it-qat, gemma3:27b-it-qat"
+http://125.132.134.107:11434/v1,"smollm2:135m, gemma3:4b-it-qat, gemma3:12b-it-qat, deepseek-coder-v2:latest"
+http://154.201.1.143:11434/v1,"smollm2:135m, deepseek-r1:70b"
+http://36.140.251.70:11434/v1,"llama3.2:latest, qwen2.5:1.5b, qwen2.5:7b"
+http://218.50.132.149:11434/v1,"llava-llama3:latest, gemma3:4b, exaone3.5:7.8b, jeffh/intfloat-multilingual-e5-large-instruct:f16"
+http://45.192.111.208:11434/v1,deepseek-r1:1.5b
+http://222.211.1.134:11434/v1,qwen3:1.7b
+http://121.170.140.210:11434/v1,"llama3.2:latest, mario:latest, llama3-kor:latest"
+http://221.149.79.169:11434/v1,"gemma3_long2:latest, gemma3_long:latest, mattw/pygmalion:latest, llama3.2:latest, mario:latest, gemma3:27b, gemma3:12b, qwen3:8b"
+http://194.233.70.219:11434/v1,gemma3:1b
+http://34.142.233.147:11434/v1,"smollm2:135m, test01:latest, llama3.2:3b-instruct-q5_K_M, deepseek-r1-sm-q8-06:latest, deepseek-r1-F16-02:latest, llama3.1:8b, deepseek-r1-8b-sm-04:latest, deepseek--8bsm42201:latest, deepseek-r1:8b"
