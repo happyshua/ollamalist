@@ -2160,3 +2160,10 @@ http://218.50.128.45:11434/v1,"gpt-oss:20b, bge-m3-ko:latest"
 http://125.228.52.145:11434/v1,"qwen3-coder:30b, gpt-oss:20b, qwen2.5vl:3b, qwen2.5vl:7b, gemma3:27b-it-qat, gemma3:12b-it-qat, gemma3:4b-it-qat, hellord/mxbai-embed-large-v1:f16, qwen3:14b-q4_K_M, qwen3:30b-a3b-q4_K_M, mxbai-embed-large:latest"
 http://43.134.183.81:11434/v1,"smollm2:135m, deepseek-r1:latest"
 http://34.123.138.96:11434/v1,"qwen3:8b, llama3.2:3b-instruct-q8_0, qwen2.5:0.5b-instruct-q8_0, qwen2.5:7b-instruct-q4_K_M, gemma3:1b-it-q8_0, llama3.2:1b-instruct-q8_0, qwen3:0.6b-q8_0, qwen3:1.7b-q8_0, qwen2.5:3b-instruct-q8_0"
+http://194.233.75.221:11434/v1,"huihui_ai/qwen2.5-abliterate:7b-instruct, huihui_ai/gemma3n-abliterated:e4b-fp16, jean-luc/tiger-gemma-9b-v3:q4_K_M, wizardlm-uncensored:latest, llama2-uncensored:latest, dolphin-mixtral:latest"
+http://38.246.125.20:11434/v1,"gemma3:latest, qwen3:latest"
+http://5.161.68.94:11434/v1,gemma3:4b
+http://59.15.58.157:11434/v1,"gpt-oss:20b, PetrosStav/gemma3-tools:12b, benedict/linkbricks-llama3.1-korean:8b, gemma3:27b, gemma3:12b, llama3.1:8b, mistral:7b, codellama:7b"
+http://128.199.129.151:11434/v1,"smollm2:135m, gemma3:1b-it-qat, gemma:2b-instruct"
+http://1.230.202.15:11434/v1,"exaone-deep:2.4b, exaone-deep:7.8b, llama3.1:8b-instruct-q4_K_M, phi4-mini:3.8b, starcoder2:15b, deepseek-r1:latest, qwen3:8b, qwen3:14b"
+http://114.205.88.220:11434/v1,qwen3:4b
