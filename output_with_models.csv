@@ -2244,3 +2244,4 @@ http://111.119.248.182:11434/v1,llama3:latest
 http://221.147.26.47:11434/v1,"gpt-oss:20b, gemma3:27b, llama3.1:8b, gemma2:27b"
 http://221.3.4.123:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://220.135.142.41:11434/v1,"gpt-oss:20b, llama3.3:70b, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, gemma3:27b, deepseek-r1:latest, phi4:latest, phi3:latest"
+http://43.159.51.253:11434/v1,"smollm2:135m, deepseek-r1:14b, deepseek-r1:1.5b"
