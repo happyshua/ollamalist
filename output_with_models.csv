@@ -2226,3 +2226,15 @@ http://34.142.163.135:11434/v1,"smollm2:135m, llama3.2:latest, nomic-embed-text:
 http://129.226.123.75:11434/v1,"smollm2:135m, llama3.2:latest, qwen3:1.7b"
 http://180.168.179.227:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b"
 http://119.102.248.99:11434/v1,deepseek-r1:1.5b
+http://182.43.42.96:11434/v1,"smollm2:135m, mario:latest, llama3.2:latest, mattw/pygmalion:latest"
+http://128.199.98.124:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3-backup:latest, llama3.2:latest"
+http://153.195.146.249:11434/v1,"smollm2:135m, qwen3:8b, qwen3:14b, dengcao/Qwen3-Embedding-8B:Q5_K_M, dengcao/Qwen3-Reranker-4B:Q5_K_M, dengcao/Qwen3-Reranker-8B:Q5_K_M, linux6200/bge-reranker-v2-m3:latest, mxbai-embed-large:latest, nomic-embed-text:latest, mychen76/gemma3_cline_roocode_qat:12b, mychen76/qwen3_cline_roocode:14b, tom_himanen/deepseek-r1-roo-cline-tools:14b, deepseek-coder-v2:16b, deepseek-r1:14b, gemma3:12b, llama3.2-vision:11b, gemma3:latest"
+http://125.131.68.1:11434/v1,"smollm2:135m, llama3.1:latest, deepseek-r1:latest"
+http://36.232.169.147:11434/v1,"taide-original:latest, gemma3-test:latest"
+http://182.169.65.226:11434/v1,qwen2.5:7b
+http://123.193.49.198:11434/v1,gemma3:4b
+http://150.230.98.140:11434/v1,"smollm2:135m, all-minilm:latest, llama3.1:8b, llama3.2:3b-instruct-q5_K_M, llama2:latest, deepseek-r1:8b, deepseek-r1:1.5b"
+http://220.122.198.65:11434/v1,"gemma3n:latest, gemma3n:e2b, mistral-small3.2:latest, deepseek-r1:8b, gemma3:12b-it-qat, hf.co/mradermacher/SmolVLM2-2.2B-Instruct-GGUF:Q4_K_M, smollm2:latest, phi4-mini-reasoning:latest, qwen3:1.7b, cogito:8b"
+http://140.116.245.146:11434/v1,"mistral:7b, qwen2.5:7b, llama3.2:3b, llama3.2:1b, llava:13b, llama3.1:8b, gemma3:12b"
+http://114.32.187.84:11434/v1,"gpt-oss:20b, mattw/pygmalion:latest, llama3-backup:latest, mario:latest, hf.co/Qwen/Qwen3-Embedding-0.6B-GGUF:Q8_0, qwen2.5vl:7b, gemma3:12b, deepseek-r1:8b, llama3.1:8b-instruct-q4_K_M, llama3.2:1b-instruct-q4_K_M, llama3.2:3b-instruct-q5_K_M, qwen3:30b, qwen3:8b, qwq:latest, llama3-gradient:1048k, hf.co/nctu6/Llama-3.1-TAIDE-LX-8B-Chat-GGUF:F16, llama3.3:70b, llama3.2:latest, nomic-embed-text:latest, bge-m3:latest, llama3.1:8b"
+http://114.42.199.123:11434/v1,"gpt-oss:20b, deepseek-r1:14b, gemma3:27b, qllama/bge-m3:latest, gemma3:12b, llama3:latest, qwen3:8b, DeepSeek-R1-Distill-Qwen-14B-Q4_1:latest, deepseek-r1:latest"
