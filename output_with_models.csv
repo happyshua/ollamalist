@@ -2308,3 +2308,5 @@ http://18.183.223.33:8089/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, codellam
 http://57.180.47.176:8089/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b, openchat:7b"
 http://13.208.117.74:8089/v1,"llama2:latest, llama3:latest, codellama:13b"
 http://43.201.252.150:2082/v1,llama2:latest
+http://183.162.104.232:11434/v1,"smollm2:135m, dolphin3:latest, Godmoded/llama3-lexi-uncensored:latest, dolphin-mistral:latest, mannix/llama3.1-8b-abliterated:latest, qwen2.5vl:7b, qwen3:8b, gurubot/VaryTales:latest, gemma3:12b, qwq:32b, deepseek-r1:7b, qwen2.5-coder:7b, qwen2.5:7b, llama3.2:3b"
+http://101.22.65.244:11434/v1,"deepseek-r1:32b, qwen2.5vl:32b, minicpm-v:8b, qwen2.5-coder:32b, deepseek-coder:latest, llama3.2:latest, qwen3:32b"
