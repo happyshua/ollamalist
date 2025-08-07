@@ -2257,3 +2257,4 @@ http://3.38.178.20:2077/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, llama3:lat
 http://39.118.45.72:11434/v1,"smollm2:135m, deepseek-r1:671b, deepseek-r1:1.5b"
 http://220.141.234.158:11434/v1,"gemma3n:e4b, deepseek-r1:latest, gemma3:latest"
 http://220.137.187.155:11434/v1,"gemma3:27b, deepseek-r1:70b"
+http://13.208.172.153:2077/v1,"qwen2.5:1.5b, llama3:latest"
