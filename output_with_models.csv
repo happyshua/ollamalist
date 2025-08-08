@@ -2332,3 +2332,5 @@ http://18.183.179.72:19071/v1,llama2:latest
 http://140.112.31.164:11434/v1,"llama3.2:latest, nomic-embed-text:latest"
 http://140.115.126.192:11434/v1,"smollm2:135m, llama3.1:70b, llama3.2:3b, llama3.1:8b, llama3.2:latest, llama2:latest, bge-m3:latest, llama3.1:latest"
 http://140.112.117.36:11434/v1,llama4:scout
+http://18.212.169.170:6333/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://3.36.133.52:49155/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b"
