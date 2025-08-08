@@ -2323,3 +2323,7 @@ http://118.166.15.150:11434/v1,"rolandroland/llama3.1-uncensored:latest, qwen2:7
 http://118.166.15.150:11434/v1,"rolandroland/llama3.1-uncensored:latest, qwen2:7b-instruct, my-custom-model:latest, hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4:latest, dolphin-long-writer:latest, nomic-embed-text:latest, huihui_ai/llama3.3-abliterated:70b-instruct-q4_K_M, hf.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B-GGUF:Q4_0, huihui_ai/qwen2.5-abliterate:14b, mollysama/rwkv-6-world:1.6b, reefer/monica:latest, rzline/Tifa-Deepsex-14b-CoT-Chat-Q8.gguf:latest, hf.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-Q8:latest, hf.co/ValueFX9507/Tifa-DeepsexV2-7b-MGRPO-GGUF-F16:latest, mistral:latest, bge-m3:latest, hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4:IQ4_NL"
 http://47.129.190.95:9668/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, deepseek-r1:latest, llama2:latest"
 http://16.163.99.180:2077/v1,"llama2:latest, llama3:latest, codellama:13b"
+http://78.12.216.61:31/v1,llama2:latest
+http://13.114.140.141:9876/v1,llama3:latest
+http://13.125.112.81:49152/v1,"llama2:latest, qwen2.5:1.5b"
+http://125.122.57.102:11434/v1,"deepseek-r1:7b, deepseek-r1:14b"
