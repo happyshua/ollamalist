@@ -2023,3 +2023,10 @@ http://13.208.43.50:81/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest, openchat:
 http://52.68.180.103:9090/v1,codellama:13b
 http://13.208.246.32:25105/v1,"deepseek-r1:latest, openchat:7b, llama2:latest, llama3:latest, qwen2.5:1.5b"
 http://56.155.147.97:8159/v1,"llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b"
+http://3.35.231.8:3128/v1,"qwen2.5:1.5b, codellama:13b, deepseek-r1:latest"
+http://3.38.117.214:5000/v1,"llama2:latest, llama3:latest"
+http://13.125.112.81:49152/v1,"llama3:latest, openchat:7b, deepseek-r1:latest"
+http://13.208.240.186:2086/v1,"qwen2.5:1.5b, codellama:13b"
+http://43.203.221.88:8182/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, codellama:13b"
+http://15.152.34.149:32771/v1,"deepseek-r1:latest, qwen2.5:1.5b"
+http://ingenuity.com.tw/v1,"gpt-oss:20b, granite3.2-vision:latest, mxbai-embed-large:latest, gemma3:1b, gemma3:12b, gemma3:4b, phi3.5:latest, gemma3:27b, llama3.2-vision:latest, starcoder2:15b, starcoder2:7b, codellama:latest, starcoder2:latest, llama3.2:latest, jcai/breeze-7b-instruct-v1_0:f16, nomic-embed-text:latest, mistral:latest"
