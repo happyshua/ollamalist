@@ -2035,3 +2035,4 @@ http://56.125.167.101:4660/v1,"llama3:latest, openchat:7b, llama2:latest, codell
 http://115.171.238.201:11434/v1,"huihui_ai/granite3.2-vision-abliterated:2b, minicpm-v:latest, gemma3:latest"
 http://219.137.48.26:12369/v1,"qwen3:30b-a3b, gemma3:1b-it-q8_0"
 http://43.198.203.189:1443/v1,"deepseek-r1:latest, llama3:latest"
+https://cssf.i3p.cc:11434/v1,"homunculus:12b, qwen2.5vl:latest, qwen3:14b, huihui_ai/qwen3-abliterated:14b, qwen2.5:14b, openllm/causallm:latest, huihui_ai/huihui-moe-abliterated:latest, huihui_ai/homunculus-abliterated:latest, qwen3:7b, huihui_ai/deepseek-r1-abliterated:14b, qwen2.5-coder:14b, nomic-embed-text:latest, minicpm-v:latest, huihui_ai/qwen2.5-coder-abliterate:14b, huihui_ai/qwen2.5-1m-abliterated:14b"
