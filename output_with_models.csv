@@ -2033,3 +2033,5 @@ http://ingenuity.com.tw/v1,"gpt-oss:20b, granite3.2-vision:latest, mxbai-embed-l
 http://52.197.163.170:5051/v1,"llama2:latest, openchat:7b, codellama:13b, llama3:latest"
 http://56.125.167.101:4660/v1,"llama3:latest, openchat:7b, llama2:latest, codellama:13b, qwen2.5:1.5b"
 http://115.171.238.201:11434/v1,"huihui_ai/granite3.2-vision-abliterated:2b, minicpm-v:latest, gemma3:latest"
+http://219.137.48.26:12369/v1,"qwen3:30b-a3b, gemma3:1b-it-q8_0"
+http://43.198.203.189:1443/v1,"deepseek-r1:latest, llama3:latest"
