@@ -2077,3 +2077,4 @@ http://140.119.145.36:11434/v1,gpt-oss:20b
 http://52.53.224.238:55555/v1,"qwen2.5:1.5b, openchat:7b, codellama:13b"
 http://122.194.127.195:20005/v1,"qwen2.5vl:7b, qwen3:8b, deepseek-r1:8b"
 http://140.119.145.36:11434/v1,gpt-oss:20b
+http://47.155.128.112:2198/v1,"granite-code:34b, granite3.3:8b, llama3:latest, mistral-small3.1:24b, codellama:70b, codellama:7b, phi4:14b, gemma3:27b, gemma3:1b, qwen2.5:7b, llama3.3:70b, qwen2.5-coder:32b"
