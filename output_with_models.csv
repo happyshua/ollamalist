@@ -2073,3 +2073,7 @@ http://54.215.213.129:9306/v1,"deepseek-r1:latest, openchat:7b, codellama:13b, q
 http://13.212.116.48:9200/v1,openchat:7b
 http://43.159.53.67:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://15.168.142.190:81/v1,"llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, openchat:7b"
+http://140.119.145.36:11434/v1,gpt-oss:20b
+http://52.53.224.238:55555/v1,"qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://122.194.127.195:20005/v1,"qwen2.5vl:7b, qwen3:8b, deepseek-r1:8b"
+http://140.119.145.36:11434/v1,gpt-oss:20b
