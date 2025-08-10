@@ -2058,3 +2058,4 @@ http://13.125.125.114:3524/v1,"codellama:13b, llama3:latest, llama2:latest, qwen
 http://54.212.26.229:9229/v1,"deepseek-r1:latest, llama2:latest"
 http://18.162.153.54:9292/v1,"openchat:7b, codellama:13b"
 http://47.108.78.40:11434/v1,"llama3-backup:latest, mario:latest, qwen3:latest, llama3.2:latest, qwen3:32b-fp16, qwen3:30b-a3b-fp16, qwq:latest, qwq:32b-fp16, deepseek-r1:latest, deepseek-r1:32b-qwen-distill-fp16, mxbai-embed-large:latest"
+http://35.86.140.196:8983/v1,"openchat:7b, qwen2.5:1.5b"
