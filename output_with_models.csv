@@ -2096,3 +2096,6 @@ http://115.231.52.90:9090/v1,"qwen2.5vl:7b, qwen3:0.6b, qwen3:32b, dengcao/Qwen3
 http://13.208.145.102:8089/v1,"openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, llama3:latest"
 http://15.168.11.37:82/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, llama2:latest, openchat:7b"
 http://154.26.134.253:11434/v1,"llama3.2:latest, mistral:latest"
+http://3.92.68.110:801/v1,deepseek-r1:latest
+http://54.193.40.5:7010/v1,"qwen2.5:1.5b, openchat:7b, llama3:latest, deepseek-r1:latest, codellama:13b"
+http://34.217.47.18:7778/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, openchat:7b, codellama:13b"
