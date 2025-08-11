@@ -2082,3 +2082,7 @@ http://218.60.50.249:11434/v1,"qwen:7b, bge-m3:latest, deepseek-r1:7b"
 http://52.87.168.109:8085/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b, codellama:13b"
 http://18.167.126.82:88/v1,"qwen2.5:1.5b, llama2:latest, llama3:latest, deepseek-r1:latest, openchat:7b"
 http://vpn.xm.hj-health.cn:11434/v1,"llama3.2:3b-instruct-q5_K_M, qwq:32b, nomic-embed-text:latest, deepseek-r1:32b"
+http://3.149.229.142:5550/v1,llama3:latest
+http://54.219.66.212:8888/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, openchat:7b"
+http://3.112.45.156:1471/v1,"codellama:13b, deepseek-r1:latest"
+http://182.96.17.140:12345/v1,"devstral:24b, qwen3:32b, deepseek-r1:671b, deepseek-r1:32b"
