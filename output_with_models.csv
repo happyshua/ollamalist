@@ -2119,3 +2119,10 @@ http://43.207.153.79:5984/v1,llama3:latest
 http://15.168.3.0:4567/v1,"qwen2.5:1.5b, codellama:13b, openchat:7b"
 http://13.125.231.27:4155/v1,"llama3:latest, openchat:7b, codellama:13b, deepseek-r1:latest"
 http://13.229.94.138:50090/v1,"deepseek-r1:latest, llama3:latest"
+http://40.192.3.100:8085/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, codellama:13b, deepseek-r1:latest"
+http://16.112.12.252:36/v1,codellama:13b
+http://3.90.188.251:1177/v1,openchat:7b
+http://52.90.201.120:1947/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, codellama:13b"
+http://40.67.178.163:11434/v1,"gpt-oss:20b, granite-embedding:latest, granite3.3:latest, qwen3:8b, gemma3:12b, linux6200/bge-reranker-v2-m3:latest, bge-large:latest, jina/jina-embeddings-v2-base-en:latest, initium/law_model:latest, nomic-embed-text:latest"
+http://114.32.16.163:11434/v1,"gpt-oss:20b, qwen3-coder:latest"
+http://114.32.16.163:11434/v1,"gpt-oss:20b, qwen3-coder:latest"
