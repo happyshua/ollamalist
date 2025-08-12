@@ -2143,3 +2143,4 @@ http://220.184.221.214:11434/v1,"llama3.2-vision:11b, qwen2.5vl:7b, ZimaBlueAI/Q
 http://61.141.124.225:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://163.13.202.125:11434/v1,gpt-oss:20b
 http://163.13.202.125:11434/v1,gpt-oss:20b
+http://78.12.17.115:49151/v1,"openchat:7b, codellama:13b, llama3:latest, qwen2.5:1.5b"
