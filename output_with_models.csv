@@ -2135,3 +2135,11 @@ http://114.33.15.170:7001/v1,"llama3.2:3b, qwen2.5-coder:7b, 7shi/llama-translat
 http://117.29.44.43:11434/v1,"llava:13b-v1.6, llava:latest, llama3.2-vision:11b, gemma3:27b, nomic-embed-text:latest, milkey/m3e:latest, quentinz/bge-large-zh-v1.5:latest, bge-m3:latest, bge-large:latest, qwen3:8b, deepseek-r1:8b"
 http://112.232.160.190:11434/v1,"deepseek-r1:7b, qwen2.5:14b, phi4:latest, qwen2.5:latest, qwen2.5-coder:14b, qwen2.5-coder:7b, cas/yi-1.5-9b-chat:latest, mistral:latest"
 http://47.97.58.9:11434/v1,deepseek-v2:16b
+http://3.148.215.220:7788/v1,"openchat:7b, llama3:latest, llama2:latest"
+http://54.193.88.214:9009/v1,llama2:latest
+http://13.60.226.253:7548/v1,"llama2:latest, llama3:latest, codellama:13b, qwen2.5:1.5b, openchat:7b"
+http://jahomenas.synology.me:11434/v1,"gpt-oss:20b, qwen3-coder:latest"
+http://220.184.221.214:11434/v1,"llama3.2-vision:11b, qwen2.5vl:7b, ZimaBlueAI/Qwen2.5-VL-7B-Instruct:latest, erwan2/DeepSeek-Janus-Pro-7B:latest, deepseek-r1:7b"
+http://61.141.124.225:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
+http://163.13.202.125:11434/v1,gpt-oss:20b
+http://163.13.202.125:11434/v1,gpt-oss:20b
