@@ -2129,3 +2129,7 @@ http://114.32.16.163:11434/v1,"gpt-oss:20b, qwen3-coder:latest"
 http://18.162.228.127:9090/v1,llama2:latest
 http://3.36.85.22:8000/v1,codellama:13b
 http://ai.jiqiangnong.cn/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b, llama3:8b, qwen2.5:7b, deepseek-r1:latest, nomic-embed-text:latest, deepseek-r1:14b"
+http://125.33.84.30:11434/v1,"qwen3v4:latest, qwen3:latest"
+http://54.89.36.83:5004/v1,"llama2:latest, openchat:7b"
+http://114.33.15.170:7001/v1,"llama3.2:3b, qwen2.5-coder:7b, 7shi/llama-translate:8b-q4_K_M, zongwei/gemma3-translator:4b, gemma3:latest, llama3.2:latest, gpt-oss:latest"
+http://117.29.44.43:11434/v1,"llava:13b-v1.6, llava:latest, llama3.2-vision:11b, gemma3:27b, nomic-embed-text:latest, milkey/m3e:latest, quentinz/bge-large-zh-v1.5:latest, bge-m3:latest, bge-large:latest, qwen3:8b, deepseek-r1:8b"
