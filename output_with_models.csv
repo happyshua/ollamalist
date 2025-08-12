@@ -2128,3 +2128,4 @@ http://114.32.16.163:11434/v1,"gpt-oss:20b, qwen3-coder:latest"
 http://114.32.16.163:11434/v1,"gpt-oss:20b, qwen3-coder:latest"
 http://18.162.228.127:9090/v1,llama2:latest
 http://3.36.85.22:8000/v1,codellama:13b
+http://ai.jiqiangnong.cn/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b, llama3:8b, qwen2.5:7b, deepseek-r1:latest, nomic-embed-text:latest, deepseek-r1:14b"
