@@ -1978,3 +1978,8 @@ http://1.214.51.187:11434/v1,"exaone3.5:32b, exaone-deep:32b-q8_0, exaone-deep:7
 http://144.24.91.39:11434/v1,deepseek-r1:1.5b
 http://43.198.104.182:9083/v1,"llama2:latest, openchat:7b, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
 https://gpt.inzcloud.net/v1,"llama3.2-vision:11b, mxbai-embed-large:latest, llama3.2:3b, smollm2:135m, qwen2.5-coder:7b, llama3.1:8b, deepseek-r1:14b, deepseek-r1:8b, command-r7b:latest, phi4:latest, olmo2:latest, smallthinker:latest, bespoke-minicheck:latest"
+http://3.144.17.248:3689/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b, llama2:latest"
+http://18.217.89.230:5000/v1,"deepseek-r1:latest, llama2:latest, llama3:latest, openchat:7b"
+http://15.152.50.182:5001/v1,"codellama:13b, llama2:latest, openchat:7b, llama3:latest"
+http://56.155.28.246:8887/v1,"openchat:7b, llama2:latest"
+http://218.39.132.26:6003/v1,"gpt-oss:20b, gpt-oss:120b"
