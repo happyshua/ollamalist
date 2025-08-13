@@ -2012,3 +2012,6 @@ http://182.155.101.186:11434/v1,"qwen3:0.6b, gemma3:1b, qwen3:4b, deepseek-r1:la
 http://107.149.7.178:11434/v1,deepseek-r1:1.5b
 http://107.149.7.149:11434/v1,deepseek-r1:1.5b
 http://107.149.7.137:11434/v1,deepseek-r1:1.5b
+http://50.18.244.202:5820/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b, openchat:7b, llama3:latest"
+http://3.87.251.143:7171/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest, llama3:latest, llama2:latest"
+http://56.155.9.231:4711/v1,"codellama:13b, openchat:7b, llama3:latest"
