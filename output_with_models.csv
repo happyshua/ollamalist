@@ -2017,3 +2017,7 @@ http://3.87.251.143:7171/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest, llam
 http://56.155.9.231:4711/v1,"codellama:13b, openchat:7b, llama3:latest"
 http://18.227.140.58:4300/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, deepseek-r1:latest"
 http://13.124.5.53:8009/v1,"codellama:13b, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://34.227.176.224:3525/v1,"deepseek-r1:latest, codellama:13b, llama2:latest"
+http://54.215.124.250:2696/v1,deepseek-r1:latest
+http://35.85.143.216:10250/v1,"deepseek-r1:latest, llama2:latest"
+http://119.70.200.254:11434/v1,exaone3.5:7.8b
