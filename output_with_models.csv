@@ -1983,3 +1983,4 @@ http://18.217.89.230:5000/v1,"deepseek-r1:latest, llama2:latest, llama3:latest, 
 http://15.152.50.182:5001/v1,"codellama:13b, llama2:latest, openchat:7b, llama3:latest"
 http://56.155.28.246:8887/v1,"openchat:7b, llama2:latest"
 http://218.39.132.26:6003/v1,"gpt-oss:20b, gpt-oss:120b"
+http://3.223.79.195/v1,"deepseek-coder-v2:latest, deepseek-coder:latest, starcoder:latest, gpt-oss:20b, mxbai-embed-large:latest, qwen2.5-coder:3b, abhijeetkamble619/llama3.2-10k:latest"
