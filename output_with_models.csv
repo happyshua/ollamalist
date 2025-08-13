@@ -1990,3 +1990,10 @@ http://43.198.96.115:9050/v1,"llama3:latest, qwen2.5:1.5b, openchat:7b, deepseek
 http://140.116.158.98:22222/v1,"gpt-oss:20b, gpt-oss:latest, mistral-nemo:latest, llama3.1:latest, qwen3:latest, deepseek-r1:latest, deepseek-r1:32b, qwen3:32b, qwen3:8b, gemma3:latest, smollm2:135m, Academic_Research_Probe:latest, gemma3:27b"
 http://140.116.158.98:22222/v1,"gpt-oss:20b, gpt-oss:latest, mistral-nemo:latest, llama3.1:latest, qwen3:latest, deepseek-r1:latest, deepseek-r1:32b, qwen3:32b, qwen3:8b, gemma3:latest, smollm2:135m, Academic_Research_Probe:latest, gemma3:27b"
 http://47.121.27.184:8081/v1,gpt-oss:20b
+http://107.149.7.172:11434/v1,deepseek-r1:1.5b
+http://107.149.7.173:11434/v1,deepseek-r1:1.5b
+http://107.149.7.171:11434/v1,deepseek-r1:1.5b
+http://78.12.143.121:8882/v1,"openchat:7b, qwen2.5:1.5b"
+http://35.91.238.194:3790/v1,"llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, openchat:7b"
+http://107.149.7.164:11434/v1,deepseek-r1:1.5b
+http://3.112.245.132:8000/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest"
