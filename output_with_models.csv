@@ -2045,3 +2045,8 @@ http://13.208.100.121:2095/v1,llama2:latest
 http://54.167.125.51:3001/v1,"codellama:13b, llama2:latest"
 http://131.247.90.105:3000/v1,"granite3.3:2b, gemma3n:e4b, llama3.1:8b"
 http://60.187.146.87:11434/v1,"medgemma:latest, qwen3:32b, gemma3:12b"
+http://59.110.66.156:11434/v1,"qwq:32b, huihui_ai/qwq-abliterated:32b, huihui_ai/qwq-abliterated:latest, huihui_ai/qwen3-abliterated:32b, qwen3:32b"
+http://113.118.132.7:11434/v1,"gpt-oss:20b, llava:13b, deepseek-r1:32b, deepseek-r1:latest, qwen2.5:32b, llama3.1:latest"
+http://13.208.172.201:8983/v1,"llama3:latest, deepseek-r1:latest, llama2:latest, openchat:7b"
+http://15.152.45.136:2095/v1,"codellama:13b, qwen2.5:1.5b"
+http://13.208.211.184:2830/v1,"llama2:latest, llama3:latest, openchat:7b"
