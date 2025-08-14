@@ -2050,3 +2050,5 @@ http://113.118.132.7:11434/v1,"gpt-oss:20b, llava:13b, deepseek-r1:32b, deepseek
 http://13.208.172.201:8983/v1,"llama3:latest, deepseek-r1:latest, llama2:latest, openchat:7b"
 http://15.152.45.136:2095/v1,"codellama:13b, qwen2.5:1.5b"
 http://13.208.211.184:2830/v1,"llama2:latest, llama3:latest, openchat:7b"
+http://43.198.184.160:16030/v1,"deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://13.208.165.164:8388/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama3:latest, openchat:7b"
