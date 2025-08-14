@@ -2078,3 +2078,4 @@ http://114.230.61.9:11434/v1,gpt-oss:20b
 http://14.145.177.193:11434/v1,"qwen3:8b, deepseek-r1:1.5b, gemma3:12b, gemma3:4b, gemma3:1b, gemma3:27b, qwq:latest, llama3.2-vision:latest, minicpm-v:latest, bge-m3:latest, mxbai-embed-large:latest, nomic-embed-text:latest, phi4:latest, deepseek-r1:70b, deepseek-r1:32b, deepseek-r1:14b, qwen2.5:14b"
 http://14.123.239.45:11434/v1,"gpt-oss:20b, qwen3-coder:30b, qwen3:30b, wizardlm2:7b-q4_K_M"
 http://220.78.50.45:11434/v1,llama3.2-vision:11b
+http://211.149.252.209:7390/v1,"qwen3:14b, qwen3:32b, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:14b"
