@@ -2037,3 +2037,8 @@ http://13.214.211.77:8002/v1,"qwen2.5:1.5b, openchat:7b"
 http://52.194.221.201:8081/v1,deepseek-r1:latest
 http://111.249.160.93:11434/v1,"llama3.2:3b, deepseek-r1:8b, gemma3:1b"
 http://18.163.208.209:9004/v1,openchat:7b
+http://113.118.192.143:10002/v1,"pxlksr/defog_sqlcoder-7b-2:F16, deepseek-coder:33b, qwen2:72b, sqlcoder:latest, llama3.1:70b, deepseek-coder-v2:latest, deepseek-r1:14b, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:70b-llama-distill-q8_0, deepseek-r1:70b"
+http://110.185.164.162:11434/v1,"qwen2.5:32b, bge-m3:latest, qwen3:32b, deepseek-r1:32b, qwen2.5:7b"
+http://59.172.93.178:11434/v1,"qwen3:8b-fp16, qwen3:1.7b, qwen3:4b, deepseek-r1:1.5b, dengcao/Qwen3-Embedding-0.6B:F16, deepseek-r1:7b, gpt-oss:latest, qwen3:30b-a3b-instruct-2507-fp16, dengcao/Qwen3-Embedding-8B:F16, dengcao/Qwen3-Reranker-8B:F16, dengcao/bge-reranker-v2-m3:latest, dengcao/Qwen3-Embedding-8B:Q5_K_M, qwq:latest, llama3.2:latest, nomic-embed-text:latest, qwen2.5-coder:latest, qwen3:32b, qwen3:latest, deepseek-r1:latest, graphrag:14b, netsmart-r1:7b, netsmart:7b, gemma3:12b, gemma3:latest, qwen2.5:latest, llama3.1:latest, bge-m3:latest, deepseek-r1:32b, qwen2.5:14b, qwen2.5:32b, deepseek-r1:14b"
+http://43.207.203.232:8983/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, openchat:7b"
+http://13.208.100.121:2095/v1,llama2:latest
