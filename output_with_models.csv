@@ -2122,3 +2122,12 @@ http://1.83.158.67:11434/v1,"deepseek-r1:70b, deepseek-r1:32b, gemma3:27b, gemma
 http://107.149.47.84:11434/v1,deepseek-r1:1.5b
 http://18.163.46.126:31337/v1,"openchat:7b, codellama:13b, llama2:latest, llama3:latest, deepseek-r1:latest"
 http://43.142.105.39:11434/v1,"deepseek-r1:32b, qwen3:30b, qwen3-coder:latest, deepseek-r1:14b, qwen3:14b, llama3.1:8b, qwen3:8b, deepseek-r1:8b"
+http://54.167.157.193:7004/v1,"llama2:latest, codellama:13b, qwen2.5:1.5b"
+http://54.193.2.133:13722/v1,openchat:7b
+http://56.124.111.224:9050/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest, openchat:7b, codellama:13b"
+http://54.92.66.57:8686/v1,deepseek-r1:latest
+http://54.250.238.137:2080/v1,"llama3:latest, openchat:7b, qwen2.5:1.5b, codellama:13b"
+http://56.155.104.190:1935/v1,"llama3:latest, deepseek-r1:latest, llama2:latest, openchat:7b"
+http://60.198.31.128:11434/v1,gpt-oss:latest
+http://60.198.31.128:11434/v1,gpt-oss:latest
+http://1.34.234.91:11434/v1,"qwen3:32b-q8_0, codellama:70b, codellama:34b, qwen2.5-coder:32b, deepseek-coder-v2:16b, qwen2.5-coder:14b, qwen2.5-coder:7b, nomic-embed-text:v1.5, nomic-embed-text:latest, qwen3:0.6b, deepseek-r1:32b-qwen-distill-q8_0, deepseek-r1:70b, qwen3:32b-q4_K_M, qwen3:32b-fp16"
