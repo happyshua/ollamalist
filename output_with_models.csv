@@ -2150,3 +2150,14 @@ http://35.93.19.113:9943/v1,codellama:13b
 http://35.90.6.34:8004/v1,"deepseek-r1:latest, openchat:7b, llama3:latest"
 http://183.156.121.178:11434/v1,"smollm2:135m, qwen3:32b, qwen3:14b, mxbai-embed-large:latest, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:14b"
 http://154.219.119.39:11434/v1,qwen3:0.6b
+http://16.163.156.42:8834/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, codellama:13b"
+http://43.198.185.30:10005/v1,"llama3:latest, llama2:latest, deepseek-r1:latest"
+http://43.199.158.243:6664/v1,"llama3:latest, openchat:7b"
+http://54.255.219.15:10443/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, llama3:latest, deepseek-r1:latest"
+http://167.234.213.117:10076/v1,"hf.co/Salesforce/Llama-xLAM-2-8b-fc-r-gguf:latest, codellama:13b, gemma3:12b, gemma3:4b, gemma3:4b-it-qat, llama3.1:8b, nomic-embed-text:latest, qwen2.5-coder:1.5b-base"
+http://13.56.151.212:8040/v1,"openchat:7b, llama2:latest, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
+http://44.248.228.60:14443/v1,"codellama:13b, llama2:latest, llama3:latest, deepseek-r1:latest"
+http://13.208.191.35:9007/v1,"codellama:13b, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, llama2:latest"
+http://15.168.7.161:5984/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://56.155.114.222:8005/v1,qwen2.5:1.5b
+http://54.255.219.15:10443/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, llama3:latest, deepseek-r1:latest"
