@@ -2163,3 +2163,10 @@ http://56.155.114.222:8005/v1,qwen2.5:1.5b
 http://54.255.219.15:10443/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, llama3:latest, deepseek-r1:latest"
 http://34.219.128.132:9334/v1,"llama2:latest, llama3:latest"
 http://209.145.49.249:11434/v1,gpt-oss:latest
+http://16.163.127.57:9005/v1,"llama2:latest, qwen2.5:1.5b, codellama:13b, deepseek-r1:latest, openchat:7b"
+http://27.19.48.7:11434/v1,"llama3.2:3b-instruct-q5_K_M, shaw/dmeta-embedding-zh:latest, nomic-embed-text:latest, deepseek-r1:14b, qwen:7b"
+http://47.76.156.49:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b"
+http://140.112.247.13:11434/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:4b, gemma3:12b, deepseek-r1:8b, deepseek-r1:14b, qwq:32b, deepseek-r1:32b, llama3.2:3b, deepseek-r1:8b-llama-distill-q8_0"
+http://123.245.112.129:60001/v1,"deepseek-r1:8b, goekdenizguelmez/JOSIEFIED-Qwen3:latest, deepseek-r1:1.5b, aiden_lu/peach-9b-8k-roleplay:latest, benevolentjoker/belial:latest"
+http://13.212.48.209:8060/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, codellama:13b"
+http://140.112.247.13:11434/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:4b, gemma3:12b, deepseek-r1:8b, deepseek-r1:14b, qwq:32b, deepseek-r1:32b, llama3.2:3b, deepseek-r1:8b-llama-distill-q8_0"
