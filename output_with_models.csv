@@ -2120,3 +2120,5 @@ http://23.22.25.124:8334/v1,openchat:7b
 http://56.155.136.250:5280/v1,llama2:latest
 http://1.83.158.67:11434/v1,"deepseek-r1:70b, deepseek-r1:32b, gemma3:27b, gemma3:12b, qwq:latest, gemma3:latest, qwen:7b"
 http://107.149.47.84:11434/v1,deepseek-r1:1.5b
+http://18.163.46.126:31337/v1,"openchat:7b, codellama:13b, llama2:latest, llama3:latest, deepseek-r1:latest"
+http://43.142.105.39:11434/v1,"deepseek-r1:32b, qwen3:30b, qwen3-coder:latest, deepseek-r1:14b, qwen3:14b, llama3.1:8b, qwen3:8b, deepseek-r1:8b"
