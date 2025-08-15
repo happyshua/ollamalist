@@ -2109,3 +2109,5 @@ http://123.14.185.150:19700/v1,"wh/Qwen3-30B-A3B-Instruct-2507-32k:latest, hf-mi
 http://115.197.164.134:11434/v1,"qwen2.5:latest, deepseek-r1:14b"
 http://13.208.42.192:41191/v1,openchat:7b
 http://122.116.68.223/v1,gpt-oss:20b
+http://107.149.47.100:11434/v1,deepseek-r1:1.5b
+http://43.203.221.46:2080/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, qwen2.5:1.5b, llama3:latest"
