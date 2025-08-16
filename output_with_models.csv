@@ -2170,3 +2170,4 @@ http://140.112.247.13:11434/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:4b, gemma3:1
 http://123.245.112.129:60001/v1,"deepseek-r1:8b, goekdenizguelmez/JOSIEFIED-Qwen3:latest, deepseek-r1:1.5b, aiden_lu/peach-9b-8k-roleplay:latest, benevolentjoker/belial:latest"
 http://13.212.48.209:8060/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, codellama:13b"
 http://140.112.247.13:11434/v1,"llama3.2:3b-instruct-q5_K_M, gemma3:4b, gemma3:12b, deepseek-r1:8b, deepseek-r1:14b, qwq:32b, deepseek-r1:32b, llama3.2:3b, deepseek-r1:8b-llama-distill-q8_0"
+http://116.234.4.192:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-v3:671b-q8_0, myqwen2.5:latest, qwen2.5:latest, mine-deepseek-r1-8b:latest, deepseek-r1:8b, deepseek-r1:1.5b, mine-qwen2.5:latest, qwen2:latest, llama2-chinese:latest"
