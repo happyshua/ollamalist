@@ -2232,3 +2232,12 @@ http://122.100.227.158:11434/v1,"mistral:latest, gemma3:12b, gemma3:27b"
 http://60.161.84.161:11434/v1,"qwen2.5vl:7b, minicpm-v:8b, unitythemaker/llama3.2-vision-tools:latest, myaniu/OCRFlux-3B:Q8_0, benhaotang/Nanonets-OCR-s:latest, llama3.2-vision:11b, qwen3:14b, qwen3:8b, codellama:7b, codellama:13b, bge-m3:567m, deepseek-r1:32b, deepseek-r1:14b, mistral-small3.1:24b"
 http://125.106.4.203:11434/v1,deepseek-coder-v2:16b
 http://111.2.199.31:9088/v1,Q78KG/Qwen3-Embedding-8B:latest
+http://3.145.90.71:2052/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
+http://34.222.119.197:8080/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest, codellama:13b, deepseek-r1:latest"
+http://44.248.228.60:19530/v1,"openchat:7b, codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://52.53.179.84:2379/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest, codellama:13b, deepseek-r1:latest"
+http://124.78.46.100:11434/v1,"smollm2:135m, falcon:180b, llama3.2:3b-instruct-q5_K_M, deepseek-v3:671b-q8_0, deepseek-r1:14b"
+http://148.72.155.117:11434/v1,"qwen3:4b, hammer2.1-3b:latest, llama3.2:latest"
+http://3.113.26.29:7070/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://15.168.175.177:6005/v1,"llama3:latest, codellama:13b, llama2:latest, openchat:7b"
+http://13.124.124.167:4000/v1,"llama2:latest, codellama:13b"
