@@ -2211,3 +2211,9 @@ http://113.104.236.103:10002/v1,"pxlksr/defog_sqlcoder-7b-2:F16, deepseek-coder:
 http://54.248.148.134:3749/v1,"llama2:latest, llama3:latest"
 http://13.208.161.145:38/v1,"qwen2.5:1.5b, llama3:latest"
 http://116.204.15.208:11434/v1,"llama4:128x17b, gpt-oss:120b, qwen3:235b, deepseek-r1:671b, nomic-embed-text:latest, bge-m3:latest, qwen2.5vl:72b"
+http://44.249.127.190:8159/v1,"llama3:latest, codellama:13b, openchat:7b"
+http://54.204.237.146:5008/v1,llama3:latest
+http://18.179.12.215:1443/v1,"llama2:latest, openchat:7b, llama3:latest"
+http://18.183.181.242:3443/v1,"openchat:7b, llama2:latest, codellama:13b, llama3:latest"
+http://43.201.249.232:8688/v1,"openchat:7b, qwen2.5:1.5b, codellama:13b, llama3:latest, deepseek-r1:latest"
+http://54.169.85.176:32770/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest"
