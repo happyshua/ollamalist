@@ -2178,3 +2178,4 @@ http://18.162.44.127:3001/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, o
 http://43.199.157.37:5280/v1,"codellama:13b, openchat:7b, llama2:latest, qwen2.5:1.5b, deepseek-r1:latest"
 http://140.112.84.136:8080/v1,"gpt-oss:20b, gpt-oss:latest, qwen2.5-coder:1.5b, qwen2.5-coder:latest, mxbai-embed-large:latest, gemma3n:latest, llama3.2:latest, yxchia/multilingual-e5-large-instruct:latest, magistral:latest, deepseek-r1:latest, gemma3:latest"
 http://140.112.84.136:8080/v1,"gpt-oss:20b, gpt-oss:latest, qwen2.5-coder:1.5b, qwen2.5-coder:latest, mxbai-embed-large:latest, gemma3n:latest, llama3.2:latest, yxchia/multilingual-e5-large-instruct:latest, magistral:latest, deepseek-r1:latest, gemma3:latest"
+http://220.135.47.215:11434/v1,"alibayram/Qwen3-30B-A3B-Instruct-2507:latest, nomic-embed-text:latest, gemma3:latest, gemma3:4b"
