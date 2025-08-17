@@ -2017,3 +2017,4 @@ http://182.92.158.57:11434/v1,"llama3.2:3b-instruct-q5_K_M, nuextract:latest, ph
 http://218.146.203.112:11434/v1,"qwen2.5:7b, qwen2.5-coder:7b, exaone3.5:7.8b"
 http://18.217.39.16:5938/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
 http://125.94.173.26:11434/v1,"deepseek-r1:14b, deepseek-r1:32b, deepseek-r1:70b, smollm2:135m, qwen3:32b, nomic-embed-text:latest"
+http://47.96.181.194:11434/v1,deepseek-r1:1.5b
