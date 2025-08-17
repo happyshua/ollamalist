@@ -2003,3 +2003,4 @@ http://54.219.210.191:7779/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama2:latest, 
 http://56.155.143.255:1025/v1,deepseek-r1:latest
 http://58.19.13.94:11434/v1,"deepseek-r1:1.5b, nomic-embed-text:latest, deepseek-r1:14b, deepseek-r1:7b"
 http://116.205.162.194:11434/v1,"llama3.1:8b-instruct-q4_K_M, deepseek-r1:7b-qwen-distill-q4_K_M, bge-large:latest, bge-m3:latest, viosay/conan-embedding-v1:q4_0, viosay/conan-embedding-v1:latest, qwq:latest, qwen2.5-coder:32b, deepseek-r1:32b, deepseek-r1:latest, qwen2.5:14b, qwen2.5:32b, qwen2.5-coder:latest, qwen2.5:latest, llama3.1:latest"
+http://178.156.193.43:11434/v1,mistral:latest
