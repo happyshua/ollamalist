@@ -2012,3 +2012,6 @@ http://58.38.27.178:11434/v1,"qwen3-coder:latest, qwen3-coder:30b-a3b-q8_0, qwen
 http://59.66.11.87:11434/v1,"qwen3-coder:latest, gpt-oss:latest, deepseek-r1:14b, deepseek-r1:latest"
 http://13.208.138.150:5901/v1,"openchat:7b, llama3:latest"
 http://36.39.22.196:11434/v1,"gemma2:2b, exaone:latest, anpigon/eeve-korean-10.8b:latest, nomic-embed-text:latest, dnotitia/dna:latest, bge-m3:latest"
+http://54.250.163.122:3097/v1,"qwen2.5:1.5b, llama2:latest"
+http://182.92.158.57:11434/v1,"llama3.2:3b-instruct-q5_K_M, nuextract:latest, phi4-mini:latest, deepseek-r1:1.5b, qwen2.5:3b"
+http://218.146.203.112:11434/v1,"qwen2.5:7b, qwen2.5-coder:7b, exaone3.5:7.8b"
