@@ -1986,3 +1986,11 @@ http://54.254.153.82:14534/v1,"codellama:13b, openchat:7b, llama3:latest, deepse
 http://43.198.185.30:10005/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
 http://18.163.238.61:801/v1,"codellama:13b, openchat:7b, llama3:latest, llama2:latest"
 http://16.163.156.42:8834/v1,"llama3:latest, deepseek-r1:latest"
+http://54.172.34.141:7005/v1,"llama2:latest, openchat:7b, deepseek-r1:latest, qwen2.5:1.5b"
+http://52.53.178.211:6333/v1,codellama:13b
+http://13.56.16.161:19530/v1,codellama:13b
+http://56.124.108.154:19530/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest"
+http://117.72.161.206:11434/v1,qwen2.5:latest
+http://140.115.127.110:11434/v1,llama3.1:latest
+http://140.115.127.110:11434/v1,llama3.1:latest
+http://220.134.186.245/v1,"gemma3:270m, gpt-oss:20b, granite3.2-vision:latest, mxbai-embed-large:latest, gemma3:1b, gemma3:12b, gemma3:4b, phi3.5:latest, gemma3:27b, llama3.2-vision:latest, starcoder2:15b, starcoder2:7b, codellama:latest, starcoder2:latest, llama3.2:latest, jcai/breeze-7b-instruct-v1_0:f16, nomic-embed-text:latest, mistral:latest"
