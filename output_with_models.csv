@@ -2023,3 +2023,4 @@ http://43.248.184.35:11434/v1,"qwen2.5:7b, qwen2.5:14b, glm4:9b, qwen3:14b, deep
 http://113.116.107.186:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://111.4.141.154:41000/v1,"qwen2.5-coder:14b, deepseek-coder-v2:16b, qwen2.5-coder:1.5b, qwen2.5-coder:3b, qwen2.5-coder:7b, qwen2.5-coder:32b"
 http://60.186.14.137:11434/v1,"qwen2.5vl:3b, qwen3:4b, gemma3:4b, qwen2.5:3b, deepseek-r1:7b, qwen2:1.5b"
+http://120.237.43.200:11434/v1,"qwen3:8b, deepseek-r1:8b"
