@@ -2041,3 +2041,7 @@ http://44.204.3.167:3523/v1,llama3:latest
 http://18.183.177.176:40000/v1,"openchat:7b, llama2:latest, codellama:13b, deepseek-r1:latest"
 http://220.74.54.115:11434/v1,"gemma3:12b-it-q4_K_M, gemma:7b, gemma:2b"
 http://106.241.172.195:11434/v1,"qwen3:30b, gpt-oss:20b, nomic-embed-text:latest, gemma3:27b"
+http://69.62.66.15:11434/v1,"llama3.2:1b, llama3.2:3b"
+http://207.224.235.194:11434/v1,"llama2:latest, deepseek-r1:32b, deepseek-r1:1.5b, deepseek-r1:14b, tinyllama:latest, mattw/dockerit:latest, netyeti/YetiCraft_mini:latest, phuzzy/minecraft:latest, piclub:latest, YetiCraft:latest, codellama:code, llama3.1:latest, llama3:latest, mixtral:latest, dolphin-llama3:latest"
+http://44.208.29.101:800/v1,codellama:13b
+http://116.23.71.60:11434/v1,"deepseek-r1:14b, deepseek-r1:32b"
