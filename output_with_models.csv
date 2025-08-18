@@ -2081,3 +2081,4 @@ http://15.168.37.208:7144/v1,"deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
 http://14.127.214.8:11434/v1,"gpt-oss:20b, gemma3:270m-it-fp16, gpt-oss:120b, qwen2.5vl:7b-fp16, qwen2.5vl:7b-q8_0, qwen2.5vl:latest, gemma3:27b-it-fp16"
 http://153.3.95.215:51007/v1,"llama3.2:3b-instruct-q5_K_M, DeepSeek-R1-Distill-Qwen-7B:latest, DeepSeek-R1-Distill-Qwen-1.5B:latest"
 http://152.69.205.187:11434/v1,deepseek-r1:1.5b
+http://43.136.35.95:3300/v1,deepseek-r1:1.5b
