@@ -2063,3 +2063,14 @@ http://18.223.75.148:11434/v1,"gpt-oss:20b, tuned-supervisor:latest, llama3.2:1b
 http://49.73.87.107:8000/v1,"qwen3:8b, qwen2.5:latest, qwen3:latest"
 http://27.154.167.243:11434/v1,"deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:7b"
 http://183.134.90.201:11434/v1,"smollm2:135m, llama3.1:8b, deepseek-r1:1.5b"
+http://43.198.94.253:6588/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, llama2:latest"
+http://43.198.185.69:8890/v1,codellama:13b
+http://13.229.132.100:10005/v1,codellama:13b
+http://18.143.183.129:2480/v1,"codellama:13b, llama2:latest, llama3:latest, qwen2.5:1.5b"
+http://52.41.233.117:4848/v1,"llama2:latest, openchat:7b, llama3:latest, qwen2.5:1.5b, codellama:13b"
+http://43.199.161.98:10250/v1,"llama2:latest, openchat:7b, deepseek-r1:latest, qwen2.5:1.5b"
+http://18.143.183.129:2480/v1,"codellama:13b, llama2:latest, llama3:latest, qwen2.5:1.5b"
+http://8.130.66.84:11434/v1,zephyr:latest
+http://101.64.138.77:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, sqlcoder:7b"
+http://118.123.164.19:11434/v1,deepseek-r1:7b
+http://111.229.134.246:11434/v1,deepseek-r1:1.5b
