@@ -2037,3 +2037,7 @@ http://47.119.176.64:11434/v1,"smollm2:135m, modelscope.cn/unsloth/DeepSeek-R1-D
 http://3.34.49.158:7014/v1,llama3:latest
 http://52.79.47.97:9083/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, qwen2.5:1.5b"
 http://14.39.98.201:11434/v1,"PetrosStav/gemma3-tools:27b, orieg/gemma3-tools:27b, gpt-oss:20b, gemma3:27b"
+http://44.204.3.167:3523/v1,llama3:latest
+http://18.183.177.176:40000/v1,"openchat:7b, llama2:latest, codellama:13b, deepseek-r1:latest"
+http://220.74.54.115:11434/v1,"gemma3:12b-it-q4_K_M, gemma:7b, gemma:2b"
+http://106.241.172.195:11434/v1,"qwen3:30b, gpt-oss:20b, nomic-embed-text:latest, gemma3:27b"
