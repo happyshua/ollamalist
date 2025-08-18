@@ -2052,3 +2052,5 @@ http://3.38.245.87:7145/v1,"llama2:latest, openchat:7b, qwen2.5:1.5b, deepseek-r
 http://183.16.25.156:11434/v1,deepseek-r1:1.5b
 http://52.79.47.97:8983/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, qwen2.5:1.5b"
 http://219.128.48.10:8086/v1,"qwen3:4b, granite-embedding:latest, all-minilm:latest, bge-large:latest, qwen3:latest, nomic-embed-text:latest, shaw/dmeta-embedding-zh:latest, deepseek-r1:8b, deepseek-r1:1.5b"
+http://18.215.164.169:8010/v1,deepseek-r1:latest
+http://54.241.51.137:8129/v1,llama2:latest
