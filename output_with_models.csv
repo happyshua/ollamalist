@@ -2120,3 +2120,4 @@ http://140.134.25.53:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://52.12.70.141:9944/v1,"qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, llama2:latest"
 http://44.248.72.71:8123/v1,"llama2:latest, openchat:7b, qwen2.5:1.5b"
 http://44.243.38.152:10243/v1,qwen2.5:1.5b
+http://101.46.68.213:11434/v1,deepseek-r1:1.5b
