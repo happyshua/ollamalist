@@ -2127,3 +2127,5 @@ http://47.121.182.177:11434/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, d
 http://3.36.99.249:1443/v1,"codellama:13b, qwen2.5:1.5b"
 http://3.36.99.249:1443/v1,"codellama:13b, qwen2.5:1.5b"
 http://13.125.54.126:6003/v1,codellama:13b
+http://58.210.252.154:11434/v1,"llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, deepseek-r1:14b"
+http://67.180.131.230:9103/v1,"gemma3:12b-it-qat, gemma3:latest, aravhawk/llama4:latest, llama3.3:latest, qwq:latest, qwen2.5-coder:14b, deepseek-r1:70b, deepseek-r1:7b, deepseek-r1:14b, deepr14b:latest, deepseek-r1:latest, deep1:latest"
