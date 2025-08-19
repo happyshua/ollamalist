@@ -2105,3 +2105,9 @@ http://222.90.31.11:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.
 http://47.108.143.39:10228/v1,"mistral-nemo:latest, qwen3:32b, deepseek-r1:latest, llama3:latest"
 http://59.159.173.249:11434/v1,"llama3.1:8b, qwen2.5-coder:latest, gpt-oss:latest, qwen3:14b"
 http://125.121.168.213:11434/v1,"deepseek-r1:7b, deepseek-r1:14b"
+http://13.125.4.158:3002/v1,"codellama:13b, openchat:7b, llama2:latest"
+http://13.125.4.158:3002/v1,"codellama:13b, openchat:7b, llama2:latest"
+http://47.116.34.175:33434/v1,"qwen3:1.7b, gpt-oss:20b, qwen3:4b, qwen3-coder:30b, qwen2.5vl:3b, qwen2.5vl:7b, gemma3:12b-it-qat, gemma3:4b, gemma3:12b, qwen3:30b-a3b, qwen3:32b, qwen3:14b, qwen3:8b, deepseek-r1:32b, deepseek-r1:8b, bge-m3:567m, deepseek-r1:14b"
+http://140.117.103.185:11434/v1,"llama3.2:latest, llama3:8b, qwen2:7b, qwen2:latest, llama3:latest"
+http://140.117.103.185:11434/v1,"llama3.2:latest, llama3:8b, qwen2:7b, qwen2:latest, llama3:latest"
+http://45.79.193.155:11434/v1,tinyllama:latest
