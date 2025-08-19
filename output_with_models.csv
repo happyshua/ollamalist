@@ -2086,3 +2086,13 @@ http://122.248.243.235:8080/v1,"deepseek-r1:latest, openchat:7b, codellama:13b"
 http://45.126.120.45:11434/v1,"qwen2.5vl:7b, qwen3:1.7b, qwen3:0.6b, qwen2.5:14b, gemma3n:latest, qwen3:8b"
 http://38.47.109.33:11434/v1,"qwen3:0.6b, mattw/pygmalion:latest, llama3.2:3b-instruct-q5_K_M, deepseek-v2:16b, smollm2:135m, llava:7b, deepseek-r1:14b, qwen2.5:7b, mofanke/dmeta-embedding-zh:latest, qwen:14b"
 http://36.24.148.143:18000/v1,"qwen2.5:14b, nomic-embed-text:latest, bge-m3:latest, linux6200/bge-reranker-v2-m3:latest, deepseek-r1:14b, wangshenzhi/llama3.1_8b_chinese_chat:latest, qwen2:7b"
+http://54.245.40.180:8096/v1,openchat:7b
+http://120.220.102.83:11434/v1,"qwen3:30b-a3b-instruct-2507-q4_K_M, mattw/pygmalion:latest, qwen3:32b, llama3.1:8b, bge-m3:567m, bge-m3:latest, deepseek-r1:70b, deepseek-r1:1.5b"
+http://110.42.207.179:6004/v1,"qwen3:0.6b, qwen3:30b-a3b-16k, qwen3:30b-a3b-64k, qwen2.5vl:32b, qwen2.5vl:7B, qwen3:8b, qwen3:30b-a3b, qwen3:235b-a22b, deepseek-r1:70b, qwen3:32b, linux6200/bge-reranker-v2-m3:latest, mxbai-embed-large:latest, qwq:latest, qwen2.5:7B, llama3.2-vision:90b, qwen2.5:72b, llava:34b, llava:13b, llava:latest, qwen2.5:0.5b, qwen2.5:32b, deepseek-r1:14b, deepseek-r1:32b, qwen2.5:1.5b, deepseek-r1:7b, deepseek-r1:8b, deepseek-r1:1.5b, qwen2.5:3B, llama3.2:1B, llama3.2:latest, phi4:latest, qwen2.5:14b, llama3.2-vision:11b"
+http://63.141.249.91:11434/v1,"llama3.1:latest, llama3:latest"
+http://183.6.3.17:11434/v1,"deepseek-r1:14b, llama3.2:latest"
+http://49.213.140.89:11434/v1,"gpt-oss:20b, mattw/pygmalion:latest, llama3.2:latest, mario:latest, llama3.1:8b, bge-m3:latest, deepseek-r1:8b, gemma:7b, llama3:70b, llama3:8b"
+http://60.251.156.211:11434/v1,gpt-oss:20b
+http://49.213.140.89:11434/v1,"gpt-oss:20b, mattw/pygmalion:latest, llama3.2:latest, mario:latest, llama3.1:8b, bge-m3:latest, deepseek-r1:8b, gemma:7b, llama3:70b, llama3:8b"
+http://60.251.156.211:11434/v1,gpt-oss:20b
+http://113.198.237.236:9092/v1,"qwen3:14b, deepseek-r1:14b, deepseek-r1:8b, gemma3:12b, qwen3:8b, gemma3:4b, qwen3:4b, gpt-oss:20b"
