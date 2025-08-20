@@ -2198,3 +2198,8 @@ http://18.237.104.0:10006/v1,"openchat:7b, qwen2.5:1.5b"
 http://36.103.199.218:11434/v1,deepseek-r1:7b
 http://3.34.127.158:8089/v1,"qwen2.5:1.5b, llama2:latest, codellama:13b, openchat:7b"
 http://59.33.204.12:11434/v1,"qwen3:32b, deepseek-r1:32b"
+http://54.172.238.231:5678/v1,deepseek-r1:latest
+http://78.12.245.251:7014/v1,deepseek-r1:latest
+http://78.12.121.123/v1,"deepseek-r1:latest, openchat:7b, llama2:latest, llama3:latest"
+http://1.95.42.33:9100/v1,"qwen3:8b, bge-m3:latest, deepseek-r1:7b, llava:7b, nomic-embed-text:v1.5"
+http://14.199.109.76:11434/v1,"gemma3:4b, smollm2:135m, granite3.3:latest, mistral-small3.1:latest, gemma3:27b, qwq:latest, mistral:latest"
