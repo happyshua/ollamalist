@@ -2193,3 +2193,7 @@ http://47.106.231.139:8004/v1,deepseek-r1-distill-qwen-7b:latest
 http://3.83.91.221:14265/v1,llama3:latest
 http://13.208.246.53:121/v1,"deepseek-r1:latest, qwen2.5:1.5b"
 http://47.93.21.69:11434/v1,"llama3.2:latest, mario:latest, mattw/pygmalion:latest, bge-m3:567m, qwen:0.5b, bge-m3:latest"
+http://35.86.246.178:5002/v1,qwen2.5:1.5b
+http://18.237.104.0:10006/v1,"openchat:7b, qwen2.5:1.5b"
+http://36.103.199.218:11434/v1,deepseek-r1:7b
+http://3.34.127.158:8089/v1,"qwen2.5:1.5b, llama2:latest, codellama:13b, openchat:7b"
