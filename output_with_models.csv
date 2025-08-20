@@ -2163,3 +2163,4 @@ http://61.32.92.122:11434/v1,"mistral:latest, qwen3:4b-fp16, mxbai-embed-large:l
 http://3.112.249.73:2406/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
 http://13.208.191.238:8123/v1,"qwen2.5:1.5b, codellama:13b, deepseek-r1:latest, llama3:latest"
 http://27.12.12.62:11434/v1,"smollm2:135m, qwen2.5-coder:0.5b, llama2:latest"
+http://16.162.93.81:8888/v1,"llama2:latest, codellama:13b"
