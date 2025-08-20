@@ -2205,3 +2205,8 @@ http://1.95.42.33:9100/v1,"qwen3:8b, bge-m3:latest, deepseek-r1:7b, llava:7b, no
 http://14.199.109.76:11434/v1,"gemma3:4b, smollm2:135m, granite3.3:latest, mistral-small3.1:latest, gemma3:27b, qwq:latest, mistral:latest"
 http://103.143.231.182:11434/v1,"qwen3:32b, gemma3:27b, qwq:32b, qwq:latest"
 http://13.60.70.69:8885/v1,"llama2:latest, codellama:13b, llama3:latest, qwen2.5:1.5b"
+http://54.179.155.55/v1,codellama:13b
+http://43.203.201.87:4000/v1,"llama3:latest, qwen2.5:1.5b, llama2:latest, codellama:13b, openchat:7b"
+http://13.222.34.0:25105/v1,deepseek-r1:latest
+http://43.203.201.87:4000/v1,"llama3:latest, qwen2.5:1.5b, llama2:latest, codellama:13b, openchat:7b"
+https://global-run.thatsgaurav.com/v1,gemma3:4b
