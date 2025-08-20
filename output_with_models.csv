@@ -2141,3 +2141,12 @@ http://15.168.16.127:10030/v1,"codellama:13b, openchat:7b, llama2:latest, llama3
 http://175.178.237.103:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://123.122.161.108:11434/v1,qwen3:14b
 http://103.14.79.156:11434/v1,deepseek-r1:1.5b
+http://18.212.94.151:5802/v1,"llama2:latest, llama3:latest"
+http://13.221.69.34:7002/v1,codellama:13b
+http://54.191.169.75:7788/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b"
+http://35.93.155.187:16000/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, llama2:latest"
+http://18.179.108.212:7474/v1,"openchat:7b, qwen2.5:1.5b"
+http://54.250.173.17:3311/v1,"qwen2.5:1.5b, codellama:13b"
+http://43.206.226.151:3128/v1,deepseek-r1:latest
+http://115.192.162.131:11434/v1,"smollm2:135m, nomic-embed-text:latest, quentinz/bge-base-zh-v1.5:latest, deepseek-r1:14b"
+http://122.51.232.107:9002/v1,"qwen3:30b-a3b-instruct-2507-q4_K_M, qwen3:30b-a3b-thinking-2507-q4_K_M, qwen3:4b-instruct"
