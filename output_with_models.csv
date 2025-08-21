@@ -2020,3 +2020,11 @@ http://rag.ecrp.cn:11434/v1,"deepseek-r1:8b, quentinz/bge-large-zh-v1.5:latest, 
 http://15.152.42.226:620/v1,"deepseek-r1:latest, llama2:latest, qwen2.5:1.5b, llama3:latest, openchat:7b"
 http://3.101.108.91:25105/v1,"llama2:latest, openchat:7b, deepseek-r1:latest, codellama:13b, llama3:latest"
 http://54.191.47.5:8002/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
+http://47.98.131.167:11434/v1,"smollm2:135m, qwen3:0.6b"
+http://3.143.25.28:4711/v1,qwen2.5:1.5b
+http://44.248.153.58:8002/v1,"llama2:latest, openchat:7b, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
+http://203.79.236.131:8251/v1,"vcity_llm:v2, deepseek-r1:latest"
+http://112.65.253.194:11434/v1,"smollm2:135m, bge-m3:latest"
+http://47.108.171.152:8000/v1,"qwen3:4b-thinking, qwen3:4b-instruct, Qwen3-Embedding-0.6B:latest, qwen3:4b-thinking-2507-q8_0, qwen3:4b-instruct-2507-q8_0, qwen3:30b-a3b-thinking-2507-q4_K_M, qwen3:30b-a3b-instruct-2507-q4_K_M, qwen3-coder:30b, gemma3n:e2b, qwen2.5vl:7b, gemma3:4b, minicpm-v:8b"
+http://60.209.152.50:48888/v1,"qiyu_tiantian:latest, bge-m3:latest, gemma3:12b, tian_tian:latest, qwen3:8b, gemma3:4b, deepseek-r1:8b, nomic-embed-text:latest, deepseek-r1:14b"
+http://203.79.236.131:8251/v1,"vcity_llm:v2, deepseek-r1:latest"
