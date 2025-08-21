@@ -2015,3 +2015,5 @@ http://43.198.243.182:8003/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b"
 http://78.12.139.74:9005/v1,llama2:latest
 http://18.119.115.223:16993/v1,"deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama3:latest"
 http://61.220.158.87:11434/v1,"gpt-oss:20b, smollm2:135m, bge-m3:latest, gemma3:12b, deepseek-r1:14b"
+http://54.249.40.254:8096/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
+http://rag.ecrp.cn:11434/v1,"deepseek-r1:8b, quentinz/bge-large-zh-v1.5:latest, shaw/dmeta-embedding-zh:latest, nomic-embed-text:latest, phi4:latest, deepseek-r1:14b"
