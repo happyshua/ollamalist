@@ -1987,3 +1987,6 @@ http://35.95.20.142:6600/v1,"deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
 http://56.124.34.46:8096/v1,"deepseek-r1:latest, codellama:13b, openchat:7b, qwen2.5:1.5b"
 http://60.161.84.252:11434/v1,"qwen2.5vl:32b, qwen2.5vl:7b, minicpm-v:8b, unitythemaker/llama3.2-vision-tools:latest, myaniu/OCRFlux-3B:Q8_0, benhaotang/Nanonets-OCR-s:latest, llama3.2-vision:11b, qwen3:14b, qwen3:8b, codellama:7b, codellama:13b, bge-m3:567m, deepseek-r1:32b, deepseek-r1:14b, mistral-small3.1:24b"
 http://115.120.229.39:11434/v1,deepseek-r1:1.5b
+http://211.54.28.150:41111/v1,gemma3:12b
+http://56.155.107.212:5820/v1,"deepseek-r1:latest, llama3:latest, llama2:latest"
+http://202.5.255.91:11434/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest, gemma3:12b, gemma3:4b, cwchang/llama-3-taiwan-8b-instruct:latest"
