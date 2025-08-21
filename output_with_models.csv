@@ -2000,3 +2000,4 @@ http://13.230.139.184:8020/v1,"codellama:13b, deepseek-r1:latest, llama3:latest,
 http://13.115.37.150:8083/v1,"qwen2.5:1.5b, llama3:latest, openchat:7b, codellama:13b, deepseek-r1:latest"
 http://113.116.43.2:10002/v1,"pxlksr/defog_sqlcoder-7b-2:F16, deepseek-coder:33b, qwen2:72b, sqlcoder:latest, llama3.1:70b, deepseek-coder-v2:latest, deepseek-r1:14b, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:70b-llama-distill-q8_0, deepseek-r1:70b"
 http://49.233.220.126:11434/v1,"hhao/qwen2.5-coder-tools:32B, qwen2.5:latest, llama3.1:latest, mxbai-embed-large:latest, gpt-oss:20b, deepseek-r1:latest, deepseek-r1:70B, deepseek-r1:32B, deepseek-v2:16b, qwen3:30b, deepseek-r1:14B, deepseek-r1:7b, qwen3:0.6b"
+http://107.149.7.136:11434/v1,deepseek-r1:1.5b
