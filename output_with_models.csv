@@ -2082,3 +2082,7 @@ http://78.12.227.239:55442/v1,"codellama:13b, openchat:7b, qwen2.5:1.5b, llama2:
 http://43.207.68.205:2086/v1,qwen2.5:1.5b
 http://3.39.248.143:12300/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
 http://60.165.248.116:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, mattw/pygmalion:latest, deepseek-r1:1.5b"
+http://116.239.28.44:11434/v1,"gpt-oss:20b, qwen3:30b, bge-m3:latest, gemma3:27b, deepseek-r1:32b"
+http://47.122.118.181:10004/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:1.5b, deepseek-coder-v2:16b, deepseek-r1:8b, deepseek-r1:14b"
+http://175.161.184.73:11434/v1,"qwen2:1.5b, deepseek-r1:1.5b"
+http://121.229.204.204:10009/v1,"gemma3:27b, gemma3:latest, nomic-embed-text:latest, bge-m3:latest, qwen3:14b, qwen3:30b, qwen3:32b, qwen3:0.6b"
