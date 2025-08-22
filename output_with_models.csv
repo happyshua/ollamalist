@@ -2042,3 +2042,4 @@ http://24.91.85.176:11434/v1,"llama2-uncensored:7b, deepseek-coder-v2:latest, qw
 http://107.170.60.126:11434/v1,gemma:2b
 http://39.105.198.203:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://47.113.145.4:8081/v1,qwen2.5:0.5b
+http://218.38.240.192:11434/v1,"gpt-oss:20b, hf.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF:Q4_0"
