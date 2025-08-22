@@ -2071,3 +2071,7 @@ http://221.179.69.35:49434/v1,crosery/sakura-14b-qwen2.5-v1.0-q6k:latest
 http://13.214.214.217:5427/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
 http://223.72.19.139:11434/v1,"qwen3:14b, qwen3:0.6b, yi:9b, yi:34b, deepseek-r1:1.5b, deepseek-r1:8b, llama3.1:8b, llama3.2:latest, qwen3:8b"
 http://202.5.251.22:11434/v1,"llama3.2:latest, TwinkleAI/Llama-3.2-3B-F1-Resoning-Instruct:latest, qwen2.5:latest, nomic-embed-text:latest"
+http://140.83.80.248:10138/v1,"qwen2.5vl72b:latest, qwen2.5vl32b:latest, mistral:latest, gemma3:latest, gpt-oss:120b, gpt-oss:latest, gemma3:27b-it-fp16, mistral-small3.2:24b-instruct-2506-fp16, qwen2.5vl:32b-fp16, qwen2.5vl:72b-q4_K_M"
+http://78.12.205.140:8032/v1,"openchat:7b, llama3:latest, llama2:latest, codellama:13b"
+http://56.124.118.226:25010/v1,"llama2:latest, llama3:latest"
+http://223.166.102.84:5555/v1,"phi4-mini-finetuned:latest, phi4-mini:latest, phi4:14b-q4_K_M, gemma3:27b, snowflake-arctic-embed2:latest, gemma3:12b, jaahas/qwen3-abliterated:30b-a3b, qwen3:32b, qwen3:8b, huihui_ai/deepseek-r1-abliterated:14b"
