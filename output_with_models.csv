@@ -2069,3 +2069,4 @@ http://43.200.255.94:8020/v1,codellama:13b
 http://218.17.50.157:60002/v1,"dengcao/Qwen3-Embedding-8B:Q5_K_M, qwen3:latest, dengcao/Qwen3-Embedding-4B:Q5_K_M, MFDoom/deepseek-r1-tool-calling:7b, MFDoom/deepseek-r1-tool-calling:8b, hf-mirror.com/unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF:Q4_K_XL, spd_faq_robot:latest, bge-m3:latest"
 http://221.179.69.35:49434/v1,crosery/sakura-14b-qwen2.5-v1.0-q6k:latest
 http://13.214.214.217:5427/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest"
+http://223.72.19.139:11434/v1,"qwen3:14b, qwen3:0.6b, yi:9b, yi:34b, deepseek-r1:1.5b, deepseek-r1:8b, llama3.1:8b, llama3.2:latest, qwen3:8b"
