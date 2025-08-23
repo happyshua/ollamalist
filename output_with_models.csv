@@ -2100,3 +2100,7 @@ http://1.203.110.52:11434/v1,"deepseek-r1:14b, deepseek-r1:32b"
 http://54.180.251.158:8118/v1,"llama3:latest, deepseek-r1:latest"
 http://3.39.248.143:800/v1,"qwen2.5:1.5b, codellama:13b, llama3:latest"
 http://18.143.159.102:19071/v1,codellama:13b
+http://5.161.205.176:11434/v1,"qwen2.5:latest, mistral:latest"
+http://43.203.254.218:8032/v1,"llama2:latest, qwen2.5:1.5b, openchat:7b"
+http://13.209.83.19:6003/v1,"llama3:latest, codellama:13b, openchat:7b"
+http://221.165.107.69:11434/v1,gpt-oss:20b
