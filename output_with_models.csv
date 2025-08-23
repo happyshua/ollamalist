@@ -2114,3 +2114,9 @@ http://54.241.146.9:8983/v1,"llama2:latest, deepseek-r1:latest"
 http://47.113.111.42:8085/v1,"ALIENTELLIGENCE/genaiimagecsprompt:latest, mashriram/gpt-oss-regular:latest, qwen3:14b, gemma3:12b, gpt-oss:latest, brxce/stable-diffusion-prompt-generator:latest, gemma3:4b, gemma3:1b, gpt-oss:20b"
 http://120.196.65.244:9898/v1,"mingruixun:latest, qiangui:latest, huangxi:latest, pzka:latest, qw16-zhuquan-02:latest, qw16-zhuquan:latest, qwen2.5:32b, qw16-pre2:latest, qw16-pre:latest, qw16:latest"
 http://111.22.125.46:8925/v1,deepseek-r1:8b
+http://116.233.9.100:9005/v1,"qwen3:30b-a3b, qwen3:14b, deepseek-r1:14b"
+http://45.67.212.80:11434/v1,"solar:10.7b-instruct-v1-q4_K_M, mixtral:8x7b-instruct-v0.1-q2_K, phi3:14b-medium-4k-instruct-q4_K_M, qwen2.5:7b-instruct-q4_K_M, gemma2:9b-instruct-q4_K_M, neural-chat:7b-v3.3, zephyr:7b-beta, sqlcoder:15b, mistral:7b-instruct-v0.2-q8_0, starcoder2:15b-instruct-v0.1-q8_0, llama3.1:70b-instruct-q3_K_M, phind-codellama:34b-v2-q4_K_M, qwen2.5:72b-instruct-q3_K_M, qwen2.5-coder:32b-instruct-q4_K_M, codellama:70b-instruct-q3_K_M, codellama:34b-instruct-q4_K_M, deepseek-coder:6.7b-instruct-q8_0"
+http://111.198.60.28:11434/v1,"gpt-oss:20b, qwen3-coder:30b-a3b-q8_0, qwen3:30b-a3b-thinking-2507-q8_0, DeepSeek-R1-Distill-Qwen-7B-SFT:latest, gemma3:27b-it-q8_0, bge-m3:latest, nomic-embed-text:latest"
+http://125.71.212.190:11434/v1,"qwen2.5vl:7b, nomic-embed-text:latest, qwen3:14b, qwen3:32b, gemma3:27b, qwen2.5-coder:latest, qwen2.5-coder:14b, deepseek-finetuned.gguf:latest, ishumilin/deepseek-r1-coder-tools:8b, deepseek-coder-v2:latest, deepseek-r1:14b"
+http://3.112.126.66:8020/v1,openchat:7b
+http://59.125.142.81:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3-backup:latest, llama3.2:latest"
