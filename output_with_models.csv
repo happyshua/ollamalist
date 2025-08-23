@@ -2127,3 +2127,5 @@ http://54.180.235.150:5984/v1,"codellama:13b, qwen2.5:1.5b, llama3:latest, llama
 http://15.168.9.231:10443/v1,"codellama:13b, llama2:latest, qwen2.5:1.5b"
 http://16.163.123.206:880/v1,"codellama:13b, llama2:latest, openchat:7b, qwen2.5:1.5b, deepseek-r1:latest"
 http://54.180.248.49:8020/v1,"llama2:latest, qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
+http://123.15.228.229:8251/v1,"vcity_llm:v2, deepseek-r1:latest"
+http://3.35.139.196:2082/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
