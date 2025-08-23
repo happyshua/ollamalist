@@ -2120,3 +2120,5 @@ http://111.198.60.28:11434/v1,"gpt-oss:20b, qwen3-coder:30b-a3b-q8_0, qwen3:30b-
 http://125.71.212.190:11434/v1,"qwen2.5vl:7b, nomic-embed-text:latest, qwen3:14b, qwen3:32b, gemma3:27b, qwen2.5-coder:latest, qwen2.5-coder:14b, deepseek-finetuned.gguf:latest, ishumilin/deepseek-r1-coder-tools:8b, deepseek-coder-v2:latest, deepseek-r1:14b"
 http://3.112.126.66:8020/v1,openchat:7b
 http://59.125.142.81:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3-backup:latest, llama3.2:latest"
+http://47.238.109.84:11434/v1,"qwen3-coder:30b, gpt-oss:20b, deepseek-r1:7b, qwen3:8b"
+http://43.203.236.94:7778/v1,"qwen2.5:1.5b, llama3:latest"
