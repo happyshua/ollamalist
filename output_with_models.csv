@@ -2106,3 +2106,6 @@ http://13.209.83.19:6003/v1,"llama3:latest, codellama:13b, openchat:7b"
 http://221.165.107.69:11434/v1,gpt-oss:20b
 http://54.254.190.203:11434/v1,gemma3:1b
 http://35.221.197.30/v1,"jason-gemma:latest, jason-llama:latest, llama3.1:8b, gemma3:12b"
+http://3.36.111.165:8030/v1,deepseek-r1:latest
+http://13.125.167.153:2252/v1,"openchat:7b, qwen2.5:1.5b"
+http://13.125.127.173:8002/v1,"llama3:latest, llama2:latest, qwen2.5:1.5b, codellama:13b"
