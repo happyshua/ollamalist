@@ -2163,3 +2163,5 @@ http://43.207.2.67:6544/v1,"openchat:7b, qwen2.5:1.5b"
 http://13.124.221.247:8020/v1,llama3:latest
 http://52.78.89.78:2082/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
 http://111.175.101.23:11434/v1,"qwen3:30b-a3b-instruct-2507-q4_K_M, qwen3:4b-instruct-2507-fp16, qwen3-coder:latest, qwen3:30b-a3b-thinking-2507-q8_0, qwen3:30b-a3b-instruct-2507-q8_0, qwen3:30b-a3b"
+http://112.172.172.83:11434/v1,"mistral:latest, bge-m3:latest, snowflake-arctic-embed2:latest, nomic-embed-text:latest, mxbai-embed-large:latest, gpt-oss:latest, gemma3:27b, deepseek-r1:8b, qwen3:8b"
+http://54.180.137.13:14443/v1,"codellama:13b, openchat:7b, deepseek-r1:latest"
