@@ -2167,3 +2167,4 @@ http://112.172.172.83:11434/v1,"mistral:latest, bge-m3:latest, snowflake-arctic-
 http://54.180.137.13:14443/v1,"codellama:13b, openchat:7b, deepseek-r1:latest"
 http://52.116.195.75:11434/v1,"smollm2:135m, llama3.2:latest, llama3.3:70b-instruct-q2_K, deepseek-r1:32b-qwen-distill-q4_K_M, llama3.1:8b, gemma3:27b, aratan/mistral-small-3.1:24b, llama3.2:3b, llama3.2:1b, qwq:32b, llama3.2-vision:11b, deepseek-r1:70b"
 http://111.10.244.70:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:70b, deepseek-r1:32b"
+http://54.95.181.77:10030/v1,"llama2:latest, openchat:7b, deepseek-r1:latest"
