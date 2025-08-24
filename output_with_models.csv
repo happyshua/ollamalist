@@ -2152,3 +2152,6 @@ http://42.242.128.93:11434/v1,"gemma3:27b, qwen2.5-coder:latest"
 http://43.207.82.72:6590/v1,deepseek-r1:latest
 http://15.152.33.77:620/v1,"openchat:7b, codellama:13b"
 http://13.208.206.230:8000/v1,"llama2:latest, codellama:13b, openchat:7b, deepseek-r1:latest, llama3:latest"
+http://35.88.143.63:2080/v1,llama2:latest
+http://101.42.251.185:8833/v1,"deepseek-r1:32b, deepseek-r1:32b_32768"
+http://120.76.158.80:7006/v1,"deepseek-r1:32b, deepseek-r1:14b"
