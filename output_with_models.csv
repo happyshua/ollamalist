@@ -2179,3 +2179,6 @@ http://13.114.65.33:5280/v1,"llama2:latest, deepseek-r1:latest, codellama:13b, o
 http://115.238.183.230:10200/v1,"bsahane/Qwen2.5-VL-7B-Instruct:Q4_K_M_benxh, qwen2.5vl:32b, qwen2.5vl:72b, qwen2.5vl:3b, qwen3:32b"
 http://220.141.0.24:8086/v1,"deepcoder:1.5b, deepseek-coder:latest, qwen3:0.6b, qwen:4b, codellama:7b"
 http://220.141.0.24:8086/v1,"deepcoder:1.5b, deepseek-coder:latest, qwen3:0.6b, qwen:4b, codellama:7b"
+http://43.199.190.193:9191/v1,"deepseek-r1:latest, llama2:latest"
+http://13.229.213.166:1024/v1,qwen2.5:1.5b
+http://13.250.21.180:3001/v1,"llama2:latest, qwen2.5:1.5b, llama3:latest"
