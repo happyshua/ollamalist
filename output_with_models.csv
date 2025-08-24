@@ -2172,3 +2172,10 @@ http://13.208.241.246:7187/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b, deepsee
 http://3.138.143.73:8058/v1,codellama:13b
 http://13.208.173.225:28017/v1,"codellama:13b, llama3:latest"
 http://61.160.207.59:11434/v1,"smollm2:135m, modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest"
+http://58.57.195.222:11434/v1,"baichuan-m2-q4:32b, qwen3:1.7b, qwen3:0.6b, qwen3:8b, qwen3:32b, deepseek-r1:1.5b, qwen3:30b-a3b, deepseek-r1:32b"
+http://78.13.104.52:9864/v1,qwen2.5:1.5b
+http://13.208.206.230:40000/v1,"llama2:latest, codellama:13b, openchat:7b, deepseek-r1:latest, llama3:latest"
+http://13.114.65.33:5280/v1,"llama2:latest, deepseek-r1:latest, codellama:13b, openchat:7b, llama3:latest"
+http://115.238.183.230:10200/v1,"bsahane/Qwen2.5-VL-7B-Instruct:Q4_K_M_benxh, qwen2.5vl:32b, qwen2.5vl:72b, qwen2.5vl:3b, qwen3:32b"
+http://220.141.0.24:8086/v1,"deepcoder:1.5b, deepseek-coder:latest, qwen3:0.6b, qwen:4b, codellama:7b"
+http://220.141.0.24:8086/v1,"deepcoder:1.5b, deepseek-coder:latest, qwen3:0.6b, qwen:4b, codellama:7b"
