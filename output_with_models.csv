@@ -1952,3 +1952,6 @@ http://106.47.44.31:11434/v1,"qwen3:4b, qwen3:8b, qwen2.5:7b, qwq:32b, qwq:lates
 http://47.129.203.199:7548/v1,llama3:latest
 http://13.228.71.55:9200/v1,"deepseek-r1:latest, codellama:13b, qwen2.5:1.5b"
 http://dify.tropox.ai:11434/v1,"llama3.2:3b-instruct-q5_K_M, bge-m3:latest, gemma3:12b, gemma3:4b, cwchang/llama-3-taiwan-8b-instruct:latest"
+http://61.218.253.95:8251/v1,"vcity_llm:v2, deepseek-r1:latest"
+http://61.65.173.94:8251/v1,"vcity_llm:v2, deepseek-r1:latest"
+http://218.44.230.6:11434/v1,"qwen3:latest, gpt-oss:latest, phi3:latest, llama3.1:latest, TinySwallow:latest, llm-jp-3:latest, sarashina2.2:latest, gemma3:latest, deepseek-jp:latest, elyza-jp:latest"
