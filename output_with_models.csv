@@ -1966,3 +1966,4 @@ http://44.204.20.5:8444/v1,"openchat:7b, deepseek-r1:latest, codellama:13b, qwen
 http://3.88.107.62:50050/v1,codellama:13b
 http://106.248.49.51:11434/v1,"gemma3:270m, gemma3:27b"
 http://180.70.37.178:11434/v1,"llama3.2:3b, llama3.1:8b"
+http://61.218.253.94:8251/v1,"llama3.2:3b-instruct-q5_K_M, vcity_llm:v2, deepseek-r1:latest"
