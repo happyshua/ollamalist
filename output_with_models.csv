@@ -1960,3 +1960,4 @@ http://15.168.175.137:1212/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, 
 http://43.209.130.76:50075/v1,deepseek-r1:latest
 http://43.209.8.176:9002/v1,"qwen2.5:1.5b, deepseek-r1:latest"
 http://47.112.180.61:11434/v1,"llama3.2:3b, llama3:8b"
+http://116.124.172.154:40000/v1,"llama3.1:8b, gemma:2b"
