@@ -1962,3 +1962,5 @@ http://43.209.8.176:9002/v1,"qwen2.5:1.5b, deepseek-r1:latest"
 http://47.112.180.61:11434/v1,"llama3.2:3b, llama3:8b"
 http://116.124.172.154:40000/v1,"llama3.1:8b, gemma:2b"
 http://3.34.51.73:8003/v1,"openchat:7b, llama2:latest"
+http://44.204.20.5:8444/v1,"openchat:7b, deepseek-r1:latest, codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://3.88.107.62:50050/v1,codellama:13b
