@@ -2030,3 +2030,6 @@ http://43.198.109.222:9091/v1,deepseek-r1:latest
 http://27.210.174.20:11434/v1,"deepseek-r1:my, deepseek-r1:32b"
 http://13.125.104.179:3002/v1,"deepseek-r1:latest, codellama:13b"
 http://54.180.250.152:14265/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest"
+http://51.16.52.73:20880/v1,llama2:latest
+http://57.180.66.107:1311/v1,qwen2.5:1.5b
+http://54.92.77.91:81/v1,llama3:latest
