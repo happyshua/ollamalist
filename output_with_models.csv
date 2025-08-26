@@ -1980,3 +1980,4 @@ http://34.245.99.92:27571/v1,"llama3:latest, llama2:latest"
 http://16.62.85.93:49152/v1,"deepseek-r1:latest, llama3:latest, llama2:latest"
 http://15.161.46.214:8008/v1,"qwen2.5:1.5b, openchat:7b, deepseek-r1:latest, llama2:latest"
 http://35.182.250.2:3125/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, openchat:7b"
+http://3.29.244.94:2109/v1,openchat:7b
