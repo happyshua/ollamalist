@@ -2042,3 +2042,7 @@ http://1.34.160.207:11434/v1,"gpt-oss:20b, gpt-oss:120b, deepseek-r1:1.5b, llama
 http://140.116.249.124:11434/v1,"smollm2:135m, gemma3:4b, mattw/pygmalion:latest, llama3.2:latest, mario:latest, ycchen/breeze-7b-instruct-v1_0:latest, gemma3:12b, llama2:latest, gemma3:latest"
 http://61.218.253.96:8251/v1,"llama3.2:3b-instruct-q5_K_M, vcity_llm:v2, deepseek-r1:latest"
 http://36.238.132.52:11434/v1,"gpt-oss:20b, gemma3:latest, qwen2.5-coder:latest"
+http://54.183.175.235:8092/v1,"openchat:7b, llama2:latest, llama3:latest"
+http://54.176.47.176:6001/v1,"codellama:13b, deepseek-r1:latest, llama2:latest"
+http://13.218.83.36:8388/v1,"deepseek-r1:latest, llama2:latest, llama3:latest, openchat:7b"
+http://78.12.205.99:9006/v1,llama3:latest
