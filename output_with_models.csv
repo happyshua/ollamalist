@@ -2059,3 +2059,4 @@ http://3.38.95.6:8002/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, qwen
 http://13.125.223.129:32/v1,"qwen2.5:1.5b, llama2:latest, llama3:latest, codellama:13b"
 http://110.35.181.52:11434/v1,"smollm2:135m, mattw/pygmalion:latest, qwen2.5-coder:3b-instruct-q5_1, qwen2.5-coder:7b-instruct-q5_1, qwen2.5-coder:1.5b, bge-m3:latest, starcoder2:3b, qwen2.5-coder:7b-instruct-q4_K_M"
 http://121.137.3.17:11434/v1,"gemma3:270m, gpt-oss:20b, qwen2.5:3b, qwen3:8b, gemma3n:e4b, gemma3:12b, gemma3:1b, gemma3:27b, qwq:latest, phi4-mini:latest, deepseek-r1:14b, exaone3.5:2.4b, exaone3.5:latest, solar-pro:latest"
+http://15.236.224.14:20880/v1,codellama:13b
