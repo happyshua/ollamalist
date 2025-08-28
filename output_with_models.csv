@@ -2121,3 +2121,4 @@ http://16.162.23.111:5620/v1,"qwen2.5:1.5b, deepseek-r1:latest"
 http://123.56.66.106:11434/v1,"smollm2:135m, test:latest, qwen2.5:7b"
 http://16.78.41.33:12238/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
 http://65.0.204.17:28017/v1,codellama:13b
+http://35.154.173.90:21301/v1,"llama2:latest, llama3:latest, deepseek-r1:latest"
