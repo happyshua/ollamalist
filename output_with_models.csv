@@ -1938,3 +1938,4 @@ http://47.129.3.52:5201/v1,"deepseek-r1:latest, openchat:7b, llama3:latest, llam
 http://13.212.81.49:8900/v1,"llama2:latest, openchat:7b"
 http://13.229.78.5:6600/v1,"llama3:latest, qwen2.5:1.5b"
 http://47.128.72.59:5000/v1,"llama2:latest, qwen2.5:1.5b, codellama:13b, llama3:latest"
+http://40.172.187.234:12549/v1,llama2:latest
