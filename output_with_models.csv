@@ -1947,3 +1947,5 @@ http://124.77.192.78:11434/v1,"gemma3:12b, deepseek-r1:14b, deepseek-r1:7b, gemm
 http://61.216.157.104:11434/v1,"llama3.2-vision:latest, nomic-embed-text:latest"
 http://52.91.224.233:2160/v1,"llama3:latest, qwen2.5:1.5b, llama2:latest, codellama:13b"
 http://34.209.244.60:4711/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, codellama:13b, llama3:latest"
+http://174.134.139.130:11434/v1,"qwen2.5:7b, cogito:8b, dolphin3.1-64k:latest, dolphin3:latest, llama3.1-64k:latest, llama3.1:8b, exaone-deep:7.8b"
+http://202.39.23.122:10000/v1,"gpt-oss:20b, gemma3n:e4b, qwen2.5vl:7b, deepseek-r1:8b, deepseek-r1:14b, gemma3:12b"
