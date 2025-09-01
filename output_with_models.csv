@@ -1852,3 +1852,8 @@ http://1.95.171.9:11434/v1,"smollm2:135m, bge-m3:latest"
 http://1.94.151.57:11434/v1,"gemma3:latest, nomic-embed-text:latest, gemma3:27b"
 http://116.205.127.201:18001/v1,"mistral:latest, granite3.3:8b, deepseek-r1:8b, qwen3:8b, gemma3n:e4b"
 http://13.60.203.18:5007/v1,"openchat:7b, codellama:13b, llama3:latest, qwen2.5:1.5b, llama2:latest"
+http://16.78.3.24:11000/v1,openchat:7b
+http://16.78.41.33:12238/v1,"qwen2.5:1.5b, codellama:13b"
+http://16.78.108.50:21381/v1,"openchat:7b, deepseek-r1:latest, qwen2.5:1.5b"
+http://16.78.93.162:8428/v1,"llama2:latest, llama3:latest, openchat:7b, qwen2.5:1.5b"
+http://54.179.129.199:14265/v1,"llama2:latest, openchat:7b"
