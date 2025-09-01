@@ -1846,3 +1846,4 @@ http://18.167.59.30:2002/v1,"openchat:7b, llama3:latest, codellama:13b, qwen2.5:
 http://47.129.3.52:5201/v1,"codellama:13b, llama3:latest"
 http://43.198.185.30:10005/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b, llama3:latest"
 http://13.211.202.158:12450/v1,openchat:7b
+http://121.43.182.244:10000/v1,"gemma3:27b, gpt-oss:20b, gpt-oss:120b, qwen3-coder-tools:latest, hopephoto/qwen3-coder-30b-a3b-instruct_q8:latest"
