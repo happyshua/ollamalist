@@ -1850,3 +1850,5 @@ http://121.43.182.244:10000/v1,"gemma3:27b, gpt-oss:20b, gpt-oss:120b, qwen3-cod
 http://40.172.232.213:9092/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama2:latest"
 http://1.95.171.9:11434/v1,"smollm2:135m, bge-m3:latest"
 http://1.94.151.57:11434/v1,"gemma3:latest, nomic-embed-text:latest, gemma3:27b"
+http://116.205.127.201:18001/v1,"mistral:latest, granite3.3:8b, deepseek-r1:8b, qwen3:8b, gemma3n:e4b"
+http://13.60.203.18:5007/v1,"openchat:7b, codellama:13b, llama3:latest, qwen2.5:1.5b, llama2:latest"
