@@ -1869,3 +1869,5 @@ http://116.62.47.88:11434/v1,"smollm2:135m, deepseek-r1:7b, nomic-embed-text:lat
 http://140.83.49.230:11434/v1,"smollm2:135m, llama3.1:8b"
 http://207.246.123.238:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:8b"
 http://40.172.187.234:12549/v1,"openchat:7b, llama2:latest"
+http://27.159.92.187:11434/v1,deepseek-r1:7b
+http://47.110.82.39:11434/v1,deepseek-r1:14b
