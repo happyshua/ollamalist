@@ -1868,3 +1868,4 @@ http://47.111.0.211:11434/v1,"smollm2:135m, qwen2.5:latest, bge-m3:latest, qllam
 http://116.62.47.88:11434/v1,"smollm2:135m, deepseek-r1:7b, nomic-embed-text:latest, deepseek-r1:1.5b"
 http://140.83.49.230:11434/v1,"smollm2:135m, llama3.1:8b"
 http://207.246.123.238:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:8b"
+http://40.172.187.234:12549/v1,"openchat:7b, llama2:latest"
