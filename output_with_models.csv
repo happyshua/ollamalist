@@ -1873,3 +1873,5 @@ http://27.159.92.187:11434/v1,deepseek-r1:7b
 http://47.110.82.39:11434/v1,deepseek-r1:14b
 http://140.245.110.221:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, llama3.1:8b"
 http://129.153.213.68:11434/v1,"smollm2:135m, qwen2.5:latest, mario:latest, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:latest, llama3.2:1b, gemma3:1b, gemma3:4b"
+http://13.212.219.27:6009/v1,llama3:latest
+http://47.128.214.88:8085/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest"
