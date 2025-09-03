@@ -1891,3 +1891,6 @@ http://140.143.210.188:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek
 http://125.228.52.242:11434/v1,"gemma3:latest, deepseek-r1:latest, qwq:latest"
 http://140.112.84.136:8080/v1,"gpt-oss:20b, gpt-oss:latest, qwen2.5-coder:1.5b, qwen2.5-coder:latest, mxbai-embed-large:latest, gemma3n:latest, llama3.2:latest, yxchia/multilingual-e5-large-instruct:latest, magistral:latest, deepseek-r1:latest, gemma3:latest"
 http://120.105.81.166:11434/v1,"qwen3:8b, gpt-oss:20b"
+http://113.44.180.27:11434/v1,"smollm2:135m, shaw/dmeta-embedding-zh:latest"
+http://45.114.124.213:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepseek-r1:1.5b"
+http://103.102.46.249:11434/v1,"smollm2:135m, llama3.1:8b, codellama:7b"
