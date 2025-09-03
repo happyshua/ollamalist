@@ -1887,3 +1887,4 @@ http://143.64.161.223:11434/v1,"smollm2:135m, inke/Qwen3-Embedding-8B:latest, qw
 http://39.101.68.23:11434/v1,"smollm2:135m, mario:latest, deepseek-r1:1.5b"
 http://64.110.108.46:11434/v1,"smollm2:135m, all-minilm:latest"
 http://43.201.47.73:898/v1,"llama2:latest, openchat:7b, codellama:13b, deepseek-r1:latest, llama3:latest"
+http://140.143.210.188:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
