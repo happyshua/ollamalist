@@ -1900,3 +1900,5 @@ http://158.179.210.255:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:lat
 http://40.82.145.251:11434/v1,"smollm2:135m, llama3.2:latest, mario:latest, mattw/pygmalion:latest, mistral:7b, qwen3:8b, devstral:24b, gemma3:4b, gemma3:27b"
 http://43.203.210.194:7170/v1,"openchat:7b, llama3:latest, codellama:13b"
 http://3.36.76.92:9080/v1,"qwen2.5:1.5b, openchat:7b"
+http://164.92.82.86:11434/v1,"smollm2:135m, nomic-embed-text:latest, qwen2.5:7b-instruct-q4_K_M"
+http://8.134.51.244:11434/v1,"smollm2:135m, deepseek-r1:1.5b, deepseek-r1:7b, deepseek-r1:14b"
