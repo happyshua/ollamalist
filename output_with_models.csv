@@ -1896,3 +1896,5 @@ http://45.114.124.213:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deeps
 http://103.102.46.249:11434/v1,"smollm2:135m, llama3.1:8b, codellama:7b"
 http://120.46.37.214:11434/v1,"smollm2:135m, mario:latest, phi3:latest, gemma2:latest, deepseek-r1:1.5b, gemma2:9b, phi3:3.8b"
 http://47.238.239.113:11434/v1,"smollm2:135m, minicpm-v:latest"
+http://158.179.210.255:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3-backup:latest, llama3.1:8b, llama3.2:latest"
+http://40.82.145.251:11434/v1,"smollm2:135m, llama3.2:latest, mario:latest, mattw/pygmalion:latest, mistral:7b, qwen3:8b, devstral:24b, gemma3:4b, gemma3:27b"
