@@ -1898,3 +1898,5 @@ http://120.46.37.214:11434/v1,"smollm2:135m, mario:latest, phi3:latest, gemma2:l
 http://47.238.239.113:11434/v1,"smollm2:135m, minicpm-v:latest"
 http://158.179.210.255:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3-backup:latest, llama3.1:8b, llama3.2:latest"
 http://40.82.145.251:11434/v1,"smollm2:135m, llama3.2:latest, mario:latest, mattw/pygmalion:latest, mistral:7b, qwen3:8b, devstral:24b, gemma3:4b, gemma3:27b"
+http://43.203.210.194:7170/v1,"openchat:7b, llama3:latest, codellama:13b"
+http://3.36.76.92:9080/v1,"qwen2.5:1.5b, openchat:7b"
