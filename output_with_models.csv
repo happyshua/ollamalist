@@ -1905,3 +1905,6 @@ http://8.134.51.244:11434/v1,"smollm2:135m, deepseek-r1:1.5b, deepseek-r1:7b, de
 http://111.255.0.117:11434/v1,"qwen:1.8b, deepseek-r1:8b"
 http://133.18.167.82:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, llama3.2:3b, llama3.2:1b, gemma3:4b, gemma3:1b"
 http://60.204.228.16:11434/v1,"smollm2:135m, DeepSeek-R1-Distill-Qwen-1.5B:latest, qwen2.5:latest"
+http://13.247.89.75:3749/v1,"codellama:13b, openchat:7b"
+http://3.109.47.228:9147/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest"
+http://13.247.119.166:8782/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, openchat:7b"
