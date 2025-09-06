@@ -1804,3 +1804,6 @@ http://150.40.255.205:11434/v1,"smollm2:135m, llama3.1:8b, nomic-embed-text:late
 http://43.206.226.235:3000/v1,"qwen2.5:1.5b, llama2:latest"
 http://15.152.41.2:6006/v1,openchat:7b
 http://184.169.209.165:8089/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://13.231.231.33:5002/v1,deepseek-r1:latest
+http://52.193.5.160:10443/v1,"deepseek-r1:latest, codellama:13b, openchat:7b"
+http://52.193.86.96:8008/v1,"deepseek-r1:latest, llama3:latest, llama2:latest, qwen2.5:1.5b, openchat:7b"
