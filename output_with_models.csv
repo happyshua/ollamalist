@@ -1798,3 +1798,6 @@ http://122.227.28.150:11434/v1,"smollm2:135m, deepseek-r1:8b"
 http://198.58.120.30:11434/v1,"smollm2:135m, yi-coder:9b-chat-q4_K_S"
 http://40.172.187.234:12549/v1,llama3:latest
 http://3.109.47.228:9147/v1,"deepseek-r1:latest, openchat:7b"
+http://61.16.55.2:11434/v1,"smollm2:135m, qwen2.5-coder:latest, mattw/pygmalion:latest, mario:latest, llama3.2:latest, qwen2.5-coder:7b, gemma3:4b-it-qat, qwen3:8b, tinyllama:latest, phi:latest"
+http://67.217.62.98:11434/v1,"smollm2:135m, phi3:mini, phi3:latest, all-minilm-embeddings:latest, all-minilm:latest, nomic-embed-text:latest, mistral:latest"
+http://150.40.255.205:11434/v1,"smollm2:135m, llama3.1:8b, nomic-embed-text:latest"
