@@ -1812,3 +1812,6 @@ http://16.78.93.162:8428/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b"
 http://163.44.120.118:11434/v1,"smollm2:135m, granite-embedding:latest, 7shi/tanuki-dpo-v1.0:8b-q6_K, hf.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf:latest, llama3.2:latest"
 http://210.242.50.121:8080/v1,"mistral:latest, gpt-oss:20b"
 http://118.166.34.189:11434/v1,"hf.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf:latest, rolandroland/llama3.1-uncensored:latest, qwen2:7b-instruct, hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4:latest, nomic-embed-text:latest, hf.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B-GGUF:Q4_0, huihui_ai/qwen2.5-abliterate:14b, mollysama/rwkv-6-world:1.6b, reefer/monica:latest, mistral:latest, bge-m3:latest, hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4:IQ4_NL"
+http://140.245.31.35:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, gemma:2b, mistral:latest"
+http://8.221.137.97:11434/v1,"smollm2:135m, all-minilm:latest, llama3.1:8b, llama3.2:3b-instruct-q5_K_M, qwen2.5:14b, linux6200/bge-reranker-v2-m3:latest, nomic-embed-text:latest, deepseek-r1:14b, qwen2.5:latest"
+http://124.198.30.14:32768/v1,llama3.2:3b
