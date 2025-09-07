@@ -1815,3 +1815,5 @@ http://118.166.34.189:11434/v1,"hf.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-unc
 http://140.245.31.35:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, gemma:2b, mistral:latest"
 http://8.221.137.97:11434/v1,"smollm2:135m, all-minilm:latest, llama3.1:8b, llama3.2:3b-instruct-q5_K_M, qwen2.5:14b, linux6200/bge-reranker-v2-m3:latest, nomic-embed-text:latest, deepseek-r1:14b, qwen2.5:latest"
 http://124.198.30.14:32768/v1,llama3.2:3b
+http://47.108.199.124:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, nomic-embed-text:latest"
+http://48.216.214.183:11434/v1,"smollm2:135m, qwen2.5:3b, qwen2.5:7b"
