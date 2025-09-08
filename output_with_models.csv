@@ -1817,3 +1817,5 @@ http://8.221.137.97:11434/v1,"smollm2:135m, all-minilm:latest, llama3.1:8b, llam
 http://124.198.30.14:32768/v1,llama3.2:3b
 http://47.108.199.124:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, nomic-embed-text:latest"
 http://48.216.214.183:11434/v1,"smollm2:135m, qwen2.5:3b, qwen2.5:7b"
+http://49.232.139.181:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://144.126.131.173:11434/v1,"smollm2:135m, llama3.2:latest"
