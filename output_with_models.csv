@@ -1767,3 +1767,5 @@ http://18.167.59.30:2002/v1,"codellama:13b, llama2:latest, deepseek-r1:latest, l
 http://140.115.59.160:11434/v1,"gpt-oss:latest, qwen2.5:latest, gemma:2b, deepseek-r1:latest, llama4:latest, gemma3:27b, smollm2:135m, gemma3:12b"
 http://82.156.141.132:11434/v1,"smollm2:135m, llama3-backup:latest, llama3.1:8b-instruct-q4_K_M, llama3.2:latest, qwen2.5:1.5b, llama3.1:8b, qwen2.5:7b"
 http://16.162.3.30:22000/v1,"llama2:latest, codellama:13b, llama3:latest, openchat:7b"
+http://1.15.136.11:11434/v1,"smollm2:135m, codellama:7b"
+http://39.99.242.26:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
