@@ -1769,3 +1769,6 @@ http://82.156.141.132:11434/v1,"smollm2:135m, llama3-backup:latest, llama3.1:8b-
 http://16.162.3.30:22000/v1,"llama2:latest, codellama:13b, llama3:latest, openchat:7b"
 http://1.15.136.11:11434/v1,"smollm2:135m, codellama:7b"
 http://39.99.242.26:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
+http://16.78.93.162:8428/v1,"llama3:latest, codellama:13b"
+http://16.78.108.50:21381/v1,openchat:7b
+http://16.78.3.24:11000/v1,codellama:13b
