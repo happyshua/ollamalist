@@ -1781,3 +1781,4 @@ http://220.135.64.152:11434/v1,"smollm2:135m, llama3.1:8b, qwen3:8b, gemma3:4b, 
 http://13.229.95.208:4155/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
 http://13.212.245.243:49155/v1,qwen2.5:1.5b
 http://163.13.42.191:11434/v1,llama3.1:8b
+http://43.154.154.205:11434/v1,"smollm2:135m, mythomax-l2:13b"
