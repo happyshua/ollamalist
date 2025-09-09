@@ -1772,3 +1772,5 @@ http://39.99.242.26:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
 http://16.78.93.162:8428/v1,"llama3:latest, codellama:13b"
 http://16.78.108.50:21381/v1,openchat:7b
 http://16.78.3.24:11000/v1,codellama:13b
+http://101.43.135.118:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://103.255.45.145:11434/v1,"smollm2:135m, ingu627/Qwen2.5-VL-7B-Instruct-Q5_K_M:latest, deepseek-r1:7b, llava:latest, llama3.1:latest"
