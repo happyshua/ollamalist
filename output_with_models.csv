@@ -1782,3 +1782,7 @@ http://13.229.95.208:4155/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
 http://13.212.245.243:49155/v1,qwen2.5:1.5b
 http://163.13.42.191:11434/v1,llama3.1:8b
 http://43.154.154.205:11434/v1,"smollm2:135m, mythomax-l2:13b"
+http://207.244.226.129:11434/v1,"smollm2:135m, deepseek-coder:33b-instruct"
+http://76.199.20.189:11434/v1,"smollm2:135m, huihui_ai/exaone-deep-abliterated:latest, redule26/huihui_ai_qwen2.5-vl-7b-abliterated:latest, dolphin-llama3:latest, artifish/llama3.2-uncensored:latest, llama3.3:latest"
+http://108.181.226.247:11434/v1,"smollm2:135m, llama3.1:latest, gpt-oss:20b, nomic-embed-text:latest, qwen2.5-coder:latest"
+http://16.162.253.3:8089/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
