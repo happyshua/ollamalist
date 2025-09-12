@@ -1797,3 +1797,4 @@ http://47.83.166.79:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepsee
 http://209.126.4.40:11434/v1,"smollm2:135m, ia:latest, artifish/llama3.2-uncensored:latest"
 http://138.2.109.17:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:latest, deepseek-r1:7b, deepseek-r1:1.5b, llama2-chinese:latest, qwen2.5-coder:latest"
 http://3.144.82.227:6009/v1,codellama:13b
+http://47.122.123.39:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:3b-instruct-q5_K_M, modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest"
