@@ -1796,3 +1796,4 @@ http://3.89.121.40:9300/v1,qwen2.5:1.5b
 http://47.83.166.79:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepseek-r1:1.5b"
 http://209.126.4.40:11434/v1,"smollm2:135m, ia:latest, artifish/llama3.2-uncensored:latest"
 http://138.2.109.17:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:latest, deepseek-r1:7b, deepseek-r1:1.5b, llama2-chinese:latest, qwen2.5-coder:latest"
+http://3.144.82.227:6009/v1,codellama:13b
