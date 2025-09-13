@@ -1708,3 +1708,4 @@ http://114.33.15.170:7001/v1,"gemma3:12b-it-qat, qllama/bge-reranker-v2-m3:lates
 http://175.170.155.230:11434/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:70b"
 http://220.135.123.33:11434/v1,"qwen3:8b, gpt-oss:20b, qwen3:32b"
 http://111.242.234.99:11434/v1,"gemma3:4B, gemma3:27b, gemma3:12b, nomic-embed-text:latest, llava-phi3:latest, cwchang/llama3-taide-lx-8b-chat-alpha1:latest, llama3:latest"
+http://16.78.3.24:11000/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest, codellama:13b"
