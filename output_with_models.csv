@@ -1684,3 +1684,18 @@ http://47.83.166.79:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepsee
 http://209.126.4.40:11434/v1,"smollm2:135m, ia:latest, artifish/llama3.2-uncensored:latest"
 http://138.2.109.17:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:latest, deepseek-r1:7b, deepseek-r1:1.5b, llama2-chinese:latest, qwen2.5-coder:latest"
 http://47.122.123.39:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:3b-instruct-q5_K_M, modelscope.cn/unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF:latest"
+http://13.231.231.33:5002/v1,llama3:latest
+http://139.162.3.158:35250/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://35.182.250.2:3125/v1,"deepseek-r1:latest, llama3:latest, openchat:7b, codellama:13b"
+http://34.209.244.60:4711/v1,"openchat:7b, qwen2.5:1.5b"
+http://54.180.232.170:50998/v1,llama2:latest
+http://34.222.119.197:31380/v1,"qwen2.5:1.5b, llama3:latest"
+http://3.144.82.227:6009/v1,"openchat:7b, qwen2.5:1.5b, llama3:latest, deepseek-r1:latest, codellama:13b"
+http://18.167.59.30:2002/v1,"deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://139.162.112.150:12577/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://3.253.192.149:8160/v1,"codellama:13b, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
+http://61.171.99.107:11434/v1,"smollm2:135m, modelscope.cn/Qwen/Qwen2-7B-Instruct-GGUF:q6_k, modelscope.cn/gpustack/bge-reranker-v2-m3-GGUF:FP16, modelscope.cn/Qwen/Qwen2.5-3B-Instruct-GGUF:latest, linux6200/bge-reranker-v2-m3:latest, deepseek-r1:1.5b, bge-m3:latest, deepseek-r1:7b, gemma3:4b"
+http://15.161.92.159:8112/v1,"qwen2.5:1.5b, deepseek-r1:latest"
+http://104.237.139.130:25084/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://139.162.61.108:12511/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://3.122.235.189:9252/v1,"llama3:latest, codellama:13b, openchat:7b, llama2:latest, deepseek-r1:latest"
