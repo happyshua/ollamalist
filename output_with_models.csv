@@ -1713,3 +1713,7 @@ http://43.203.251.34:8888/v1,"openchat:7b, deepseek-r1:latest, llama3:latest, co
 http://43.202.56.157:16993/v1,"qwen2.5:1.5b, llama2:latest, deepseek-r1:latest, openchat:7b, codellama:13b"
 https://api.jhlab.ai.kr/v1,"deepseek-r1:8b, gpt-oss:20b"
 http://172.105.120.22:55555/v1,llama3.2:latest
+http://54.186.204.249:28017/v1,"codellama:13b, llama3:latest, openchat:7b, deepseek-r1:latest"
+http://3.112.217.1:6998/v1,deepseek-r1:latest
+http://3.112.208.106:8009/v1,"llama2:latest, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b, codellama:13b"
+http://15.168.238.55:5357/v1,"llama3:latest, llama2:latest"
