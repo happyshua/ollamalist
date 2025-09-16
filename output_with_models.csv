@@ -2065,3 +2065,12 @@ http://108.238.244.225:11434/v1,"smollm2:135m, all-minilm:latest, llama3.2:3b, d
 http://76.216.240.156:11434/v1,"deepseek-r1:8b, minicpm-v:latest, devstral:latest, mistral-small3.2:latest, qwen3:8b, smollm2:135m, gemma3:12b, gpt-oss:20b, deepseek-r1:32b, openthinker:32b, gemma3:27b, qwq:latest, qwen2.5-coder:14b, deepseek-r1:70b, deepseek-r1:14b"
 http://45.91.133.62:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, llama3.1:8b"
 http://52.54.108.150:8881/v1,"codellama:13b, llama2:latest, llama3:latest, deepseek-r1:latest"
+http://76.21.103.154:11434/v1,"smollm2:135m, gemma3:4b-it-qat, mxbai-embed-large:335m, gemma3:4b, mistral-nemo:latest"
+https://ai.wpstk.com/v1,"ivf-assistant:latest, phi:latest"
+http://123.24.143.12:11434/v1,"gpt-oss:20b, mxbai-embed-large:latest, qwen3:14b, gemma3:12b, hf.co/unsloth/Qwen3-30B-A3B-GGUF:IQ4_XS, llama3.2:latest, qwen3:8b"
+http://47.107.61.58:8088/v1,"qwen3:14b, llama3.2:latest, smollm2:135m, qwen2.5:latest, bge-m3:latest, nomic-embed-text:latest, qwen2:latest, llama3.1:latest, glm4:latest"
+http://54.174.128.155:7547/v1,"openchat:7b, llama3:latest, deepseek-r1:latest"
+http://20.245.182.145:11434/v1,"smollm2:135m, llama3.1:8b"
+http://108.51.236.124:8080/v1,"incept5/llama3.1-claude:latest, gemma3:4b, granite3.2-vision:latest, qwen3:8b, granite3.3:8b, gemma3:latest, qwen2.5-coder:latest"
+http://148.113.168.120:11434/v1,gpt-oss:latest
+http://139.226.106.74:11434/v1,"qwen3:30b-a3b, deepseek-r1:32b, qwen2.5:32b, qwen3:32b, dengcao/Qwen3-Embedding-8B:Q8_0, qwen2.5vl:32b, dengcao/Qwen3-Reranker-4B:Q5_K_M, dengcao/Qwen3-Embedding-4B:Q5_K_M, nomic-embed-text:latest"
