@@ -1989,3 +1989,4 @@ http://3.138.174.191:28017/v1,"llama3:latest, codellama:13b, llama2:latest"
 http://157.245.91.232:11434/v1,"smollm2:135m, llama3.2:latest"
 http://8.136.56.183:11434/v1,deepseek-r1:1.5b
 http://16.24.83.221:8090/v1,"codellama:13b, openchat:7b, llama3:latest, llama2:latest, deepseek-r1:latest"
+http://43.205.235.56:8090/v1,"codellama:13b, llama3:latest, qwen2.5:1.5b, llama2:latest, deepseek-r1:latest"
