@@ -2271,3 +2271,7 @@ http://217.168.66.134:11434/v1,"gemma3:27b, gemma3:12b, qwen3-coder:30b, qwen3:3
 http://45.152.87.156:11434/v1,"deepseek-r1:1.5b, nomic-embed-text:latest"
 http://92.237.167.65:11434/v1,"codellama:latest, sqlcoder:latest, mistral:latest, qwen3:latest, qwen3:8b, llama3.1:8b, deepseek-r1:latest, llama3:latest, llama3:8b, deepseek-coder:latest, phi:latest"
 http://217.154.199.38:11434/v1,mistral:latest
+http://87.242.106.35:11434/v1,"smollm2:135m, llama3.1:latest"
+http://42.96.34.151:11434/v1,"dengcao/Qwen3-Reranker-8B:Q5_K_M, qllama/bge-reranker-v2-m3:latest, mxbai-embed-large:latest, gpt-oss:20b"
+http://52.54.203.42/v1,granite3-guardian:2b
+http://82.24.85.21:11434/v1,"smollm2:135m, llama3:70b"
