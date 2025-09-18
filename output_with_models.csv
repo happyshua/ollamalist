@@ -2276,3 +2276,6 @@ http://42.96.34.151:11434/v1,"dengcao/Qwen3-Reranker-8B:Q5_K_M, qllama/bge-reran
 http://52.54.203.42/v1,granite3-guardian:2b
 http://82.24.85.21:11434/v1,"smollm2:135m, llama3:70b"
 http://144.91.123.155:11434/v1,"smollm2:135m, qwen3:0.6b, qwen3:4b, gemma3n:e2b, phi4-mini-reasoning:latest"
+http://45.94.58.56:11434/v1,"smollm2:135m, llama3:latest"
+http://173.212.215.233:11434/v1,"smollm2:135m, deepseek-r1:latest, tinyllama:1.1b, phi3:mini, nomic-embed-text:latest, llama3.2:3b"
+http://213.199.34.145:11434/v1,"gemma3:1b, gemma2:2b"
