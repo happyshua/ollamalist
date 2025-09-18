@@ -2275,3 +2275,4 @@ http://87.242.106.35:11434/v1,"smollm2:135m, llama3.1:latest"
 http://42.96.34.151:11434/v1,"dengcao/Qwen3-Reranker-8B:Q5_K_M, qllama/bge-reranker-v2-m3:latest, mxbai-embed-large:latest, gpt-oss:20b"
 http://52.54.203.42/v1,granite3-guardian:2b
 http://82.24.85.21:11434/v1,"smollm2:135m, llama3:70b"
+http://144.91.123.155:11434/v1,"smollm2:135m, qwen3:0.6b, qwen3:4b, gemma3n:e2b, phi4-mini-reasoning:latest"
