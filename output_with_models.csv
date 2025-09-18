@@ -2279,3 +2279,4 @@ http://144.91.123.155:11434/v1,"smollm2:135m, qwen3:0.6b, qwen3:4b, gemma3n:e2b,
 http://45.94.58.56:11434/v1,"smollm2:135m, llama3:latest"
 http://173.212.215.233:11434/v1,"smollm2:135m, deepseek-r1:latest, tinyllama:1.1b, phi3:mini, nomic-embed-text:latest, llama3.2:3b"
 http://213.199.34.145:11434/v1,"gemma3:1b, gemma2:2b"
+http://148.251.4.74:11434/v1,"smollm2:135m, gemma3:latest, mario:latest, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:latest, llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, llama3.3:70b-instruct-q2_K, llama3.1:8b, gemma3:27b, llava:34b, x/llama3.2-vision:latest, deepseek-r1:32b, mistral:latest, phi4:latest, deepseek-r1:14b, minicpm-v:latest, llama3.2-vision:latest"
