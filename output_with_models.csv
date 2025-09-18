@@ -2284,3 +2284,4 @@ http://150.230.123.174:11434/v1,deepseek-r1:1.5b
 http://164.68.115.182:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, mattw/pygmalion:latest, llama3.2:1b, llama3.2:latest"
 http://208.110.66.154:11434/v1,"llava:7b-v1.6-vicuna-q4_K_M, llama3:70b-instruct, mattw/pygmalion:latest, mario:latest, llama3.2:latest, tinyllama:latest, mistral:latest"
 http://39.101.66.251:11434/v1,"dengcao/Qwen3-Reranker-8B:Q8_0, qllama/bge-reranker-large:latest, qwen:7b, nomic-embed-text:latest, shaw/dmeta-embedding-zh:latest, llava:latest, smollm2:135m, llama3.2:3b-instruct-q5_K_M, qwen3:235b"
+http://176.9.0.227:11434/v1,"smollm2:135m, gemma3:latest, nomic-embed-text:latest, mxbai-embed-large:335m, codellama:latest, phi3:latest, gemma:latest, mistral:latest, llama3:latest"
