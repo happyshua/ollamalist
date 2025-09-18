@@ -2282,3 +2282,5 @@ http://213.199.34.145:11434/v1,"gemma3:1b, gemma2:2b"
 http://148.251.4.74:11434/v1,"smollm2:135m, gemma3:latest, mario:latest, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:latest, llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, llama3.3:70b-instruct-q2_K, llama3.1:8b, gemma3:27b, llava:34b, x/llama3.2-vision:latest, deepseek-r1:32b, mistral:latest, phi4:latest, deepseek-r1:14b, minicpm-v:latest, llama3.2-vision:latest"
 http://150.230.123.174:11434/v1,deepseek-r1:1.5b
 http://164.68.115.182:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, mattw/pygmalion:latest, llama3.2:1b, llama3.2:latest"
+http://208.110.66.154:11434/v1,"llava:7b-v1.6-vicuna-q4_K_M, llama3:70b-instruct, mattw/pygmalion:latest, mario:latest, llama3.2:latest, tinyllama:latest, mistral:latest"
+http://39.101.66.251:11434/v1,"dengcao/Qwen3-Reranker-8B:Q8_0, qllama/bge-reranker-large:latest, qwen:7b, nomic-embed-text:latest, shaw/dmeta-embedding-zh:latest, llava:latest, smollm2:135m, llama3.2:3b-instruct-q5_K_M, qwen3:235b"
