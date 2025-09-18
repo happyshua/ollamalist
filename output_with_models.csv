@@ -2254,3 +2254,13 @@ http://212.132.112.201:11434/v1,"smollm2:135m, deepseek-r1:latest, gpt-oss:lates
 http://194.164.204.111:11434/v1,"smollm2:135m, nomic-embed-text:latest, mistral:latest, mistral:7b, gemma:2b, llama3:8b"
 http://109.120.179.184:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, llama3.1:8b, hermes3:8b"
 http://82.146.55.218:11434/v1,"smollm2:135m, nomic-embed-text:latest"
+http://31.97.250.121:11434/v1,"gemma:2b, llama3:latest, mistral:latest"
+http://207.180.217.116:11434/v1,"smollm2:135m, llama3:latest"
+http://173.249.50.179:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3.2:latest, tinyllama:latest"
+http://81.90.182.103:11434/v1,"smollm2:135m, toshk0/nomic-embed-text-v2-moe:Q6_K, nomic-embed-text:latest"
+http://82.25.118.193:11434/v1,"qwen2.5:3b, phi3:mini, llama3.2:3b, mistral:latest, llava-phi3:latest"
+http://157.173.192.74:11434/v1,"llama3.2:latest, mistral:latest"
+http://161.97.141.186:11434/v1,"smollm2:135m, qwen2.5:1.5b, gemma2:2b"
+http://79.143.185.151:11434/v1,llama3.2:latest
+http://195.80.238.76:11434/v1,"qwen3:4b, gemma3n:latest, gemma3:latest, qwen3:8b"
+http://173.249.48.55:11434/v1,"smollm2:135m, gemma3:1b, gemma3:4b"
