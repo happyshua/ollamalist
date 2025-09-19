@@ -2938,3 +2938,4 @@ http://164.68.111.183:11434/v1,"smollm2:135m, llama3:instruct, mistral:7b, phi3:
 http://154.39.79.82:11434/v1,"smollm2:135m, llama3.2:latest, llama3.1:8b, nomic-embed-text:latest, deepseek-r1:1.5b"
 http://143.47.240.42:11434/v1,"smollm2:135m, gemma3:1b, tinyllama:latest"
 http://89.168.41.116:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3.2:latest, codegemma:2b, llama3.2:3b-instruct-q5_K_M, llama2:latest, deepseek-r1:8b, llama3.1:8b"
+http://94.124.176.2:11434/v1,"hf.co/unsloth/Mistral-Small-3.2-24B-Instruct-2506-GGUF:Q4_K_M, hf.co/unsloth/Qwen2.5-VL-7B-Instruct-GGUF:Q8_0, gemma3:27b-it-qat, hf.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-1M-GGUF:IQ3_XXS, gpt-oss:20b, smollm2:135m, hf.co/unsloth/Devstral-Small-2507-GGUF:IQ4_XS, bge-m3:latest"
