@@ -2955,3 +2955,4 @@ http://89.163.254.42:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:lates
 http://194.163.168.44:11434/v1,"smollm2:135m, mistral:latest"
 http://191.101.113.190:11434/v1,"smollm2:135m, phi4-mini:latest"
 http://195.35.3.169:11434/v1,"llama3-backup:latest, llama3.2:latest, llama3.1:8b-instruct-q4_K_M"
+http://161.129.70.59:11434/v1,"smollm2:135m, llava:34b, llava:13b, qwen2.5:7b-instruct, llava:latest, llama3:latest"
