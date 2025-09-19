@@ -2945,3 +2945,5 @@ http://mail.chan-online.org/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:7b, dee
 http://140.135.14.100:50000/v1,"tinyllama:latest, all-minilm:latest, llama3.1:70b-instruct-q2_K, llama3.3:70b, llama3.1:70b, llama3.3:latest, llama3.1:latest"
 http://140.122.146.130:11434/v1,"gemma3:12b, deepseek-r1:latest, llama3.1:8b, bge-m3:latest, gpt-oss:20b, deepseek-r1:8b, phi4-reasoning:plus, phi4-reasoning:14b, qwen3:14b"
 http://118.166.3.79:11434/v1,"hf.co/DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf:latest, rolandroland/llama3.1-uncensored:latest, qwen2:7b-instruct, hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4:latest, nomic-embed-text:latest, hf.co/cognitivecomputations/Dolphin3.0-Llama3.1-8B-GGUF:Q4_0, huihui_ai/qwen2.5-abliterate:14b, mollysama/rwkv-6-world:1.6b, reefer/monica:latest, mistral:latest, bge-m3:latest, hf.co/ValueFX9507/Tifa-Deepsex-14b-CoT-GGUF-Q4:IQ4_NL"
+http://65.2.38.95:2095/v1,"qwen2.5:1.5b, deepseek-r1:latest, llama3:latest, llama2:latest"
+http://202.5.251.106:11434/v1,"qwen3:30b-a3b-fp16, mistral-small3.2:24b-instruct-2506-fp16, gemma3:27b-it-fp16, phi4-reasoning:14b, gpt-oss:20b, gpt-oss:120b"
