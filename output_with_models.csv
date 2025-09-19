@@ -2922,3 +2922,7 @@ http://185.170.198.9:11434/v1,"llama3-backup:latest, llama3.1:8b, llama3.1:8b-in
 http://195.35.1.231:11434/v1,"mario:latest, llama3-backup:latest, llama3.1:8b-instruct-q4_K_M, deepseek-r1:8b, llava:7b, llama3.2:latest"
 http://20.51.225.81:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:8b-llama-distill-q4_K_M"
 http://199.241.136.246:11434/v1,"smollm2:135m, llama3.1:8b, mxbai-embed-large:latest, steamdj/mistral-cpu-only:latest"
+http://173.212.206.5:11434/v1,"llama3.2:latest, smollm2:135m, llama2:latest, gemma2:latest, deepseek-r1:latest, mistral-nemo:latest, qwen2.5-coder:latest, nomic-embed-text:latest"
+http://85.239.245.137:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, nomic-embed-text:latest"
+http://173.212.212.12:11434/v1,"smollm2:135m, llama3.1:8b"
+http://35.160.171.153:11434/v1,"gemma3:12b, qwen2.5-coder:7b, deepseek-coder:6.7b, gpt-oss:20b, deepseek-r1:8b, qwen3:8b"
