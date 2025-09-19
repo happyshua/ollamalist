@@ -2933,3 +2933,4 @@ http://188.245.89.40:11434/v1,"smollm2:135m, gemma3:latest, mario:latest, llama3
 http://195.201.81.227:11434/v1,"smollm2:135m, gemma3:latest, gemma3:1b-it-q4_K_M, mattw/pygmalion:latest, mario:latest, llama3-backup:latest, llama3.2:latest, gemma3:1b-it-qat, qwen3:4b"
 http://176.57.184.111:11434/v1,"llama3.2:3b-instruct-q5_K_M, llama3.2:latest"
 http://47.239.251.142:11434/v1,"jerry0012000/DeepSeek-R1-Distill-Qwen-32B-Q4_K_M:latest, nomic-embed-text:latest, deepseek-r1:32b"
+http://5.189.176.155:11434/v1,"llama3.2:latest, nomic-embed-text:latest, phi3:latest"
