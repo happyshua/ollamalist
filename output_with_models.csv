@@ -3059,3 +3059,14 @@ https://apiollama.virtualprocess.com.br/v1,"qwen2.5:7b, deepseek-r1:latest, deep
 https://apiollama.karaoke.od.ua/v1,"qwen2.5-coder:7b, dengcao/Qwen3-Embedding-0.6B:F16, deepseek-r1:8b"
 https://ollama.gabrielx.xyz/v1,"llama3.2:latest, deepseek-r1:1.5b, dolphin3:latest, qwen3:latest, deepseek-r1:7b, llama3.1:8b, llama3.2:1b"
 http://llm.mylswami.com/v1,"tinyllama:latest, incept5/llama3.1-claude:latest, deepseek-coder:1.3b, deepseek-r1:32b, deepseek-coder:33b, deepseek-r1:14b"
+http://ai.ljones.dev/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, llama3:latest"
+http://qwen.meappbounty.com/v1,qwen3:14b
+https://ai.kodiko.gr/v1,"gpt-oss:latest, gpt-oss:20b, smollm2:135m, nomic-embed-text:latest, all-minilm:latest, mistral:latest, llama3.1:8b-instruct-q4_K_M, starcoder2:15b, llama3.2:1b-instruct-q4_K_M, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:latest, llama3:latest, ilsp/meltemi-instruct:latest"
+http://187.51.20.165/v1,"llama3:latest, mistral:latest, gemma:2b, openchat:latest"
+https://gpt.screenshotai.xyz/v1,phi3:latest
+https://llm.tennisbowling.com/v1,"dengcao/Qwen3-Embedding-8B:F16, Qwen3-30B-A3B:latest, Qwen3-32B:latest, hf.co/unsloth/Qwen3-32B-GGUF:Q4_K_XL, hf.co/unsloth/Qwen3-30B-A3B-GGUF:Q4_K_XL"
+http://57.128.81.59/v1,"llama3.3:70b, gemma3:27b, deepseek-r1:70b"
+https://ai01.rekkruut.com/v1,"gemma3n:e4b, llama3:8b"
+http://ollama.xinhuo.vip/v1,"llama3.2:latest, nomic-embed-text:latest"
+http://87.106.163.179/v1,llama3:8b
+https://aitest.applyze.com/v1,"gemma3:latest, qwen3:latest, claude_copy:latest, hir0rameel/qwen-claude:latest, smollm2:135m, deepseek-coder-v2:latest, mistral-small3.1:latest, mistral:latest, llama3.2:latest, llama2:latest"
