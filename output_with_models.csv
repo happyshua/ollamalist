@@ -2969,3 +2969,4 @@ http://35.226.98.155:11434/v1,"smollm2:135m, deepseek-r1:14b, gpt-oss:20b, llama
 http://101.64.139.65:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, llama3.1:8b-instruct-q4_K_M, sqlcoder:7b"
 http://123.122.162.97:11434/v1,"qwen3:0.6b, qwen3:1.7b, qwen3:14b"
 http://183.6.7.218:11434/v1,"qwen3:8b, qwen2.5vl:3b, deepseek-r1:7b, deepseek-r1:1.5b"
+https://api.ai.cause-by-siky.top:2053/v1,"brxce/stable-diffusion-prompt-generator:latest, Sub01/FuseO1-DeepSeekR1-QwQ-SkyT1-Flash-32B-Preview:q4_K_M, qwen2.5-coder:14b, deepseek-r1:14b, deepseek-r1:8b, deepseek-r1:1.5b, deepseek-r1:7b"
