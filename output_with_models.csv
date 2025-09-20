@@ -2986,3 +2986,49 @@ https://ollama.c-2238950.stage.kyma.ondemand.com/v1,"qwen3:latest, linux6200/bge
 https://ollama.connple.com/v1,"aya-expanse:latest, phi4:latest, exaone3.5:7.8b, gemma3:12b, mistral-small3.1:24b-instruct-2503-q4_K_M, deepcoder:latest, codellama:13b, llama3.2:latest, gemma2:9b, mistral:7b, deepseek-r1:8b, deepseek-r1:14b, llava:7b, llava:13b, glm4:latest, gemma3:27b-it-qat, qwen2.5-coder:1.5b, smollm2:135m, gpt-oss:20b, qwen3:14b"
 http://18.100.233.214/v1,"openchat:7b, deepseek-r1:latest, codellama:13b, llama3:latest"
 https://gh0stn3tw0rk.space/v1,"incept5/llama3.1-claude:latest, llama2-uncensored:latest, deepseek-r1:latest, llama3.2:latest"
+http://172.206.82.87/v1,"smollm2:135m, qwen3:0.6b, llama3.2:1b, gemma2:2b, qwen2.5:3b, phi:2.7b, granite3.2:2b, phi3:latest, gemma3:1b, mattw/pygmalion:latest, mario:latest, llama3.2:latest, qwen3:1.7b"
+https://lama.billy.network/v1,"deepseek-r1:8b, gpt-oss:20b"
+https://glacial.unlicensedstudio.com/v1,"medllama2:latest, meditron:latest, llama3.2:latest, qwen2.5-coder:latest"
+https://ollama.theanalysthub.com/v1,"smollm2:135m, llama3.1:latest"
+http://40.162.41.142/v1,phi3.5:3.8b
+https://aireviewer.rt247a.ddns.me/v1,"qwen3-coder:latest, gemma3:12b, deepseek-llm:latest, deepseek-r1:latest, deepseek-coder-v2:latest, deepseek-coder:6.7b, nomic-embed-text:latest, llama3.1:latest"
+https://llama.ocus.top/v1,"gemma3:latest, deepseek-r1:latest"
+https://api.llm.majbyr.com/v1,"gpt-oss:latest, deepseek-r1:14b, mistral:latest, nomic-embed-text:latest, gemma3:12b, lucifers/Polaris-4B-Preview.Q8_0:latest"
+https://beta.ibislabs.app/v1,"llama3.2-vision:11b, nomic-embed-text:v1.5, gpt-oss:20b"
+http://190.210.195.241/v1,"codellama:latest, mistral-nemo:latest, mistral:latest, llama3.2:latest"
+http://40.162.41.34/v1,deepseek-R1:32b
+http://ollama.ttzz.me/v1,"gemma3:270m, gpt-oss:20b, gemma3:4b, hoangquan456/qwen3-nothink:1.7b, hoangquan456/qwen3-nothink:4b, qwen3:4b, qwen2.5vl:7b, qwen2.5vl:3b, qwen2.5:7b, impactframes/llama3_ifai_sd_prompt_mkr_q4km:latest, qwen2.5-coder:3b"
+http://apiollama.wavesales.com.br/v1,"gemma2:2b, granite3.3:2b, gemma3:1b, nomic-embed-text:latest, all-minilm:33m"
+http://40.162.43.130/v1,deepseek-R1:1.5b
+https://ai.blackhatbadshah.com/v1,"smollm2:135m, blackhatbadshah:latest, crown/darkidol:latest, llama3.2:1b, nomic-embed-text:latest"
+http://4.180.144.92/v1,"llama3.1:latest, llama3.2:3b-instruct-q5_K_M, mattw/pygmalion:latest, mario:latest, llama3-backup:latest, llama3.2:latest, gemma3:12b, qwen2.5:72b, deepseek-r1:70b, qwen2.5:32b, qwen2.5:14b, qwen2.5:7b, deepseek-r1:32b, deepseek-r1:14b, deepseek-r1:8b, nomic-embed-text:latest, gemma2:27b, mistral:latest, llama3.3:latest"
+http://94.26.248.50/v1,"gpt-oss:latest, llama3.2:latest, mistral:latest"
+http://31.145.124.121/v1,"gpt-oss:20b, deepseek-r1:32b, gemma3:27b"
+https://api.llm.wxloo.com/v1,"gemma3:4b, hf.co/reedmayhew/claude-3.7-sonnet-reasoning-gemma3-12B:Q8_0, llava:latest, codellama:7b, llama3:8b"
+https://qwen.ai.unturf.com/v1,hf.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF:Q4_K_M
+https://alpha.ibislabs.app/v1,"llama3.2-vision:11b, nomic-embed-text:v1.5, gpt-oss:20b"
+https://api.llm.d3coder.ru/v1,gemma3:12b-it-q4_K_M
+https://ollama.hgraph.app/v1,"qwen3:14b, falcon3:10b, falcon3:latest, mistral-small:24b, mistral-small:latest, cogito:latest, qwen2.5vl:latest, deepseek-r1:70b, devstral:latest, qwq:latest, phi4:latest, mistral-nemo:latest, mistral:latest, huihui_ai/qwen2.5-1m-abliterated:14b, huihui_ai/deepseek-r1-abliterated:32b, granite3.2-vision:latest, dolphin3:latest, deepseek-r1:latest, deepseek-r1:1.5b, codestral:latest, codellama:70b, codellama:latest, gemma3:12b, gemma3:27b, gemma3:latest"
+https://api.ibislabs.app/v1,"llama3.2-vision:11b, nomic-embed-text:v1.5, gpt-oss:20b"
+https://ai.weblyarts.com/v1,"smollm2:135m, llava:7b, llama3.2:3b, deepseek-llm:7b, deepseek-r1:1.5b, llama3.2:1b, deepseek-r1:14b, llama3.1:latest"
+http://167.235.69.195/v1,"smollm2:135m, gemma3:latest, mxbai-embed-large:latest, llama3.2:3b"
+http://ollama-yme8545uu5sjxjtnjbgl.ai.bitingbit.cloud/v1,"qllama/bge-reranker-v2-m3:latest, alibayram/Qwen3-30B-A3B-Instruct-2507:latest, Qwen3-Coder:30b, huihui_ai/gpt-oss-abliterated:20b, gpt-oss:20b, huihui_ai/qwen3-coder-abliterated:latest, huihui_ai/Qwen3-Coder:latest, huihui_ai/kimi-k2:latest, deepseek-r1:latest, qwen2.5vl:latest, llama3.2-vision:latest, gemma2:27b, llama3.3:70b-instruct-q2_K, llama4:latest, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, qwen3:32b, llama3.2:3b-instruct-q5_K_M, omercelik/openhands-lm:latest, qwen2.5-coder:32b, gemma3:12b, tripolskypetr/gemma3-tools:12b, jina/jina-embeddings-v2-base-de:latest, phi4:latest, qwq:latest, llama3.3:70b-instruct-q4_0, llama3.3:latest, llama3.2:latest, qwen2.5-coder:latest, qwen2.5:32b, gemma:latest, nomic-embed-text:latest"
+http://40.162.43.126/v1,phi3.5:3.8b
+https://ai.foxhop.net/v1,hf.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF:Q4_K_M
+http://api.novarise-studio.com/v1,"qwen2.5:7b-instruct, qwen2.5:3b-instruct, SimonPu/Hunyuan-MT-Chimera-7B:Q8, lauchacarro/qwen2.5-translator:latest, gpt-oss:latest, haybu/gpt-oss-120b:latest, chevalblanc/gpt-4o-mini:latest, deepseek-coder-v2:latest, goonsai/qwen2.5-3B-goonsai-nsfw-100k:latest, llama-pro:latest, anik/copilot_llama2:latest, openchat:latest"
+https://llm.gpt.inergi.id/v1,"llama3.2-vision:latest, gpt-oss:20b, qwen2.5:32b, qwen2.5:14b, gemma3:4b, gemma3:27b, bge-m3:latest"
+http://188.245.180.15/v1,gemma3:1b
+https://o.zice.app/v1,"llama3.2:3b-instruct-q5_K_M, llama3.1:70b, llama3.1:8b, llama3:latest"
+https://infer.ibislabs.app/v1,"llama3.2-vision:11b, nomic-embed-text:v1.5, gpt-oss:20b"
+http://gcpollama.publicstorage.ai/v1,"bona/bge-reranker-v2-m3:latest, bge-m3:latest, smollm2:135m, deepseek-r1:latest, qwen2.5-coder:latest, nomic-embed-text:latest, gemma3:latest, llama3:latest"
+https://ollama.lelehier.de/v1,"gemma3n:e2b, qwen3:8b"
+http://34.91.37.12/v1,qwen3:14b
+https://ollama-yme8545uu5sjxjtnjbgl.ai.bitingbit.cloud/v1,"qllama/bge-reranker-v2-m3:latest, alibayram/Qwen3-30B-A3B-Instruct-2507:latest, Qwen3-Coder:30b, huihui_ai/gpt-oss-abliterated:20b, gpt-oss:20b, huihui_ai/qwen3-coder-abliterated:latest, huihui_ai/Qwen3-Coder:latest, huihui_ai/kimi-k2:latest, deepseek-r1:latest, qwen2.5vl:latest, llama3.2-vision:latest, gemma2:27b, llama3.3:70b-instruct-q2_K, llama4:latest, hellord/mxbai-embed-large-v1:f16, driaforall/tiny-agent-a:0.5b, driaforall/tiny-agent-a:1.5b, qwen3:32b, llama3.2:3b-instruct-q5_K_M, omercelik/openhands-lm:latest, qwen2.5-coder:32b, gemma3:12b, tripolskypetr/gemma3-tools:12b, jina/jina-embeddings-v2-base-de:latest, phi4:latest, qwq:latest, llama3.3:70b-instruct-q4_0, llama3.3:latest, llama3.2:latest, qwen2.5-coder:latest, qwen2.5:32b, gemma:latest, nomic-embed-text:latest"
+https://www.api.llm.wxloo.com/v1,"gemma3:4b, hf.co/reedmayhew/claude-3.7-sonnet-reasoning-gemma3-12B:Q8_0, llava:latest, codellama:7b, llama3:8b"
+https://ollama.impromat.app/v1,"llama3.2:3b, llama3.2:1b, gemma3:270m, gemma3n:e2b, deepseek-r1:1.5b, qwen3:0.6b, qwen3:1.7b, mistral:7b, tinyllama:1.1b, qwen3:4b, deepseek-r1:8b, llama3.2:latest, gemma2:latest, llama3.1:latest, gemma2:27b"
+http://gpt.wutongshucloud.com/v1,"deepseek-r1:1.5b, qllama/bge-small-zh-v1.5:latest, qllama/bge-reranker-v2-m3:latest, qwen2.5-coder:7b, llama3.2:3b-instruct-q5_K_M, deepseek-r1:32b, nomic-embed-text:latest, deepseek-r1:14b, deepseek-r1:8b"
+https://ola.hwegbe.com/v1,"granite3.3:latest, llama3.1:8b, mistral:7b, qwen2.5-coder:7b, qwen3:8b"
+https://apiollama.wavesales.com.br/v1,"gemma2:2b, granite3.3:2b, gemma3:1b, nomic-embed-text:latest, all-minilm:33m"
+http://8.148.192.250/v1,"gpt-oss:20b, qwen3:0.6b, qwen3:32b-no-think, qwen3:32b, qwen3-no-cot:latest, qwen3:4b, qwen3:14b, bge-m3:latest"
+https://ai.wazzi.site/v1,"deepseek-bank:latest, qwen-bank:latest, mistral-bank:latest, mistral-formatter:latest, mistral:latest, deepseek-formatter:latest, qwen-formatter:latest, deepseek-coder:latest, qwen:latest"
+https://ollama.nichetide.com/v1,"gemma3:1b, minicpm-v:latest, granite3.2-vision:latest, llama3.2-vision:11b, gemma3:12b, mistral-small:latest, deepseek-r1:70b, mistral:latest, phi4:latest, nomic-embed-text:latest"
