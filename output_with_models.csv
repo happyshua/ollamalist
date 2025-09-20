@@ -3073,3 +3073,12 @@ https://aitest.applyze.com/v1,"gemma3:latest, qwen3:latest, claude_copy:latest, 
 http://20.68.161.105/v1,"tinyllama:latest, smollm2:135m, llama3.2:latest"
 http://185.197.251.198:11434/v1,"smollm2:135m, llama3.2:latest"
 https://llm.amourlive.work/v1,"qwen3:8b, qwen3:32b, devstral:latest"
+http://172.93.55.41:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3-backup:latest, llama3.2:3b, llama3.2:latest, kerncore/llama3.3-70b-q4_K_M:latest"
+https://ai.ljones.dev/v1,"deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, llama3:latest"
+http://89.169.145.171/v1,qwen3:8b
+https://www.ollama.podzamenu.ru/v1,"llama3.2:latest, llama3.2:1b"
+https://qwen.meappbounty.com/v1,qwen3:14b
+https://www.fiontu-ai.work/v1,"deepseek-r1:14b, qwen3:14b, qwen2.5vl:7b, bge-m3:latest"
+https://olla.ronyun.net/v1,"gpt-oss:20b, qwen3:30b-a3b-instruct-2507-q4_K_M, qwen2.5vl:7b, qwen3:latest, qwen3:4b, qwen3:8b, deepcoder:14b, gemma3:12b, qwen2.5-coder:7b, deepseek-r1:7b, llama3:latest"
+https://ollama.podzamenu.ru/v1,"llama3.2:latest, llama3.2:1b"
+https://ai.mzansi-innovation-hub.co.za/v1,gemma3n:e4b
