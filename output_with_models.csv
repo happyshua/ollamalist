@@ -2962,3 +2962,4 @@ http://103.157.205.239:11434/v1,"qwen-plus-2025-09-11:latest, qwen3-max-preview:
 http://157.173.114.188:11434/v1,"gemma3:1b, gemma3:4b, gemma3:27b, llama3.2:latest"
 http://207.244.250.36:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest"
 http://172.93.51.224:11434/v1,"smollm2:135m, deepseek-r1:1.5b, gemma3:1b, qwen2:1.5b"
+http://75.119.136.209:11434/v1,"smollm2:135m, openchat:latest, mistral:latest, dolphin-mixtral:latest, mixtral:latest"
