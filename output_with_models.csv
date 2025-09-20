@@ -3082,3 +3082,5 @@ https://www.fiontu-ai.work/v1,"deepseek-r1:14b, qwen3:14b, qwen2.5vl:7b, bge-m3:
 https://olla.ronyun.net/v1,"gpt-oss:20b, qwen3:30b-a3b-instruct-2507-q4_K_M, qwen2.5vl:7b, qwen3:latest, qwen3:4b, qwen3:8b, deepcoder:14b, gemma3:12b, qwen2.5-coder:7b, deepseek-r1:7b, llama3:latest"
 https://ollama.podzamenu.ru/v1,"llama3.2:latest, llama3.2:1b"
 https://ai.mzansi-innovation-hub.co.za/v1,gemma3n:e4b
+https://completion.solvena.ai/v1,"llama2:latest, mycustom:llama3, moondream:latest, neural-chat:latest, phi3:medium, gemma2:latest, mistral:latest, llama3:latest"
+https://chat-api.vistrix.in/v1,"llava:7b, deepseek-coder-v2:16b, deepseek-coder:33b, llama3:8b, nomic-embed-text:latest, llama3.2:3b-instruct-q5_K_M, deepseek-coder:latest, llama3.2:1b"
