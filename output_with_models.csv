@@ -3071,3 +3071,5 @@ http://ollama.xinhuo.vip/v1,"llama3.2:latest, nomic-embed-text:latest"
 http://87.106.163.179/v1,llama3:8b
 https://aitest.applyze.com/v1,"gemma3:latest, qwen3:latest, claude_copy:latest, hir0rameel/qwen-claude:latest, smollm2:135m, deepseek-coder-v2:latest, mistral-small3.1:latest, mistral:latest, llama3.2:latest, llama2:latest"
 http://20.68.161.105/v1,"tinyllama:latest, smollm2:135m, llama3.2:latest"
+http://185.197.251.198:11434/v1,"smollm2:135m, llama3.2:latest"
+https://llm.amourlive.work/v1,"qwen3:8b, qwen3:32b, devstral:latest"
