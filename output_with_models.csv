@@ -2959,3 +2959,4 @@ http://161.129.70.59:11434/v1,"smollm2:135m, llava:34b, llava:13b, qwen2.5:7b-in
 http://207.180.232.227:11434/v1,"mario:latest, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:latest, mistral:latest"
 http://161.129.70.60:11434/v1,"smollm2:135m, llava:34b, llava:13b, qwen2.5:7b-instruct, llava:latest, llama3:latest"
 http://103.157.205.239:11434/v1,"qwen-plus-2025-09-11:latest, qwen3-max-preview:latest, qwen3-235b-a22b:latest, qwen3-coder-plus:latest, qwen3-30b-a3b:latest, qwen3-coder-30b-a3b-instruct:latest, qwen-max-latest:latest, qwen-plus-2025-01-25:latest, qwq-32b:latest, qwen-turbo-2025-02-11:latest, qwen2.5-omni-7b:latest, qvq-72b-preview-0310:latest, qwen2.5-vl-32b-instruct:latest, qwen2.5-14b-instruct-1m:latest, qwen2.5-coder-32b-instruct:latest, qwen2.5-72b-instruct:latest"
+http://157.173.114.188:11434/v1,"gemma3:1b, gemma3:4b, gemma3:27b, llama3.2:latest"
