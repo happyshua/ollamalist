@@ -2890,3 +2890,6 @@ http://135.222.40.6:11434/v1,"llava:7b, smollm2:135m, qwen3:4b, gemma3:4b, nomic
 https://llm.codeoffice.net/v1,gemma:2b
 http://93.243.56.232/v1,"llama3.1:latest, phi4-mini:latest"
 https://api.focusmap.dk/v1,"smollm2:135m, llama3:8b"
+http://71.14.132.23:443/v1,"llama3.2:latest, llama3:latest"
+https://aiend.paffstudios.com/v1,"qwen3:32b, nomic-embed-text:v1.5, deepseek-r1:32b, gemma3:27b, mistral:instruct, llama3.2:3b-instruct-q5_K_M, gemma3:4b, llama3.2:latest"
+https://aws.enrique.pro/v1,"deepseek-r1:latest, llama3.2:latest"
