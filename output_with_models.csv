@@ -2883,3 +2883,5 @@ http://3.145.10.211:6333/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, codellama
 http://3.249.253.178:1935/v1,"openchat:7b, deepseek-r1:latest, qwen2.5:1.5b, codellama:13b, llama3:latest"
 http://34.208.244.17:8080/v1,"codellama:13b, qwen2.5:1.5b, openchat:7b, deepseek-r1:latest"
 http://43.218.79.243:50000/v1,"openchat:7b, llama2:latest, codellama:13b"
+http://167.86.111.120/v1,mistral:latest
+http://82.197.67.127:11434/v1,qwen2.5:7b-instruct
