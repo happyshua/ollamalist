@@ -2886,3 +2886,5 @@ http://43.218.79.243:50000/v1,"openchat:7b, llama2:latest, codellama:13b"
 http://167.86.111.120/v1,mistral:latest
 http://82.197.67.127:11434/v1,qwen2.5:7b-instruct
 http://62.171.132.11:11434/v1,"smollm2:135m, gemma3:4b, llama3.1:8b-instruct-q4_K_M, gemma3:12b, mistral:latest, jeffh/intfloat-multilingual-e5-large-instruct:f16, deepseek-r1:latest, nomic-embed-text:latest, llama3.2:3b, mxbai-embed-large:latest, llama3.1:8b"
+http://135.222.40.6:11434/v1,"llava:7b, smollm2:135m, qwen3:4b, gemma3:4b, nomic-embed-text:latest, all-minilm:latest"
+https://llm.codeoffice.net/v1,gemma:2b
