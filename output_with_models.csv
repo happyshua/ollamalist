@@ -2905,3 +2905,4 @@ https://ollama.software-development.biz/v1,"gemma3:12b, gemma3:1b, nomic-embed-t
 http://48.211.201.43:11434/v1,"llama3.2:1b, deepseek-r1:7b"
 http://162.128.177.44/v1,"quantumcthulhu/Qwen3-235B-A22B-Instruct-2507-Q4_K_M:latest, my-qwen3-235b-temp-0:latest, my-gpt-oss-120b-temp-0:latest, qwen3:235b, gemma3:27b, gpt-oss:120b, qwen3:32b"
 http://1.13.152.152:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://161.129.70.58:11434/v1,"smollm2:135m, llava:34b, llava:13b, qwen2.5:7b-instruct, llava:latest, llama3:latest"
