@@ -3403,3 +3403,8 @@ http://194.163.181.59:11434/v1,"qwen3:1.7b, qwen3:4b, deepseek-r1:latest"
 http://85.202.163.119:11434/v1,"smollm2:135m, granite3.2-vision:latest, gemma3:4b, qwen3:8b, deepseek-r1:7b, llama3.1:8b-instruct-q4_K_M"
 http://84.46.247.114:11434/v1,"smollm2:135m, deepseek-r1:7b"
 http://124.31.240.27:11434/v1,deepseek-r1:32b
+http://151.80.36.130:11434/v1,"gemma3:latest, mistral:latest"
+http://182.43.20.217:11434/v1,"llama3.2:latest, mario:latest, mattw/pygmalion:latest, deepseek-r1:1.5b"
+http://62.171.190.132:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest"
+http://81.70.81.198:11434/v1,"qwen2.5:1.5b, qwen2.5:7b, llama3.2:3b"
+http://51.83.167.46:11434/v1,"smollm2:135m, nomic-embed-text:latest, llama3.1:latest, gemma3:latest, catsarethebest/llama3.2-4oClaude:latest, hf.co/itlwas/Arch-Function-3B-Q4_K_M-GGUF:latest, llama3.1:8b-instruct-q4_K_M, starcoder2:15b, deepseek-r1:latest"
