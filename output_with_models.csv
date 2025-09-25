@@ -3258,3 +3258,4 @@ http://111.46.204.79:11434/v1,"qwen3:14b-ctx2k-nothink, qwen3:14b-ctx16k-nothink
 http://185.181.180.249:11434/v1,"qwen3:30b, aya-expanse:8b, qwen:1.8b"
 http://43.216.94.103:631/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
 http://167.86.95.5:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, mattw/pygmalion:latest, llama3.2:latest, llama3.1:8b, qwen2.5:3b"
+http://178.63.21.183:11434/v1,"moondream:latest, qwen2.5vl:7b, llama3.1:8b, phi3:3.8b, qwen2.5:3b, llama3.2:1b, gemma3:12b, llama3.2:3b, gemma2:27b, gemma3:27b"
