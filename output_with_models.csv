@@ -3253,3 +3253,8 @@ http://185.236.24.26:11434/v1,"smollm2:135m, gemma3:1b, deepseek-r1:1.5b, qwen3:
 http://52.54.108.150:8881/v1,qwen2.5:1.5b
 http://45.115.153.225:11434/v1,gpt-oss:120b
 http://18.216.166.90:8004/v1,"llama2:latest, openchat:7b"
+http://43.218.79.243:50000/v1,"llama2:latest, qwen2.5:1.5b, codellama:13b"
+http://111.46.204.79:11434/v1,"qwen3:14b-ctx2k-nothink, qwen3:14b-ctx16k-nothink, qwen3:14b, quentinz/bge-large-zh-v1.5:latest, qwen2.5:3b-instruct-fp16"
+http://185.181.180.249:11434/v1,"qwen3:30b, aya-expanse:8b, qwen:1.8b"
+http://43.216.94.103:631/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://167.86.95.5:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, mattw/pygmalion:latest, llama3.2:latest, llama3.1:8b, qwen2.5:3b"
