@@ -3263,3 +3263,8 @@ http://13.212.81.49/v1,"openchat:7b, llama3:latest, deepseek-r1:latest, llama2:l
 http://193.29.14.141:11434/v1,"smollm2:135m, gemma3:latest, llama3.1:8b, tinyllama:latest, mistral:latest, llama3:latest"
 https://llm.k4li.ch/v1,"smollm2:135m, gemma3:latest, llama3.1:8b, tinyllama:latest, mistral:latest, llama3:latest"
 http://120.48.193.234:11434/v1,qwen3:1.7b
+http://ia.clicoh.com:11434/v1,"qwen2.5-coder:7b, deepseek-coder-v2:16b, gpt-oss:latest, qwen3:4b, MFDoom/deepseek-r1-tool-calling:latest, qwen3:latest, llama3.1:8b-instruct-q4_K_M, starcoder2:15b, deepseek-r1:latest, qwen3:1.7b, MFDoom/deepseek-r1-tool-calling:1.5b, nomic-embed-text:latest"
+http://109.224.228.115:11434/v1,deepseek-r1:1.5b
+http://106.75.114.198:11434/v1,"sqlcoder:15b, llava:latest, nomic-embed-text:latest, qwen3:8b, packeting/Qwen2.5-VL-32B-Instruct:latest, raghav932/qwen-vl-32b:latest, bge-m3:latest, qwen2.5:1.5b, qwq:latest, qwen2.5:14b, deepseek-r1:32b, deepseek-r1:70b, deepseek-r1:14b"
+http://108.181.203.39:11434/v1,"smollm2:135m, llama3.1:latest, nomic-embed-text:latest, gpt-oss:20b, deepseek-r1:latest, phi3:latest, mistral:7b, llama3.2:latest"
+http://199.38.81.8:11434/v1,"gpt-oss:20b, mistral:latest"
