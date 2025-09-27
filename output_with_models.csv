@@ -3271,3 +3271,4 @@ http://199.38.81.8:11434/v1,"gpt-oss:20b, mistral:latest"
 http://91.99.5.241:11434/v1,gemma3:latest
 http://35.224.242.33:11434/v1,"gemma3:4b, gemma3:latest"
 http://185.204.169.94:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3-backup:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, llama3.2:latest"
+http://173.249.8.7:11434/v1,"foodiiz-chatbot:latest, foodiiz-autocomplete:latest, foodiiz-moderator:latest, phi3:mini"
