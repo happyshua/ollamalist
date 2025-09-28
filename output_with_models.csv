@@ -3275,3 +3275,5 @@ http://173.249.8.7:11434/v1,"foodiiz-chatbot:latest, foodiiz-autocomplete:latest
 http://1.14.131.86:8000/v1,qwen3:32B
 http://123.207.22.11:8000/v1,"qwen2.5vl:7b, llama4:17b-scout-16e-instruct-q8_0, qwen2.5-coder:32b-instruct-fp16, minicpm-v:latest, moondream:latest, granite3.2-vision:latest, llama3.2-vision:11b, llama3.2:3b-instruct-q5_K_M, mistral-small3.1:24b-instruct-2503-fp16, qwen3:32b-fp16, qwen3:30b-a3b-fp16, gemma3:27b-it-fp16, deepseek-r1:70b-llama-distill-q8_0"
 http://182.163.107.196:11434/v1,"llama3.2:latest, gemma3:27b, gpt-oss:latest, llava:latest, llama3.1:8b, gemma3n:latest, deepseek-r1:latest, mistral-nemo:latest, phi4:latest, nomic-embed-text:latest"
+http://82.24.85.24:11434/v1,"smollm2:135m, llama3:70b"
+http://a035.miyo.wang:8000/v1,"llama3.2:3b-instruct-q5_K_M, uzpitcmy:latest"
