@@ -4508,3 +4508,4 @@ http://16.62.129.99:8983/v1,"deepseek-r1:latest, openchat:7b, llama3:latest"
 http://16.171.227.122:7014/v1,qwen2.5:1.5b
 http://54.249.15.248:8983/v1,llama2:latest
 http://217.16.188.26:11434/v1,"sap-qwen:latest, qwen3:4b, smollm2:135m, gpt-oss:20b, gpt-oss:latest, llama3.3:latest, nomic-embed-text:latest, llama3.2:1b-instruct-q4_K_M, deepseek-r1:latest, qwen3:latest, mistral:latest"
+http://115.240.55.49:11434/v1,"qwen3:latest, qwen3:8b, llama3:latest"
