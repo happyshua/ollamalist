@@ -4358,3 +4358,4 @@ http://43.209.8.12/v1,"qwen2.5:1.5b, llama3:latest, llama2:latest, openchat:7b"
 http://118.113.190.142:11434/v1,"qwen3:8b, qwen3:32b, minicpm-v:latest, gemma3:27b, gemma3:12b, qwen2.5vl:3b, qwen2.5vl:latest, gemma3:4b, deepseek-r1:32b"
 http://43.208.16.9:9300/v1,qwen2.5:1.5b
 http://43.198.204.242:9001/v1,"llama3:latest, qwen2.5:1.5b"
+http://185.47.167.237:11434/v1,qwen3:8b
