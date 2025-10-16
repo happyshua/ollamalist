@@ -4362,3 +4362,5 @@ http://185.47.167.237:11434/v1,qwen3:8b
 http://13.212.81.49/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest"
 http://61.155.173.155:11434/v1,"qwen3:8b, qwen3:14b"
 http://47.156.206.126:11434/v1,"qwen3-vl:235b-cloud, kimi-k2:1t-cloud, gpt-oss:120b-cloud, gemma3:1b, huihui_ai/kimi-k2:1026b, gemma3:12b, gemma3:4b, gpt-oss:20b"
+http://8.134.62.19:11434/v1,"qwen3:1.7b, qwen3:0.6b, qwen2.5:3b, qwen3:4b, Qwen2-VL-2B-Instruct-yiyibao:latest, deepseek-r1:1.5b, bge-m3:latest, Qwen2.5-0.5-yiyibao:latest, qwen2.5:1.5b"
+http://178.212.35.15:11434/v1,"smollm2:135m, mistral:7b"
