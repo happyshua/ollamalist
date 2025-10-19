@@ -4168,3 +4168,4 @@ http://43.198.248.18:4567/v1,"llama2:latest, qwen2.5:1.5b, openchat:7b, codellam
 http://59.46.139.10:11434/v1,"qwen3:14b, gemma3:12b, deepseek-r1:14b, gemma3:27b, deepseek-r1:8b, qwq:latest, qwen2.5-coder:32b"
 http://211.150.81.200:11434/v1,"qwen2:1.5b, qwen2:0.5b, jina/jina-embeddings-v2-base-de:latest, gemma2:9b"
 http://140.114.79.75:11434/v1,"llama3.2:1b, llama3.2:latest"
+http://140.116.39.73:11434/v1,"smollm2:135m, qwen3:latest"
