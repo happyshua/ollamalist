@@ -4170,3 +4170,5 @@ http://211.150.81.200:11434/v1,"qwen2:1.5b, qwen2:0.5b, jina/jina-embeddings-v2-
 http://140.114.79.75:11434/v1,"llama3.2:1b, llama3.2:latest"
 http://140.116.39.73:11434/v1,"smollm2:135m, qwen3:latest"
 http://182.92.105.90:11434/v1,"gemma:2b, qwen:latest, llama3.2:3b-instruct-q5_K_M, nomic-embed-text:latest, deepseek-r1:7b"
+http://130.61.77.128:11434/v1,"smollm2:135m, deepseek-r1:1.5b, llama3.2:latest, tinyllama:latest"
+http://147.93.11.249:11434/v1,gemma:2b
