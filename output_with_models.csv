@@ -3962,3 +3962,4 @@ http://77.37.86.62:11434/v1,"llama3.1:8b-instruct-q4_K_M, deepseek-r1:32b, deeps
 http://47.104.203.18/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, mario:latest, deepseek-r1-1.5b.gguf:latest"
 http://115.98.2.28:11434/v1,"llama3.2:3b, llama3.2:1b"
 http://46.202.147.233:11434/v1,"llama3.2:3b, llama3.2:1b, openhermes:latest, gemma:2b, phi3:latest, tinyllama:latest"
+http://117.72.110.40:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
