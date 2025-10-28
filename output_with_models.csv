@@ -3844,3 +3844,4 @@ http://14.136.94.5:11434/v1,"deepseek-r1:1.5b, qwen2.5vl:72b-q8_0, qwen2.5vl:72b
 http://59.126.126.35:11434/v1,"smollm2:135m, gpt-oss:latest, qwq:latest, yi:latest, dolphin-llama3:latest, mistral:latest, phi:latest, snickers8523/llama3-taide-lx-8b-chat-alpha1-q4-0:latest, qwen3:latest, codellama:latest, tulu3:latest, gemma3:latest, llama3.2:latest, deepseek-r1:latest, granite3.2-vision:latest, mattw/pygmalion:latest, mario:latest, llama3-backup:latest"
 http://114.253.100.239:11434/v1,"smollm2:135m, gemma3:4b, gemma3:1b, qwen3:4b"
 http://47.97.228.20:11434/v1,qwen2.5:0.5b
+http://194.163.40.164:11434/v1,"llama3.2:1b, qwen2.5vl:7b, nomic-embed-text:latest"
