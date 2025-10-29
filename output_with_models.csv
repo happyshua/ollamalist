@@ -3719,3 +3719,5 @@ http://216.158.225.230:11434/v1,"smollm2:135m, gemma3n:e2b, llama3.2:latest, qwe
 http://78.12.249.123:2010/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, codellama:13b"
 http://43.198.248.18:8888/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, codellama:13b"
 http://78.12.249.123:3002/v1,"openchat:7b, llama2:latest, deepseek-r1:latest, llama3:latest, qwen2.5:1.5b"
+http://111.170.175.82:11434/v1,xizi:latest
+http://5.78.127.185:11434/v1,"smollm2:135m, nomic-embed-text:latest"
