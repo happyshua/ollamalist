@@ -3691,3 +3691,7 @@ http://47.109.42.151:11434/v1,"smollm2:135m, modelscope.cn/unsloth/DeepSeek-R1-D
 http://222.83.250.22:11434/v1,"smollm2:135m, llama3.2:latest, mario:latest, gemma3:1b, snowflake-arctic-embed2:568m, qwen3:4b, granite3.1-moe:3b, qwen2.5:0.5b, gemma3:4b, llama3.2:3b, qwen2.5:3b, bge-m3:latest, deepseek-r1:1.5b"
 http://117.50.119.95:11434/v1,"smollm2:135m, qwen2.5:latest, bge-m3:latest, deepseek-r1:7b"
 http://102.218.205.237:11434/v1,"smollm2:135m, llama3:latest, llama3.2:latest"
+http://117.72.111.216:11434/v1,"smollm2:135m, qwen2.5:1.5b"
+http://49.4.68.111:11434/v1,"smollm2:135m, deepseek-r1:8b"
+http://121.148.155.236:11434/v1,"smollm2:135m, granite3.3:latest, koesn/llama3-8b-instruct:latest"
+http://43.136.242.119:11434/v1,"smollm2:135m, qwen2.5:latest, llama3.1:8b, deepseek-r1:1.5b"
