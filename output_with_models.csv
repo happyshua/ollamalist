@@ -3633,3 +3633,5 @@ http://18.163.3.251:18081/v1,llama2:latest
 http://43.198.248.18:28017/v1,"deepseek-r1:latest, openchat:7b, codellama:13b, qwen2.5:1.5b"
 http://13.212.81.49/v1,"deepseek-r1:latest, codellama:13b, llama3:latest"
 http://18.163.3.251:4567/v1,"qwen2.5:1.5b, openchat:7b, codellama:13b"
+http://203.190.40.42:11434/v1,"smollm2:135m, gpt-oss:latest, mistral:latest, deepseek-r1:latest, llama3.2:latest"
+http://162.254.35.159:11434/v1,"smollm2:135m, llama3.2:latest"
