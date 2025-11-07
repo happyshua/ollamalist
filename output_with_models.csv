@@ -3637,3 +3637,6 @@ http://203.190.40.42:11434/v1,"smollm2:135m, gpt-oss:latest, mistral:latest, dee
 http://162.254.35.159:11434/v1,"smollm2:135m, llama3.2:latest"
 http://51.79.219.70:11434/v1,"smollm2:135m, gemma3:latest, llava:7b, gemma3:4b"
 http://159.69.66.223:11434/v1,"smollm2:135m, gemma3:latest, llama3.2:1b, nomic-embed-text:v1.5, qwen3:0.6b"
+http://152.53.146.83:11434/v1,"smollm2:135m, qwen2.5-coder:3b-instruct, qwen2.5:3b"
+http://140.136.215.141:11434/v1,"smollm2:135m, deepseek-v3.1:671b-cloud, gpt-oss:120b-cloud, hf.co/unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF:Q5_K_XL, bge-m3:latest, gemma3:4b"
+http://116.202.146.155:11434/v1,"smollm2:135m, llama2:13b, deepseek-r1:1.5b"
