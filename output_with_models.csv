@@ -3659,3 +3659,10 @@ http://202.146.128.10:11434/v1,"smollm2:135m, deepseek-llm:7b-chat, nomic-embed-
 http://168.119.60.94:11434/v1,"smollm2:135m, gemma3:latest, nomic-embed-text:latest"
 http://117.50.185.191:11434/v1,"smollm2:135m, bge-m3:latest"
 http://54.234.120.87:11434/v1,gemma3n:latest
+http://13.250.114.80:8089/v1,deepseek-r1:latest
+http://1.92.84.72:11434/v1,"smollm2:135m, quentinz/bge-large-zh-v1.5:latest, deepseek-r1:latest, deepseek-r1:1.5b, qwen2.5:0.5b"
+http://85.170.131.172:11434/v1,"smollm2:135m, deepseek-r1:latest"
+http://185.245.182.118:11434/v1,"smollm2:135m, gemma:2b, gemma3:4b, tinyllama:latest, qwen3:4b"
+http://54.255.179.22:8089/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b, llama2:latest"
+http://124.71.184.223:11434/v1,"smollm2:135m, llama3.2:latest, mario:latest, llama3-backup:latest, llama3.2:3b-instruct-q5_K_M"
+http://193.29.12.45:11434/v1,"smollm2:135m, jobautomation/OpenEuroLLM-Romanian:latest"
