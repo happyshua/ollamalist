@@ -3653,3 +3653,4 @@ http://172.234.204.73:11434/v1,"smollm2:135m, HammerAI/openhermes-2.5-mistral:la
 http://147.93.187.151:11434/v1,"smollm2:135m, llama3:8b"
 http://1.15.183.63:11434/v1,"smollm2:135m, llama2:latest"
 http://152.53.81.57:11434/v1,"smollm2:135m, dolphin3:latest, llama2-uncensored:latest, llama3.2:latest"
+http://47.104.254.203:11434/v1,"smollm2:135m, deepseek-r1:7b"
