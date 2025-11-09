@@ -3548,3 +3548,8 @@ http://15.237.250.141:8500/v1,"llama3:latest, deepseek-r1:latest"
 http://158.160.103.82:11434/v1,"smollm2:135m, gemma3:latest"
 http://84.201.178.164:8080/v1,"smollm:135m, mattw/pygmalion:latest, deepseek-coder-v2:latest, deepseek-coder:latest"
 http://3.122.235.189:10250/v1,deepseek-r1:latest
+http://101.200.186.78:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
+http://85.10.194.86:11434/v1,"smollm2:135m, deepseek-r1:8b, deepseek-r1:32b, llama3.2:latest, llama3:latest"
+http://47.101.32.163:11434/v1,"smollm2:135m, llama3:8b, nomic-embed-text:latest, qllama/bce-reranker-base_v1:latest"
+http://43.201.104.186:8090/v1,"llama2:latest, llama3:latest, deepseek-r1:latest"
+http://154.91.81.79:11434/v1,"smollm2:135m, deepseek-r1:7b"
