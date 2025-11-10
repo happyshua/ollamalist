@@ -3564,3 +3564,5 @@ http://62.171.188.117:11434/v1,"smollm2:135m, phi3:mini, llama3:latest, mistral:
 http://141.101.151.69:11434/v1,"smollm2:135m, mxbai-embed-large:latest, llama3.3:70b, qwen2.5-coder:32b, qwen2.5:0.5b"
 http://8.219.177.35:11434/v1,"smollm2:135m, Academic_Research_Probe:latest, llama3.1:8b"
 http://52.221.228.131:8098/v1,"codellama:13b, deepseek-r1:latest, llama2:latest, qwen2.5:1.5b"
+http://120.26.110.190:11434/v1,"smollm2:135m, llama2-chinese:7b, llama2-chinese:latest, deepseek-r1:14b, mxbai-embed-large:latest"
+http://59.110.15.123:11434/v1,"smollm2:135m, deepseek-r1:7b"
