@@ -3450,3 +3450,10 @@ http://5.35.253.114:11434/v1,"smollm2:135m, mistral:latest, llama3.2:latest, qwe
 http://159.195.5.145:11434/v1,"smollm2:135m, llama3:8b"
 http://197.140.11.192:11434/v1,"smollm2:135m, gpt-oss:20b, qwen2.5vl:3b"
 http://47.93.126.92:11434/v1,"smollm2:135m, Academic_Research_Probe:latest, qwen2.5-coder:0.5b, qwen:0.5b"
+http://78.13.74.125:9801/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, openchat:7b"
+http://78.12.249.123:3002/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b, codellama:13b, llama3:latest"
+http://3.122.235.189:8500/v1,llama3:latest
+http://78.12.249.123/v1,"llama3:latest, codellama:13b"
+http://52.47.164.226:6060/v1,llama2:latest
+http://78.12.249.123:2010/v1,deepseek-r1:latest
+http://3.122.235.189:10250/v1,llama3:latest
