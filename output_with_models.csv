@@ -3382,3 +3382,7 @@ http://39.100.70.202:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepse
 http://18.198.245.152:11434/v1,"qwen3-vl:8b, mistral-small:latest, llama3.3:latest, granite4:latest, gemma3:latest, qwen3:8b, llama3.2:latest, mistral-small:24b, mistral:latest"
 http://89.185.25.11:11434/v1,"deepseek-coder-v2:16b, wingmark/opencyberfurry-lite:14b, wingmark/opencyberfurry-lite:7b, deepseek-r1:14b, deepseek-r1:32b, deepseek-r1:7b, qingyun-7b:latest"
 http://74.208.228.100:11434/v1,"smollm2:135m, llama3:latest"
+http://14.52.161.217:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3-backup:latest, exaone3.5:32B, exaone3.5:7.8b, llama3.2:3b-instruct-q5_K_M, starcoder2:15b, llava:34b, qwq:latest, phi4:latest, llama3.2:latest, llama3.1:latest"
+http://52.47.164.226:6060/v1,openchat:7b
+http://78.13.74.125:9801/v1,"llama2:latest, deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, openchat:7b"
+http://78.12.249.123:2010/v1,"llama3:latest, qwen2.5:1.5b, openchat:7b, llama2:latest"
