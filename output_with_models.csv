@@ -3391,3 +3391,4 @@ http://18.163.3.251:18081/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b"
 http://43.198.248.18:8888/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, codellama:13b"
 http://43.198.248.18:28017/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b"
 http://18.163.3.251:4567/v1,"qwen2.5:1.5b, llama2:latest, llama3:latest"
+http://3.122.235.189:8500/v1,llama2:latest
