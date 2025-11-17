@@ -3386,3 +3386,8 @@ http://14.52.161.217:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:lates
 http://52.47.164.226:6060/v1,openchat:7b
 http://78.13.74.125:9801/v1,"llama2:latest, deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, openchat:7b"
 http://78.12.249.123:2010/v1,"llama3:latest, qwen2.5:1.5b, openchat:7b, llama2:latest"
+http://16.50.237.7:7777/v1,"codellama:13b, qwen2.5:1.5b, deepseek-r1:latest, openchat:7b, llama2:latest"
+http://18.163.3.251:18081/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b"
+http://43.198.248.18:8888/v1,"qwen2.5:1.5b, openchat:7b, llama2:latest, codellama:13b"
+http://43.198.248.18:28017/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b"
+http://18.163.3.251:4567/v1,"qwen2.5:1.5b, llama2:latest, llama3:latest"
