@@ -3415,3 +3415,6 @@ http://47.129.181.242:2095/v1,"qwen2.5:1.5b, llama2:latest, openchat:7b, deepsee
 http://54.255.241.172:3052/v1,codellama:13b
 http://60.177.221.164:11434/v1,"smollm2:135m, deepseek-r1:32b, deepseek-r1:70b, deepseek-r1:14b, deepseek-r1:8b"
 http://112.233.118.211:11434/v1,"deepseek-coder-v2:16b, phi4:latest, qwen2.5-coder:7b, phi4-mini:3.8b, qwen3:8b, codellama:7b"
+http://123.193.49.198:11434/v1,"smollm2:135m, gemma3:4b"
+http://140.116.226.205:11434/v1,"smollm2:135m, gpt-oss:latest, llama3.2:latest, llama3.1:latest, wangrongsheng/taiwanllm-7b-v2.1-chat:latest, qwen3:latest, klcoder/mistral-7b-functioncall:latest, mistral:7b, mistral:7b-instruct, llama3:latest, mistral:latest, ycchen/breeze-7b-instruct-v1_0:latest, mxbai-embed-large:latest"
+http://114.32.124.241:8080/v1,"gemma3:1b, qwen3-vl:8b, gemma3:12b"
