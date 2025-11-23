@@ -3291,3 +3291,5 @@ http://18.163.3.251:4567/v1,"openchat:7b, codellama:13b"
 http://13.212.81.49/v1,"llama3:latest, qwen2.5:1.5b, openchat:7b"
 http://43.198.248.18:28017/v1,"openchat:7b, codellama:13b, llama2:latest, deepseek-r1:latest"
 http://52.22.7.57:11434/v1,qwen2.5-coder:7b
+http://43.208.16.9:9300/v1,"openchat:7b, codellama:13b"
+http://43.209.8.12/v1,llama2:latest
