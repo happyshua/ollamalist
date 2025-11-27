@@ -3207,3 +3207,6 @@ http://16.50.237.7:7777/v1,"llama2:latest, codellama:13b"
 http://43.198.248.18:8888/v1,"llama3:latest, qwen2.5:1.5b, codellama:13b, llama2:latest, deepseek-r1:latest"
 http://18.163.3.251:18081/v1,deepseek-r1:latest
 http://13.212.81.49/v1,"qwen2.5:1.5b, codellama:13b, llama2:latest"
+http://5.35.80.22:11434/v1,qwen2.5:3b-instruct
+http://5.161.176.229:11434/v1,"smollm2:135m, qwen2.5:1.5b"
+http://admin.kongfused.me:11434/v1,"gpt-oss:latest, gemma3:4b, phi4:latest, all-minilm:latest, llama2:latest, llama3.2:latest, deepseek-r1:1.5b, llama3.2:3b-instruct-q5_K_M, mistral:latest, qwen2.5-coder:7b, deepseek-r1:7b"
