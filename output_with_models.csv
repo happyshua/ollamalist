@@ -3066,3 +3066,9 @@ http://115.244.38.114:11434/v1,"smollm2:135m, llama2:latest, nomic-embed-text:la
 http://51.16.56.118:1250/v1,qwen2.5:1.5b
 http://5.189.177.140:11434/v1,"smollm2:135m, llama3.2:latest, nomic-embed-text:latest"
 http://88.214.58.35:11434/v1,"gemma3:4b-it-qat, gpt-oss:20b, qwen2.5:7b-instruct"
+http://18.163.3.251:18081/v1,"codellama:13b, llama2:latest"
+http://194.163.130.51:11434/v1,"smollm2:135m, all-minilm:22m, mistral:latest, qwen3:0.6b, gemma3:1b, phi3:3.8b, gemma2:2b"
+http://16.50.237.7:7777/v1,"codellama:13b, deepseek-r1:latest, qwen2.5:1.5b"
+http://13.212.81.49/v1,qwen2.5:1.5b
+http://18.163.3.251:4567/v1,"codellama:13b, openchat:7b"
+http://43.198.248.18:28017/v1,"deepseek-r1:latest, qwen2.5:1.5b"
