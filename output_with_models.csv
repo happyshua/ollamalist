@@ -3084,3 +3084,7 @@ http://123.60.149.193:11434/v1,"smollm2:135m, gemini-3-pro-preview:latest, deeps
 http://74.249.82.54:11434/v1,"smollm2:135m, vanilj/Phi-4:latest, mistral-nemo:12b"
 http://95.110.228.247:11434/v1,"smollm2:135m, qwen2.5:latest, llama3.1:8b-instruct-q4_K_M, starcoder2:15b, deepseek-r1:latest, llama3.2:latest, gemma:2b, mistral:7b, phi3:3.8b, llama2:7b, llama3:8b"
 https://ia2uauingleza.plugia.com.br/v1,"smollm2:135m, vanilj/Phi-4:latest, mistral-nemo:12b"
+http://117.72.210.24:11434/v1,"smollm2:135m, bge-m3:latest, nomic-embed-text:latest, deepseek-r1:1.5b"
+http://140.238.245.33:11434/v1,"smollm2:135m, phi3:latest, gemma3:latest, llama3.2:latest"
+http://114.55.73.100:11434/v1,"smollm2:135m, dengcao/Qwen3-Embedding-8B:Q5_K_M, llama3.2:3b-instruct-q5_K_M, llama3.1:8b, quentinz/bge-large-zh-v1.5:latest, viosay/conan-embedding-v1:latest, bge-m3:latest"
+http://150.230.59.83:11434/v1,"smollm2:135m, mistral:7b, gemma3:1b"
