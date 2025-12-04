@@ -3094,3 +3094,5 @@ http://54.176.20.215:9080/v1,"deepseek-r1:latest, llama3:latest, llama2:latest"
 http://3.145.16.244:5986/v1,qwen2.5:1.5b
 http://3.144.172.94:8880/v1,"deepseek-r1:latest, codellama:13b, llama3:latest, openchat:7b"
 http://3.16.82.68:5555/v1,"deepseek-r1:latest, codellama:13b"
+http://104.37.187.205:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:latest, llama3.2:latest, deepseek-coder-v2:16b"
+http://5.9.106.54:11434/v1,"smollm2:135m, gpt-oss:20b, llama3-backup:latest, llama3.2:latest, gemma3:4b, qwen3:8b"
