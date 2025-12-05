@@ -2996,3 +2996,10 @@ http://51.16.56.118:1250/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b, deepseek-
 http://27.155.120.105:11434/v1,smollm2:135m
 http://52.47.164.226:6060/v1,"openchat:7b, deepseek-r1:latest, codellama:13b"
 http://60.205.6.66:11434/v1,"smollm2:135m, deepseek-r1:1.5b"
+http://16.50.237.7:7777/v1,"deepseek-r1:latest, codellama:13b, llama2:latest, llama3:latest"
+http://18.163.3.251:18081/v1,openchat:7b
+http://43.198.248.18:28017/v1,llama3:latest
+http://66.23.234.86:11434/v1,"smollm2:135m, llama3.2:latest"
+http://135.125.200.63:11434/v1,"smollm2:135m, gemma3:latest, llama3.2:latest"
+http://43.198.248.18:8888/v1,"codellama:13b, llama2:latest"
+http://18.163.3.251:4567/v1,deepseek-r1:latest
