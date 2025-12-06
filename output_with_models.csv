@@ -3003,3 +3003,4 @@ http://66.23.234.86:11434/v1,"smollm2:135m, llama3.2:latest"
 http://135.125.200.63:11434/v1,"smollm2:135m, gemma3:latest, llama3.2:latest"
 http://43.198.248.18:8888/v1,"codellama:13b, llama2:latest"
 http://18.163.3.251:4567/v1,deepseek-r1:latest
+http://210.18.134.163:11434/v1,"smollm2:135m, llama3.1:70b, qwen2.5:14b, mistral-nemo:latest, qwen3:4b, mistral:7b"
