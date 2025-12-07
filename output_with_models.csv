@@ -3005,3 +3005,6 @@ http://43.198.248.18:8888/v1,"codellama:13b, llama2:latest"
 http://18.163.3.251:4567/v1,deepseek-r1:latest
 http://210.18.134.163:11434/v1,"smollm2:135m, llama3.1:70b, qwen2.5:14b, mistral-nemo:latest, qwen3:4b, mistral:7b"
 http://48.209.36.195:11434/v1,"smollm2:135m, llama3.2:latest, all-minilm:latest, llama3-backup:latest, llama3.1:8b"
+http://125.122.154.101:11434/v1,"smollm2:135m, deepseek-r1:14b"
+http://13.212.81.49/v1,deepseek-r1:latest
+http://116.148.101.251:11434/v1,"smollm2:135m, qwen2.5:7b, qwen3:32b, llava:latest, linux6200/bge-reranker-v2-m3:latest, qwq:latest, huihui_ai/deepseek-r1-abliterated:32b, bge-m3:latest, qwen2.5:32b, huihui_ai/deepseek-r1-abliterated:70b, deepseek-r1:671b, deepseek-r1:1.5b, minicpm-v:latest"
