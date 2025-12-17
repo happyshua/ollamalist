@@ -2791,3 +2791,6 @@ http://117.72.68.58:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1
 http://112.28.49.238:11434/v1,"smollm2:135m, deepseek-r1:671b"
 http://18.163.3.251:4567/v1,"openchat:7b, codellama:13b, qwen2.5:1.5b"
 http://18.163.3.251:18081/v1,"llama2:latest, llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b"
+http://54.176.20.215:9080/v1,"codellama:13b, llama2:latest"
+http://3.122.235.189:8500/v1,"openchat:7b, codellama:13b, llama3:latest, llama2:latest"
+http://204.236.161.165:5001/v1,"openchat:7b, llama2:latest, codellama:13b"
