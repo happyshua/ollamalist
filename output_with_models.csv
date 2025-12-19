@@ -2798,3 +2798,5 @@ http://13.212.81.49/v1,"llama3:latest, codellama:13b"
 http://43.198.248.18:28017/v1,llama3:latest
 http://43.198.248.18:8888/v1,"deepseek-r1:latest, llama2:latest, codellama:13b, qwen2.5:1.5b"
 http://turn.in-tend.co.uk/v1,"llama3.2:3b-instruct-q5_K_M, deepseek-r1:14b-qwen-distill-q4_K_M, deepseek-r1:7b"
+http://195.72.104.151:11434/v1,"smollm2:135m, llama3-chatqa:latest, mistral:latest, openhermes:latest, llama3:latest"
+http://47.122.122.64:11434/v1,"smollm2:135m, qwen2.5vl:latest"
