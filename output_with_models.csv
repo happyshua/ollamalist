@@ -2663,3 +2663,4 @@ http://54.176.20.215:9080/v1,"openchat:7b, qwen2.5:1.5b, llama2:latest, codellam
 http://133.125.102.164:11434/v1,"nemotron-3-nano:30b-a3b-q8_0, smollm2:135m, qwen2.5:7b-instruct-q5_K_M, all-minilm:latest, llama3.3:70b-instruct-q4_K_M, embeddinggemma:latest, llama3.3:70b-instruct-q5_K_M, llama3.3:70b, gpt-oss:120b, gpt-oss:20b, llama4:maverick, gemma3n:e4b-it-fp16, gemma3:27b-it-fp16, llama3.2:latest"
 http://101.53.149.101:11434/v1,"deepseek-r1:latest, mxbai-embed-large:latest, llama3.2:latest, llama3:latest"
 http://43.198.248.18:28017/v1,"codellama:13b, llama2:latest"
+http://37.60.235.106:11434/v1,"smollm2:135m, huihui_ai/qwen3-abliterated:0.6b, qwen:0.5b, qwen3:0.6b, qwen2.5:1.5b"
