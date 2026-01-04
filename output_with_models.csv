@@ -2528,3 +2528,4 @@ http://117.72.37.113:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, nomic-
 http://210.16.160.122:11434/v1,"smollm2:135m, deepseek-r1:latest"
 http://13.202.124.184:11434/v1,"llama3.2:latest, llama3.2:3b"
 http://117.72.193.84:11434/v1,"smollm2:135m, deepseek-r1:1.5b, nomic-embed-text:latest"
+http://101.200.199.96:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M"
