@@ -2491,3 +2491,4 @@ http://114.254.126.71:11434/v1,"smollm2:135m, mario:latest, llama3-backup:latest
 http://27.191.238.29:11434/v1,"deepseek-r1:70b, bge-m3:latest"
 http://47.108.219.35:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, test:latest"
 http://8.152.196.73:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, llama3.2:latest, deepseek-r1:1.5b"
+http://115.120.242.123:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
