@@ -2402,3 +2402,6 @@ http://47.108.219.35:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, test:l
 http://8.152.196.73:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, llama3.2:latest, deepseek-r1:1.5b"
 http://115.120.242.123:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
 http://1.95.221.143:11434/v1,"smollm2:135m, bge-m3:latest"
+http://8.138.198.169:11434/v1,"smollm2:135m, dengcao/Qwen3-Reranker-8B:Q5_K_M"
+http://35.92.46.218:8088/v1,"llama2:latest, deepseek-r1:latest, openchat:7b, qwen2.5:1.5b"
+http://54.148.157.91:8088/v1,"qwen2.5:1.5b, openchat:7b, codellama:13b, llama3:latest"
