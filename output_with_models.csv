@@ -2333,3 +2333,8 @@ http://8.152.196.73:11434/v1,"smollm2:135m, llama3-backup:latest, mario:latest, 
 http://115.120.242.123:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
 http://1.95.221.143:11434/v1,"smollm2:135m, bge-m3:latest"
 http://175.24.186.219:8089/v1,"qwen3:30b, gemini-3-pro-preview:latest, wzkj-v0.1-Q4:latest"
+http://172.105.122.66:2010/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://172.105.122.66:7547/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://35.92.46.218:8088/v1,"openchat:7b, llama3:latest, qwen2.5:1.5b"
+http://172.105.122.66/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://172.105.122.66:5001/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
