@@ -2263,3 +2263,5 @@ http://13.40.176.197:11434/v1,"lukashabtoch/plutotext-r3-emotional:latest, gemma
 http://124.223.75.32:11434/v1,"gemma3:270m, smollm2:135m, llama3.2:3b-instruct-q5_K_M, tinyllama:1.1b, deepseek-r1:1.5b"
 http://135.181.137.97:11434/v1,"gemma3:latest, hermes3:8b"
 http://1.11.70.53:11434/v1,"lukashabtoch/plutotext-r3-emotional:latest, gemma3:270m, bge-m3:latest, deepseek-coder-v2:16b, qwen2.5-coder:14b, gemma3:12b, deepseek-r1:latest"
+http://124.70.5.191:11434/v1,"smollm2:135m, mattw/pygmalion:latest, deepseek-r1:1.5b"
+http://223.76.111.23:8080/v1,"smollm2:135m, gemma3:27b-it-qat"
