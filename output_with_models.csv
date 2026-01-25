@@ -2173,3 +2173,6 @@ https://aix2.mediaminder.ai/v1,"huihui_ai/devstral-abliterated:latest, tom_himan
 http://198.96.89.21:11434/v1,"smollm2:135m, qwen2:1.5b, gemma3:1b, llama3.1:8b"
 http://98.62.10.200:11434/v1,"phi-3-mini-gguf:latest, qwen2.5:7b, mistral:7b, llama3:8b"
 http://45.32.29.197:8888/v1,"llama3:latest, nomic-embed-text:latest, paraphrase-multilingual:278m-mpnet-base-v2-fp16, jeffh/intfloat-e5-base-v2:f32, codellama:34b, gemma3:27b, qwen3-coder:30b"
+http://15.168.11.162:3000/v1,"openchat:7b, llama2:latest, llama3:latest, codellama:13b"
+http://54.238.173.54:8888/v1,"deepseek-r1:latest, llama3:latest, codellama:13b, openchat:7b"
+http://15.168.11.162:9100/v1,"openchat:7b, llama2:latest, llama3:latest, codellama:13b"
