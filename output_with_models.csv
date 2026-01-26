@@ -2180,3 +2180,4 @@ http://123.253.140.243:11434/v1,"smollm2:135m, qwen3-embedding:0.6b"
 http://120.126.23.26:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:latest, mario:latest, llama3.2:3b-instruct-q5_K_M, gemma3:27b-it-qat"
 http://140.119.164.249:11434/v1,granite4:3b
 http://116.50.45.180:8080/v1,"qwen3-vl:8b, qwen3-src-lite-16k:latest, qwen3:14b, qwen-sre-16k:latest, qwen-coder-sre-16k:latest, qwen3-vl:30b, qwen3:30b, qwen3:8b, qwen3-coder:30b, quentinz/bge-large-zh-v1.5:Q8_0, llama3.1:8b, qwen2.5:14b, mxbai-embed-large:latest"
+http://54.168.203.13:8008/v1,"deepseek-r1:latest, codellama:13b"
