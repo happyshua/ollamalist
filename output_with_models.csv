@@ -2128,3 +2128,4 @@ http://78.12.249.123:16000/v1,"llama2:latest, llama3:latest, deepseek-r1:latest,
 http://15.168.11.162:3000/v1,"codellama:13b, llama3:latest, llama2:latest, qwen2.5:1.5b"
 http://54.168.203.13:8008/v1,"qwen2.5:1.5b, llama3:latest"
 http://15.168.11.162:9100/v1,"codellama:13b, llama3:latest, llama2:latest, qwen2.5:1.5b"
+http://157.90.179.180:11434/v1,"smollm2:135m, gemma3:latest"
