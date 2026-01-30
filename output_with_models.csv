@@ -2134,3 +2134,4 @@ http://14.56.105.253:11434/v1,"smollm2:135m, mistral:instruct, codellama:latest,
 http://14.33.164.45:11434/v1,"gemma3:latest, huggingface.co/sweepai/sweep-next-edit-1.5B:latest, qwen3-vl:8b, nomic-embed-text:latest"
 http://202.30.18.42:11434/v1,"llama3.1:8b, llava:latest, llava:7b, llama3.1:70b"
 http://14.37.134.161:11434/v1,"lukashabtoch/plutotext-r3-emotional:latest, gemma3:270m, smollm2:135m, gpt-oss:20b, exaone-deep:32b, exaone-deep:latest, nomic-embed-text:latest, gemma3:27b, deepseek-r1:8b, exaone3.5:32b, exaone3.5:7.8b, llama3.2-vision:latest, deepseek-r1:14b, llama3.1:latest"
+http://36.33.41.254:11434/v1,"qwen3:14b, smollm2:135m, qwen2.5:14b"
