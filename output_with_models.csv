@@ -2087,3 +2087,4 @@ http://198.7.121.136:11434/v1,"smollm2:135m, gemini-3-pro-preview:latest, minima
 http://37.187.25.131/v1,"hf.co/mradermacher/Qwen2.5-3B-Instruct-Uncensored-Test-i1-GGUF:Q4_K_M, gemma3:latest, gemini-3-pro-preview:latest, gpt-oss:20b, hf.co/LiquidAI/LFM2-VL-1.6B-GGUF:Q4_0, gemma3n:e4b, llama3:latest, smallthinker:latest, gemma3:270m, llama3:8b, tinyllama:latest"
 http://129.146.99.81:11434/v1,"smollm2:135m, paraphrase-multilingual:latest"
 http://66.212.58.81:11434/v1,"smollm2:135m, deepseek-v3.2:cloud, qwen2.5:3b, qwen2.5:7b, qwen2.5:32b, qwen:7b"
+http://43.153.68.54:11434/v1,"smollm2:135m, all-minilm:latest, deepseek-r1:1.5b"
