@@ -2084,3 +2084,6 @@ http://15.168.11.162:9100/v1,"deepseek-r1:latest, qwen2.5:1.5b, llama3:latest, o
 http://78.12.249.123:16000/v1,"llama2:latest, llama3:latest, deepseek-r1:latest, qwen2.5:1.5b"
 http://34.227.111.202:11434/v1,"hf.co/mradermacher/moirai-agent-GGUF:latest, lukashabtoch/plutotext-r3-emotional:latest, gemma3:270m, clair:latest, mistral:latest"
 http://198.7.121.136:11434/v1,"smollm2:135m, gemini-3-pro-preview:latest, minimax-m2.1:cloud, glm-4.7:cloud, gemini-3-flash-preview:latest, deepseek-v3.2:cloud, cogito-2.1:671b-cloud, qwen3-coder:480b-cloud, gpt-oss:120b-cloud, minimax-m2:cloud"
+http://37.187.25.131/v1,"hf.co/mradermacher/Qwen2.5-3B-Instruct-Uncensored-Test-i1-GGUF:Q4_K_M, gemma3:latest, gemini-3-pro-preview:latest, gpt-oss:20b, hf.co/LiquidAI/LFM2-VL-1.6B-GGUF:Q4_0, gemma3n:e4b, llama3:latest, smallthinker:latest, gemma3:270m, llama3:8b, tinyllama:latest"
+http://129.146.99.81:11434/v1,"smollm2:135m, paraphrase-multilingual:latest"
+http://66.212.58.81:11434/v1,"smollm2:135m, deepseek-v3.2:cloud, qwen2.5:3b, qwen2.5:7b, qwen2.5:32b, qwen:7b"
