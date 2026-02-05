@@ -2028,3 +2028,7 @@ http://80.225.198.85:11434/v1,"smollm2:135m, llama3.1:8b"
 http://15.168.11.162:9100/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, llama3:latest, llama2:latest"
 http://78.12.249.123:16000/v1,qwen2.5:1.5b
 https://aimind-ollama.proofeasy.io/v1,"gemma3:12b, gemma3:latest"
+http://85.159.213.195:9089/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://15.168.189.47:8098/v1,llama2:latest
+http://85.159.213.166:9089/v1,"deepseek-r1:latest, llama3:8b-text-q4_K_S, qwen:latest, llama3:latest, mistral:latest"
+http://16.52.155.235:4567/v1,llama2:latest
