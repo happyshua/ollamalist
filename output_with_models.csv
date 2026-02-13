@@ -1910,3 +1910,6 @@ http://119.4.249.25:11434/v1,"smollm2:135m, gpt-oss:120b, deepseek-v3.1:671b-clo
 http://1.95.222.152:11434/v1,"smollm2:135m, lukashabtoch/plutotext-r3-emotional:latest, gemini-3-pro-preview:latest, xyrg_.h.d.defvul.com/rogue/sad1:latest, c4yj7.h.d.defvul.com/rogue/sad1:latest, mattw/pygmalion:latest, llama3.2:latest, mario:latest, bge-m3:latest"
 http://189.91.72.122:11434/v1,"smollm2:135m, snap/furia:latest, snap/furia-pt:latest, openchat:7b-v3.5-1210, codellama:13b, deepseek-coder:latest, gemma3:12b, Gemma:latest, llama3:latest, deepseek-r1:7b, mistral:latest, phi4:latest, nomic-embed-text:latest, llama3.2:latest, deepseek-r1:32b"
 http://47.236.250.168:11434/v1,"smollm2:135m, gemma3:270m, deepseek-r1:latest, qwen3:0.6b, nomic-embed-text:latest"
+http://15.168.11.162:9100/v1,"deepseek-r1:latest, openchat:7b"
+http://78.12.249.123:16000/v1,"llama3:latest, qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, llama2:latest"
+http://77.235.41.81:11434/v1,"smollm2:135m, cogito:14b, nous-hermes2:10.7b"
