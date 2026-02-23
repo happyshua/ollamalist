@@ -1822,3 +1822,5 @@ http://47.236.250.168:11434/v1,"smollm2:135m, gemma3:270m, deepseek-r1:latest, q
 http://117.72.172.11:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r1:1.5b"
 http://78.12.249.123:16000/v1,codellama:13b
 http://124.220.235.150:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepseek-r1:1.5b"
+http://85.195.93.241/v1,"llama3.2:3b, llama3.2:latest, llama4:latest"
+http://210.242.50.121:8080/v1,"llama3.2:3b, llama3.2:latest, gemini-3-pro-preview:latest, qllama/multilingual-e5-small:f16, gpt-oss:20b"
