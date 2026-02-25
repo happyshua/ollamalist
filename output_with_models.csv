@@ -1767,3 +1767,5 @@ http://117.72.172.11:11434/v1,"smollm2:135m, nomic-embed-text:latest, deepseek-r
 http://85.195.93.241/v1,"llama3.2:3b, llama3.2:latest, llama4:latest"
 http://210.242.50.121:8080/v1,"llama3.2:3b, llama3.2:latest, gemini-3-pro-preview:latest, qllama/multilingual-e5-small:f16, gpt-oss:20b"
 http://185.246.84.221:11434/v1,"hf.co/Edge-Quant/Nanbeige4.1-3B-Q4_K_M-GGUF:Q4_K_M, all-minilm:22m, nous-hermes2-mixtral:latest, smollm2:135m"
+http://78.12.249.123:16000/v1,codellama:13b
+http://8.141.4.99:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M"
