@@ -1740,3 +1740,4 @@ http://8.141.4.99:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M"
 http://5.9.79.151:11434/v1,"llama3.2:3b, llama3.2:latest, gpt-oss:120b, deepseek-v3.1:671b-cloud, smollm2:135m, gemma3:latest, qwen3:32b, qwen3:14b, qwen3:4b, qwen3:1.7b, mistral-small3.1:latest, dolphin-llama3:8b"
 http://78.12.249.123:16000/v1,qwen2.5:1.5b
 http://198.244.202.202:11434/v1,"smollm2:135m, devstral-2:123b-cloud, nomic-embed-text:latest, qwen3-coder:latest"
+http://121.89.207.197:8000/v1,"llama3.2:3b, gemini-3-pro-preview:latest, deepseek-r1:7b, deepseek-r1:14b, bge-m3:latest"
