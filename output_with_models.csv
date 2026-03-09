@@ -1661,3 +1661,4 @@ http://202.239.224.32/v1,KanjiQuest:latest
 http://api.mundi.jp/v1,KanjiQuest:latest
 http://47.97.127.100:8082/v1,deepseek-r1:1.5b
 http://121.196.227.21:11434/v1,"tinyllama:latest, smollm2:135m, deepseek-r1:14b, llama3.1:8b, deepseek-r1:1.5b, deepseek-r1:70b, deepseek-r1:32b, bge-m3:latest"
+http://8.137.115.100:11434/v1,"smollm2:135m, qwen3:latest"
