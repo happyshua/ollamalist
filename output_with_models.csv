@@ -1456,3 +1456,4 @@ http://27.191.238.29:11434/v1,"llama3.2:3b, qwen3.5:27b, qwen3.5:0.8b, bge-m3:la
 https://ai.tfcconnection.org/v1,"qwen3.5:4b-q8_0, qwen3.5:4b, granite4:tiny-h, granite4:latest, gemma3n:latest, functiongemma:latest, granite4:7b-a1b-h, qwen3-vl:latest, qwen3-embedding:latest, qwen3.5:latest, deepseek-coder:6.7b, gemma3:4b-it-q8_0, deepseek-r1:latest, qwen3:latest"
 http://3.64.124.222:11434/v1,"llama3.2:3b, aya:8b, qwen2.5:7b, phi:latest, llama3.2:1b, llama3.2:latest, llama3.1:8b"
 http://37.187.62.67:11434/v1,"llama3.2:3b, mistral:latest"
+https://ai.yubasync.com/v1,"llama3.2:3b, phi4:latest, mistral:latest, deepseek-r1:latest, phi:latest, qwen2.5-coder:latest"
