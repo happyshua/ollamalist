@@ -1293,3 +1293,6 @@ http://3.64.124.222:11434/v1,"llama3.2:3b, aya:8b, qwen2.5:7b, phi:latest, llama
 https://ai.yubasync.com/v1,"llama3.2:3b, phi4:latest, mistral:latest, deepseek-r1:latest, phi:latest, qwen2.5-coder:latest"
 http://116.148.216.132:11434/v1,"glm-4.7-flash:latest, llama3.2:3b, x/z-image-turbo:fp8, gemma3:27b, deepseek-r1:14b, qwen3.5:9b"
 http://52.193.39.32:11434/v1,"openchat:7b, codellama:13b, llama3:latest, qwen2.5:1.5b"
+http://52.59.51.29:50000/v1,"llama2:latest, deepseek-r1:latest"
+http://3.15.205.122:50000/v1,"codellama:13b, llama2:latest"
+http://13.48.13.125:8500/v1,llama3:latest
