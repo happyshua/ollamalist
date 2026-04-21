@@ -1249,3 +1249,7 @@ https://ai.tfcconnection.org/v1,"qwen3.5:4b-q8_0, qwen3.5:4b, granite4:tiny-h, g
 http://3.64.124.222:11434/v1,"llama3.2:3b, aya:8b, qwen2.5:7b, phi:latest, llama3.2:1b, llama3.2:latest, llama3.1:8b"
 https://ai.yubasync.com/v1,"llama3.2:3b, phi4:latest, mistral:latest, deepseek-r1:latest, phi:latest, qwen2.5-coder:latest"
 http://116.148.216.132:11434/v1,"glm-4.7-flash:latest, llama3.2:3b, x/z-image-turbo:fp8, gemma3:27b, deepseek-r1:14b, qwen3.5:9b"
+http://52.193.39.32:11434/v1,"deepseek-r1:latest, llama2:latest, openchat:7b, qwen2.5:1.5b"
+http://13.48.13.125:8500/v1,"qwen2.5:1.5b, deepseek-r1:latest, codellama:13b, llama3:latest, llama2:latest"
+http://3.15.205.122:50000/v1,"llama3:latest, codellama:13b, qwen2.5:1.5b, openchat:7b"
+http://52.59.51.29:50000/v1,"qwen2.5:1.5b, openchat:7b"
