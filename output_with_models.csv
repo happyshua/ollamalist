@@ -917,3 +917,4 @@ https://ai.yubasync.com/v1,"llama3.2:3b, phi4:latest, mistral:latest, deepseek-r
 http://178.104.43.131:11434/v1,qwen2.5:3b
 http://69.156.163.207:11000/v1,"phi4-mini:3.8b-q8_0, phi4-mini:latest"
 http://120.197.216.232:11434//v1,"qwen2.5:3b, gemma4:e4b, qwen3.6:27b-q4_K_M, qwen2.5:32b-instruct-q4_K_M, qwen3.5:35b-a3b, qwen3.5:9b, gemma4:26b, gemma4:31b, deepseek-ocr:latest, nomic-embed-text:latest"
+http://47.129.218.47:4842/v1,"qwen2.5:1.5b, codellama:13b"
