@@ -845,3 +845,5 @@ http://27.191.238.29:11434/v1,"llama3.2:3b, qwen3.5:27b, qwen3.5:0.8b, bge-m3:la
 http://3.64.124.222:11434/v1,"llama3.2:3b, aya:8b, qwen2.5:7b, phi:latest, llama3.2:1b, llama3.2:latest, llama3.1:8b"
 https://ai.yubasync.com/v1,"llama3.2:3b, phi4:latest, mistral:latest, deepseek-r1:latest, phi:latest, qwen2.5-coder:latest"
 http://178.104.43.131:11434/v1,qwen2.5:3b
+http://110.141.41.110:11434/v1,"AdamAgent:latest, gemma3:latest, deepseek-v4-pro:cloud, llama3.2:1b"
+http://154.26.154.65:11434/v1,llama3.2:3b
