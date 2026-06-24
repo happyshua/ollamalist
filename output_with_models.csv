@@ -814,3 +814,4 @@ http://3.64.124.222:11434/v1,"llama3.2:3b, aya:8b, qwen2.5:7b, phi:latest, llama
 https://ai.yubasync.com/v1,"llama3.2:3b, phi4:latest, mistral:latest, deepseek-r1:latest, phi:latest, qwen2.5-coder:latest"
 http://178.104.43.131:11434/v1,qwen2.5:3b
 http://154.26.154.65:11434/v1,llama3.2:3b
+http://180.150.6.85:11434/v1,"huihui_ai/gemma-4-abliterated:12b, huihui_ai/gemma-4-abliterated:26b, huihui_ai/gpt-oss-abliterated:latest, nomic-embed-text:latest, huihui_ai/qwen3.5-abliterated:27b, nomic-embed-text-v2-moe:latest, qwen3-embedding:0.6b, gemma4:26b, huihui_ai/qwen3.6-abliterated:27b, huihui_ai/glm-4.7-flash-abliterated:latest, glm-5.2:cloud, x/flux2-klein:latest, minimax-m3:cloud, gemma4:latest, qwen3.6:latest, gemma3:4b, llama3.2:1b, kimi-k2.6:cloud, deepseek-v4-flash:cloud, kimi-k2.5:cloud, qwen3-coder-next:cloud, qwen3.5:cloud, deepseek-v4-pro:cloud"
