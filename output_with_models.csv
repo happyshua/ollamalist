@@ -134,7 +134,6 @@ http://59.120.129.126:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3.2:l
 http://39.101.68.23:11434/v1,"smollm2:135m, mario:latest, deepseek-r1:1.5b"
 http://82.157.64.51:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, deepseek-r1:1.5b, bge-m3:latest"
 http://122.227.28.150:11434/v1,"smollm2:135m, deepseek-r1:8b"
-http://108.181.226.247:11434/v1,"smollm2:135m, llama3.1:latest, gpt-oss:20b, nomic-embed-text:latest, qwen2.5-coder:latest"
 http://159.54.153.166:11434/v1,"smollm2:135m, deepseek-r1:1.5b, gemma3:1b, gemma3:12b, deepseek-r1:8b, gemma3:4b"
 http://78.46.88.135:8080/v1,"qwen2.5:0.5b-instruct-fp16, qwen2.5:latest, qwen2.5:32b, gemma3:27b-it-q4_K_M, nomic-embed-text:latest"
 http://138.199.212.240:11434/v1,"gemma3:latest, smollm2:135m, llama3.1:8b-instruct-q4_K_M, deepseek-r1:8b, llama3.1:8b, gemma3:4b"
@@ -145,7 +144,6 @@ http://185.23.68.156:11434/v1,"smollm2:135m, mattw/pygmalion:latest, mario:lates
 http://217.160.217.66:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, qwen2.5:1.5b, qwen2.5:0.5b, llama2:latest, llama3.1:8b"
 http://68.233.96.3:11434/v1,"smollm2:135m, llama3.1:8b"
 http://91.98.135.215:11434/v1,"llama-guard3:1b, gemma3:latest, gemma3:1b, gemma3:270m"
-http://203.83.233.16:7868/v1,qwen2.5:14b
 http://147.28.143.199:11434/v1,"smollm2:135m, llama3:8b"
 http://45.91.133.62:11434/v1,"smollm2:135m, llama3.2:3b-instruct-q5_K_M, llama3.1:8b"
 http://185.151.31.231:11434/v1,"smollm2:135m, llama3:instruct, openchat:latest, llama3:latest, nomic-embed-text:latest"
@@ -242,7 +240,6 @@ http://43.229.133.31:11434/v1,"smollm2:135m, llama3.1:8b"
 http://183.214.140.69:11434/v1,"smollm2:135m, mattw/pygmalion:latest, llama3-backup:latest, llama3.2:3b-instruct-q5_K_M, llama3.2:latest, deepseek-r1:14b, minicpm-v:latest"
 http://188.245.182.220:11434/v1,phi3:latest
 http://47.97.21.61:11434/v1,deepseek-r1:1.5b
-http://51.210.217.93:11434/v1,"gemma2:2b, llama3.2:1b, gemma3:latest, llava-llama3:8b, llava:7b, all-minilm:l6-v2, nomic-embed-text:latest, minicpm-v:8b, bakllava:latest, llava-phi3:latest, phi3:3.8b, glm4:9b, llava:13b-v1.6, moondream:1.8b, codellama:7b-instruct-q4_0, codellama:7b-instruct, starcoder2:7b-q4_0, llama3.2:3b, qwen2.5:3b, qwen2.5:7b, tinyllama:latest"
 http://49.51.244.237:11434/v1,"smollm2:135m, llama3.1:8b-instruct-q4_K_M, llama3.1:8b, gemma3:1b, gemma3:4b"
 http://85.215.62.222:11434/v1,"smollm2:135m, llama3.1:8b, llama3.1:8b-instruct-q4_K_M"
 http://144.76.221.151:11434/v1,"gemma3:latest, smollm2:135m, llama3.2:latest, mario:latest, llama3-backup:latest, deepseek-r1:1.5b, llama3.1:8b-instruct-q4_K_M, gemma3:12b, qwen2.5:14b, deepseek-r1:14b"
